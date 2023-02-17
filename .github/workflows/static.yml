@@ -42,7 +42,7 @@ jobs:
       - uses: cypress-io/github-action@v2
         with:
           build: yarn build
-          start: yarn serve
+          # start: yarn serve
         env:
           PUBLIC_URL: /Video-Game-Cover-Wall
       - name: Upload artifact
