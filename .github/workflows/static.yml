@@ -42,11 +42,11 @@ jobs:
       # - uses: cypress-io/github-action@v2
       #   with:
       #     build: yarn build
-          # start: yarn serve
+      # start: yarn serve
       - name: build app
         run: yarn build
         env:
-          PUBLIC_URL: /Video-Game-Cover-Wall
+          PUBLIC_URL: '/Video-Game-Cover-Wall'
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
