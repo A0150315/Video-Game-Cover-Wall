@@ -1,8 +1,7 @@
-name: CI
+name: Deploy static content to Pages
 on:
   push:
-    branches:
-      - main
+    branches: ['main']
   pull_request:
     branches:
       - main
@@ -10,7 +9,8 @@ jobs:
   all-cli-check:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout
+        uses: actions/checkout@v3
       - uses: actions/setup-node@v2-beta
         with:
           node-version: '14.16'
@@ -22,9 +22,13 @@ jobs:
       - run: yarn check-format
       - run: yarn check-types
   cypress-run:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout
+        uses: actions/checkout@v3
       - uses: actions/setup-node@v2-beta
         with:
           node-version: '14.16'
@@ -33,3 +37,10 @@ jobs:
         with:
           build: yarn build
           start: yarn serve
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v1
+        with:
+          path: 'build'
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v1
