@@ -5,6 +5,12 @@ on:
   pull_request:
     branches:
       - main
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
 jobs:
   all-cli-check:
     runs-on: ubuntu-latest
