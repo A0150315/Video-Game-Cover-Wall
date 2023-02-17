@@ -43,6 +43,8 @@ jobs:
       #   with:
       #     build: yarn build
       # start: yarn serve
+      - name: install dependencies
+        run: yarn install
       - name: build app
         run: yarn build
         env:
