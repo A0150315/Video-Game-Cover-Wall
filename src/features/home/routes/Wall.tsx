@@ -1,8 +1,7 @@
-import axios from 'axios';
 import { useEffect, useMemo, useRef, useState } from 'react';
 
-import { useRecentGamesPast } from '../api/getRecentGamesPast';
-import { GameListData, GameListDataResult } from '../types';
+import { getRecentGamesPast, useRecentGamesPast } from '../api/getRecentGamesPast';
+import { GameListDataResult } from '../types';
 
 const COVER_IMAGE_RATIO = 1920 / 1080;
 const COLUMN_NUM = 6;
@@ -18,7 +17,7 @@ export const Wall = () => {
     innerWidth: window.innerWidth,
   });
 
-  const listQuery = useRecentGamesPast({ page: curPage.current });
+  const listQuery = useRecentGamesPast({ page: 1 });
 
   const [displayingData, setDisplayingData] = useState(listQuery);
 
@@ -54,17 +53,9 @@ export const Wall = () => {
   };
 
   const onNext = async () => {
-    isMount.current = true;
     curPage.current += 1;
-    const response = await axios.get<GameListData>(`https://rawg.io/api/games/lists/popular`, {
-      params: {
-        discover: true,
-        page_size: 30,
-        page: curPage.current,
-        key: 'c542e67aec3a4340908f9de9e86038af',
-      },
-    });
-    popingList.current = response.data.results || [];
+    const response = await getRecentGamesPast({ page: curPage.current });
+    popingList.current = response.results || [];
     setTimeout(() => {
       popingListChecker();
     }, 10000);
@@ -86,6 +77,7 @@ export const Wall = () => {
   useEffect(() => {
     if (!listQuery.isLoading) {
       if (!isMount.current) {
+        isMount.current = true;
         onNext();
       }
       if (!displayingData.data) {
@@ -124,6 +116,7 @@ export const Wall = () => {
             style={{
               height: imageSize.height,
               width: imageSize.width,
+              display: 'inline-block',
             }}
           />
         ))}
