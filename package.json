@@ -9,7 +9,8 @@
     "preview": "vite preview",
     "test": "vitest run",
     "test:watch": "vitest",
-    "fetch-games": "node --env-file=.env --import tsx scripts/fetch-games.ts"
+    "fetch-games": "npx tsx scripts/fetch-games.ts",
+    "fetch-games:local": "node --env-file=.env --import tsx scripts/fetch-games.ts"
   },
   "dependencies": {
     "motion": "^12.0.0",
