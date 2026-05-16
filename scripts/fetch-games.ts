@@ -46,21 +46,21 @@ const OUTPUT_PATH = resolve(import.meta.dirname, '../public/data/games.json');
 
 const CLASSIC_QUERY = `
   fields name,first_release_date,total_rating,total_rating_count,genres.name,platforms.name,cover.url;
-  where total_rating > 85 & total_rating_count > 200 & cover != null;
+  where total_rating > 85 & total_rating_count > 500 & cover != null;
   sort total_rating desc;
   limit 150;
 `;
 
 const RECENT_QUERY = `
   fields name,first_release_date,total_rating,total_rating_count,genres.name,platforms.name,cover.url;
-  where first_release_date > 1577836800 & total_rating > 75 & cover != null;
+  where first_release_date > 1577836800 & total_rating > 75 & total_rating_count > 50 & cover != null;
   sort total_rating desc;
   limit 100;
 `;
 
 const ANTICIPATED_QUERY = `
   fields name,first_release_date,total_rating,total_rating_count,genres.name,platforms.name,cover.url;
-  where hypes > 40 & cover != null & total_rating = null;
+  where hypes > 50 & cover != null & total_rating = null;
   sort hypes desc;
   limit 40;
 `;
