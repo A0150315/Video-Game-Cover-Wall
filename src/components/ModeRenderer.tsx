@@ -25,7 +25,7 @@ export default function ModeRenderer({ mode, cinematicGame, galleryGames, spotli
         exit={{ opacity: 0 }}
         transition={{ duration: 0.5 }}
       >
-        {mode === 'cinematic' && <CinematicMode game={cinematicGame} onSkip={onSkip} />}
+        {mode === 'cinematic' && <CinematicMode key={cinematicGame?.id ?? 'empty'} game={cinematicGame} onSkip={onSkip} />}
         {mode === 'gallery' && <GalleryMode games={galleryGames} phaseKey={phaseKey} />}
         {mode === 'spotlight' && <SpotlightMode data={spotlightData} phaseKey={phaseKey} />}
       </motion.div>

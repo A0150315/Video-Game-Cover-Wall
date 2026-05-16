@@ -13,6 +13,48 @@ const itemVariants = {
   exit: { scale: 0.85, opacity: 0 },
 };
 
+function GalleryItem({ game, i, heroIndex }: { game: GameData; i: number; heroIndex: number | null }) {
+  const [failed, setFailed] = useState(false);
+
+  if (failed) return null;
+
+  return (
+    <motion.div
+      key={`${game.id}-${i}`}
+      className="relative overflow-hidden rounded-lg"
+      style={{
+        gridColumn: heroIndex === i ? 'span 2' : undefined,
+        gridRow: heroIndex === i ? 'span 2' : undefined,
+        zIndex: heroIndex === i ? 10 : 1,
+      }}
+      variants={itemVariants}
+      transition={{
+        duration: 0.5,
+        ease: [0.22, 0.61, 0.36, 1],
+        layout: { type: 'spring', stiffness: 200, damping: 24 },
+      }}
+      initial={{ scale: 0.8, opacity: 0 }}
+      layout
+    >
+      <GameImage
+        primaryUrls={game.posters}
+        fallbackUrls={game.heroes}
+        alt={game.name}
+        className="w-full h-full"
+        style={{ objectFit: 'cover' }}
+        loading="lazy"
+        onAllFailed={() => setFailed(true)}
+      />
+      <div
+        className="absolute bottom-0 left-0 right-0 p-2"
+        style={{ background: 'linear-gradient(transparent, rgba(0,0,0,0.75))' }}
+      >
+        <p className="text-white text-xs font-medium truncate">{game.name}</p>
+      </div>
+    </motion.div>
+  );
+}
+
 interface Props {
   games: GameData[];
   phaseKey: number;
@@ -44,38 +86,7 @@ export default function GalleryMode({ games, phaseKey }: Props) {
           exit="exit"
         >
           {games.map((game, i) => (
-            <motion.div
-              key={`${game.id}-${i}`}
-              className="relative overflow-hidden rounded-lg"
-              style={{
-                gridColumn: heroIndex === i ? 'span 2' : undefined,
-                gridRow: heroIndex === i ? 'span 2' : undefined,
-                zIndex: heroIndex === i ? 10 : 1,
-              }}
-              variants={itemVariants}
-              transition={{
-                duration: 0.5,
-                ease: [0.22, 0.61, 0.36, 1],
-                layout: { type: 'spring', stiffness: 200, damping: 24 },
-              }}
-              initial={{ scale: 0.8, opacity: 0 }}
-              layout
-            >
-              <GameImage
-                primaryUrls={game.posters}
-                fallbackUrls={game.heroes}
-                alt={game.name}
-                className="w-full h-full"
-                style={{ objectFit: 'cover' }}
-                loading="lazy"
-              />
-              <div
-                className="absolute bottom-0 left-0 right-0 p-2"
-                style={{ background: 'linear-gradient(transparent, rgba(0,0,0,0.75))' }}
-              >
-                <p className="text-white text-xs font-medium truncate">{game.name}</p>
-              </div>
-            </motion.div>
+            <GalleryItem key={`${game.id}-${i}`} game={game} i={i} heroIndex={heroIndex} />
           ))}
         </motion.div>
       </AnimatePresence>

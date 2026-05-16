@@ -9,39 +9,33 @@ interface Props {
   onSkip?: () => void;
 }
 
+function shuffle(arr: string[]) {
+  const a = [...arr];
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+
 export default function CinematicMode({ game, onSkip }: Props) {
-  const [visible, setVisible] = useState(false);
-  const [metaVisible, setMetaVisible] = useState(false);
   const [imgFailed, setImgFailed] = useState(0);
-  const [urlChain, setUrlChain] = useState<string[]>([]);
-  const kbClass = useMemo(() => KB_CLASSES[Math.floor(Math.random() * KB_CLASSES.length)], [game?.id]);
+  const [metaVisible, setMetaVisible] = useState(false);
   const skippedRef = useRef(false);
 
+  // Key forces remount on game change, so useMemo only runs once per mount
+  const kbClass = useMemo(() => KB_CLASSES[Math.floor(Math.random() * KB_CLASSES.length)], []);
+  const urlChain = useMemo(() => {
+    if (!game) return [];
+    return [...shuffle(game.heroes), ...shuffle(game.posters)];
+  }, []);
+
   useEffect(() => {
-    setVisible(false);
-    setMetaVisible(false);
-    setImgFailed(0);
-    skippedRef.current = false;
-
-    const shuffle = (arr: string[]) => {
-      const a = [...arr];
-      for (let i = a.length - 1; i > 0; i--) {
-        const j = Math.floor(Math.random() * (i + 1));
-        [a[i], a[j]] = [a[j], a[i]];
-      }
-      return a;
-    };
-
-    if (game) {
-      setUrlChain([...shuffle(game.heroes), ...shuffle(game.posters)]);
-    }
-
-    const t1 = setTimeout(() => { setVisible(true); setMetaVisible(true); }, 600);
+    const t1 = setTimeout(() => setMetaVisible(true), 600);
     const t2 = setTimeout(() => setMetaVisible(false), 7000);
     return () => { clearTimeout(t1); clearTimeout(t2); };
-  }, [game?.id]);
+  }, []);
 
-  // When all images fail, skip to next game
   const allExhausted = imgFailed >= urlChain.length && urlChain.length > 0;
   useEffect(() => {
     if (allExhausted && !skippedRef.current && onSkip) {
@@ -64,9 +58,9 @@ export default function CinematicMode({ game, onSkip }: Props) {
   return (
     <div className="absolute inset-0 vignette film-grain overflow-hidden">
       <AnimatePresence>
-        {visible && !allExhausted && imgSrc && (
+        {!allExhausted && imgSrc && (
           <motion.img
-            key={`${game.id}-${imgFailed}`}
+            key={imgFailed}
             src={imgSrc}
             alt={game.name}
             className={`absolute inset-0 w-full h-full ${kbClass}`}
