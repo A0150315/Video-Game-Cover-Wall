@@ -1,7 +1,11 @@
 import { render, screen } from '@testing-library/react';
-import { describe, it, expect } from 'vitest';
+import { describe, it, expect, vi } from 'vitest';
 import CinematicMode from './CinematicMode';
 import type { GameData } from '../types/game';
+
+vi.mock('../hooks/useImagePreload', () => ({
+  useImagePreload: () => ({ loaded: true, imgFailed: 0 }),
+}));
 
 const mockGame: GameData = {
   id: 1,
@@ -22,7 +26,6 @@ describe('CinematicMode', () => {
 
   it('renders game name after metadata appears', async () => {
     render(<CinematicMode game={mockGame} />);
-    // Metadata fades in after 600ms
     const name = await screen.findByText('Test Game', {}, { timeout: 2000 });
     expect(name).toBeInTheDocument();
   });

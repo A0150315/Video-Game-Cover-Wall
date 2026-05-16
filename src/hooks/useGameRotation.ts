@@ -48,6 +48,19 @@ export function useGameRotation(games: GameData[], mode: DisplayMode) {
   const next = useCallback(() => advance(1), [advance]);
   const prev = useCallback(() => advance(-1), [advance]);
 
+  // Peek at the next batch for preloading
+  const peekNextUrls = () => {
+    const nextIdx = index + count > maxIndex ? 0 : index + count;
+    const total = mode === 'gallery' ? GALLERY_BATCH : mode === 'spotlight' ? SPOTLIGHT_BATCH : 1;
+    const peeked = games.slice(nextIdx, nextIdx + total);
+    const urls: string[] = [];
+    for (const g of peeked) {
+      if (g.posters[0]) urls.push(g.posters[0]);
+      if (g.heroes[0]) urls.push(g.heroes[0]);
+    }
+    return urls;
+  };
+
   useEffect(() => {
     timerRef.current = setInterval(() => advance(1), INTERVALS[mode]);
     return () => clearInterval(timerRef.current);
@@ -55,5 +68,5 @@ export function useGameRotation(games: GameData[], mode: DisplayMode) {
 
   useEffect(() => { setIndex(getRandomIndex()); }, [mode]);
 
-  return { current, phaseKey, next, prev };
+  return { current, phaseKey, peekNextUrls, next, prev };
 }

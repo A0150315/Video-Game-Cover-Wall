@@ -9,7 +9,7 @@ export default function App() {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(false);
   const { mode, cycleMode } = useModeSchedule();
-  const { current, phaseKey, next, prev } = useGameRotation(games, mode);
+  const { current, phaseKey, peekNextUrls, next, prev } = useGameRotation(games, mode);
 
   useEffect(() => {
     fetch(`${import.meta.env.BASE_URL}data/games.json`)
@@ -95,6 +95,7 @@ export default function App() {
       galleryGames={modeProps.galleryGames}
       spotlightData={modeProps.spotlightData}
       phaseKey={phaseKey}
+      preloadUrls={peekNextUrls()}
       onSkip={next}
     />
   );

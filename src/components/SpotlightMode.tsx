@@ -1,7 +1,8 @@
-import { useState } from 'react';
+import { useState, useMemo } from 'react';
 import { motion, AnimatePresence } from 'motion/react';
 import type { GameData } from '../types/game';
 import GameImage from './GameImage';
+import { useImagePreload } from '../hooks/useImagePreload';
 
 interface SpotlightData {
   hero: GameData;
@@ -48,8 +49,6 @@ interface Props {
 }
 
 export default function SpotlightMode({ data, phaseKey }: Props) {
-  const [heroFailed, setHeroFailed] = useState(false);
-
   if (!data) {
     return (
       <div className="absolute inset-0 flex items-center justify-center bg-black">
@@ -63,12 +62,15 @@ export default function SpotlightMode({ data, phaseKey }: Props) {
   // Hero uses posters (vertical), fallback to heroes
   const heroSrcs = hero.posters.length ? hero.posters : hero.heroes;
   const heroFallbacks = hero.posters.length ? hero.heroes : hero.posters;
+  const heroChain = useMemo(() => [...heroSrcs, ...heroFallbacks], [phaseKey]);
+  const { loaded, imgFailed } = useImagePreload(heroChain);
+  const heroAllExhausted = imgFailed >= heroChain.length;
 
   return (
     <div className="absolute inset-0 flex">
       <div className="w-[65%] relative overflow-hidden bg-black cell-vignette">
         <AnimatePresence mode="wait">
-          {heroHasImages && !heroFailed && (
+          {heroHasImages && loaded && !heroAllExhausted && (
             <motion.div
               key={phaseKey}
               className="absolute inset-0"
@@ -80,19 +82,17 @@ export default function SpotlightMode({ data, phaseKey }: Props) {
             >
               {/* Blurred background fill */}
               <img
-                src={heroSrcs[0]}
+                src={heroChain[0]}
                 alt=""
                 className="absolute inset-0 w-full h-full"
                 style={{ objectFit: 'cover', filter: 'blur(30px) brightness(0.45)', willChange: 'filter' }}
               />
-              {/* Foreground: contain + edge fade */}
-              <GameImage
-                primaryUrls={heroSrcs}
-                fallbackUrls={heroFallbacks}
+              {/* Foreground: contain, preloaded by useImagePreload */}
+              <img
+                src={heroChain[imgFailed]}
                 alt={hero.name}
                 className="absolute inset-0 w-full h-full"
                 style={{ objectFit: 'contain' }}
-                onAllFailed={() => setHeroFailed(true)}
               />
               <div
                 className="absolute bottom-0 left-0 right-0 p-12 z-10"
