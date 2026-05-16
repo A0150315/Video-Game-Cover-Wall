@@ -30,14 +30,19 @@ export default function CinematicMode({ game }: { game: GameData | null }) {
     );
   }
 
-  const primarySrc = game.heroUrl || game.posterUrl;
-  const secondarySrc = game.heroUrl ? game.posterUrl : undefined;
-  const imgSrc = imgFailed === 0 ? primarySrc : secondarySrc;
+  // Build URL chain: random hero → rest heroes → random poster → rest posters
+  const urlChain = useMemo(() => {
+    const chain: string[] = [];
+    if (game.heroes.length) chain.push(...game.heroes.sort(() => Math.random() - 0.5));
+    if (game.posters.length) chain.push(...game.posters.sort(() => Math.random() - 0.5));
+    return chain;
+  }, [game.id]);
+  const imgSrc = urlChain[imgFailed];
 
   return (
     <div className="absolute inset-0 vignette film-grain overflow-hidden">
       <AnimatePresence>
-        {visible && imgFailed < 2 && imgSrc && (
+        {visible && imgFailed < urlChain.length && imgSrc && (
           <motion.img
             key={`${game.id}-${imgFailed}`}
             src={imgSrc}
@@ -51,7 +56,7 @@ export default function CinematicMode({ game }: { game: GameData | null }) {
             onError={() => setImgFailed(prev => prev + 1)}
           />
         )}
-        {visible && (imgFailed >= 2 || !primarySrc) && (
+        {visible && imgFailed >= urlChain.length && (
           <motion.div
             key={`fallback-${game.id}`}
             className="absolute inset-0 flex items-center justify-center bg-neutral-900"

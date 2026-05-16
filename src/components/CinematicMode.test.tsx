@@ -6,8 +6,8 @@ import type { GameData } from '../types/game';
 const mockGame: GameData = {
   id: 1,
   name: 'Test Game',
-  posterUrl: 'https://example.com/poster.jpg',
-  heroUrl: '',
+  posters: ['https://example.com/poster.jpg'],
+  heroes: [],
   releaseYear: 2024,
   rating: 95,
   platforms: ['PC', 'PlayStation 5'],
