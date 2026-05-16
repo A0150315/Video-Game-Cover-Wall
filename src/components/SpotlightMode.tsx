@@ -1,41 +1,19 @@
-import { useState, useEffect, useCallback } from 'react';
 import { motion, AnimatePresence } from 'motion/react';
 import type { GameData } from '../types/game';
+import GameImage from './GameImage';
 
 interface SpotlightData {
   hero: GameData;
   thumbs: GameData[];
 }
 
-export default function SpotlightMode({ data }: { data: SpotlightData | null }) {
-  const [hero, setHero] = useState<GameData | null>(null);
-  const [thumbs, setThumbs] = useState<GameData[]>([]);
-  const [direction, setDirection] = useState(1);
+interface Props {
+  data: SpotlightData | null;
+  phaseKey: number;
+}
 
-  const rotate = useCallback(() => {
-    if (!data) return;
-    setDirection(prev => prev * -1);
-    setThumbs(prev => {
-      const next = [...prev.slice(1), prev[0]];
-      return next;
-    });
-    setHero(prev => {
-      return thumbs[0] ?? prev;
-    });
-  }, [data, thumbs]);
-
-  useEffect(() => {
-    if (!data) return;
-    setHero(data.hero);
-    setThumbs(data.thumbs);
-  }, [data]);
-
-  useEffect(() => {
-    const timer = setInterval(rotate, 6000);
-    return () => clearInterval(timer);
-  }, [rotate]);
-
-  if (!hero) {
+export default function SpotlightMode({ data, phaseKey }: Props) {
+  if (!data) {
     return (
       <div className="absolute inset-0 flex items-center justify-center bg-black">
         <p className="text-text-secondary text-xl">No game data</p>
@@ -43,21 +21,23 @@ export default function SpotlightMode({ data }: { data: SpotlightData | null }) 
     );
   }
 
+  const { hero, thumbs } = data;
+
   return (
     <div className="absolute inset-0 flex">
       <div className="w-[65%] relative overflow-hidden">
-        <AnimatePresence mode="wait" custom={direction}>
+        <AnimatePresence mode="wait">
           <motion.div
-            key={hero.id}
+            key={phaseKey}
             className="absolute inset-0"
-            custom={direction}
-            initial={{ x: direction * 120, scale: 0.9, opacity: 0 }}
+            initial={{ x: 120, scale: 0.9, opacity: 0 }}
             animate={{ x: 0, scale: 1, opacity: 1 }}
-            exit={{ x: direction * -80, scale: 1.05, opacity: 0 }}
+            exit={{ x: -80, scale: 1.05, opacity: 0 }}
             transition={{ duration: 0.7, ease: [0.32, 0.72, 0, 1] }}
           >
-            <img
-              src={hero.posterUrl}
+            <GameImage
+              primaryUrls={hero.heroes.length ? hero.heroes : hero.posters}
+              fallbackUrls={hero.heroes.length ? hero.posters : hero.heroes}
               alt={hero.name}
               className="w-full h-full"
               style={{ objectFit: 'cover' }}
@@ -77,9 +57,9 @@ export default function SpotlightMode({ data }: { data: SpotlightData | null }) 
 
       <div className="w-[35%] flex flex-col bg-black/60 backdrop-blur-sm">
         <AnimatePresence mode="popLayout">
-          {thumbs.map((game, i) => (
+          {thumbs.map((game) => (
             <motion.div
-              key={`${game.id}-${i}`}
+              key={`${game.id}`}
               className="flex-1 relative overflow-hidden border-b border-white/5 last:border-b-0"
               layout
               initial={{ opacity: 0, y: 40 }}
@@ -87,8 +67,9 @@ export default function SpotlightMode({ data }: { data: SpotlightData | null }) 
               exit={{ opacity: 0, y: -40 }}
               transition={{ duration: 0.4, ease: 'easeOut' }}
             >
-              <img
-                src={game.posterUrl}
+              <GameImage
+                primaryUrls={game.posters}
+                fallbackUrls={game.heroes}
                 alt={game.name}
                 className="w-full h-full"
                 style={{ objectFit: 'cover' }}

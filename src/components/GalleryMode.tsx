@@ -1,9 +1,7 @@
-import { useState, useEffect, useMemo } from 'react';
+import { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'motion/react';
 import type { GameData } from '../types/game';
-import { GALLERY_COLS, GALLERY_ROWS } from '../types/game';
-
-const GRID_SIZE = GALLERY_COLS * GALLERY_ROWS;
+import GameImage from './GameImage';
 
 const containerVariants = {
   enter: { transition: { staggerChildren: 0.05 } },
@@ -15,56 +13,37 @@ const itemVariants = {
   exit: { scale: 0.85, opacity: 0 },
 };
 
-export default function GalleryMode({ games }: { games: GameData[] }) {
-  const [batchIndex, setBatchIndex] = useState(0);
+interface Props {
+  games: GameData[];
+  phaseKey: number;
+}
+
+export default function GalleryMode({ games, phaseKey }: Props) {
   const [heroIndex, setHeroIndex] = useState<number | null>(null);
-  const [phase, setPhase] = useState<'enter' | 'hero' | 'exit'>('enter');
-
-  const displayGames = useMemo(() => {
-    return games.slice(batchIndex * GRID_SIZE, (batchIndex + 1) * GRID_SIZE);
-  }, [games, batchIndex]);
 
   useEffect(() => {
-    setPhase('enter');
     setHeroIndex(null);
-
-    const heroTimer = setTimeout(() => {
-      const idx = Math.floor(Math.random() * displayGames.length);
-      setHeroIndex(idx);
-      setPhase('hero');
-    }, 3000);
-
-    const batchTimer = setTimeout(() => {
-      setPhase('exit');
-    }, 20_000);
-
-    return () => { clearTimeout(heroTimer); clearTimeout(batchTimer); };
-  }, [batchIndex, displayGames.length]);
-
-  useEffect(() => {
-    if (phase === 'exit') {
-      const t = setTimeout(() => {
-        setBatchIndex(prev => prev + 1);
-      }, 600);
-      return () => clearTimeout(t);
-    }
-  }, [phase]);
+    const t = setTimeout(() => {
+      if (games.length > 0) {
+        setHeroIndex(Math.floor(Math.random() * games.length));
+      }
+    }, 3500);
+    return () => clearTimeout(t);
+  }, [phaseKey, games.length]);
 
   return (
     <div className="absolute inset-0 flex items-center justify-center p-8">
       <AnimatePresence mode="wait">
         <motion.div
-          key={batchIndex}
+          key={phaseKey}
           className="grid gap-3 w-full h-full"
-          style={{
-            gridTemplateColumns: `repeat(${GALLERY_COLS}, 1fr)`,
-            gridTemplateRows: `repeat(${GALLERY_ROWS}, 1fr)`,
-          }}
+          style={{ gridTemplateColumns: 'repeat(5, 1fr)', gridTemplateRows: 'repeat(3, 1fr)' }}
           variants={containerVariants}
           initial="exit"
-          animate={phase === 'exit' ? 'exit' : 'enter'}
+          animate="enter"
+          exit="exit"
         >
-          {displayGames.map((game, i) => (
+          {games.map((game, i) => (
             <motion.div
               key={`${game.id}-${i}`}
               className="relative overflow-hidden rounded-lg"
@@ -82,8 +61,9 @@ export default function GalleryMode({ games }: { games: GameData[] }) {
               initial={{ scale: 0.8, opacity: 0 }}
               layout
             >
-              <img
-                src={game.posterUrl}
+              <GameImage
+                primaryUrls={game.posters}
+                fallbackUrls={game.heroes}
                 alt={game.name}
                 className="w-full h-full"
                 style={{ objectFit: 'cover' }}

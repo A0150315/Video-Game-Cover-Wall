@@ -10,9 +10,10 @@ interface Props {
   cinematicGame: GameData | null;
   galleryGames: GameData[];
   spotlightData: { hero: GameData; thumbs: GameData[] } | null;
+  phaseKey: number;
 }
 
-export default function ModeRenderer({ mode, games, cinematicGame, galleryGames, spotlightData }: Props) {
+export default function ModeRenderer({ mode, cinematicGame, galleryGames, spotlightData, phaseKey }: Props) {
   return (
     <AnimatePresence mode="wait">
       <motion.div
@@ -24,13 +25,8 @@ export default function ModeRenderer({ mode, games, cinematicGame, galleryGames,
         transition={{ duration: 0.5 }}
       >
         {mode === 'cinematic' && <CinematicMode game={cinematicGame} />}
-        {mode === 'gallery' && <GalleryMode games={galleryGames} />}
-        {mode === 'spotlight' && <SpotlightMode data={spotlightData} />}
-        {!games.length && (
-          <div className="absolute inset-0 flex items-center justify-center bg-black">
-            <p className="text-text-secondary text-xl">No games loaded</p>
-          </div>
-        )}
+        {mode === 'gallery' && <GalleryMode games={galleryGames} phaseKey={phaseKey} />}
+        {mode === 'spotlight' && <SpotlightMode data={spotlightData} phaseKey={phaseKey} />}
       </motion.div>
     </AnimatePresence>
   );

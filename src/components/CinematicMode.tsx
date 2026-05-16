@@ -7,11 +7,13 @@ const KB_CLASSES = ['ken-burns-1', 'ken-burns-2', 'ken-burns-3', 'ken-burns-4'];
 export default function CinematicMode({ game }: { game: GameData | null }) {
   const [visible, setVisible] = useState(false);
   const [metaVisible, setMetaVisible] = useState(false);
+  const [imgFailed, setImgFailed] = useState(0);
   const kbClass = useMemo(() => KB_CLASSES[Math.floor(Math.random() * KB_CLASSES.length)], [game?.id]);
 
   useEffect(() => {
     setVisible(false);
     setMetaVisible(false);
+    setImgFailed(0);
     const t1 = setTimeout(() => {
       setVisible(true);
       setMetaVisible(true);
@@ -28,13 +30,17 @@ export default function CinematicMode({ game }: { game: GameData | null }) {
     );
   }
 
+  const primarySrc = game.heroUrl || game.posterUrl;
+  const secondarySrc = game.heroUrl ? game.posterUrl : undefined;
+  const imgSrc = imgFailed === 0 ? primarySrc : secondarySrc;
+
   return (
     <div className="absolute inset-0 vignette film-grain overflow-hidden">
       <AnimatePresence>
-        {visible && (
+        {visible && imgFailed < 2 && imgSrc && (
           <motion.img
-            key={game.id}
-            src={game.posterUrl}
+            key={`${game.id}-${imgFailed}`}
+            src={imgSrc}
             alt={game.name}
             className={`absolute inset-0 w-full h-full ${kbClass}`}
             style={{ objectFit: 'cover', willChange: 'transform' }}
@@ -42,7 +48,20 @@ export default function CinematicMode({ game }: { game: GameData | null }) {
             animate={{ opacity: 1 }}
             exit={{ opacity: 0 }}
             transition={{ duration: 1.8, ease: 'easeInOut' }}
+            onError={() => setImgFailed(prev => prev + 1)}
           />
+        )}
+        {visible && (imgFailed >= 2 || !primarySrc) && (
+          <motion.div
+            key={`fallback-${game.id}`}
+            className="absolute inset-0 flex items-center justify-center bg-neutral-900"
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            exit={{ opacity: 0 }}
+            transition={{ duration: 1.8, ease: 'easeInOut' }}
+          >
+            <p className="text-neutral-500 text-2xl">{game.name}</p>
+          </motion.div>
         )}
       </AnimatePresence>
 

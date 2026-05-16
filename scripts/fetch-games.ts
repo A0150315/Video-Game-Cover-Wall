@@ -24,7 +24,8 @@ interface SgdbResult {
 interface GameOutput {
   id: number;
   name: string;
-  posterUrl: string;
+  posters: string[];
+  heroes: string[];
   releaseYear: number;
   rating: number;
   platforms: string[];
@@ -100,38 +101,60 @@ return raw.startsWith('//') ? `https:${raw.replace(/t_thumb\//, '')}` : raw;
 // SteamGridDB
 // ---------------------------------------------------------------------------
 
-async function searchSgdbPoster(gameName: string): Promise<string | null> {
+async function searchSgdbPosters(gameName: string): Promise<string[]> {
   const res = await fetch(
     `${SGDB_API}/search/autocomplete/${encodeURIComponent(gameName)}`,
     { headers: { Authorization: `Bearer ${STEAMGRIDDB_API_KEY}` } },
   );
 
-  if (!res.ok) return null;
+  if (!res.ok) return [];
   const search = (await res.json()) as { data?: { id: number }[] };
-  if (!search.data?.length) return null;
+  if (!search.data?.length) return [];
 
   const gameId = search.data[0].id;
   const gridsRes = await fetch(
-    `${SGDB_API}/grids/game/${gameId}?styles=alternate`,
+    `${SGDB_API}/grids/game/${gameId}?styles=alternate&limit=8`,
     { headers: { Authorization: `Bearer ${STEAMGRIDDB_API_KEY}` } },
   );
 
-  if (!gridsRes.ok) return null;
+  if (!gridsRes.ok) return [];
   const grids = (await gridsRes.json()) as SgdbResult;
-  if (!grids.success || !grids.data.length) return null;
+  if (!grids.success || !grids.data.length) return [];
+  return grids.data.map(g => g.url);
+}
 
-  return grids.data[0].url;
+async function searchSgdbHeroes(gameName: string): Promise<string[]> {
+  const res = await fetch(
+    `${SGDB_API}/search/autocomplete/${encodeURIComponent(gameName)}`,
+    { headers: { Authorization: `Bearer ${STEAMGRIDDB_API_KEY}` } },
+  );
+
+  if (!res.ok) return [];
+  const search = (await res.json()) as { data?: { id: number }[] };
+  if (!search.data?.length) return [];
+
+  const gameId = search.data[0].id;
+  const heroesRes = await fetch(
+    `${SGDB_API}/heroes/game/${gameId}?limit=8`,
+    { headers: { Authorization: `Bearer ${STEAMGRIDDB_API_KEY}` } },
+  );
+
+  if (!heroesRes.ok) return [];
+  const heroes = (await heroesRes.json()) as SgdbResult;
+  if (!heroes.success || !heroes.data.length) return [];
+  return heroes.data.map(g => g.url);
 }
 
 // ---------------------------------------------------------------------------
 // Pipeline
 // ---------------------------------------------------------------------------
 
-function toOutput(game: IgdbGame, posterUrl: string): GameOutput {
+function toOutput(game: IgdbGame, posters: string[], heroes: string[]): GameOutput {
   return {
     id: game.id,
     name: game.name,
-    posterUrl,
+    posters,
+    heroes,
     releaseYear: game.first_release_date
       ? new Date(game.first_release_date * 1000).getFullYear()
       : 0,
@@ -179,26 +202,28 @@ async function main() {
   }
   console.log(`${merged.length} unique games total`);
 
-  // 4. Look up SteamGridDB posters with fallback
+  // 4. Look up SteamGridDB posters + heroes
   const output: GameOutput[] = [];
   for (const game of merged) {
-    let posterUrl = igdbCoverUrl(game);
+    const igdbFallback = [igdbCoverUrl(game)];
+    let posters: string[] = [];
+    let heroes: string[] = [];
 
     try {
-      console.log(`  Searching SteamGridDB for: ${game.name}...`);
-      const sgdbUrl = await searchSgdbPoster(game.name);
-      if (sgdbUrl) {
-        posterUrl = sgdbUrl;
-        console.log(`    ✓ Found poster`);
-      } else {
-        console.log(`    → using IGDB cover`);
-      }
+      console.log(`  SteamGridDB: ${game.name}...`);
+      const [sgdbPosters, sgdbHeroes] = await Promise.all([
+        searchSgdbPosters(game.name),
+        searchSgdbHeroes(game.name),
+      ]);
+      posters = sgdbPosters;
+      heroes = sgdbHeroes;
+      console.log(`    posters: ${sgdbPosters.length}  heroes: ${sgdbHeroes.length}`);
     } catch {
-      console.log(`    → fallback to IGDB cover (error)`);
+      console.log(`    → error, using IGDB fallback`);
     }
 
-    output.push(toOutput(game, posterUrl));
-    // Rate limiting: 1 request per second for SteamGridDB
+    if (!posters.length) posters = igdbFallback;
+    output.push(toOutput(game, posters, heroes));
     await new Promise(r => setTimeout(r, 200));
   }
 

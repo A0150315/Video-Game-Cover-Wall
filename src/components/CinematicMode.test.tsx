@@ -7,6 +7,7 @@ const mockGame: GameData = {
   id: 1,
   name: 'Test Game',
   posterUrl: 'https://example.com/poster.jpg',
+  heroUrl: '',
   releaseYear: 2024,
   rating: 95,
   platforms: ['PC', 'PlayStation 5'],
