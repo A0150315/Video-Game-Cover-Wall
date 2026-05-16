@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useMemo } from 'react';
 import { motion, AnimatePresence } from 'motion/react';
 import type { GameData } from '../types/game';
 import GameImage from './GameImage';
@@ -13,9 +13,8 @@ const itemVariants = {
   exit: { scale: 0.85, opacity: 0 },
 };
 
-function GalleryItem({ game, i, heroIndex }: { game: GameData; i: number; heroIndex: number | null }) {
+function GalleryItem({ game, isHero }: { game: GameData; isHero: boolean }) {
   const [failed, setFailed] = useState(false);
-  const isHero = heroIndex === i;
 
   if (!game.posters.length && !game.heroes.length) return null;
   if (failed) return null;
@@ -27,14 +26,9 @@ function GalleryItem({ game, i, heroIndex }: { game: GameData; i: number; heroIn
       className="relative rounded-lg overflow-hidden cell-vignette"
       style={{ zIndex: isHero ? 10 : 1 }}
       variants={itemVariants}
-      transition={{
-        duration: 0.5,
-        ease: [0.22, 0.61, 0.36, 1],
-      }}
+      transition={{ duration: 0.5, ease: [0.22, 0.61, 0.36, 1] }}
       initial={{ scale: 0.8, opacity: 0 }}
-      whileHover={undefined}
     >
-      {/* Blurred background fill */}
       {bgSrc && (
         <img src={bgSrc} alt="" className="absolute inset-0 w-full h-full"
           style={{ objectFit: 'cover', filter: 'blur(20px) brightness(0.35)', willChange: 'filter' }} />
@@ -54,10 +48,8 @@ function GalleryItem({ game, i, heroIndex }: { game: GameData; i: number; heroIn
           onAllFailed={() => setFailed(true)}
         />
       </motion.div>
-      <div
-        className="absolute bottom-0 left-0 right-0 p-2 z-10"
-        style={{ background: 'linear-gradient(transparent, rgba(0,0,0,0.75))' }}
-      >
+      <div className="absolute bottom-0 left-0 right-0 p-2 z-10"
+        style={{ background: 'linear-gradient(transparent, rgba(0,0,0,0.75))' }}>
         <p className="text-white text-xs font-medium truncate">{game.name}</p>
       </div>
     </motion.div>
@@ -70,17 +62,47 @@ interface Props {
 }
 
 export default function GalleryMode({ games, phaseKey }: Props) {
+  const [ready, setReady] = useState(false);
   const [heroIndex, setHeroIndex] = useState<number | null>(null);
 
+  // Preload first image of each game in the batch before showing
+  const firstUrls = useMemo(() =>
+    games.map(g => g.posters[0] || g.heroes[0]).filter(Boolean).slice(0, 5)
+  , [games]);
+
   useEffect(() => {
+    setReady(false);
     setHeroIndex(null);
+    if (!firstUrls.length) { setReady(true); return; }
+
+    let loaded = 0;
+    let cancelled = false;
+    const need = Math.min(3, firstUrls.length);
+
+    firstUrls.forEach(url => {
+      const img = new Image();
+      img.onload = img.onerror = () => {
+        loaded++;
+        if (!cancelled && loaded >= need) setReady(true);
+      };
+      img.src = url;
+    });
+
+    const timeout = setTimeout(() => { if (!cancelled) setReady(true); }, 3000);
+    return () => { cancelled = true; clearTimeout(timeout); };
+  }, [firstUrls]);
+
+  useEffect(() => {
+    if (!ready) return;
     const t = setTimeout(() => {
-      if (games.length > 0) {
-        setHeroIndex(Math.floor(Math.random() * games.length));
-      }
+      if (games.length > 0) setHeroIndex(Math.floor(Math.random() * games.length));
     }, 3500);
     return () => clearTimeout(t);
-  }, [phaseKey, games.length]);
+  }, [ready, games.length]);
+
+  if (!ready) {
+    return <div className="absolute inset-0 bg-black" />;
+  }
 
   return (
     <div className="absolute inset-0 flex items-center justify-center p-8">
@@ -95,7 +117,7 @@ export default function GalleryMode({ games, phaseKey }: Props) {
           exit="exit"
         >
           {games.map((game, i) => (
-            <GalleryItem key={`${game.id}-${i}`} game={game} i={i} heroIndex={heroIndex} />
+            <GalleryItem key={`${game.id}-${i}`} game={game} isHero={heroIndex === i} />
           ))}
         </motion.div>
       </AnimatePresence>

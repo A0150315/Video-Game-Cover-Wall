@@ -1,4 +1,4 @@
-import { useState, useMemo } from 'react';
+import { useState, useMemo, useEffect } from 'react';
 import { motion, AnimatePresence } from 'motion/react';
 import type { GameData } from '../types/game';
 import GameImage from './GameImage';
@@ -63,14 +63,41 @@ export default function SpotlightMode({ data, phaseKey }: Props) {
   const heroSrcs = hero.posters.length ? hero.posters : hero.heroes;
   const heroFallbacks = hero.posters.length ? hero.heroes : hero.posters;
   const heroChain = useMemo(() => [...heroSrcs, ...heroFallbacks], [phaseKey]);
-  const { loaded, imgFailed } = useImagePreload(heroChain);
+  const { loaded: heroLoaded, imgFailed } = useImagePreload(heroChain);
   const heroAllExhausted = imgFailed >= heroChain.length;
+
+  // Preload thumbs before showing
+  const [thumbsReady, setThumbsReady] = useState(false);
+  const thumbUrls = useMemo(() =>
+    thumbs.map(g => g.heroes[0] || g.posters[0]).filter(Boolean)
+  , [thumbs]);
+
+  useEffect(() => {
+    setThumbsReady(false);
+    if (!thumbUrls.length) { setThumbsReady(true); return; }
+
+    let loadedCount = 0;
+    let cancelled = false;
+    const need = Math.min(2, thumbUrls.length);
+
+    thumbUrls.forEach(url => {
+      const img = new Image();
+      img.onload = img.onerror = () => {
+        loadedCount++;
+        if (!cancelled && loadedCount >= need) setThumbsReady(true);
+      };
+      img.src = url;
+    });
+
+    const timeout = setTimeout(() => { if (!cancelled) setThumbsReady(true); }, 3000);
+    return () => { cancelled = true; clearTimeout(timeout); };
+  }, [thumbUrls]);
 
   return (
     <div className="absolute inset-0 flex">
       <div className="w-[65%] relative overflow-hidden bg-black cell-vignette">
         <AnimatePresence mode="wait">
-          {heroHasImages && loaded && !heroAllExhausted && (
+          {heroHasImages && heroLoaded && !heroAllExhausted && (
             <motion.div
               key={phaseKey}
               className="absolute inset-0"
@@ -109,11 +136,13 @@ export default function SpotlightMode({ data, phaseKey }: Props) {
       </div>
 
       <div className="w-[35%] flex flex-col bg-black/60 backdrop-blur-sm">
-        <AnimatePresence>
-          {thumbs.map((game) => (
-            <ThumbItem key={game.id} game={game} />
-          ))}
-        </AnimatePresence>
+        {thumbsReady && (
+          <AnimatePresence>
+            {thumbs.map((game) => (
+              <ThumbItem key={game.id} game={game} />
+            ))}
+          </AnimatePresence>
+        )}
       </div>
     </div>
   );
