@@ -11,6 +11,7 @@ interface SpotlightData {
 function ThumbItem({ game }: { game: GameData }) {
   const [failed, setFailed] = useState(false);
 
+  if (!game.posters.length && !game.heroes.length) return null;
   if (failed) return null;
 
   return (
@@ -58,12 +59,13 @@ export default function SpotlightMode({ data, phaseKey }: Props) {
   }
 
   const { hero, thumbs } = data;
+  const heroHasImages = hero.posters.length > 0 || hero.heroes.length > 0;
 
   return (
     <div className="absolute inset-0 flex">
       <div className="w-[65%] relative overflow-hidden">
         <AnimatePresence mode="wait">
-          {!heroFailed && (
+          {heroHasImages && !heroFailed && (
             <motion.div
               key={phaseKey}
               className="absolute inset-0"

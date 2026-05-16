@@ -16,6 +16,8 @@ const itemVariants = {
 function GalleryItem({ game, i, heroIndex }: { game: GameData; i: number; heroIndex: number | null }) {
   const [failed, setFailed] = useState(false);
 
+  // No images at all — skip entirely
+  if (!game.posters.length && !game.heroes.length) return null;
   if (failed) return null;
 
   return (
