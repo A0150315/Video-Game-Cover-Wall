@@ -23,7 +23,6 @@ export default function CinematicMode({ game, onSkip }: Props) {
   const [metaVisible, setMetaVisible] = useState(false);
   const skippedRef = useRef(false);
 
-  // Key forces remount on game change, so useMemo only runs once per mount
   const kbClass = useMemo(() => KB_CLASSES[Math.floor(Math.random() * KB_CLASSES.length)], []);
   const urlChain = useMemo(() => {
     if (!game) return [];
@@ -56,21 +55,26 @@ export default function CinematicMode({ game, onSkip }: Props) {
   const imgSrc = urlChain[imgFailed];
 
   return (
-    <div className="absolute inset-0 vignette film-grain overflow-hidden">
+    <div className="absolute inset-0 vignette film-grain overflow-hidden bg-black">
       <AnimatePresence>
         {!allExhausted && imgSrc && (
-          <motion.img
-            key={imgFailed}
-            src={imgSrc}
-            alt={game.name}
-            className={`absolute inset-0 w-full h-full ${kbClass}`}
-            style={{ objectFit: 'cover', willChange: 'transform' }}
-            initial={{ opacity: 0 }}
-            animate={{ opacity: 1 }}
-            exit={{ opacity: 0 }}
-            transition={{ duration: 1.8, ease: 'easeInOut' }}
-            onError={() => setImgFailed(prev => prev + 1)}
-          />
+          <motion.div key={imgFailed} className="absolute inset-0" initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} transition={{ duration: 1.8, ease: 'easeInOut' }}>
+            {/* Background: blurred + darkened + Ken Burns */}
+            <img
+              src={imgSrc}
+              alt=""
+              className={`absolute inset-0 w-full h-full ${kbClass}`}
+              style={{ objectFit: 'cover', filter: 'blur(60px) brightness(0.25)' }}
+            />
+            {/* Foreground: full image, no crop */}
+            <img
+              src={imgSrc}
+              alt={game.name}
+              className="absolute inset-0 w-full h-full"
+              style={{ objectFit: 'contain' }}
+              onError={() => setImgFailed(prev => prev + 1)}
+            />
+          </motion.div>
         )}
       </AnimatePresence>
 
