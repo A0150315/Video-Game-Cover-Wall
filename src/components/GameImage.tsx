@@ -1,4 +1,13 @@
-import { useState, useMemo } from 'react';
+import { useState } from 'react';
+
+function shuffle<T>(arr: T[]): T[] {
+  const a = [...arr];
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
 
 interface Props {
   primaryUrls: string[];
@@ -10,19 +19,11 @@ interface Props {
 }
 
 export default function GameImage({ primaryUrls, fallbackUrls = [], alt, className, style, loading }: Props) {
-  // Build a shuffled chain: random primary → rest of primary → fallbacks
-  const urlChain = useMemo(() => {
-    const chain: string[] = [];
-    if (primaryUrls.length) {
-      // Shuffle so each render picks a different starting image
-      const shuffled = [...primaryUrls].sort(() => Math.random() - 0.5);
-      chain.push(...shuffled);
-    }
-    if (fallbackUrls.length) {
-      chain.push(...fallbackUrls.sort(() => Math.random() - 0.5));
-    }
-    return chain;
-  }, [primaryUrls, fallbackUrls]);
+  // Shuffle on mount: random primary → rest primary → random fallbacks
+  const [urlChain] = useState(() => [
+    ...shuffle(primaryUrls),
+    ...shuffle(fallbackUrls),
+  ]);
 
   const [step, setStep] = useState(0);
 

@@ -16,7 +16,13 @@ const GALLERY_BATCH = GALLERY_COLS * GALLERY_ROWS;
 const SPOTLIGHT_BATCH = 1 + SPOTLIGHT_THUMB_COUNT;
 
 export function useGameRotation(games: GameData[], mode: DisplayMode) {
-  const [index, setIndex] = useState(0);
+  const getRandomIndex = () => {
+    const step = mode === 'gallery' ? GALLERY_BATCH : mode === 'spotlight' ? SPOTLIGHT_BATCH : 1;
+    const max = Math.max(0, games.length - step);
+    return max > 0 ? Math.floor(Math.random() * (max + 1)) : 0;
+  };
+
+  const [index, setIndex] = useState(getRandomIndex);
   const timerRef = useRef<ReturnType<typeof setInterval>>(undefined);
 
   const count = mode === 'gallery' ? GALLERY_BATCH : mode === 'spotlight' ? SPOTLIGHT_BATCH : 1;
@@ -47,7 +53,7 @@ export function useGameRotation(games: GameData[], mode: DisplayMode) {
     return () => clearInterval(timerRef.current);
   }, [mode, advance]);
 
-  useEffect(() => { setIndex(0); }, [mode]);
+  useEffect(() => { setIndex(getRandomIndex()); }, [mode]);
 
   return { current, phaseKey, next, prev };
 }

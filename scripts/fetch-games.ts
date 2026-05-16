@@ -53,9 +53,16 @@ const CLASSIC_QUERY = `
 
 const RECENT_QUERY = `
   fields name,first_release_date,total_rating,total_rating_count,genres.name,platforms.name,cover.url;
-  where first_release_date > 1577836800 & total_rating > 80 & cover != null;
+  where first_release_date > 1577836800 & total_rating > 75 & cover != null;
   sort total_rating desc;
-  limit 50;
+  limit 100;
+`;
+
+const ANTICIPATED_QUERY = `
+  fields name,first_release_date,total_rating,total_rating_count,genres.name,platforms.name,cover.url;
+  where hypes > 40 & cover != null & total_rating = null;
+  sort hypes desc;
+  limit 40;
 `;
 
 // ---------------------------------------------------------------------------
@@ -182,7 +189,7 @@ async function main() {
   console.log('Authenticating with IGDB...');
   const token = await getIgdbToken();
 
-  // 2. Query classic + recent games
+  // 2. Query classic + recent + anticipated games
   console.log('Fetching classic games...');
   const classics = await queryIgdb(token, CLASSIC_QUERY);
   console.log(`  Got ${classics.length} classic games`);
@@ -191,10 +198,14 @@ async function main() {
   const recents = await queryIgdb(token, RECENT_QUERY);
   console.log(`  Got ${recents.length} recent games`);
 
+  console.log('Fetching anticipated upcoming games...');
+  const anticipated = await queryIgdb(token, ANTICIPATED_QUERY);
+  console.log(`  Got ${anticipated.length} anticipated games`);
+
   // 3. Merge & deduplicate
   const seen = new Set<number>();
   const merged: IgdbGame[] = [];
-  for (const g of [...classics, ...recents]) {
+  for (const g of [...classics, ...recents, ...anticipated]) {
     if (!seen.has(g.id)) {
       seen.add(g.id);
       merged.push(g);

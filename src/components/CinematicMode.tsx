@@ -30,12 +30,20 @@ export default function CinematicMode({ game }: { game: GameData | null }) {
     );
   }
 
-  // Build URL chain: random hero → rest heroes → random poster → rest posters
-  const urlChain = useMemo(() => {
-    const chain: string[] = [];
-    if (game.heroes.length) chain.push(...game.heroes.sort(() => Math.random() - 0.5));
-    if (game.posters.length) chain.push(...game.posters.sort(() => Math.random() - 0.5));
-    return chain;
+  // Shuffle on each game change: random heroes → random posters
+  const [urlChain, setUrlChain] = useState<string[]>([]);
+
+  useEffect(() => {
+    const shuffle = (arr: string[]) => {
+      const a = [...arr];
+      for (let i = a.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [a[i], a[j]] = [a[j], a[i]];
+      }
+      return a;
+    };
+    setUrlChain([...shuffle(game.heroes), ...shuffle(game.posters)]);
+    setImgFailed(0);
   }, [game.id]);
   const imgSrc = urlChain[imgFailed];
 
