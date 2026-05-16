@@ -64,13 +64,13 @@ export default function CinematicMode({ game, onSkip }: Props) {
               src={imgSrc}
               alt=""
               className={`absolute inset-0 w-full h-full ${kbClass}`}
-              style={{ objectFit: 'cover', filter: 'blur(60px) brightness(0.25)' }}
+              style={{ objectFit: 'cover', filter: 'blur(60px) brightness(0.9)' }}
             />
-            {/* Foreground: full image with edge fade into background */}
+            {/* Foreground: full image, no crop */}
             <img
               src={imgSrc}
               alt={game.name}
-              className="absolute inset-0 w-full h-full edge-fade"
+              className="absolute inset-0 w-full h-full"
               style={{ objectFit: 'contain' }}
               onError={() => setImgFailed(prev => prev + 1)}
             />

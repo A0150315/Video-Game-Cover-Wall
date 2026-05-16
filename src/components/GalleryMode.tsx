@@ -20,9 +20,11 @@ function GalleryItem({ game, i, heroIndex }: { game: GameData; i: number; heroIn
   if (!game.posters.length && !game.heroes.length) return null;
   if (failed) return null;
 
+  const bgSrc = game.posters[0] || game.heroes[0] || '';
+
   return (
     <motion.div
-      className="relative rounded-lg overflow-hidden bg-neutral-900"
+      className="relative rounded-lg overflow-hidden cell-vignette"
       style={{ zIndex: isHero ? 10 : 1 }}
       variants={itemVariants}
       transition={{
@@ -32,8 +34,13 @@ function GalleryItem({ game, i, heroIndex }: { game: GameData; i: number; heroIn
       initial={{ scale: 0.8, opacity: 0 }}
       whileHover={undefined}
     >
+      {/* Blurred background fill */}
+      {bgSrc && (
+        <img src={bgSrc} alt="" className="absolute inset-0 w-full h-full"
+          style={{ objectFit: 'cover', filter: 'blur(40px) brightness(0.35)' }} />
+      )}
       <motion.div
-        className="w-full h-full"
+        className="w-full h-full relative"
         animate={{ scale: isHero ? 1.25 : 1 }}
         transition={{ type: 'spring', stiffness: 200, damping: 24 }}
       >
@@ -41,7 +48,7 @@ function GalleryItem({ game, i, heroIndex }: { game: GameData; i: number; heroIn
           primaryUrls={game.posters}
           fallbackUrls={game.heroes}
           alt={game.name}
-          className="w-full h-full edge-fade"
+          className="w-full h-full"
           style={{ objectFit: 'contain' }}
           loading="lazy"
           onAllFailed={() => setFailed(true)}
