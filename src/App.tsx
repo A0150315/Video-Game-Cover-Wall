@@ -95,6 +95,7 @@ export default function App() {
       galleryGames={modeProps.galleryGames}
       spotlightData={modeProps.spotlightData}
       phaseKey={phaseKey}
+      onSkip={next}
     />
   );
 }

@@ -11,9 +11,10 @@ interface Props {
   galleryGames: GameData[];
   spotlightData: { hero: GameData; thumbs: GameData[] } | null;
   phaseKey: number;
+  onSkip: () => void;
 }
 
-export default function ModeRenderer({ mode, cinematicGame, galleryGames, spotlightData, phaseKey }: Props) {
+export default function ModeRenderer({ mode, cinematicGame, galleryGames, spotlightData, phaseKey, onSkip }: Props) {
   return (
     <AnimatePresence mode="wait">
       <motion.div
@@ -24,7 +25,7 @@ export default function ModeRenderer({ mode, cinematicGame, galleryGames, spotli
         exit={{ opacity: 0 }}
         transition={{ duration: 0.5 }}
       >
-        {mode === 'cinematic' && <CinematicMode game={cinematicGame} />}
+        {mode === 'cinematic' && <CinematicMode game={cinematicGame} onSkip={onSkip} />}
         {mode === 'gallery' && <GalleryMode games={galleryGames} phaseKey={phaseKey} />}
         {mode === 'spotlight' && <SpotlightMode data={spotlightData} phaseKey={phaseKey} />}
       </motion.div>
