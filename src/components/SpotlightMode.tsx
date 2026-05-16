@@ -18,11 +18,11 @@ function ThumbItem({ game }: { game: GameData }) {
     <motion.div
       key={game.id}
       className="flex-1 relative overflow-hidden bg-neutral-900 border-b border-white/5 last:border-b-0 cell-vignette"
-      layout
-      initial={{ opacity: 0, y: 40 }}
-      animate={{ opacity: 1, y: 0 }}
-      exit={{ opacity: 0, y: -40 }}
-      transition={{ duration: 0.4, ease: 'easeOut' }}
+      style={{ willChange: 'transform, opacity' }}
+      initial={{ opacity: 0 }}
+      animate={{ opacity: 1 }}
+      exit={{ opacity: 0 }}
+      transition={{ duration: 0.3 }}
     >
       {/* Thumbs use heroes (horizontal), fallback to posters */}
       <GameImage
@@ -72,17 +72,18 @@ export default function SpotlightMode({ data, phaseKey }: Props) {
             <motion.div
               key={phaseKey}
               className="absolute inset-0"
-              initial={{ x: 120, scale: 0.9, opacity: 0 }}
+              style={{ willChange: 'transform, opacity' }}
+              initial={{ x: 80, scale: 0.95, opacity: 0 }}
               animate={{ x: 0, scale: 1, opacity: 1 }}
-              exit={{ x: -80, scale: 1.05, opacity: 0 }}
-              transition={{ duration: 0.7, ease: [0.32, 0.72, 0, 1] }}
+              exit={{ x: -60, opacity: 0 }}
+              transition={{ duration: 0.5, ease: 'easeOut' }}
             >
               {/* Blurred background fill */}
               <img
                 src={heroSrcs[0]}
                 alt=""
                 className="absolute inset-0 w-full h-full"
-                style={{ objectFit: 'cover', filter: 'blur(60px) brightness(0.45)' }}
+                style={{ objectFit: 'cover', filter: 'blur(30px) brightness(0.45)', willChange: 'filter' }}
               />
               {/* Foreground: contain + edge fade */}
               <GameImage
@@ -108,7 +109,7 @@ export default function SpotlightMode({ data, phaseKey }: Props) {
       </div>
 
       <div className="w-[35%] flex flex-col bg-black/60 backdrop-blur-sm">
-        <AnimatePresence mode="popLayout">
+        <AnimatePresence>
           {thumbs.map((game) => (
             <ThumbItem key={game.id} game={game} />
           ))}

@@ -37,7 +37,7 @@ function GalleryItem({ game, i, heroIndex }: { game: GameData; i: number; heroIn
       {/* Blurred background fill */}
       {bgSrc && (
         <img src={bgSrc} alt="" className="absolute inset-0 w-full h-full"
-          style={{ objectFit: 'cover', filter: 'blur(40px) brightness(0.35)' }} />
+          style={{ objectFit: 'cover', filter: 'blur(20px) brightness(0.35)', willChange: 'filter' }} />
       )}
       <motion.div
         className="w-full h-full relative"

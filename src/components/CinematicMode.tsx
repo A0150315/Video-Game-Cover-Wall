@@ -64,7 +64,7 @@ export default function CinematicMode({ game, onSkip }: Props) {
               src={imgSrc}
               alt=""
               className={`absolute inset-0 w-full h-full ${kbClass}`}
-              style={{ objectFit: 'cover', filter: 'blur(60px) brightness(0.9)' }}
+              style={{ objectFit: 'cover', filter: 'blur(30px) brightness(0.9)', willChange: 'filter' }}
             />
             {/* Foreground: full image, no crop */}
             <img
