@@ -17,7 +17,7 @@ function ThumbItem({ game }: { game: GameData }) {
   return (
     <motion.div
       key={game.id}
-      className="flex-1 relative overflow-hidden border-b border-white/5 last:border-b-0"
+      className="flex-1 relative overflow-hidden bg-neutral-900 border-b border-white/5 last:border-b-0"
       layout
       initial={{ opacity: 0, y: 40 }}
       animate={{ opacity: 1, y: 0 }}
@@ -28,15 +28,15 @@ function ThumbItem({ game }: { game: GameData }) {
         primaryUrls={game.posters}
         fallbackUrls={game.heroes}
         alt={game.name}
-        className="w-full h-full"
-        style={{ objectFit: 'cover' }}
+        className="w-full h-full edge-fade"
+        style={{ objectFit: 'contain' }}
         loading="lazy"
         onAllFailed={() => setFailed(true)}
       />
-      <div className="absolute inset-0 bg-black/30" />
+      <div className="absolute inset-0 bg-black/20 pointer-events-none" />
       <div className="absolute bottom-0 left-0 right-0 p-3">
-        <p className="text-white text-sm font-medium truncate">{game.name}</p>
-        <p className="text-text-secondary text-xs">{game.releaseYear} · {game.rating}</p>
+        <p className="text-white text-sm font-medium truncate drop-shadow">{game.name}</p>
+        <p className="text-text-secondary text-xs drop-shadow">{game.releaseYear} · {game.rating}</p>
       </div>
     </motion.div>
   );
@@ -60,10 +60,12 @@ export default function SpotlightMode({ data, phaseKey }: Props) {
 
   const { hero, thumbs } = data;
   const heroHasImages = hero.posters.length > 0 || hero.heroes.length > 0;
+  const heroSrcs = hero.heroes.length ? hero.heroes : hero.posters;
+  const heroFallbacks = hero.heroes.length ? hero.posters : hero.heroes;
 
   return (
     <div className="absolute inset-0 flex">
-      <div className="w-[65%] relative overflow-hidden">
+      <div className="w-[65%] relative overflow-hidden bg-black">
         <AnimatePresence mode="wait">
           {heroHasImages && !heroFailed && (
             <motion.div
@@ -74,16 +76,24 @@ export default function SpotlightMode({ data, phaseKey }: Props) {
               exit={{ x: -80, scale: 1.05, opacity: 0 }}
               transition={{ duration: 0.7, ease: [0.32, 0.72, 0, 1] }}
             >
+              {/* Blurred background fill */}
+              <img
+                src={heroSrcs[0]}
+                alt=""
+                className="absolute inset-0 w-full h-full"
+                style={{ objectFit: 'cover', filter: 'blur(60px) brightness(0.2)' }}
+              />
+              {/* Foreground: contain + edge fade */}
               <GameImage
-                primaryUrls={hero.heroes.length ? hero.heroes : hero.posters}
-                fallbackUrls={hero.heroes.length ? hero.posters : hero.heroes}
+                primaryUrls={heroSrcs}
+                fallbackUrls={heroFallbacks}
                 alt={hero.name}
-                className="w-full h-full"
-                style={{ objectFit: 'cover' }}
+                className="absolute inset-0 w-full h-full edge-fade"
+                style={{ objectFit: 'contain' }}
                 onAllFailed={() => setHeroFailed(true)}
               />
               <div
-                className="absolute bottom-0 left-0 right-0 p-12"
+                className="absolute bottom-0 left-0 right-0 p-12 z-10"
                 style={{ background: 'linear-gradient(transparent, rgba(0,0,0,0.8))' }}
               >
                 <h2 className="text-3xl font-bold text-white mb-1">{hero.name}</h2>

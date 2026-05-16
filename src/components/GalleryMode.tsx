@@ -15,40 +15,40 @@ const itemVariants = {
 
 function GalleryItem({ game, i, heroIndex }: { game: GameData; i: number; heroIndex: number | null }) {
   const [failed, setFailed] = useState(false);
+  const isHero = heroIndex === i;
 
-  // No images at all — skip entirely
   if (!game.posters.length && !game.heroes.length) return null;
   if (failed) return null;
 
   return (
     <motion.div
-      key={`${game.id}-${i}`}
-      className="relative overflow-hidden rounded-lg"
-      style={{
-        gridColumn: heroIndex === i ? 'span 2' : undefined,
-        gridRow: heroIndex === i ? 'span 2' : undefined,
-        zIndex: heroIndex === i ? 10 : 1,
-      }}
+      className="relative rounded-lg overflow-hidden bg-neutral-900"
+      style={{ zIndex: isHero ? 10 : 1 }}
       variants={itemVariants}
       transition={{
         duration: 0.5,
         ease: [0.22, 0.61, 0.36, 1],
-        layout: { type: 'spring', stiffness: 200, damping: 24 },
       }}
       initial={{ scale: 0.8, opacity: 0 }}
-      layout
+      whileHover={undefined}
     >
-      <GameImage
-        primaryUrls={game.posters}
-        fallbackUrls={game.heroes}
-        alt={game.name}
+      <motion.div
         className="w-full h-full"
-        style={{ objectFit: 'cover' }}
-        loading="lazy"
-        onAllFailed={() => setFailed(true)}
-      />
+        animate={{ scale: isHero ? 1.25 : 1 }}
+        transition={{ type: 'spring', stiffness: 200, damping: 24 }}
+      >
+        <GameImage
+          primaryUrls={game.posters}
+          fallbackUrls={game.heroes}
+          alt={game.name}
+          className="w-full h-full edge-fade"
+          style={{ objectFit: 'contain' }}
+          loading="lazy"
+          onAllFailed={() => setFailed(true)}
+        />
+      </motion.div>
       <div
-        className="absolute bottom-0 left-0 right-0 p-2"
+        className="absolute bottom-0 left-0 right-0 p-2 z-10"
         style={{ background: 'linear-gradient(transparent, rgba(0,0,0,0.75))' }}
       >
         <p className="text-white text-xs font-medium truncate">{game.name}</p>
