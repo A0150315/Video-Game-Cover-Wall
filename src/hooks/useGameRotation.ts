@@ -14,7 +14,7 @@ const INTERVALS: Record<DisplayMode, number> = {
 
 export function useGameRotation(games: GameData[], mode: DisplayMode) {
   const [index, setIndex] = useState(0);
-  const timerRef = useRef<ReturnType<typeof setInterval>>();
+  const timerRef = useRef<ReturnType<typeof setInterval>>(undefined);
 
   const count = mode === 'gallery'
     ? GALLERY_COLS * GALLERY_ROWS

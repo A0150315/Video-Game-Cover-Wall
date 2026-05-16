@@ -4,7 +4,7 @@ import { MODE_SEQUENCE, MODE_DURATIONS } from '../types/game';
 
 export function useModeSchedule() {
   const [mode, setMode] = useState<DisplayMode>('cinematic');
-  const timerRef = useRef<ReturnType<typeof setTimeout>>();
+  const timerRef = useRef<ReturnType<typeof setTimeout>>(undefined);
 
   const scheduleNext = useCallback((current: DisplayMode) => {
     if (timerRef.current) clearTimeout(timerRef.current);

@@ -14,11 +14,12 @@
     "esModuleInterop": true,
     "allowImportingTsExtensions": true,
     "noEmit": true,
+    "types": ["vitest/globals"],
     "baseUrl": ".",
     "paths": {
       "@/*": ["./src/*"]
     }
   },
   "include": ["src", "vite-env.d.ts"],
-  "references": [{ "path": "./tsconfig.node.json" }]
+  "exclude": ["archive"]
 }
