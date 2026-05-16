@@ -92,7 +92,8 @@ async function queryIgdb(token: string, query: string): Promise<IgdbGame[]> {
 
 function igdbCoverUrl(game: IgdbGame): string {
   const raw = game.cover?.url ?? '';
-  return raw.startsWith('//') ? `https:${raw.replace('t_thumb', 't_cover_big')}` : raw;
+  // Remove Cloudinary transformation to get original uploaded resolution
+return raw.startsWith('//') ? `https:${raw.replace(/t_thumb\//, '')}` : raw;
 }
 
 // ---------------------------------------------------------------------------
@@ -111,7 +112,7 @@ async function searchSgdbPoster(gameName: string): Promise<string | null> {
 
   const gameId = search.data[0].id;
   const gridsRes = await fetch(
-    `${SGDB_API}/grids/game/${gameId}?styles=alternate&dimensions=600x900`,
+    `${SGDB_API}/grids/game/${gameId}?styles=alternate`,
     { headers: { Authorization: `Bearer ${STEAMGRIDDB_API_KEY}` } },
   );
 

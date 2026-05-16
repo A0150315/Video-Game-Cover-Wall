@@ -1,261 +1,51 @@
 [
   {
-    "id": 287975,
-    "name": "Elden Ring: Shadow of the Erdtree Edition",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/73d5e7c59ebbbaf1fef3850dee8c6a1f.png",
-    "releaseYear": 2024,
-    "rating": 100,
+    "id": 112875,
+    "name": "God of War Ragnarök",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/fd93fd1de50e084dd7d3b0b9f6950450.png",
+    "releaseYear": 2022,
+    "rating": 93,
     "platforms": [
-      "Xbox Series X|S",
       "PlayStation 4",
-      "PlayStation 5",
-      "Xbox One"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 1107,
-    "name": "Metroid: Zero Mission",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/73e7fb4872d41443c1b08c4199329b9d.png",
-    "releaseYear": 2004,
-    "rating": 90,
-    "platforms": [
-      "Wii U",
-      "Game Boy Advance"
-    ],
-    "genres": [
-      "Shooter",
-      "Platform",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 325594,
-    "name": "Split Fiction",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/04d1d8dde8e718c0f82d2d7f0157a572.png",
-    "releaseYear": 2025,
-    "rating": 90,
-    "platforms": [
-      "Xbox Series X|S",
-      "Nintendo Switch 2",
       "PC (Microsoft Windows)",
       "PlayStation 5"
-    ],
-    "genres": [
-      "Platform",
-      "Puzzle",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 114283,
-    "name": "Persona 5 Royal",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/78b22a52a1e53b0d2e27e6b40569793a.png",
-    "releaseYear": 2019,
-    "rating": 94,
-    "platforms": [
-      "Xbox Series X|S",
-      "PlayStation 4",
-      "PC (Microsoft Windows)",
-      "PlayStation 5",
-      "Xbox One",
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 317582,
-    "name": "Pixadom",
-    "posterUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co902g.jpg",
-    "releaseYear": 2024,
-    "rating": 99,
-    "platforms": [
-      "Web browser"
-    ],
-    "genres": [
-      "Platform",
-      "Role-playing (RPG)",
-      "Adventure",
-      "Indie"
-    ]
-  },
-  {
-    "id": 113112,
-    "name": "Hades",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/ce8a253393a1bbbb3d72cd2093b81ede.png",
-    "releaseYear": 2020,
-    "rating": 91,
-    "platforms": [
-      "Xbox Series X|S",
-      "PlayStation 4",
-      "PC (Microsoft Windows)",
-      "iOS",
-      "PlayStation 5",
-      "Mac",
-      "Xbox One",
-      "Nintendo Switch"
     ],
     "genres": [
       "Role-playing (RPG)",
       "Hack and slash/Beat 'em up",
-      "Adventure",
-      "Indie"
-    ]
-  },
-  {
-    "id": 492,
-    "name": "Gears of War 3",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/b8feb3cce1b12e57ed29dba92abb169a.png",
-    "releaseYear": 2011,
-    "rating": 89,
-    "platforms": [
-      "Xbox 360"
-    ],
-    "genres": [
-      "Shooter"
-    ]
-  },
-  {
-    "id": 1985,
-    "name": "Metal Gear Solid V: The Phantom Pain",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/727d89c97ccaa39b9f2b848bdce6aca5.jpg",
-    "releaseYear": 2015,
-    "rating": 90,
-    "platforms": [
-      "PlayStation 3",
-      "PlayStation 4",
-      "PC (Microsoft Windows)",
-      "Xbox 360",
-      "Xbox One"
-    ],
-    "genres": [
-      "Shooter",
-      "Tactical",
       "Adventure"
     ]
   },
   {
-    "id": 418,
-    "name": "Final Fantasy X",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/95831099d5d2171aea50c24de5332f73.jpg",
-    "releaseYear": 2001,
-    "rating": 91,
+    "id": 551,
+    "name": "God of War II",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/7f5c8cbd9c1a9f0fbbb793d440dfd8e3.png",
+    "releaseYear": 2007,
+    "rating": 89,
     "platforms": [
       "PlayStation 2"
     ],
     "genres": [
-      "Role-playing (RPG)",
+      "Platform",
+      "Hack and slash/Beat 'em up",
       "Adventure"
     ]
   },
   {
-    "id": 251833,
-    "name": "Balatro",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/d70b4d9fdf0af0a00814b91fa82b3d4c.png",
-    "releaseYear": 2024,
-    "rating": 89,
+    "id": 256090,
+    "name": "Blood on the Clocktower",
+    "posterUrl": "https://images.igdb.com/igdb/image/upload/t_1080p/co6q6z.jpg",
+    "releaseYear": 2022,
+    "rating": 100,
     "platforms": [
-      "Xbox Series X|S",
-      "PlayStation 4",
-      "Nintendo Switch 2",
-      "Android",
-      "PC (Microsoft Windows)",
-      "iOS",
-      "PlayStation 5",
-      "Mac",
-      "Xbox One",
-      "Nintendo Switch"
+      "Web browser",
+      "PC (Microsoft Windows)"
     ],
     "genres": [
+      "Role-playing (RPG)",
       "Strategy",
-      "Turn-based strategy (TBS)",
       "Indie",
       "Card & Board Game"
-    ]
-  },
-  {
-    "id": 2155,
-    "name": "Dark Souls",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/6a5eb28f1cf562a887a2cf30426d461f.png",
-    "releaseYear": 2011,
-    "rating": 89,
-    "platforms": [
-      "PlayStation 3",
-      "PC (Microsoft Windows)",
-      "Xbox 360"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 2180,
-    "name": "Super Mario 3D World",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/6208835cf0ad7b20c109b9749d51e845.png?",
-    "releaseYear": 2013,
-    "rating": 89,
-    "platforms": [
-      "Wii U"
-    ],
-    "genres": [
-      "Platform"
-    ]
-  },
-  {
-    "id": 142415,
-    "name": "Indiana Jones and the Great Circle",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/0e85248d5624de50ca8e01f1e9fdd5cb.png",
-    "releaseYear": 2024,
-    "rating": 88,
-    "platforms": [
-      "Xbox Series X|S",
-      "Nintendo Switch 2",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Puzzle",
-      "Role-playing (RPG)",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 306924,
-    "name": "Maestro",
-    "posterUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8elu.jpg",
-    "releaseYear": 2024,
-    "rating": 98,
-    "platforms": [
-      "Meta Quest 2",
-      "PlayStation VR2",
-      "SteamVR",
-      "Meta Quest 3"
-    ],
-    "genres": [
-      "Music",
-      "Simulator",
-      "Indie"
-    ]
-  },
-  {
-    "id": 2350,
-    "name": "Mario Kart 8",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/08685bf36516348b810ede4e3c1dfe52.png",
-    "releaseYear": 2014,
-    "rating": 89,
-    "platforms": [
-      "Wii U"
-    ],
-    "genres": [
-      "Racing",
-      "Arcade"
     ]
   },
   {
@@ -275,365 +65,6 @@
     ]
   },
   {
-    "id": 239060,
-    "name": "Grand Theft Auto V: Story Mode",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/af0a25e27510f77d97634a6bbe653b13.jpg",
-    "releaseYear": 2022,
-    "rating": 100,
-    "platforms": [
-      "Xbox Series X|S",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Shooter",
-      "Arcade"
-    ]
-  },
-  {
-    "id": 902,
-    "name": "Sid Meier's Civilization",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/d4503302ef31f389c394407004751ca9.png",
-    "releaseYear": 1991,
-    "rating": 90,
-    "platforms": [
-      "PC-9800 Series",
-      "Atari ST/STE",
-      "PC (Microsoft Windows)",
-      "Mac",
-      "DOS",
-      "Amiga"
-    ],
-    "genres": [
-      "Strategy",
-      "Turn-based strategy (TBS)"
-    ]
-  },
-  {
-    "id": 1221,
-    "name": "Kingdom Hearts II",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/4de0f7455c14e8aee7baa617ea72c6a3.png",
-    "releaseYear": 2005,
-    "rating": 89,
-    "platforms": [
-      "PlayStation 3",
-      "PlayStation 4",
-      "PlayStation 2"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 2135,
-    "name": "Bayonetta 2",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/38b86da11311413fd0c09044b27de851.png",
-    "releaseYear": 2014,
-    "rating": 89,
-    "platforms": [
-      "Wii U"
-    ],
-    "genres": [
-      "Shooter",
-      "Hack and slash/Beat 'em up",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 549,
-    "name": "God of War",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/72d0eaa80cc3412fda4a133ca1f884e8.png",
-    "releaseYear": 2005,
-    "rating": 88,
-    "platforms": [
-      "PlayStation 2"
-    ],
-    "genres": [
-      "Puzzle",
-      "Hack and slash/Beat 'em up",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 22439,
-    "name": "The Witcher 3: Wild Hunt - Game of the Year Edition",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/3f7816fc0dd75425a3632c1b0633d10b.png",
-    "releaseYear": 2016,
-    "rating": 98,
-    "platforms": [
-      "PlayStation 4",
-      "PC (Microsoft Windows)",
-      "Xbox One"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 256090,
-    "name": "Blood on the Clocktower",
-    "posterUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6q6z.jpg",
-    "releaseYear": 2022,
-    "rating": 100,
-    "platforms": [
-      "Web browser",
-      "PC (Microsoft Windows)"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Strategy",
-      "Indie",
-      "Card & Board Game"
-    ]
-  },
-  {
-    "id": 126,
-    "name": "Diablo II",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/f1e513f02d2dbe70b939178cb7d4fbac.png",
-    "releaseYear": 2000,
-    "rating": 89,
-    "platforms": [
-      "PC (Microsoft Windows)",
-      "Mac"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Hack and slash/Beat 'em up"
-    ]
-  },
-  {
-    "id": 12579,
-    "name": "Danganronpa V3: Killing Harmony",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/20c8cf27a6d521affeee64697b2ab864.jpg",
-    "releaseYear": 2017,
-    "rating": 88,
-    "platforms": [
-      "PlayStation 4",
-      "Android",
-      "PC (Microsoft Windows)",
-      "iOS",
-      "PlayStation Vita",
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Point-and-click",
-      "Adventure",
-      "Visual Novel"
-    ]
-  },
-  {
-    "id": 130,
-    "name": "Warcraft II: Tides of Darkness",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/632c842525e76be8246cd72cb8c2616d.png",
-    "releaseYear": 1995,
-    "rating": 88,
-    "platforms": [
-      "PC (Microsoft Windows)",
-      "Mac",
-      "DOS",
-      "Sega Saturn",
-      "PlayStation"
-    ],
-    "genres": [
-      "Real Time Strategy (RTS)",
-      "Strategy"
-    ]
-  },
-  {
-    "id": 193,
-    "name": "Day of the Tentacle",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/0e11b56d493ed726dea457a742ceea33.png",
-    "releaseYear": 1993,
-    "rating": 89,
-    "platforms": [
-      "Mac",
-      "DOS",
-      "Amiga"
-    ],
-    "genres": [
-      "Point-and-click",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 398031,
-    "name": "Puzzling Places: 3D Jigsaw Sim",
-    "posterUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobwsz.jpg",
-    "releaseYear": 2026,
-    "rating": 98,
-    "platforms": [
-      "PC (Microsoft Windows)"
-    ],
-    "genres": [
-      "Puzzle",
-      "Simulator",
-      "Indie"
-    ]
-  },
-  {
-    "id": 501,
-    "name": "Batman: Arkham City",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/e1c31ef0dc0ed982365e7069d95432cd.jpg",
-    "releaseYear": 2011,
-    "rating": 89,
-    "platforms": [
-      "OnLive Game System",
-      "PlayStation 3",
-      "PC (Microsoft Windows)",
-      "Xbox 360",
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Hack and slash/Beat 'em up",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 305358,
-    "name": "Love Eternal",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/f7ed0cf8361e6769dc0fb0f5afe5f909.png",
-    "releaseYear": 2026,
-    "rating": 98,
-    "platforms": [
-      "Xbox Series X|S",
-      "PlayStation 4",
-      "PC (Microsoft Windows)",
-      "PlayStation 5",
-      "Xbox One",
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Platform",
-      "Adventure",
-      "Indie"
-    ]
-  },
-  {
-    "id": 17000,
-    "name": "Stardew Valley",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/cf30b40a1573a32248fcd0ba94e67652.png",
-    "releaseYear": 2016,
-    "rating": 88,
-    "platforms": [
-      "PlayStation 4",
-      "Linux",
-      "Nintendo Switch 2",
-      "Android",
-      "PC (Microsoft Windows)",
-      "iOS",
-      "Mac",
-      "Wii U",
-      "PlayStation Vita",
-      "Xbox One",
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Simulator",
-      "Strategy",
-      "Adventure",
-      "Indie"
-    ]
-  },
-  {
-    "id": 5418,
-    "name": "Super Mario RPG: Legend of the Seven Stars",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/394ef49f1d019ccaf6caf070c403cb32.png",
-    "releaseYear": 1996,
-    "rating": 88,
-    "platforms": [
-      "Super Nintendo Entertainment System",
-      "Wii",
-      "Wii U",
-      "Super Famicom"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 1020,
-    "name": "Grand Theft Auto V",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/af0a25e27510f77d97634a6bbe653b13.jpg",
-    "releaseYear": 2013,
-    "rating": 89,
-    "platforms": [
-      "PlayStation 3",
-      "PlayStation 4",
-      "PC (Microsoft Windows)",
-      "Xbox 360",
-      "Xbox One"
-    ],
-    "genres": [
-      "Shooter",
-      "Racing",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 347668,
-    "name": "Resident Evil Requiem",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/2d5094ace83e5a770819135e5b844c59.jpg",
-    "releaseYear": 2026,
-    "rating": 90,
-    "platforms": [
-      "Xbox Series X|S",
-      "Nintendo Switch 2",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Shooter",
-      "Puzzle",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 297623,
-    "name": "ITGmania",
-    "posterUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8wsz.jpg",
-    "releaseYear": 2022,
-    "rating": 98,
-    "platforms": [
-      "Linux",
-      "PC (Microsoft Windows)",
-      "Mac"
-    ],
-    "genres": [
-      "Music",
-      "Arcade"
-    ]
-  },
-  {
-    "id": 320373,
-    "name": "Rooftop Rascal: The Spooky Cat",
-    "posterUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobucm.jpg",
-    "releaseYear": 2024,
-    "rating": 99,
-    "platforms": [
-      "PlayStation 4",
-      "PlayStation 5"
-    ],
-    "genres": []
-  },
-  {
-    "id": 376,
-    "name": "Metal Gear Solid 2: Sons of Liberty",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/6706bfb2fe357aff93949bbfd8991415.jpg",
-    "releaseYear": 2001,
-    "rating": 89,
-    "platforms": [
-      "PlayStation 2"
-    ],
-    "genres": [
-      "Shooter",
-      "Tactical",
-      "Adventure"
-    ]
-  },
-  {
     "id": 379,
     "name": "Metal Gear Solid 3: Snake Eater",
     "posterUrl": "https://cdn2.steamgriddb.com/grid/e081a744d57449a7ea5b84935e1adb9c.png",
@@ -647,683 +78,6 @@
       "Tactical",
       "Adventure"
     ]
-  },
-  {
-    "id": 376092,
-    "name": "Silly Survivors",
-    "posterUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/coaw90.jpg",
-    "releaseYear": 2025,
-    "rating": 100,
-    "platforms": [
-      "PC (Microsoft Windows)"
-    ],
-    "genres": [
-      "Indie"
-    ]
-  },
-  {
-    "id": 145278,
-    "name": "Arcade Spirits: The New Challengers",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/bf9fce8e0ec6884cb3551434c06e4b66.png",
-    "releaseYear": 2022,
-    "rating": 100,
-    "platforms": [
-      "Xbox Series X|S",
-      "PlayStation 4",
-      "PC (Microsoft Windows)",
-      "PlayStation 5",
-      "Xbox One",
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Simulator",
-      "Adventure",
-      "Indie",
-      "Arcade",
-      "Visual Novel"
-    ]
-  },
-  {
-    "id": 135341,
-    "name": "Adastra",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/575564c08fa9dd3d380ddfcf70d50160.png",
-    "releaseYear": 2020,
-    "rating": 99,
-    "platforms": [
-      "Linux",
-      "Android",
-      "PC (Microsoft Windows)",
-      "Mac"
-    ],
-    "genres": [
-      "Visual Novel"
-    ]
-  },
-  {
-    "id": 74,
-    "name": "Mass Effect 2",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/f56766ef62b1d6867e6ace4bfc82c82e.png",
-    "releaseYear": 2010,
-    "rating": 93,
-    "platforms": [
-      "PlayStation 3",
-      "PC (Microsoft Windows)",
-      "Xbox 360"
-    ],
-    "genres": [
-      "Shooter",
-      "Role-playing (RPG)",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 260402,
-    "name": "Bloodthief",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/5bb488f8b1061c7d0d4e20ff0f00d4aa.png",
-    "releaseYear": 2025,
-    "rating": 100,
-    "platforms": [
-      "Linux",
-      "PC (Microsoft Windows)"
-    ],
-    "genres": [
-      "Indie"
-    ]
-  },
-  {
-    "id": 318575,
-    "name": "Epiko Regal",
-    "posterUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8wq0.jpg",
-    "releaseYear": 2024,
-    "rating": 98,
-    "platforms": [
-      "Android",
-      "iOS"
-    ],
-    "genres": [
-      "Real Time Strategy (RTS)",
-      "Strategy",
-      "Tactical",
-      "Card & Board Game"
-    ]
-  },
-  {
-    "id": 226995,
-    "name": "Planet Zoo: Aquatic Pack",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/f14b6444d23c8a8b2aeab52d54cf915e.png",
-    "releaseYear": 2020,
-    "rating": 100,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)"
-    ],
-    "genres": [
-      "Simulator",
-      "Strategy"
-    ]
-  },
-  {
-    "id": 41,
-    "name": "Deus Ex",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/ca20e1d8e1d19a92fbfc28f0b467dd5b.png",
-    "releaseYear": 2000,
-    "rating": 88,
-    "platforms": [
-      "Linux",
-      "PC (Microsoft Windows)",
-      "Mac"
-    ],
-    "genres": [
-      "Shooter",
-      "Role-playing (RPG)",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 25076,
-    "name": "Red Dead Redemption 2",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/a5bff26f8f2adb1ec19661b4c4bc9f86.png",
-    "releaseYear": 2018,
-    "rating": 94,
-    "platforms": [
-      "Google Stadia",
-      "PlayStation 4",
-      "PC (Microsoft Windows)",
-      "Xbox One"
-    ],
-    "genres": [
-      "Shooter",
-      "Role-playing (RPG)",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 732,
-    "name": "Grand Theft Auto: San Andreas",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/c4e954b93dc03b0f846db4051a1e6d25.png",
-    "releaseYear": 2004,
-    "rating": 92,
-    "platforms": [
-      "Xbox",
-      "PlayStation 3",
-      "PlayStation 4",
-      "Android",
-      "PC (Microsoft Windows)",
-      "iOS",
-      "Mac",
-      "Xbox 360",
-      "PlayStation 2"
-    ],
-    "genres": [
-      "Shooter",
-      "Racing",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 324996,
-    "name": "Rooftop Rascal: The Glitch Cat",
-    "posterUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobucl.jpg",
-    "releaseYear": 2024,
-    "rating": 97,
-    "platforms": [
-      "PlayStation 4",
-      "PlayStation 5"
-    ],
-    "genres": []
-  },
-  {
-    "id": 19686,
-    "name": "Resident Evil 2",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/0dcc410f031086c33eb571e62007951b.png",
-    "releaseYear": 2019,
-    "rating": 90,
-    "platforms": [
-      "Xbox Series X|S",
-      "PlayStation 4",
-      "PC (Microsoft Windows)",
-      "iOS",
-      "PlayStation 5",
-      "Mac",
-      "Xbox One"
-    ],
-    "genres": [
-      "Shooter",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 315335,
-    "name": "Guilty Gear: Strive - Nintendo Switch Edition",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/b9308e657ab39f0059e6207c2fbf6aee.png",
-    "releaseYear": 2025,
-    "rating": 100,
-    "platforms": [
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Fighting",
-      "Arcade"
-    ]
-  },
-  {
-    "id": 76882,
-    "name": "Sekiro: Shadows Die Twice",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/97771715c7dd7daf009feeb60c49915a.png",
-    "releaseYear": 2019,
-    "rating": 90,
-    "platforms": [
-      "Google Stadia",
-      "PlayStation 4",
-      "PC (Microsoft Windows)",
-      "Xbox One"
-    ],
-    "genres": [
-      "Adventure"
-    ]
-  },
-  {
-    "id": 127,
-    "name": "Assassin's Creed II",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/30a53d130bbe822d676ababadbd3fffd.png",
-    "releaseYear": 2009,
-    "rating": 88,
-    "platforms": [
-      "PlayStation 3",
-      "PC (Microsoft Windows)",
-      "Mac",
-      "Xbox 360"
-    ],
-    "genres": [
-      "Platform",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 1070,
-    "name": "Super Mario World",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/2bf887cd37fa5ba4ce0ba9713013a4f7.png",
-    "releaseYear": 1990,
-    "rating": 96,
-    "platforms": [
-      "Arcade",
-      "Super Nintendo Entertainment System",
-      "Wii",
-      "Wii U",
-      "New Nintendo 3DS",
-      "Super Famicom"
-    ],
-    "genres": [
-      "Platform",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 6,
-    "name": "Baldur's Gate II: Shadows of Amn",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/ac841a7305b1f59dc1f462df0fdea70a.png",
-    "releaseYear": 2000,
-    "rating": 89,
-    "platforms": [
-      "Linux",
-      "PC (Microsoft Windows)",
-      "Mac"
-    ],
-    "genres": [
-      "Role-playing (RPG)"
-    ]
-  },
-  {
-    "id": 1029,
-    "name": "The Legend of Zelda: Ocarina of Time",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/ed89e6477ff6a465891a5f17f77948ae.png",
-    "releaseYear": 1998,
-    "rating": 92,
-    "platforms": [
-      "Wii",
-      "Nintendo 64",
-      "64DD",
-      "Wii U"
-    ],
-    "genres": [
-      "Puzzle",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 5503,
-    "name": "Batman: Arkham Knight",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/f84188cb2659a5c8c875d7f0e9fc847c.jpg",
-    "releaseYear": 2015,
-    "rating": 88,
-    "platforms": [
-      "PlayStation 4",
-      "PC (Microsoft Windows)",
-      "Xbox One",
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Hack and slash/Beat 'em up",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 37001,
-    "name": "Ori and the Will of the Wisps",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/cf1d15ac3ce0255dd636fb020e51a23a.png",
-    "releaseYear": 2020,
-    "rating": 89,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "Xbox One",
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Platform",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 339152,
-    "name": "Wortgewandt",
-    "posterUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9n4u.jpg",
-    "releaseYear": 2025,
-    "rating": 100,
-    "platforms": [
-      "Web browser"
-    ],
-    "genres": [
-      "Quiz/Trivia"
-    ]
-  },
-  {
-    "id": 40477,
-    "name": "Slay the Spire",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/9ad067558ea2bd2a1239bfa2da998146.png",
-    "releaseYear": 2019,
-    "rating": 89,
-    "platforms": [
-      "PlayStation 4",
-      "Linux",
-      "Android",
-      "PC (Microsoft Windows)",
-      "iOS",
-      "Mac",
-      "Xbox One",
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Strategy",
-      "Turn-based strategy (TBS)",
-      "Adventure",
-      "Indie",
-      "Card & Board Game"
-    ]
-  },
-  {
-    "id": 434,
-    "name": "Red Dead Redemption",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/94f88ceb11d0e2e52a7344dc94648c75.png",
-    "releaseYear": 2010,
-    "rating": 91,
-    "platforms": [
-      "PlayStation 3",
-      "PC (Microsoft Windows)",
-      "Xbox 360"
-    ],
-    "genres": [
-      "Shooter",
-      "Role-playing (RPG)",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 264773,
-    "name": "Lizards Must Die",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/5ad9b7afe523dc7606a068922a1a41ae.png",
-    "releaseYear": 2023,
-    "rating": 99,
-    "platforms": [
-      "PC (Microsoft Windows)"
-    ],
-    "genres": [
-      "Hack and slash/Beat 'em up",
-      "Indie"
-    ]
-  },
-  {
-    "id": 11800,
-    "name": "Divinity: Original Sin II",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/0f530b1c3f33c6409f7e4f10ca8e3e96.jpg",
-    "releaseYear": 2017,
-    "rating": 89,
-    "platforms": [
-      "PC (Microsoft Windows)",
-      "iOS",
-      "Mac"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Strategy",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 1103,
-    "name": "Super Metroid",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/167248f62dbaf61aff4b7d1be9439282.jpg",
-    "releaseYear": 1994,
-    "rating": 96,
-    "platforms": [
-      "Super Nintendo Entertainment System",
-      "Wii",
-      "Wii U",
-      "New Nintendo 3DS",
-      "Super Famicom"
-    ],
-    "genres": [
-      "Shooter",
-      "Platform",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 7334,
-    "name": "Bloodborne",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/021399af062379408df9c358a1a83cdb.png",
-    "releaseYear": 2015,
-    "rating": 91,
-    "platforms": [
-      "PlayStation 4"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 136879,
-    "name": "Black Myth: Wukong",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/9130e5ada60abd2e13efb19571cede1d.png",
-    "releaseYear": 2024,
-    "rating": 89,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Hack and slash/Beat 'em up",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 269473,
-    "name": "Resonite",
-    "posterUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co75ut.jpg",
-    "releaseYear": 2023,
-    "rating": 100,
-    "platforms": [
-      "Linux",
-      "PC (Microsoft Windows)",
-      "SteamVR"
-    ],
-    "genres": [
-      "Indie"
-    ]
-  },
-  {
-    "id": 145445,
-    "name": "Arches",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/9bfa396de3ea84056032a0e6d7e04b96.png",
-    "releaseYear": 2024,
-    "rating": 100,
-    "platforms": [
-      "Linux",
-      "Android",
-      "PC (Microsoft Windows)",
-      "Mac"
-    ],
-    "genres": [
-      "Indie",
-      "Visual Novel"
-    ]
-  },
-  {
-    "id": 391882,
-    "name": "Chicken Derby",
-    "posterUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/coblnv.jpg",
-    "releaseYear": 2021,
-    "rating": 98,
-    "platforms": [
-      "PC (Microsoft Windows)"
-    ],
-    "genres": [
-      "Racing"
-    ]
-  },
-  {
-    "id": 1942,
-    "name": "The Witcher 3: Wild Hunt",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/4904f82c12cecf6ec070fe77d7e913ce.png",
-    "releaseYear": 2015,
-    "rating": 93,
-    "platforms": [
-      "Xbox Series X|S",
-      "PlayStation 4",
-      "PC (Microsoft Windows)",
-      "PlayStation 5",
-      "Xbox One",
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 12503,
-    "name": "The Witcher 3: Wild Hunt - Hearts of Stone",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/4904f82c12cecf6ec070fe77d7e913ce.png",
-    "releaseYear": 2015,
-    "rating": 92,
-    "platforms": [
-      "Xbox Series X|S",
-      "PlayStation 4",
-      "PC (Microsoft Windows)",
-      "PlayStation 5",
-      "Xbox One",
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 36926,
-    "name": "Monster Hunter: World",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/4b3dd8900b9635955aeefd0d8e5e3da5.png",
-    "releaseYear": 2018,
-    "rating": 89,
-    "platforms": [
-      "PlayStation 4",
-      "PC (Microsoft Windows)",
-      "Xbox One"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 26226,
-    "name": "Celeste",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/074aed57c243ae7020971ca7c9fe0f29.png",
-    "releaseYear": 2018,
-    "rating": 89,
-    "platforms": [
-      "Google Stadia",
-      "PlayStation 4",
-      "Linux",
-      "PC (Microsoft Windows)",
-      "Mac",
-      "Xbox One",
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Platform",
-      "Adventure",
-      "Indie"
-    ]
-  },
-  {
-    "id": 236970,
-    "name": "Viticulture: Essential Edition - Tuscany Expansion",
-    "posterUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8sf9.jpg",
-    "releaseYear": 2023,
-    "rating": 100,
-    "platforms": [
-      "Linux",
-      "PC (Microsoft Windows)",
-      "Mac"
-    ],
-    "genres": [
-      "Strategy",
-      "Indie"
-    ]
-  },
-  {
-    "id": 730,
-    "name": "Grand Theft Auto III",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/7856a3a5b530f10a69bec1c57d90330e.png",
-    "releaseYear": 2001,
-    "rating": 90,
-    "platforms": [
-      "Xbox",
-      "PlayStation 4",
-      "Android",
-      "PC (Microsoft Windows)",
-      "iOS",
-      "Mac",
-      "PlayStation 2"
-    ],
-    "genres": [
-      "Shooter",
-      "Racing",
-      "Simulator",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 245754,
-    "name": "Dawnfolk",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/eca5c9fab7bb6a1038991a9a22b1328e.png",
-    "releaseYear": 2025,
-    "rating": 100,
-    "platforms": [
-      "Linux",
-      "PC (Microsoft Windows)",
-      "Mac",
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Puzzle",
-      "Role-playing (RPG)",
-      "Strategy",
-      "Adventure",
-      "Indie"
-    ]
-  },
-  {
-    "id": 1009,
-    "name": "The Last of Us",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/849d7b8124e44421cf640466299db4dc.png",
-    "releaseYear": 2013,
-    "rating": 92,
-    "platforms": [
-      "PlayStation 3"
-    ],
-    "genres": [
-      "Shooter",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 328386,
-    "name": "Rooftop Rascal: The Claus Cat",
-    "posterUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/coam4l.jpg",
-    "releaseYear": 2025,
-    "rating": 100,
-    "platforms": [
-      "PlayStation 4",
-      "PlayStation 5"
-    ],
-    "genres": []
   },
   {
     "id": 538,
@@ -1340,676 +94,6 @@
     ],
     "genres": [
       "Shooter",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 315893,
-    "name": "Rooftop Rascal: The Midnight Cat",
-    "posterUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co8tkn.jpg",
-    "releaseYear": 2024,
-    "rating": 99,
-    "platforms": [
-      "PlayStation 4",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Platform",
-      "Indie"
-    ]
-  },
-  {
-    "id": 1559,
-    "name": "Pokémon FireRed Version",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/02364616164166b84371270ca2e6eda2.png",
-    "releaseYear": 2004,
-    "rating": 92,
-    "platforms": [
-      "Game Boy Advance",
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Turn-based strategy (TBS)",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 245,
-    "name": "Command & Conquer: Red Alert 2",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/aa58b7abc80251c222053fb5d3c87a06.png",
-    "releaseYear": 2000,
-    "rating": 88,
-    "platforms": [
-      "PC (Microsoft Windows)"
-    ],
-    "genres": [
-      "Real Time Strategy (RTS)",
-      "Strategy"
-    ]
-  },
-  {
-    "id": 126098,
-    "name": "Half-Life: Alyx",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/e76790c1ea38f031afac21327b19b03c.png",
-    "releaseYear": 2020,
-    "rating": 93,
-    "platforms": [
-      "SteamVR"
-    ],
-    "genres": [
-      "Shooter",
-      "Puzzle",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 512,
-    "name": "Uncharted 3: Drake's Deception",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/1e361d5309d990c95e367471f9533f79.png",
-    "releaseYear": 2011,
-    "rating": 89,
-    "platforms": [
-      "PlayStation 3"
-    ],
-    "genres": [
-      "Shooter",
-      "Platform",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 2909,
-    "name": "The Legend of Zelda: A Link Between Worlds",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/6e2376385359dc8bb6ee14e594e924d3.png",
-    "releaseYear": 2013,
-    "rating": 90,
-    "platforms": [
-      "Nintendo 3DS"
-    ],
-    "genres": [
-      "Puzzle",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 134582,
-    "name": "Ratchet & Clank: Rift Apart",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/e30c7d71dd22da8264499ef52ad97c81.png",
-    "releaseYear": 2021,
-    "rating": 88,
-    "platforms": [
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Shooter",
-      "Platform",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 2207,
-    "name": "Shadow of the Colossus",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/acaca856b38c00847ecc1ca2c02ae4b4.png",
-    "releaseYear": 2005,
-    "rating": 89,
-    "platforms": [
-      "PlayStation 2"
-    ],
-    "genres": [
-      "Platform",
-      "Puzzle",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 1039,
-    "name": "The Legend of Zelda: Ocarina of Time 3D",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/ab6fe89d793b5a3c4153692779cb0680.png",
-    "releaseYear": 2011,
-    "rating": 91,
-    "platforms": [
-      "Nintendo 3DS"
-    ],
-    "genres": [
-      "Puzzle",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 426,
-    "name": "Final Fantasy III",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/1c87d4775f15cd8d3bc76acd5db9d32a.png",
-    "releaseYear": 1994,
-    "rating": 95,
-    "platforms": [
-      "Super Nintendo Entertainment System",
-      "Wii",
-      "Wii U",
-      "New Nintendo 3DS",
-      "Super Famicom"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 2985,
-    "name": "Persona 4 Golden",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/5cfeeeb27c39fc6e74d7ca2e1f205261.png",
-    "releaseYear": 2012,
-    "rating": 90,
-    "platforms": [
-      "PlayStation Vita"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 9600,
-    "name": "Persona 4",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/ad462c645b2eaa491d5ba87c8155df8a.png",
-    "releaseYear": 2008,
-    "rating": 91,
-    "platforms": [
-      "PlayStation 3",
-      "PlayStation 2"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 6036,
-    "name": "The Last of Us Remastered",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/8328a70fd14eddbcc8464712aaf52252.png",
-    "releaseYear": 2014,
-    "rating": 95,
-    "platforms": [
-      "PlayStation 4"
-    ],
-    "genres": [
-      "Shooter",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 279377,
-    "name": "Vampire Survivors: Emergency Meeting",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/3bf40127ca1dca6b367418c560ed9ee9.png",
-    "releaseYear": 2023,
-    "rating": 100,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "Xbox One",
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Hack and slash/Beat 'em up",
-      "Indie"
-    ]
-  },
-  {
-    "id": 1033,
-    "name": "The Legend of Zelda: The Wind Waker",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/304678bd2a45713cc7bfcb1a9e19c8e4.png",
-    "releaseYear": 2002,
-    "rating": 89,
-    "platforms": [
-      "Nintendo GameCube"
-    ],
-    "genres": [
-      "Puzzle",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 132181,
-    "name": "Resident Evil 4",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/46cc597bae1fee3cd19314f32c6cb4f0.png",
-    "releaseYear": 2023,
-    "rating": 92,
-    "platforms": [
-      "Xbox Series X|S",
-      "PlayStation 4",
-      "PC (Microsoft Windows)",
-      "iOS",
-      "PlayStation 5",
-      "Mac"
-    ],
-    "genres": [
-      "Shooter",
-      "Puzzle",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 112874,
-    "name": "Horizon Forbidden West",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/79dd8d1460dc545befcfa33f4087c397.png",
-    "releaseYear": 2022,
-    "rating": 89,
-    "platforms": [
-      "PlayStation 4",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 1036,
-    "name": "The Legend of Zelda: Twilight Princess",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/36d6a670240681fbbf69cbba0c9065ce.png",
-    "releaseYear": 2006,
-    "rating": 91,
-    "platforms": [
-      "Nintendo GameCube"
-    ],
-    "genres": [
-      "Puzzle",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 2899,
-    "name": "EarthBound",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/7e9a8e67197bad8ec246bde2c4cebfb9.png",
-    "releaseYear": 1994,
-    "rating": 91,
-    "platforms": [
-      "Super Nintendo Entertainment System",
-      "Wii U",
-      "New Nintendo 3DS",
-      "Game Boy Advance",
-      "Super Famicom"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Turn-based strategy (TBS)",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 654,
-    "name": "Company of Heroes",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/2c4f1d786b580911b671eec42bf23863.png",
-    "releaseYear": 2006,
-    "rating": 90,
-    "platforms": [
-      "PC (Microsoft Windows)",
-      "iOS"
-    ],
-    "genres": [
-      "Real Time Strategy (RTS)",
-      "Strategy"
-    ]
-  },
-  {
-    "id": 338072,
-    "name": "The Legend of Zelda: Breath of the Wild - Nintendo Switch 2 Edition",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/962298e37cf92c32eb510dc961d7b664.jpg",
-    "releaseYear": 2025,
-    "rating": 100,
-    "platforms": [
-      "Nintendo Switch 2"
-    ],
-    "genres": [
-      "Puzzle",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 200905,
-    "name": "OneShot: World Machine Edition",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/3aa79f8a103d510b16eb9b57edd1a66c.jpg",
-    "releaseYear": 2022,
-    "rating": 98,
-    "platforms": [
-      "PlayStation 4",
-      "PC (Microsoft Windows)",
-      "Mac",
-      "Xbox One",
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Puzzle",
-      "Role-playing (RPG)",
-      "Adventure",
-      "Indie"
-    ]
-  },
-  {
-    "id": 163826,
-    "name": "Blake: The Visual Novel",
-    "posterUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3mcj.jpg",
-    "releaseYear": 2021,
-    "rating": 100,
-    "platforms": [
-      "PC (Microsoft Windows)",
-      "Mac"
-    ],
-    "genres": [
-      "Indie"
-    ]
-  },
-  {
-    "id": 26758,
-    "name": "Super Mario Odyssey",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/505870c8848f2d550944bf64008c9472.png",
-    "releaseYear": 2017,
-    "rating": 93,
-    "platforms": [
-      "Nintendo Switch 2",
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Platform",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 21892,
-    "name": "Fallout 3: Game of the Year Edition",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/e2283617765a268cd5d2c9cd8f2ccb18.jpg",
-    "releaseYear": 2009,
-    "rating": 91,
-    "platforms": [
-      "PlayStation 3",
-      "PC (Microsoft Windows)",
-      "Xbox 360"
-    ],
-    "genres": [
-      "Shooter",
-      "Role-playing (RPG)",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 565,
-    "name": "Uncharted 2: Among Thieves",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/66dcd06dc5ad523aaeae95e64187e4ca.png",
-    "releaseYear": 2009,
-    "rating": 92,
-    "platforms": [
-      "PlayStation 3"
-    ],
-    "genres": [
-      "Shooter",
-      "Platform",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 481,
-    "name": "Silent Hill 2",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/6e5629f2ab9973c09e947a0e1100fb52.png",
-    "releaseYear": 2001,
-    "rating": 91,
-    "platforms": [
-      "PlayStation 2"
-    ],
-    "genres": [
-      "Puzzle",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 7346,
-    "name": "The Legend of Zelda: Breath of the Wild",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/121b81f7d167ca2c24fdab4f044048f8.png",
-    "releaseYear": 2017,
-    "rating": 95,
-    "platforms": [
-      "Wii U",
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Puzzle",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 26845,
-    "name": "Fire Emblem: Three Houses",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/849460026d42c840faab34d4d3b9fc33.png",
-    "releaseYear": 2019,
-    "rating": 89,
-    "platforms": [
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Strategy",
-      "Turn-based strategy (TBS)",
-      "Tactical",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 19565,
-    "name": "Marvel's Spider-Man",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/1bc38477bc1f540837e39eb0b8dbb520.png",
-    "releaseYear": 2018,
-    "rating": 88,
-    "platforms": [
-      "PlayStation 4"
-    ],
-    "genres": [
-      "Hack and slash/Beat 'em up",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 14593,
-    "name": "Hollow Knight",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/d18c832e8c956b4ef8b92862e6bf470d.png",
-    "releaseYear": 2017,
-    "rating": 92,
-    "platforms": [
-      "Xbox Series X|S",
-      "PlayStation 4",
-      "Linux",
-      "Nintendo Switch 2",
-      "PC (Microsoft Windows)",
-      "PlayStation 5",
-      "Mac",
-      "Wii U",
-      "Xbox One",
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Platform",
-      "Adventure",
-      "Indie"
-    ]
-  },
-  {
-    "id": 305152,
-    "name": "Clair Obscur: Expedition 33",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/e7fff0c2739cf86c8aa5559eefe74220.png",
-    "releaseYear": 2025,
-    "rating": 89,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Adventure",
-      "Indie"
-    ]
-  },
-  {
-    "id": 322086,
-    "name": "Burgie's Cozy Kitchen",
-    "posterUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9iso.jpg",
-    "releaseYear": 2025,
-    "rating": 100,
-    "platforms": [
-      "PC (Microsoft Windows)"
-    ],
-    "genres": [
-      "Simulator"
-    ]
-  },
-  {
-    "id": 13166,
-    "name": "The Witcher 3: Wild Hunt - Blood and Wine",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/4904f82c12cecf6ec070fe77d7e913ce.png",
-    "releaseYear": 2016,
-    "rating": 94,
-    "platforms": [
-      "Xbox Series X|S",
-      "PlayStation 4",
-      "PC (Microsoft Windows)",
-      "PlayStation 5",
-      "Xbox One",
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 3349,
-    "name": "Paper Mario: The Thousand-Year Door",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/44f26075c7393838535d77f42fcf6714.png",
-    "releaseYear": 2004,
-    "rating": 91,
-    "platforms": [
-      "Nintendo GameCube"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 22,
-    "name": "System Shock 2",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/7a9114855a255f1dcf1abaae60abb86e.png",
-    "releaseYear": 1999,
-    "rating": 89,
-    "platforms": [
-      "Linux",
-      "PC (Microsoft Windows)",
-      "Mac"
-    ],
-    "genres": [
-      "Shooter",
-      "Role-playing (RPG)"
-    ]
-  },
-  {
-    "id": 238878,
-    "name": "Dr. Robotnik's Ring Racers",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/327f648c47d0b5bc1a6be17816a7370b.jpg",
-    "releaseYear": 2024,
-    "rating": 99,
-    "platforms": [
-      "Linux",
-      "PC (Microsoft Windows)",
-      "Mac"
-    ],
-    "genres": [
-      "Racing"
-    ]
-  },
-  {
-    "id": 140839,
-    "name": "Mass Effect Legendary Edition",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/44d8d212fe51107e4ab09ae41bf65945.png",
-    "releaseYear": 2021,
-    "rating": 89,
-    "platforms": [
-      "Xbox Series X|S",
-      "PlayStation 4",
-      "PC (Microsoft Windows)",
-      "PlayStation 5",
-      "Xbox One"
-    ],
-    "genres": [
-      "Shooter",
-      "Role-playing (RPG)",
-      "Strategy",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 26764,
-    "name": "Mario Kart 8 Deluxe",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/9cd6d894098e748716960bfcf9dbe115.png",
-    "releaseYear": 2017,
-    "rating": 89,
-    "platforms": [
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Racing",
-      "Arcade"
-    ]
-  },
-  {
-    "id": 12517,
-    "name": "Undertale",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/aba1e5182d973f43f2b3fd755f8e2314.png",
-    "releaseYear": 2015,
-    "rating": 91,
-    "platforms": [
-      "PlayStation 4",
-      "Linux",
-      "PC (Microsoft Windows)",
-      "Mac",
-      "PlayStation Vita",
-      "Xbox One",
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Puzzle",
-      "Role-playing (RPG)",
-      "Turn-based strategy (TBS)",
-      "Adventure",
-      "Indie"
-    ]
-  },
-  {
-    "id": 150100,
-    "name": "Captain of Industry",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/5759b6f27a9f282701dbe0e58443ad8b.png",
-    "releaseYear": 2022,
-    "rating": 98,
-    "platforms": [
-      "PC (Microsoft Windows)"
-    ],
-    "genres": [
-      "Simulator",
-      "Strategy",
-      "Indie"
-    ]
-  },
-  {
-    "id": 37094,
-    "name": "Shadow of the Colossus",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/acaca856b38c00847ecc1ca2c02ae4b4.png",
-    "releaseYear": 2018,
-    "rating": 89,
-    "platforms": [
-      "PlayStation 4"
-    ],
-    "genres": [
-      "Platform",
-      "Puzzle",
       "Adventure"
     ]
   },
@@ -2036,45 +120,328 @@
     ]
   },
   {
-    "id": 75235,
-    "name": "Ghost of Tsushima",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/18603cfb68da38e3f9900c699428ca9b.png",
-    "releaseYear": 2020,
-    "rating": 90,
+    "id": 376092,
+    "name": "Silly Survivors",
+    "posterUrl": "https://images.igdb.com/igdb/image/upload/t_1080p/coaw90.jpg",
+    "releaseYear": 2025,
+    "rating": 100,
     "platforms": [
+      "PC (Microsoft Windows)"
+    ],
+    "genres": [
+      "Indie"
+    ]
+  },
+  {
+    "id": 1221,
+    "name": "Kingdom Hearts II",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/4de0f7455c14e8aee7baa617ea72c6a3.png",
+    "releaseYear": 2005,
+    "rating": 89,
+    "platforms": [
+      "PlayStation 3",
       "PlayStation 4",
-      "PlayStation 5"
+      "PlayStation 2"
     ],
     "genres": [
       "Role-playing (RPG)",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 132181,
+    "name": "Resident Evil 4",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/46cc597bae1fee3cd19314f32c6cb4f0.png",
+    "releaseYear": 2023,
+    "rating": 92,
+    "platforms": [
+      "Xbox Series X|S",
+      "PlayStation 4",
+      "PC (Microsoft Windows)",
+      "iOS",
+      "PlayStation 5",
+      "Mac"
+    ],
+    "genres": [
+      "Shooter",
+      "Puzzle",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 297623,
+    "name": "ITGmania",
+    "posterUrl": "https://images.igdb.com/igdb/image/upload/t_1080p/co8wsz.jpg",
+    "releaseYear": 2022,
+    "rating": 98,
+    "platforms": [
+      "Linux",
+      "PC (Microsoft Windows)",
+      "Mac"
+    ],
+    "genres": [
+      "Music",
+      "Arcade"
+    ]
+  },
+  {
+    "id": 376,
+    "name": "Metal Gear Solid 2: Sons of Liberty",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/6706bfb2fe357aff93949bbfd8991415.jpg",
+    "releaseYear": 2001,
+    "rating": 89,
+    "platforms": [
+      "PlayStation 2"
+    ],
+    "genres": [
+      "Shooter",
+      "Tactical",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 287975,
+    "name": "Elden Ring: Shadow of the Erdtree Edition",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/73d5e7c59ebbbaf1fef3850dee8c6a1f.png",
+    "releaseYear": 2024,
+    "rating": 100,
+    "platforms": [
+      "Xbox Series X|S",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox One"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 418,
+    "name": "Final Fantasy X",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/95831099d5d2171aea50c24de5332f73.jpg",
+    "releaseYear": 2001,
+    "rating": 91,
+    "platforms": [
+      "PlayStation 2"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 492,
+    "name": "Gears of War 3",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/b8feb3cce1b12e57ed29dba92abb169a.png",
+    "releaseYear": 2011,
+    "rating": 89,
+    "platforms": [
+      "Xbox 360"
+    ],
+    "genres": [
+      "Shooter"
+    ]
+  },
+  {
+    "id": 1352,
+    "name": "Journey",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/4d815e0dd3244bf08f3acc60d9498027.png",
+    "releaseYear": 2012,
+    "rating": 90,
+    "platforms": [
+      "PlayStation 3",
+      "PlayStation 4",
+      "PC (Microsoft Windows)",
+      "iOS"
+    ],
+    "genres": [
+      "Platform",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 302168,
+    "name": "Warhammer 40,000: Rogue Trader - Void Shadows",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/592b9e4f528d1a6aa6802e9595262dbd.png",
+    "releaseYear": 2024,
+    "rating": 100,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5",
+      "Mac"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Strategy",
+      "Turn-based strategy (TBS)",
+      "Tactical",
+      "Adventure",
+      "Indie"
+    ]
+  },
+  {
+    "id": 391882,
+    "name": "Chicken Derby",
+    "posterUrl": "https://images.igdb.com/igdb/image/upload/t_1080p/coblnv.jpg",
+    "releaseYear": 2021,
+    "rating": 98,
+    "platforms": [
+      "PC (Microsoft Windows)"
+    ],
+    "genres": [
+      "Racing"
+    ]
+  },
+  {
+    "id": 2135,
+    "name": "Bayonetta 2",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/38b86da11311413fd0c09044b27de851.png",
+    "releaseYear": 2014,
+    "rating": 89,
+    "platforms": [
+      "Wii U"
+    ],
+    "genres": [
+      "Shooter",
       "Hack and slash/Beat 'em up",
       "Adventure"
     ]
   },
   {
-    "id": 1802,
-    "name": "Chrono Trigger",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/abc617f05e41620356626cf7761d5143.png",
-    "releaseYear": 1995,
-    "rating": 92,
+    "id": 1985,
+    "name": "Metal Gear Solid V: The Phantom Pain",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/727d89c97ccaa39b9f2b848bdce6aca5.jpg",
+    "releaseYear": 2015,
+    "rating": 90,
+    "platforms": [
+      "PlayStation 3",
+      "PlayStation 4",
+      "PC (Microsoft Windows)",
+      "Xbox 360",
+      "Xbox One"
+    ],
+    "genres": [
+      "Shooter",
+      "Tactical",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 145445,
+    "name": "Arches",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/9bfa396de3ea84056032a0e6d7e04b96.png",
+    "releaseYear": 2024,
+    "rating": 100,
+    "platforms": [
+      "Linux",
+      "Android",
+      "PC (Microsoft Windows)",
+      "Mac"
+    ],
+    "genres": [
+      "Indie",
+      "Visual Novel"
+    ]
+  },
+  {
+    "id": 1026,
+    "name": "The Legend of Zelda: A Link to the Past",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/0e4ad552eaa734c35c136c11e7183efa.png",
+    "releaseYear": 1991,
+    "rating": 96,
     "platforms": [
       "Satellaview",
       "Super Nintendo Entertainment System",
       "Wii",
+      "Wii U",
+      "New Nintendo 3DS",
       "Super Famicom"
     ],
     "genres": [
-      "Role-playing (RPG)"
+      "Puzzle",
+      "Adventure"
     ]
   },
   {
-    "id": 1105,
-    "name": "Metroid Prime",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/0327d825efc9703e56afaa2e9e1cef9e.png",
-    "releaseYear": 2002,
+    "id": 45181,
+    "name": "Mass Effect Trilogy",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/425b39bda3156cf22e7ddd3d33e9a496.png",
+    "releaseYear": 2012,
     "rating": 93,
     "platforms": [
-      "Nintendo GameCube"
+      "PlayStation 3",
+      "PC (Microsoft Windows)",
+      "Xbox 360"
+    ],
+    "genres": [
+      "Shooter",
+      "Role-playing (RPG)",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 264773,
+    "name": "Lizards Must Die",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/5ad9b7afe523dc7606a068922a1a41ae.png",
+    "releaseYear": 2023,
+    "rating": 99,
+    "platforms": [
+      "PC (Microsoft Windows)"
+    ],
+    "genres": [
+      "Hack and slash/Beat 'em up",
+      "Indie"
+    ]
+  },
+  {
+    "id": 1070,
+    "name": "Super Mario World",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/2bf887cd37fa5ba4ce0ba9713013a4f7.png",
+    "releaseYear": 1990,
+    "rating": 96,
+    "platforms": [
+      "Arcade",
+      "Super Nintendo Entertainment System",
+      "Wii",
+      "Wii U",
+      "New Nintendo 3DS",
+      "Super Famicom"
+    ],
+    "genres": [
+      "Platform",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 293,
+    "name": "Sid Meier's Civilization IV",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/be925cdb6f03c1b58212df4c2831aedd.png",
+    "releaseYear": 2005,
+    "rating": 90,
+    "platforms": [
+      "PC (Microsoft Windows)",
+      "Mac"
+    ],
+    "genres": [
+      "Simulator",
+      "Strategy",
+      "Turn-based strategy (TBS)"
+    ]
+  },
+  {
+    "id": 1103,
+    "name": "Super Metroid",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/167248f62dbaf61aff4b7d1be9439282.jpg",
+    "releaseYear": 1994,
+    "rating": 96,
+    "platforms": [
+      "Super Nintendo Entertainment System",
+      "Wii",
+      "Wii U",
+      "New Nintendo 3DS",
+      "Super Famicom"
     ],
     "genres": [
       "Shooter",
@@ -2083,20 +450,91 @@
     ]
   },
   {
-    "id": 364,
-    "name": "Heroes of Might and Magic III: The Restoration of Erathia",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/574e04d3b783927e028982e71467bf13.png",
-    "releaseYear": 1999,
-    "rating": 91,
+    "id": 426,
+    "name": "Final Fantasy III",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/16e9189c287cb1550a17f4ad8ba043ea.png",
+    "releaseYear": 1994,
+    "rating": 95,
     "platforms": [
-      "Linux",
-      "PC (Microsoft Windows)",
-      "Mac"
+      "Super Nintendo Entertainment System",
+      "Wii",
+      "Wii U",
+      "New Nintendo 3DS",
+      "Super Famicom"
     ],
     "genres": [
       "Role-playing (RPG)",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 7170,
+    "name": "Ico",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/54c8077a3713597237f91535a6082b1f.jpg",
+    "releaseYear": 2001,
+    "rating": 91,
+    "platforms": [
+      "PlayStation 2"
+    ],
+    "genres": [
+      "Platform",
+      "Puzzle",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 902,
+    "name": "Sid Meier's Civilization",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/d4503302ef31f389c394407004751ca9.png",
+    "releaseYear": 1991,
+    "rating": 90,
+    "platforms": [
+      "PC-9800 Series",
+      "Atari ST/STE",
+      "PC (Microsoft Windows)",
+      "Mac",
+      "DOS",
+      "Amiga"
+    ],
+    "genres": [
       "Strategy",
       "Turn-based strategy (TBS)"
+    ]
+  },
+  {
+    "id": 112874,
+    "name": "Horizon Forbidden West",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/79dd8d1460dc545befcfa33f4087c397.png",
+    "releaseYear": 2022,
+    "rating": 89,
+    "platforms": [
+      "PlayStation 4",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 135243,
+    "name": "It Takes Two",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/84d8df6932e202152767f7579f32c613.png",
+    "releaseYear": 2021,
+    "rating": 89,
+    "platforms": [
+      "Xbox Series X|S",
+      "PlayStation 4",
+      "PC (Microsoft Windows)",
+      "PlayStation 5",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Platform",
+      "Puzzle",
+      "Adventure"
     ]
   },
   {
@@ -2127,6 +565,1357 @@
     ]
   },
   {
+    "id": 119171,
+    "name": "Baldur's Gate III",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/b122b82883a834cbcec5c2d2f5c0585c.png",
+    "releaseYear": 2023,
+    "rating": 95,
+    "platforms": [
+      "Google Stadia",
+      "Xbox Series X|S",
+      "Linux",
+      "PC (Microsoft Windows)",
+      "PlayStation 5",
+      "Mac"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Strategy",
+      "Turn-based strategy (TBS)"
+    ]
+  },
+  {
+    "id": 145278,
+    "name": "Arcade Spirits: The New Challengers",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/bf9fce8e0ec6884cb3551434c06e4b66.png",
+    "releaseYear": 2022,
+    "rating": 100,
+    "platforms": [
+      "Xbox Series X|S",
+      "PlayStation 4",
+      "PC (Microsoft Windows)",
+      "PlayStation 5",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Simulator",
+      "Adventure",
+      "Indie",
+      "Arcade",
+      "Visual Novel"
+    ]
+  },
+  {
+    "id": 9602,
+    "name": "Super Smash Bros. for Wii U",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/5b2133764ba9ee4e211cf50a7e3c86f5.png",
+    "releaseYear": 2014,
+    "rating": 89,
+    "platforms": [
+      "Wii U"
+    ],
+    "genres": [
+      "Fighting",
+      "Platform"
+    ]
+  },
+  {
+    "id": 19686,
+    "name": "Resident Evil 2",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/0dcc410f031086c33eb571e62007951b.png",
+    "releaseYear": 2019,
+    "rating": 90,
+    "platforms": [
+      "Xbox Series X|S",
+      "PlayStation 4",
+      "PC (Microsoft Windows)",
+      "iOS",
+      "PlayStation 5",
+      "Mac",
+      "Xbox One"
+    ],
+    "genres": [
+      "Shooter",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 134709,
+    "name": "Grand Theft Auto V",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/af0a25e27510f77d97634a6bbe653b13.jpg",
+    "releaseYear": 2022,
+    "rating": 100,
+    "platforms": [
+      "Xbox Series X|S",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Shooter",
+      "Racing",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 130,
+    "name": "Warcraft II: Tides of Darkness",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/632c842525e76be8246cd72cb8c2616d.png",
+    "releaseYear": 1995,
+    "rating": 88,
+    "platforms": [
+      "PC (Microsoft Windows)",
+      "Mac",
+      "DOS",
+      "Sega Saturn",
+      "PlayStation"
+    ],
+    "genres": [
+      "Real Time Strategy (RTS)",
+      "Strategy"
+    ]
+  },
+  {
+    "id": 163826,
+    "name": "Blake: The Visual Novel",
+    "posterUrl": "https://images.igdb.com/igdb/image/upload/t_1080p/co3mcj.jpg",
+    "releaseYear": 2021,
+    "rating": 100,
+    "platforms": [
+      "PC (Microsoft Windows)",
+      "Mac"
+    ],
+    "genres": [
+      "Indie"
+    ]
+  },
+  {
+    "id": 1039,
+    "name": "The Legend of Zelda: Ocarina of Time 3D",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/ab6fe89d793b5a3c4153692779cb0680.png",
+    "releaseYear": 2011,
+    "rating": 91,
+    "platforms": [
+      "Nintendo 3DS"
+    ],
+    "genres": [
+      "Puzzle",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 1627,
+    "name": "Super Smash Bros. Melee",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/6bc12f11f086c6c9dd8d09f936775fce.png",
+    "releaseYear": 2001,
+    "rating": 94,
+    "platforms": [
+      "Nintendo GameCube"
+    ],
+    "genres": [
+      "Fighting",
+      "Platform"
+    ]
+  },
+  {
+    "id": 2207,
+    "name": "Shadow of the Colossus",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/acaca856b38c00847ecc1ca2c02ae4b4.png",
+    "releaseYear": 2005,
+    "rating": 89,
+    "platforms": [
+      "PlayStation 2"
+    ],
+    "genres": [
+      "Platform",
+      "Puzzle",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 305358,
+    "name": "Love Eternal",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/f7ed0cf8361e6769dc0fb0f5afe5f909.png",
+    "releaseYear": 2026,
+    "rating": 98,
+    "platforms": [
+      "Xbox Series X|S",
+      "PlayStation 4",
+      "PC (Microsoft Windows)",
+      "PlayStation 5",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Platform",
+      "Adventure",
+      "Indie"
+    ]
+  },
+  {
+    "id": 269473,
+    "name": "Resonite",
+    "posterUrl": "https://images.igdb.com/igdb/image/upload/t_1080p/co75ut.jpg",
+    "releaseYear": 2023,
+    "rating": 100,
+    "platforms": [
+      "Linux",
+      "PC (Microsoft Windows)",
+      "SteamVR"
+    ],
+    "genres": [
+      "Indie"
+    ]
+  },
+  {
+    "id": 2276,
+    "name": "The Legend of Zelda: The Wind Waker HD",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/8d5c0500d7ec1c04842c4b33673d0f43.png",
+    "releaseYear": 2013,
+    "rating": 90,
+    "platforms": [
+      "Wii U"
+    ],
+    "genres": [
+      "Puzzle",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 191406,
+    "name": "Portal: Companion Collection",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/e0ae8d47fddfc95a02e055f06e6ccb9d.png",
+    "releaseYear": 2022,
+    "rating": 100,
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Platform",
+      "Puzzle",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 2985,
+    "name": "Persona 4 Golden",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/c9f86254c83a54880faa476e653986aa.png",
+    "releaseYear": 2012,
+    "rating": 90,
+    "platforms": [
+      "PlayStation Vita"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 1107,
+    "name": "Metroid: Zero Mission",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/73e7fb4872d41443c1b08c4199329b9d.png",
+    "releaseYear": 2004,
+    "rating": 90,
+    "platforms": [
+      "Wii U",
+      "Game Boy Advance"
+    ],
+    "genres": [
+      "Shooter",
+      "Platform",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 37094,
+    "name": "Shadow of the Colossus",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/acaca856b38c00847ecc1ca2c02ae4b4.png",
+    "releaseYear": 2018,
+    "rating": 89,
+    "platforms": [
+      "PlayStation 4"
+    ],
+    "genres": [
+      "Platform",
+      "Puzzle",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 114283,
+    "name": "Persona 5 Royal",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/78b22a52a1e53b0d2e27e6b40569793a.png",
+    "releaseYear": 2019,
+    "rating": 94,
+    "platforms": [
+      "Xbox Series X|S",
+      "PlayStation 4",
+      "PC (Microsoft Windows)",
+      "PlayStation 5",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 1074,
+    "name": "Super Mario 64",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/f293653ffa5c0e53453463a82401dbec.png",
+    "releaseYear": 1996,
+    "rating": 89,
+    "platforms": [
+      "Wii",
+      "Nintendo 64",
+      "Wii U"
+    ],
+    "genres": [
+      "Platform",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 2909,
+    "name": "The Legend of Zelda: A Link Between Worlds",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/6e2376385359dc8bb6ee14e594e924d3.png",
+    "releaseYear": 2013,
+    "rating": 90,
+    "platforms": [
+      "Nintendo 3DS"
+    ],
+    "genres": [
+      "Puzzle",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 5418,
+    "name": "Super Mario RPG: Legend of the Seven Stars",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/394ef49f1d019ccaf6caf070c403cb32.png",
+    "releaseYear": 1996,
+    "rating": 88,
+    "platforms": [
+      "Super Nintendo Entertainment System",
+      "Wii",
+      "Wii U",
+      "Super Famicom"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 140839,
+    "name": "Mass Effect Legendary Edition",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/44d8d212fe51107e4ab09ae41bf65945.png",
+    "releaseYear": 2021,
+    "rating": 89,
+    "platforms": [
+      "Xbox Series X|S",
+      "PlayStation 4",
+      "PC (Microsoft Windows)",
+      "PlayStation 5",
+      "Xbox One"
+    ],
+    "genres": [
+      "Shooter",
+      "Role-playing (RPG)",
+      "Strategy",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 324996,
+    "name": "Rooftop Rascal: The Glitch Cat",
+    "posterUrl": "https://images.igdb.com/igdb/image/upload/t_1080p/cobucl.jpg",
+    "releaseYear": 2024,
+    "rating": 97,
+    "platforms": [
+      "PlayStation 4",
+      "PlayStation 5"
+    ],
+    "genres": []
+  },
+  {
+    "id": 74,
+    "name": "Mass Effect 2",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/f56766ef62b1d6867e6ace4bfc82c82e.png",
+    "releaseYear": 2010,
+    "rating": 93,
+    "platforms": [
+      "PlayStation 3",
+      "PC (Microsoft Windows)",
+      "Xbox 360"
+    ],
+    "genres": [
+      "Shooter",
+      "Role-playing (RPG)",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 305152,
+    "name": "Clair Obscur: Expedition 33",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/e7fff0c2739cf86c8aa5559eefe74220.png",
+    "releaseYear": 2025,
+    "rating": 89,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Adventure",
+      "Indie"
+    ]
+  },
+  {
+    "id": 228,
+    "name": "World of Warcraft: Wrath of the Lich King",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/20a2da5b33a57517ced6715266f3c67d.png",
+    "releaseYear": 2008,
+    "rating": 94,
+    "platforms": [
+      "PC (Microsoft Windows)",
+      "Mac"
+    ],
+    "genres": [
+      "Role-playing (RPG)"
+    ]
+  },
+  {
+    "id": 75235,
+    "name": "Ghost of Tsushima",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/18603cfb68da38e3f9900c699428ca9b.png",
+    "releaseYear": 2020,
+    "rating": 90,
+    "platforms": [
+      "PlayStation 4",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Hack and slash/Beat 'em up",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 1559,
+    "name": "Pokémon FireRed Version",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/02364616164166b84371270ca2e6eda2.png",
+    "releaseYear": 2004,
+    "rating": 92,
+    "platforms": [
+      "Game Boy Advance",
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Turn-based strategy (TBS)",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 19560,
+    "name": "God of War",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/72d0eaa80cc3412fda4a133ca1f884e8.png",
+    "releaseYear": 2018,
+    "rating": 94,
+    "platforms": [
+      "PlayStation 4",
+      "PC (Microsoft Windows)"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Hack and slash/Beat 'em up",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 1105,
+    "name": "Metroid Prime",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/0327d825efc9703e56afaa2e9e1cef9e.png",
+    "releaseYear": 2002,
+    "rating": 93,
+    "platforms": [
+      "Nintendo GameCube"
+    ],
+    "genres": [
+      "Shooter",
+      "Platform",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 306924,
+    "name": "Maestro",
+    "posterUrl": "https://images.igdb.com/igdb/image/upload/t_1080p/co8elu.jpg",
+    "releaseYear": 2024,
+    "rating": 98,
+    "platforms": [
+      "Meta Quest 2",
+      "PlayStation VR2",
+      "SteamVR",
+      "Meta Quest 3"
+    ],
+    "genres": [
+      "Music",
+      "Simulator",
+      "Indie"
+    ]
+  },
+  {
+    "id": 479,
+    "name": "Metal Gear Solid 3: Subsistence",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/c16af09e39c7093bd3eaa51069b0e072.png",
+    "releaseYear": 2005,
+    "rating": 95,
+    "platforms": [
+      "PlayStation 2"
+    ],
+    "genres": [
+      "Shooter",
+      "Tactical",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 134606,
+    "name": "Demon's Souls",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/f80afec6b887f5f8a5c7ca6bdb08a769.png",
+    "releaseYear": 2020,
+    "rating": 90,
+    "platforms": [
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Hack and slash/Beat 'em up",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Deus Ex",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/ca20e1d8e1d19a92fbfc28f0b467dd5b.png",
+    "releaseYear": 2000,
+    "rating": 88,
+    "platforms": [
+      "Linux",
+      "PC (Microsoft Windows)",
+      "Mac"
+    ],
+    "genres": [
+      "Shooter",
+      "Role-playing (RPG)",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 565,
+    "name": "Uncharted 2: Among Thieves",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/66dcd06dc5ad523aaeae95e64187e4ca.png",
+    "releaseYear": 2009,
+    "rating": 92,
+    "platforms": [
+      "PlayStation 3"
+    ],
+    "genres": [
+      "Shooter",
+      "Platform",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 2350,
+    "name": "Mario Kart 8",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/08685bf36516348b810ede4e3c1dfe52.png",
+    "releaseYear": 2014,
+    "rating": 89,
+    "platforms": [
+      "Wii U"
+    ],
+    "genres": [
+      "Racing",
+      "Arcade"
+    ]
+  },
+  {
+    "id": 501,
+    "name": "Batman: Arkham City",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/e1c31ef0dc0ed982365e7069d95432cd.jpg",
+    "releaseYear": 2011,
+    "rating": 89,
+    "platforms": [
+      "OnLive Game System",
+      "PlayStation 3",
+      "PC (Microsoft Windows)",
+      "Xbox 360",
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Hack and slash/Beat 'em up",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 260402,
+    "name": "Bloodthief",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/5bb488f8b1061c7d0d4e20ff0f00d4aa.png",
+    "releaseYear": 2025,
+    "rating": 100,
+    "platforms": [
+      "Linux",
+      "PC (Microsoft Windows)"
+    ],
+    "genres": [
+      "Indie"
+    ]
+  },
+  {
+    "id": 1020,
+    "name": "Grand Theft Auto V",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/af0a25e27510f77d97634a6bbe653b13.jpg",
+    "releaseYear": 2013,
+    "rating": 89,
+    "platforms": [
+      "PlayStation 3",
+      "PlayStation 4",
+      "PC (Microsoft Windows)",
+      "Xbox 360",
+      "Xbox One"
+    ],
+    "genres": [
+      "Shooter",
+      "Racing",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "System Shock 2",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/7a9114855a255f1dcf1abaae60abb86e.png",
+    "releaseYear": 1999,
+    "rating": 89,
+    "platforms": [
+      "Linux",
+      "PC (Microsoft Windows)",
+      "Mac"
+    ],
+    "genres": [
+      "Shooter",
+      "Role-playing (RPG)"
+    ]
+  },
+  {
+    "id": 999,
+    "name": "Oddworld: Abe's Oddysee",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/80c1f602065ea6c3e6db56273de523cb.png",
+    "releaseYear": 1997,
+    "rating": 91,
+    "platforms": [
+      "PlayStation 3",
+      "PC (Microsoft Windows)",
+      "DOS",
+      "PlayStation",
+      "PlayStation Portable"
+    ],
+    "genres": [
+      "Platform",
+      "Puzzle",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 72870,
+    "name": "Horizon Zero Dawn: Complete Edition",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/eb607421d94ea054d3cf191ae493867a.png",
+    "releaseYear": 2017,
+    "rating": 90,
+    "platforms": [
+      "PlayStation 4",
+      "PC (Microsoft Windows)"
+    ],
+    "genres": [
+      "Shooter",
+      "Role-playing (RPG)",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 172496,
+    "name": "Ena: Dream BBQ",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/27506e60ce11cadef1f95724b56fd356.png",
+    "releaseYear": 2025,
+    "rating": 98,
+    "platforms": [
+      "Linux",
+      "PC (Microsoft Windows)",
+      "Mac"
+    ],
+    "genres": [
+      "Adventure",
+      "Indie"
+    ]
+  },
+  {
+    "id": 254339,
+    "name": "Super Mario Bros. Wonder",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/66da3b21fe18692332284c64e08b8e02.png",
+    "releaseYear": 2023,
+    "rating": 91,
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Platform"
+    ]
+  },
+  {
+    "id": 279884,
+    "name": "Baldur's Gate 3: Digital Deluxe Edition",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/f991a333ff3135192662c1142796d566.png",
+    "releaseYear": 2023,
+    "rating": 99,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5",
+      "Mac"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Strategy",
+      "Turn-based strategy (TBS)",
+      "Tactical",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 7334,
+    "name": "Bloodborne",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/021399af062379408df9c358a1a83cdb.png",
+    "releaseYear": 2015,
+    "rating": 91,
+    "platforms": [
+      "PlayStation 4"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 1520,
+    "name": "Pokémon SoulSilver Version",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/924386c0f19fd05b90b53a5d4c2e65c5.png",
+    "releaseYear": 2009,
+    "rating": 90,
+    "platforms": [
+      "Nintendo DS"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Turn-based strategy (TBS)",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 364,
+    "name": "Heroes of Might and Magic III: The Restoration of Erathia",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/574e04d3b783927e028982e71467bf13.png",
+    "releaseYear": 1999,
+    "rating": 91,
+    "platforms": [
+      "Linux",
+      "PC (Microsoft Windows)",
+      "Mac"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Strategy",
+      "Turn-based strategy (TBS)"
+    ]
+  },
+  {
+    "id": 142722,
+    "name": "Geotastic",
+    "posterUrl": "https://images.igdb.com/igdb/image/upload/t_1080p/co49cq.jpg",
+    "releaseYear": 2020,
+    "rating": 96,
+    "platforms": [
+      "Web browser"
+    ],
+    "genres": [
+      "Quiz/Trivia"
+    ]
+  },
+  {
+    "id": 14593,
+    "name": "Hollow Knight",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/d18c832e8c956b4ef8b92862e6bf470d.png",
+    "releaseYear": 2017,
+    "rating": 92,
+    "platforms": [
+      "Xbox Series X|S",
+      "PlayStation 4",
+      "Linux",
+      "Nintendo Switch 2",
+      "PC (Microsoft Windows)",
+      "PlayStation 5",
+      "Mac",
+      "Wii U",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Platform",
+      "Adventure",
+      "Indie"
+    ]
+  },
+  {
+    "id": 40477,
+    "name": "Slay the Spire",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/9ad067558ea2bd2a1239bfa2da998146.png",
+    "releaseYear": 2019,
+    "rating": 89,
+    "platforms": [
+      "PlayStation 4",
+      "Linux",
+      "Android",
+      "PC (Microsoft Windows)",
+      "iOS",
+      "Mac",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Strategy",
+      "Turn-based strategy (TBS)",
+      "Adventure",
+      "Indie",
+      "Card & Board Game"
+    ]
+  },
+  {
+    "id": 13166,
+    "name": "The Witcher 3: Wild Hunt - Blood and Wine",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/4904f82c12cecf6ec070fe77d7e913ce.png",
+    "releaseYear": 2016,
+    "rating": 94,
+    "platforms": [
+      "Xbox Series X|S",
+      "PlayStation 4",
+      "PC (Microsoft Windows)",
+      "PlayStation 5",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 19565,
+    "name": "Marvel's Spider-Man",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/1bc38477bc1f540837e39eb0b8dbb520.png",
+    "releaseYear": 2018,
+    "rating": 88,
+    "platforms": [
+      "PlayStation 4"
+    ],
+    "genres": [
+      "Hack and slash/Beat 'em up",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 245754,
+    "name": "Dawnfolk",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/eca5c9fab7bb6a1038991a9a22b1328e.png",
+    "releaseYear": 2025,
+    "rating": 100,
+    "platforms": [
+      "Linux",
+      "PC (Microsoft Windows)",
+      "Mac",
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Puzzle",
+      "Role-playing (RPG)",
+      "Strategy",
+      "Adventure",
+      "Indie"
+    ]
+  },
+  {
+    "id": 317582,
+    "name": "Pixadom",
+    "posterUrl": "https://images.igdb.com/igdb/image/upload/t_1080p/co902g.jpg",
+    "releaseYear": 2024,
+    "rating": 99,
+    "platforms": [
+      "Web browser"
+    ],
+    "genres": [
+      "Platform",
+      "Role-playing (RPG)",
+      "Adventure",
+      "Indie"
+    ]
+  },
+  {
+    "id": 127,
+    "name": "Assassin's Creed II",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/30a53d130bbe822d676ababadbd3fffd.png",
+    "releaseYear": 2009,
+    "rating": 88,
+    "platforms": [
+      "PlayStation 3",
+      "PC (Microsoft Windows)",
+      "Mac",
+      "Xbox 360"
+    ],
+    "genres": [
+      "Platform",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 1009,
+    "name": "The Last of Us",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/849d7b8124e44421cf640466299db4dc.png",
+    "releaseYear": 2013,
+    "rating": 92,
+    "platforms": [
+      "PlayStation 3"
+    ],
+    "genres": [
+      "Shooter",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 398031,
+    "name": "Puzzling Places: 3D Jigsaw Sim",
+    "posterUrl": "https://images.igdb.com/igdb/image/upload/t_1080p/cobwsz.jpg",
+    "releaseYear": 2026,
+    "rating": 98,
+    "platforms": [
+      "PC (Microsoft Windows)"
+    ],
+    "genres": [
+      "Puzzle",
+      "Simulator",
+      "Indie"
+    ]
+  },
+  {
+    "id": 512,
+    "name": "Uncharted 3: Drake's Deception",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/1e361d5309d990c95e367471f9533f79.png",
+    "releaseYear": 2011,
+    "rating": 89,
+    "platforms": [
+      "PlayStation 3"
+    ],
+    "genres": [
+      "Shooter",
+      "Platform",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 236970,
+    "name": "Viticulture: Essential Edition - Tuscany Expansion",
+    "posterUrl": "https://images.igdb.com/igdb/image/upload/t_1080p/co8sf9.jpg",
+    "releaseYear": 2023,
+    "rating": 100,
+    "platforms": [
+      "Linux",
+      "PC (Microsoft Windows)",
+      "Mac"
+    ],
+    "genres": [
+      "Strategy",
+      "Indie"
+    ]
+  },
+  {
+    "id": 320373,
+    "name": "Rooftop Rascal: The Spooky Cat",
+    "posterUrl": "https://images.igdb.com/igdb/image/upload/t_1080p/cobucm.jpg",
+    "releaseYear": 2024,
+    "rating": 99,
+    "platforms": [
+      "PlayStation 4",
+      "PlayStation 5"
+    ],
+    "genres": []
+  },
+  {
+    "id": 272,
+    "name": "Unreal Tournament",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/9060b6f07473839fc0bbda82aea5cd31.png",
+    "releaseYear": 1999,
+    "rating": 92,
+    "platforms": [
+      "Linux",
+      "PC (Microsoft Windows)",
+      "Mac",
+      "Dreamcast",
+      "PlayStation 2"
+    ],
+    "genres": [
+      "Shooter"
+    ]
+  },
+  {
+    "id": 434,
+    "name": "Red Dead Redemption",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/94f88ceb11d0e2e52a7344dc94648c75.png",
+    "releaseYear": 2010,
+    "rating": 91,
+    "platforms": [
+      "PlayStation 3",
+      "PC (Microsoft Windows)",
+      "Xbox 360"
+    ],
+    "genres": [
+      "Shooter",
+      "Role-playing (RPG)",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 17000,
+    "name": "Stardew Valley",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/cf30b40a1573a32248fcd0ba94e67652.png",
+    "releaseYear": 2016,
+    "rating": 88,
+    "platforms": [
+      "PlayStation 4",
+      "Linux",
+      "Nintendo Switch 2",
+      "Android",
+      "PC (Microsoft Windows)",
+      "iOS",
+      "Mac",
+      "Wii U",
+      "PlayStation Vita",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Simulator",
+      "Strategy",
+      "Adventure",
+      "Indie"
+    ]
+  },
+  {
+    "id": 1271,
+    "name": "Ōkami",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/d36ac395fa31afe3c1cc571c09a9644d.png",
+    "releaseYear": 2006,
+    "rating": 89,
+    "platforms": [
+      "PlayStation 3",
+      "Wii",
+      "PlayStation 2"
+    ],
+    "genres": [
+      "Puzzle",
+      "Role-playing (RPG)",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 305040,
+    "name": "The Talos Principle II: Road to Elysium",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/37cf0b4edf094d73be4dab58b7e51b0d.png",
+    "releaseYear": 2024,
+    "rating": 98,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Puzzle",
+      "Adventure",
+      "Indie"
+    ]
+  },
+  {
+    "id": 9600,
+    "name": "Persona 4",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/447eec9fa7953954b234758a99667eae.png",
+    "releaseYear": 2008,
+    "rating": 91,
+    "platforms": [
+      "PlayStation 3",
+      "PlayStation 2"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 338073,
+    "name": "The Legend of Zelda: Tears of the Kingdom - Nintendo Switch 2 Edition",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/9760466d26d920091807993e4cb72d05.png",
+    "releaseYear": 2025,
+    "rating": 100,
+    "platforms": [
+      "Nintendo Switch 2"
+    ],
+    "genres": [
+      "Puzzle",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 322086,
+    "name": "Burgie's Cozy Kitchen",
+    "posterUrl": "https://images.igdb.com/igdb/image/upload/t_1080p/co9iso.jpg",
+    "releaseYear": 2025,
+    "rating": 100,
+    "platforms": [
+      "PC (Microsoft Windows)"
+    ],
+    "genres": [
+      "Simulator"
+    ]
+  },
+  {
+    "id": 654,
+    "name": "Company of Heroes",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/2c4f1d786b580911b671eec42bf23863.png",
+    "releaseYear": 2006,
+    "rating": 90,
+    "platforms": [
+      "PC (Microsoft Windows)",
+      "iOS"
+    ],
+    "genres": [
+      "Real Time Strategy (RTS)",
+      "Strategy"
+    ]
+  },
+  {
+    "id": 499,
+    "name": "God of War III",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/999f434a8fbab3206c73c9800da70864.png",
+    "releaseYear": 2010,
+    "rating": 91,
+    "platforms": [
+      "PlayStation 3"
+    ],
+    "genres": [
+      "Hack and slash/Beat 'em up",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 1077,
+    "name": "Super Mario Galaxy",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/850660ba5cb014184e5cc0e6b3d4c6bb.png",
+    "releaseYear": 2007,
+    "rating": 94,
+    "platforms": [
+      "Wii",
+      "Wii U"
+    ],
+    "genres": [
+      "Platform",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 12517,
+    "name": "Undertale",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/aba1e5182d973f43f2b3fd755f8e2314.png",
+    "releaseYear": 2015,
+    "rating": 91,
+    "platforms": [
+      "PlayStation 4",
+      "Linux",
+      "PC (Microsoft Windows)",
+      "Mac",
+      "PlayStation Vita",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Puzzle",
+      "Role-playing (RPG)",
+      "Turn-based strategy (TBS)",
+      "Adventure",
+      "Indie"
+    ]
+  },
+  {
+    "id": 339152,
+    "name": "Wortgewandt",
+    "posterUrl": "https://images.igdb.com/igdb/image/upload/t_1080p/co9n4u.jpg",
+    "releaseYear": 2025,
+    "rating": 100,
+    "platforms": [
+      "Web browser"
+    ],
+    "genres": [
+      "Quiz/Trivia"
+    ]
+  },
+  {
+    "id": 1942,
+    "name": "The Witcher 3: Wild Hunt",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/4904f82c12cecf6ec070fe77d7e913ce.png",
+    "releaseYear": 2015,
+    "rating": 93,
+    "platforms": [
+      "Xbox Series X|S",
+      "PlayStation 4",
+      "PC (Microsoft Windows)",
+      "PlayStation 5",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 7342,
+    "name": "Inside",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/3240f70f7ea5d523e886a8327cd49ce9.png",
+    "releaseYear": 2016,
+    "rating": 89,
+    "platforms": [
+      "PlayStation 4",
+      "PC (Microsoft Windows)",
+      "iOS",
+      "Mac",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Platform",
+      "Puzzle",
+      "Adventure",
+      "Indie"
+    ]
+  },
+  {
+    "id": 2155,
+    "name": "Dark Souls",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/6a5eb28f1cf562a887a2cf30426d461f.png",
+    "releaseYear": 2011,
+    "rating": 89,
+    "platforms": [
+      "PlayStation 3",
+      "PC (Microsoft Windows)",
+      "Xbox 360"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 730,
+    "name": "Grand Theft Auto III",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/7856a3a5b530f10a69bec1c57d90330e.png",
+    "releaseYear": 2001,
+    "rating": 90,
+    "platforms": [
+      "Xbox",
+      "PlayStation 4",
+      "Android",
+      "PC (Microsoft Windows)",
+      "iOS",
+      "Mac",
+      "PlayStation 2"
+    ],
+    "genres": [
+      "Shooter",
+      "Racing",
+      "Simulator",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 246,
+    "name": "Diablo II: Lord of Destruction",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/a572b78603a301e85627812e54777032.png",
+    "releaseYear": 2001,
+    "rating": 89,
+    "platforms": [
+      "PC (Microsoft Windows)",
+      "Mac"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Hack and slash/Beat 'em up"
+    ]
+  },
+  {
+    "id": 1073,
+    "name": "Super Mario World 2: Yoshi's Island",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/59857cc70355243795b398b32447b862.png",
+    "releaseYear": 1995,
+    "rating": 94,
+    "platforms": [
+      "Satellaview",
+      "Super Nintendo Entertainment System",
+      "Super Famicom"
+    ],
+    "genres": [
+      "Platform"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Fallout 2",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/eb8481c3b664b77b5303f490063a0908.png",
+    "releaseYear": 1998,
+    "rating": 89,
+    "platforms": [
+      "PC (Microsoft Windows)",
+      "Mac"
+    ],
+    "genres": [
+      "Puzzle",
+      "Role-playing (RPG)"
+    ]
+  },
+  {
+    "id": 245,
+    "name": "Command & Conquer: Red Alert 2",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/aa58b7abc80251c222053fb5d3c87a06.png",
+    "releaseYear": 2000,
+    "rating": 88,
+    "platforms": [
+      "PC (Microsoft Windows)"
+    ],
+    "genres": [
+      "Real Time Strategy (RTS)",
+      "Strategy"
+    ]
+  },
+  {
     "id": 132,
     "name": "Warcraft III: Reign of Chaos",
     "posterUrl": "https://cdn2.steamgriddb.com/grid/c8113305c0428b74ed3f1b6051520039.png",
@@ -2142,17 +1931,648 @@
     ]
   },
   {
-    "id": 1627,
-    "name": "Super Smash Bros. Melee",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/6bc12f11f086c6c9dd8d09f936775fce.png",
-    "releaseYear": 2001,
-    "rating": 94,
+    "id": 3340,
+    "name": "Paper Mario",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/f98e8082f2b3924b8a137d1cfc12e08b.png",
+    "releaseYear": 2000,
+    "rating": 89,
+    "platforms": [
+      "Wii",
+      "Nintendo 64",
+      "Wii U"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 315335,
+    "name": "Guilty Gear: Strive - Nintendo Switch Edition",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/b9308e657ab39f0059e6207c2fbf6aee.png",
+    "releaseYear": 2025,
+    "rating": 100,
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Fighting",
+      "Arcade"
+    ]
+  },
+  {
+    "id": 135341,
+    "name": "Adastra",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/575564c08fa9dd3d380ddfcf70d50160.png",
+    "releaseYear": 2020,
+    "rating": 99,
+    "platforms": [
+      "Linux",
+      "Android",
+      "PC (Microsoft Windows)",
+      "Mac"
+    ],
+    "genres": [
+      "Visual Novel"
+    ]
+  },
+  {
+    "id": 227211,
+    "name": "S.T.A.L.K.E.R. G.A.M.M.A.",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/e7c7f26e208f2cd121779b810d9e9096.jpg",
+    "releaseYear": 2018,
+    "rating": 92,
+    "platforms": [
+      "PC (Microsoft Windows)"
+    ],
+    "genres": [
+      "Shooter",
+      "Tactical",
+      "Adventure",
+      "Indie"
+    ]
+  },
+  {
+    "id": 116,
+    "name": "Star Wars: Knights of the Old Republic",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/6a0de0c3cc39d88613eac5f05ba6c94f.png",
+    "releaseYear": 2003,
+    "rating": 92,
+    "platforms": [
+      "Xbox",
+      "Android",
+      "PC (Microsoft Windows)",
+      "iOS",
+      "Mac",
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 193,
+    "name": "Day of the Tentacle",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/0e11b56d493ed726dea457a742ceea33.png",
+    "releaseYear": 1993,
+    "rating": 89,
+    "platforms": [
+      "Mac",
+      "DOS",
+      "Amiga"
+    ],
+    "genres": [
+      "Point-and-click",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 26764,
+    "name": "Mario Kart 8 Deluxe",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/9cd6d894098e748716960bfcf9dbe115.png",
+    "releaseYear": 2017,
+    "rating": 89,
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Racing",
+      "Arcade"
+    ]
+  },
+  {
+    "id": 26472,
+    "name": "Disco Elysium",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/e17233dc1c4e3457d5a259c06c7eb502.jpg",
+    "releaseYear": 2019,
+    "rating": 91,
+    "platforms": [
+      "PC (Microsoft Windows)",
+      "Mac"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Adventure",
+      "Indie"
+    ]
+  },
+  {
+    "id": 318575,
+    "name": "Epiko Regal",
+    "posterUrl": "https://images.igdb.com/igdb/image/upload/t_1080p/co8wq0.jpg",
+    "releaseYear": 2024,
+    "rating": 98,
+    "platforms": [
+      "Android",
+      "iOS"
+    ],
+    "genres": [
+      "Real Time Strategy (RTS)",
+      "Strategy",
+      "Tactical",
+      "Card & Board Game"
+    ]
+  },
+  {
+    "id": 1029,
+    "name": "The Legend of Zelda: Ocarina of Time",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/ed89e6477ff6a465891a5f17f77948ae.png",
+    "releaseYear": 1998,
+    "rating": 92,
+    "platforms": [
+      "Wii",
+      "Nintendo 64",
+      "64DD",
+      "Wii U"
+    ],
+    "genres": [
+      "Puzzle",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 36926,
+    "name": "Monster Hunter: World",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/4b3dd8900b9635955aeefd0d8e5e3da5.png",
+    "releaseYear": 2018,
+    "rating": 89,
+    "platforms": [
+      "PlayStation 4",
+      "PC (Microsoft Windows)",
+      "Xbox One"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 327461,
+    "name": "Fatal Fury: City of the Wolves - Special Edition",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/95807265296fc2d033a3a01004914ca6.png",
+    "releaseYear": 2025,
+    "rating": 100,
+    "platforms": [
+      "Xbox Series X|S",
+      "PlayStation 4",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Fighting"
+    ]
+  },
+  {
+    "id": 136482,
+    "name": "Undertale Yellow",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/513f718593a988efe43fc5f63fda26eb.png",
+    "releaseYear": 2023,
+    "rating": 99,
+    "platforms": [
+      "PC (Microsoft Windows)"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Turn-based strategy (TBS)",
+      "Adventure",
+      "Indie"
+    ]
+  },
+  {
+    "id": 2899,
+    "name": "EarthBound",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/7e9a8e67197bad8ec246bde2c4cebfb9.png",
+    "releaseYear": 1994,
+    "rating": 91,
+    "platforms": [
+      "Super Nintendo Entertainment System",
+      "Wii U",
+      "New Nintendo 3DS",
+      "Game Boy Advance",
+      "Super Famicom"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Turn-based strategy (TBS)",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 136879,
+    "name": "Black Myth: Wukong",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/9130e5ada60abd2e13efb19571cede1d.png",
+    "releaseYear": 2024,
+    "rating": 89,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Hack and slash/Beat 'em up",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 119133,
+    "name": "Elden Ring",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/a0abf0396a718b8982fce0b80181d8cb.png",
+    "releaseYear": 2022,
+    "rating": 95,
+    "platforms": [
+      "Xbox Series X|S",
+      "PlayStation 4",
+      "Nintendo Switch 2",
+      "PC (Microsoft Windows)",
+      "PlayStation 5",
+      "Xbox One"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 200905,
+    "name": "OneShot: World Machine Edition",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/3aa79f8a103d510b16eb9b57edd1a66c.jpg",
+    "releaseYear": 2022,
+    "rating": 98,
+    "platforms": [
+      "PlayStation 4",
+      "PC (Microsoft Windows)",
+      "Mac",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Puzzle",
+      "Role-playing (RPG)",
+      "Adventure",
+      "Indie"
+    ]
+  },
+  {
+    "id": 26758,
+    "name": "Super Mario Odyssey",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/505870c8848f2d550944bf64008c9472.png",
+    "releaseYear": 2017,
+    "rating": 93,
+    "platforms": [
+      "Nintendo Switch 2",
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Platform",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 26845,
+    "name": "Fire Emblem: Three Houses",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/849460026d42c840faab34d4d3b9fc33.png",
+    "releaseYear": 2019,
+    "rating": 89,
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Strategy",
+      "Turn-based strategy (TBS)",
+      "Tactical",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 126098,
+    "name": "Half-Life: Alyx",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/e76790c1ea38f031afac21327b19b03c.png",
+    "releaseYear": 2020,
+    "rating": 93,
+    "platforms": [
+      "SteamVR"
+    ],
+    "genres": [
+      "Shooter",
+      "Puzzle",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 22439,
+    "name": "The Witcher 3: Wild Hunt - Game of the Year Edition",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/3f7816fc0dd75425a3632c1b0633d10b.png",
+    "releaseYear": 2016,
+    "rating": 98,
+    "platforms": [
+      "PlayStation 4",
+      "PC (Microsoft Windows)",
+      "Xbox One"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 185246,
+    "name": "Alan Wake II",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/a7147fd59ab64d16e49e819733ad2187.png",
+    "releaseYear": 2023,
+    "rating": 90,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Shooter",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 310643,
+    "name": "The Binding of Isaac: Repentance",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/d22605e2bddb461a4034acb67334c1f7.png",
+    "releaseYear": 2021,
+    "rating": 98,
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Shooter",
+      "Indie"
+    ]
+  },
+  {
+    "id": 3349,
+    "name": "Paper Mario: The Thousand-Year Door",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/44f26075c7393838535d77f42fcf6714.png",
+    "releaseYear": 2004,
+    "rating": 91,
     "platforms": [
       "Nintendo GameCube"
     ],
     "genres": [
-      "Fighting",
-      "Platform"
+      "Role-playing (RPG)",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 6036,
+    "name": "The Last of Us Remastered",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/8328a70fd14eddbcc8464712aaf52252.png",
+    "releaseYear": 2014,
+    "rating": 95,
+    "platforms": [
+      "PlayStation 4"
+    ],
+    "genres": [
+      "Shooter",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 141503,
+    "name": "Forza Horizon 5",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/6abd5c03e1414f4600add2d7956bb442.png",
+    "releaseYear": 2021,
+    "rating": 89,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5",
+      "Xbox One"
+    ],
+    "genres": [
+      "Racing"
+    ]
+  },
+  {
+    "id": 318395,
+    "name": "Animal Company",
+    "posterUrl": "https://images.igdb.com/igdb/image/upload/t_1080p/coauu2.jpg",
+    "releaseYear": 2024,
+    "rating": 97,
+    "platforms": [
+      "Meta Quest 2",
+      "SteamVR"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  {
+    "id": 25076,
+    "name": "Red Dead Redemption 2",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/a5bff26f8f2adb1ec19661b4c4bc9f86.png",
+    "releaseYear": 2018,
+    "rating": 94,
+    "platforms": [
+      "Google Stadia",
+      "PlayStation 4",
+      "PC (Microsoft Windows)",
+      "Xbox One"
+    ],
+    "genres": [
+      "Shooter",
+      "Role-playing (RPG)",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 347668,
+    "name": "Resident Evil Requiem",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/2d5094ace83e5a770819135e5b844c59.jpg",
+    "releaseYear": 2026,
+    "rating": 90,
+    "platforms": [
+      "Xbox Series X|S",
+      "Nintendo Switch 2",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Shooter",
+      "Puzzle",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 12503,
+    "name": "The Witcher 3: Wild Hunt - Hearts of Stone",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/4904f82c12cecf6ec070fe77d7e913ce.png",
+    "releaseYear": 2015,
+    "rating": 92,
+    "platforms": [
+      "Xbox Series X|S",
+      "PlayStation 4",
+      "PC (Microsoft Windows)",
+      "PlayStation 5",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 7346,
+    "name": "The Legend of Zelda: Breath of the Wild",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/121b81f7d167ca2c24fdab4f044048f8.png",
+    "releaseYear": 2017,
+    "rating": 95,
+    "platforms": [
+      "Wii U",
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Puzzle",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 372930,
+    "name": "Dig Island",
+    "posterUrl": "https://images.igdb.com/igdb/image/upload/t_1080p/cobet5.jpg",
+    "releaseYear": 2026,
+    "rating": 97,
+    "platforms": [
+      "PC (Microsoft Windows)"
+    ],
+    "genres": [
+      "Simulator",
+      "Adventure",
+      "Indie"
+    ]
+  },
+  {
+    "id": 315893,
+    "name": "Rooftop Rascal: The Midnight Cat",
+    "posterUrl": "https://images.igdb.com/igdb/image/upload/t_1080p/co8tkn.jpg",
+    "releaseYear": 2024,
+    "rating": 99,
+    "platforms": [
+      "PlayStation 4",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Platform",
+      "Indie"
+    ]
+  },
+  {
+    "id": 37001,
+    "name": "Ori and the Will of the Wisps",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/cf1d15ac3ce0255dd636fb020e51a23a.png",
+    "releaseYear": 2020,
+    "rating": 89,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Platform",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 481,
+    "name": "Silent Hill 2",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/6e5629f2ab9973c09e947a0e1100fb52.png",
+    "releaseYear": 2001,
+    "rating": 91,
+    "platforms": [
+      "PlayStation 2"
+    ],
+    "genres": [
+      "Puzzle",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 26226,
+    "name": "Celeste",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/074aed57c243ae7020971ca7c9fe0f29.png",
+    "releaseYear": 2018,
+    "rating": 89,
+    "platforms": [
+      "Google Stadia",
+      "PlayStation 4",
+      "Linux",
+      "PC (Microsoft Windows)",
+      "Mac",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Platform",
+      "Adventure",
+      "Indie"
+    ]
+  },
+  {
+    "id": 1078,
+    "name": "Super Mario Galaxy 2",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/e407ebda50100920810c87e64a79abd8.png",
+    "releaseYear": 2010,
+    "rating": 93,
+    "platforms": [
+      "Wii",
+      "Wii U"
+    ],
+    "genres": [
+      "Platform",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 251833,
+    "name": "Balatro",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/d70b4d9fdf0af0a00814b91fa82b3d4c.png",
+    "releaseYear": 2024,
+    "rating": 89,
+    "platforms": [
+      "Xbox Series X|S",
+      "PlayStation 4",
+      "Nintendo Switch 2",
+      "Android",
+      "PC (Microsoft Windows)",
+      "iOS",
+      "PlayStation 5",
+      "Mac",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Strategy",
+      "Turn-based strategy (TBS)",
+      "Indie",
+      "Card & Board Game"
+    ]
+  },
+  {
+    "id": 142415,
+    "name": "Indiana Jones and the Great Circle",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/0e85248d5624de50ca8e01f1e9fdd5cb.png",
+    "releaseYear": 2024,
+    "rating": 88,
+    "platforms": [
+      "Xbox Series X|S",
+      "Nintendo Switch 2",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Puzzle",
+      "Role-playing (RPG)",
+      "Adventure"
     ]
   },
   {
@@ -2175,127 +2595,152 @@
     ]
   },
   {
-    "id": 119388,
-    "name": "The Legend of Zelda: Tears of the Kingdom",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/ae758fbcbd5bd841516c53b3c08ebc6f.png",
-    "releaseYear": 2023,
-    "rating": 94,
-    "platforms": [
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Puzzle",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 1520,
-    "name": "Pokémon SoulSilver Version",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/924386c0f19fd05b90b53a5d4c2e65c5.png",
-    "releaseYear": 2009,
-    "rating": 90,
-    "platforms": [
-      "Nintendo DS"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Turn-based strategy (TBS)",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 327461,
-    "name": "Fatal Fury: City of the Wolves - Special Edition",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/95807265296fc2d033a3a01004914ca6.png",
-    "releaseYear": 2025,
-    "rating": 100,
-    "platforms": [
-      "Xbox Series X|S",
-      "PlayStation 4",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Fighting"
-    ]
-  },
-  {
-    "id": 191406,
-    "name": "Portal: Companion Collection",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/c1afac65daadf7142766b166d6d34924.png",
-    "releaseYear": 2022,
-    "rating": 100,
-    "platforms": [
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Platform",
-      "Puzzle",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 1352,
-    "name": "Journey",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/4d815e0dd3244bf08f3acc60d9498027.png",
-    "releaseYear": 2012,
-    "rating": 90,
-    "platforms": [
-      "PlayStation 3",
-      "PlayStation 4",
-      "PC (Microsoft Windows)",
-      "iOS"
-    ],
-    "genres": [
-      "Platform",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 135243,
-    "name": "It Takes Two",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/84d8df6932e202152767f7579f32c613.png",
-    "releaseYear": 2021,
+    "id": 6,
+    "name": "Baldur's Gate II: Shadows of Amn",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/ac841a7305b1f59dc1f462df0fdea70a.png",
+    "releaseYear": 2000,
     "rating": 89,
     "platforms": [
-      "Xbox Series X|S",
-      "PlayStation 4",
+      "Linux",
       "PC (Microsoft Windows)",
-      "PlayStation 5",
-      "Xbox One",
-      "Nintendo Switch"
+      "Mac"
     ],
     "genres": [
-      "Platform",
+      "Role-playing (RPG)"
+    ]
+  },
+  {
+    "id": 1036,
+    "name": "The Legend of Zelda: Twilight Princess",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/36d6a670240681fbbf69cbba0c9065ce.png",
+    "releaseYear": 2006,
+    "rating": 91,
+    "platforms": [
+      "Nintendo GameCube"
+    ],
+    "genres": [
       "Puzzle",
       "Adventure"
     ]
   },
   {
-    "id": 112875,
-    "name": "God of War Ragnarök",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/fd93fd1de50e084dd7d3b0b9f6950450.png",
-    "releaseYear": 2022,
+    "id": 1128,
+    "name": "Castlevania: Symphony of the Night",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/13e50e203d8be253cc8cd7fbe1509c63.png",
+    "releaseYear": 1997,
+    "rating": 92,
+    "platforms": [
+      "PlayStation 3",
+      "PlayStation",
+      "PlayStation Portable",
+      "Xbox 360"
+    ],
+    "genres": [
+      "Platform",
+      "Role-playing (RPG)",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 226995,
+    "name": "Planet Zoo: Aquatic Pack",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/f14b6444d23c8a8b2aeab52d54cf915e.png",
+    "releaseYear": 2020,
+    "rating": 100,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)"
+    ],
+    "genres": [
+      "Simulator",
+      "Strategy"
+    ]
+  },
+  {
+    "id": 26192,
+    "name": "The Last of Us Part II",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/3a96a1164364c063f40ce33aaf971783.png",
+    "releaseYear": 2020,
     "rating": 93,
     "platforms": [
       "PlayStation 4",
-      "PC (Microsoft Windows)",
       "PlayStation 5"
     ],
     "genres": [
-      "Role-playing (RPG)",
-      "Hack and slash/Beat 'em up",
+      "Shooter",
       "Adventure"
     ]
   },
   {
-    "id": 479,
-    "name": "Metal Gear Solid 3: Subsistence",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/c16af09e39c7093bd3eaa51069b0e072.png",
-    "releaseYear": 2005,
-    "rating": 95,
+    "id": 126,
+    "name": "Diablo II",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/f1e513f02d2dbe70b939178cb7d4fbac.png",
+    "releaseYear": 2000,
+    "rating": 89,
     "platforms": [
-      "PlayStation 2"
+      "PC (Microsoft Windows)",
+      "Mac"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Hack and slash/Beat 'em up"
+    ]
+  },
+  {
+    "id": 1068,
+    "name": "Super Mario Bros. 3",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/c5279e07367ef7ba59d6e772bfd9ac5d.png",
+    "releaseYear": 1988,
+    "rating": 89,
+    "platforms": [
+      "Arcade",
+      "Nintendo 3DS",
+      "Wii",
+      "Family Computer",
+      "Wii U",
+      "Nintendo Entertainment System"
+    ],
+    "genres": [
+      "Platform"
+    ]
+  },
+  {
+    "id": 11800,
+    "name": "Divinity: Original Sin II",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/0f530b1c3f33c6409f7e4f10ca8e3e96.jpg",
+    "releaseYear": 2017,
+    "rating": 89,
+    "platforms": [
+      "PC (Microsoft Windows)",
+      "iOS",
+      "Mac"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Strategy",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 328386,
+    "name": "Rooftop Rascal: The Claus Cat",
+    "posterUrl": "https://images.igdb.com/igdb/image/upload/t_1080p/coam4l.jpg",
+    "releaseYear": 2025,
+    "rating": 100,
+    "platforms": [
+      "PlayStation 4",
+      "PlayStation 5"
+    ],
+    "genres": []
+  },
+  {
+    "id": 380,
+    "name": "Metal Gear Solid 4: Guns of the Patriots",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/a634d1d7af940834c11c37d693c4784e.jpg",
+    "releaseYear": 2008,
+    "rating": 91,
+    "platforms": [
+      "PlayStation 3"
     ],
     "genres": [
       "Shooter",
@@ -2304,36 +2749,44 @@
     ]
   },
   {
-    "id": 279884,
-    "name": "Baldur's Gate 3: Digital Deluxe Edition",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/1a5e9d05fdce82f98b56382addb8c888.png",
-    "releaseYear": 2023,
-    "rating": 99,
+    "id": 732,
+    "name": "Grand Theft Auto: San Andreas",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/c4e954b93dc03b0f846db4051a1e6d25.png",
+    "releaseYear": 2004,
+    "rating": 92,
     "platforms": [
-      "Xbox Series X|S",
+      "Xbox",
+      "PlayStation 3",
+      "PlayStation 4",
+      "Android",
       "PC (Microsoft Windows)",
-      "PlayStation 5",
-      "Mac"
+      "iOS",
+      "Mac",
+      "Xbox 360",
+      "PlayStation 2"
     ],
     "genres": [
-      "Role-playing (RPG)",
-      "Strategy",
-      "Turn-based strategy (TBS)",
-      "Tactical",
+      "Shooter",
+      "Racing",
       "Adventure"
     ]
   },
   {
-    "id": 499,
-    "name": "God of War III",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/999f434a8fbab3206c73c9800da70864.png",
-    "releaseYear": 2010,
-    "rating": 91,
+    "id": 184,
+    "name": "Indiana Jones and the Fate of Atlantis",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/2d9d8c02281a1e13edbe828ba0eaa0d4.png",
+    "releaseYear": 1992,
+    "rating": 90,
     "platforms": [
-      "PlayStation 3"
+      "Linux",
+      "PC (Microsoft Windows)",
+      "Mac",
+      "DOS",
+      "Amiga"
     ],
     "genres": [
-      "Hack and slash/Beat 'em up",
+      "Point-and-click",
+      "Puzzle",
       "Adventure"
     ]
   },
@@ -2358,19 +2811,150 @@
     ]
   },
   {
-    "id": 45181,
-    "name": "Mass Effect Trilogy",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/425b39bda3156cf22e7ddd3d33e9a496.png",
-    "releaseYear": 2012,
-    "rating": 93,
+    "id": 1033,
+    "name": "The Legend of Zelda: The Wind Waker",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/304678bd2a45713cc7bfcb1a9e19c8e4.png",
+    "releaseYear": 2002,
+    "rating": 89,
     "platforms": [
-      "PlayStation 3",
+      "Nintendo GameCube"
+    ],
+    "genres": [
+      "Puzzle",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Monkey Island 2: LeChuck's Revenge",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/714f53a510ada5be930c7a28dc417bf0.png",
+    "releaseYear": 1991,
+    "rating": 88,
+    "platforms": [
+      "Mac",
+      "DOS",
+      "Amiga"
+    ],
+    "genres": [
+      "Point-and-click",
+      "Puzzle",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 5503,
+    "name": "Batman: Arkham Knight",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/f84188cb2659a5c8c875d7f0e9fc847c.jpg",
+    "releaseYear": 2015,
+    "rating": 88,
+    "platforms": [
+      "PlayStation 4",
       "PC (Microsoft Windows)",
-      "Xbox 360"
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Hack and slash/Beat 'em up",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 338072,
+    "name": "The Legend of Zelda: Breath of the Wild - Nintendo Switch 2 Edition",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/962298e37cf92c32eb510dc961d7b664.jpg",
+    "releaseYear": 2025,
+    "rating": 100,
+    "platforms": [
+      "Nintendo Switch 2"
+    ],
+    "genres": [
+      "Puzzle",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 9643,
+    "name": "Return of the Obra Dinn",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/a8332c3cfa5211ee092650a92021d8a7.png",
+    "releaseYear": 2018,
+    "rating": 92,
+    "platforms": [
+      "PlayStation 4",
+      "PC (Microsoft Windows)",
+      "Mac",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Puzzle",
+      "Adventure",
+      "Indie"
+    ]
+  },
+  {
+    "id": 11169,
+    "name": "Final Fantasy VII Remake",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/2d2a62f0f4b1f5b7c40d4324e309f39c.png",
+    "releaseYear": 2020,
+    "rating": 89,
+    "platforms": [
+      "Xbox Series X|S",
+      "PlayStation 4",
+      "Nintendo Switch 2",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 330539,
+    "name": "Oxide: Survival Island",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/215a92784fbb3a415297c33dd28cd117.png",
+    "releaseYear": 2025,
+    "rating": 100,
+    "platforms": [
+      "Android",
+      "iOS"
     ],
     "genres": [
       "Shooter",
       "Role-playing (RPG)",
+      "Simulator"
+    ]
+  },
+  {
+    "id": 279377,
+    "name": "Vampire Survivors: Emergency Meeting",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/3bf40127ca1dca6b367418c560ed9ee9.png",
+    "releaseYear": 2023,
+    "rating": 100,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Hack and slash/Beat 'em up",
+      "Indie"
+    ]
+  },
+  {
+    "id": 76882,
+    "name": "Sekiro: Shadows Die Twice",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/97771715c7dd7daf009feeb60c49915a.png",
+    "releaseYear": 2019,
+    "rating": 90,
+    "platforms": [
+      "Google Stadia",
+      "PlayStation 4",
+      "PC (Microsoft Windows)",
+      "Xbox One"
+    ],
+    "genres": [
       "Adventure"
     ]
   },
@@ -2395,48 +2979,35 @@
     ]
   },
   {
-    "id": 119133,
-    "name": "Elden Ring",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/a0abf0396a718b8982fce0b80181d8cb.png",
-    "releaseYear": 2022,
-    "rating": 95,
+    "id": 134582,
+    "name": "Ratchet & Clank: Rift Apart",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/e30c7d71dd22da8264499ef52ad97c81.png",
+    "releaseYear": 2021,
+    "rating": 88,
     "platforms": [
-      "Xbox Series X|S",
-      "PlayStation 4",
-      "Nintendo Switch 2",
       "PC (Microsoft Windows)",
-      "PlayStation 5",
-      "Xbox One"
+      "PlayStation 5"
     ],
     "genres": [
-      "Role-playing (RPG)",
+      "Shooter",
+      "Platform",
       "Adventure"
     ]
   },
   {
-    "id": 310643,
-    "name": "The Binding of Isaac: Repentance",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/d22605e2bddb461a4034acb67334c1f7.png",
-    "releaseYear": 2021,
-    "rating": 98,
-    "platforms": [
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Shooter",
-      "Indie"
-    ]
-  },
-  {
-    "id": 2276,
-    "name": "The Legend of Zelda: The Wind Waker HD",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/8d5c0500d7ec1c04842c4b33673d0f43.png",
-    "releaseYear": 2013,
+    "id": 325594,
+    "name": "Split Fiction",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/04d1d8dde8e718c0f82d2d7f0157a572.png",
+    "releaseYear": 2025,
     "rating": 90,
     "platforms": [
-      "Wii U"
+      "Xbox Series X|S",
+      "Nintendo Switch 2",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
     ],
     "genres": [
+      "Platform",
       "Puzzle",
       "Adventure"
     ]
@@ -2457,38 +3028,143 @@
     ]
   },
   {
-    "id": 20,
-    "name": "BioShock",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/01c050dbc3b37794507091493d6adac4.png",
-    "releaseYear": 2007,
-    "rating": 90,
+    "id": 239060,
+    "name": "Grand Theft Auto V: Story Mode",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/af0a25e27510f77d97634a6bbe653b13.jpg",
+    "releaseYear": 2022,
+    "rating": 100,
     "platforms": [
-      "PC (Microsoft Windows)",
-      "Mac",
-      "Xbox 360"
+      "Xbox Series X|S",
+      "PlayStation 5"
     ],
     "genres": [
       "Shooter",
+      "Arcade"
+    ]
+  },
+  {
+    "id": 119388,
+    "name": "The Legend of Zelda: Tears of the Kingdom",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/ae758fbcbd5bd841516c53b3c08ebc6f.png",
+    "releaseYear": 2023,
+    "rating": 94,
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "genres": [
       "Puzzle",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 7331,
+    "name": "Uncharted 4: A Thief's End",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/6fe386b00d7a58df2ee236b3bf339e6b.jpg",
+    "releaseYear": 2016,
+    "rating": 92,
+    "platforms": [
+      "PlayStation 4"
+    ],
+    "genres": [
+      "Shooter",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 204034,
+    "name": "Ghosts of Tabor",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/33094fa3135b48eb43c2fb3447a5445e.jpg",
+    "releaseYear": 2024,
+    "rating": 96,
+    "platforms": [
+      "Meta Quest 2",
+      "PlayStation VR2",
+      "SteamVR"
+    ],
+    "genres": [
+      "Shooter",
+      "Tactical"
+    ]
+  },
+  {
+    "id": 238878,
+    "name": "Dr. Robotnik's Ring Racers",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/327f648c47d0b5bc1a6be17816a7370b.jpg",
+    "releaseYear": 2024,
+    "rating": 99,
+    "platforms": [
+      "Linux",
+      "PC (Microsoft Windows)",
+      "Mac"
+    ],
+    "genres": [
+      "Racing"
+    ]
+  },
+  {
+    "id": 12579,
+    "name": "Danganronpa V3: Killing Harmony",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/20c8cf27a6d521affeee64697b2ab864.jpg",
+    "releaseYear": 2017,
+    "rating": 88,
+    "platforms": [
+      "PlayStation 4",
+      "Android",
+      "PC (Microsoft Windows)",
+      "iOS",
+      "PlayStation Vita",
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Point-and-click",
+      "Adventure",
+      "Visual Novel"
+    ]
+  },
+  {
+    "id": 549,
+    "name": "God of War",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/72d0eaa80cc3412fda4a133ca1f884e8.png",
+    "releaseYear": 2005,
+    "rating": 88,
+    "platforms": [
+      "PlayStation 2"
+    ],
+    "genres": [
+      "Puzzle",
+      "Hack and slash/Beat 'em up",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 215769,
+    "name": "Cyberpunk 2077: Phantom Liberty",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/8b69d3d879cf6a6766dece6a8df9eb63.png",
+    "releaseYear": 2023,
+    "rating": 92,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5",
+      "Mac"
+    ],
+    "genres": [
+      "Shooter",
       "Role-playing (RPG)",
       "Adventure"
     ]
   },
   {
-    "id": 305040,
-    "name": "The Talos Principle II: Road to Elysium",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/37cf0b4edf094d73be4dab58b7e51b0d.png",
-    "releaseYear": 2024,
-    "rating": 98,
+    "id": 2180,
+    "name": "Super Mario 3D World",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/6208835cf0ad7b20c109b9749d51e845.png?",
+    "releaseYear": 2013,
+    "rating": 89,
     "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
+      "Wii U"
     ],
     "genres": [
-      "Puzzle",
-      "Adventure",
-      "Indie"
+      "Platform"
     ]
   },
   {
@@ -2515,448 +3191,58 @@
     ]
   },
   {
-    "id": 19560,
-    "name": "God of War",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/72d0eaa80cc3412fda4a133ca1f884e8.png",
-    "releaseYear": 2018,
-    "rating": 94,
-    "platforms": [
-      "PlayStation 4",
-      "PC (Microsoft Windows)"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Hack and slash/Beat 'em up",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 116,
-    "name": "Star Wars: Knights of the Old Republic",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/6a0de0c3cc39d88613eac5f05ba6c94f.png",
-    "releaseYear": 2003,
-    "rating": 92,
-    "platforms": [
-      "Xbox",
-      "Android",
-      "PC (Microsoft Windows)",
-      "iOS",
-      "Mac",
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 119171,
-    "name": "Baldur's Gate III",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/b122b82883a834cbcec5c2d2f5c0585c.png",
-    "releaseYear": 2023,
-    "rating": 95,
-    "platforms": [
-      "Google Stadia",
-      "Xbox Series X|S",
-      "Linux",
-      "PC (Microsoft Windows)",
-      "PlayStation 5",
-      "Mac"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Strategy",
-      "Turn-based strategy (TBS)"
-    ]
-  },
-  {
-    "id": 9927,
-    "name": "Persona 5",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/1266ec139fca80cab1939250958861b0.png",
-    "releaseYear": 2016,
-    "rating": 93,
-    "platforms": [
-      "PlayStation 3",
-      "PlayStation 4"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 142722,
-    "name": "Geotastic",
-    "posterUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co49cq.jpg",
-    "releaseYear": 2020,
-    "rating": 96,
-    "platforms": [
-      "Web browser"
-    ],
-    "genres": [
-      "Quiz/Trivia"
-    ]
-  },
-  {
-    "id": 7170,
-    "name": "Ico",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/54c8077a3713597237f91535a6082b1f.jpg",
-    "releaseYear": 2001,
+    "id": 21892,
+    "name": "Fallout 3: Game of the Year Edition",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/e2283617765a268cd5d2c9cd8f2ccb18.jpg",
+    "releaseYear": 2009,
     "rating": 91,
     "platforms": [
-      "PlayStation 2"
-    ],
-    "genres": [
-      "Platform",
-      "Puzzle",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 1128,
-    "name": "Castlevania: Symphony of the Night",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/13e50e203d8be253cc8cd7fbe1509c63.png",
-    "releaseYear": 1997,
-    "rating": 92,
-    "platforms": [
       "PlayStation 3",
-      "PlayStation",
-      "PlayStation Portable",
+      "PC (Microsoft Windows)",
       "Xbox 360"
     ],
     "genres": [
-      "Platform",
+      "Shooter",
       "Role-playing (RPG)",
       "Adventure"
     ]
   },
   {
-    "id": 380,
-    "name": "Metal Gear Solid 4: Guns of the Patriots",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/a634d1d7af940834c11c37d693c4784e.jpg",
-    "releaseYear": 2008,
+    "id": 113112,
+    "name": "Hades",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/ce8a253393a1bbbb3d72cd2093b81ede.png",
+    "releaseYear": 2020,
     "rating": 91,
     "platforms": [
-      "PlayStation 3"
-    ],
-    "genres": [
-      "Shooter",
-      "Tactical",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 9643,
-    "name": "Return of the Obra Dinn",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/a8332c3cfa5211ee092650a92021d8a7.png",
-    "releaseYear": 2018,
-    "rating": 92,
-    "platforms": [
+      "Xbox Series X|S",
       "PlayStation 4",
       "PC (Microsoft Windows)",
+      "iOS",
+      "PlayStation 5",
       "Mac",
       "Xbox One",
       "Nintendo Switch"
     ],
     "genres": [
-      "Puzzle",
+      "Role-playing (RPG)",
+      "Hack and slash/Beat 'em up",
       "Adventure",
       "Indie"
     ]
   },
   {
-    "id": 999,
-    "name": "Oddworld: Abe's Oddysee",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/80c1f602065ea6c3e6db56273de523cb.png",
-    "releaseYear": 1997,
-    "rating": 91,
-    "platforms": [
-      "PlayStation 3",
-      "PC (Microsoft Windows)",
-      "DOS",
-      "PlayStation",
-      "PlayStation Portable"
-    ],
-    "genres": [
-      "Platform",
-      "Puzzle",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 1271,
-    "name": "Ōkami",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/d36ac395fa31afe3c1cc571c09a9644d.png",
-    "releaseYear": 2006,
-    "rating": 89,
-    "platforms": [
-      "PlayStation 3",
-      "Wii",
-      "PlayStation 2"
-    ],
-    "genres": [
-      "Puzzle",
-      "Role-playing (RPG)",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 1074,
-    "name": "Super Mario 64",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/f293653ffa5c0e53453463a82401dbec.png",
-    "releaseYear": 1996,
-    "rating": 89,
-    "platforms": [
-      "Wii",
-      "Nintendo 64",
-      "Wii U"
-    ],
-    "genres": [
-      "Platform",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 7331,
-    "name": "Uncharted 4: A Thief's End",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/6fe386b00d7a58df2ee236b3bf339e6b.jpg",
-    "releaseYear": 2016,
-    "rating": 92,
-    "platforms": [
-      "PlayStation 4"
-    ],
-    "genres": [
-      "Shooter",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 172496,
-    "name": "Ena: Dream BBQ",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/27506e60ce11cadef1f95724b56fd356.png",
-    "releaseYear": 2025,
-    "rating": 98,
-    "platforms": [
-      "Linux",
-      "PC (Microsoft Windows)",
-      "Mac"
-    ],
-    "genres": [
-      "Adventure",
-      "Indie"
-    ]
-  },
-  {
-    "id": 246,
-    "name": "Diablo II: Lord of Destruction",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/a572b78603a301e85627812e54777032.png",
-    "releaseYear": 2001,
-    "rating": 89,
-    "platforms": [
-      "PC (Microsoft Windows)",
-      "Mac"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Hack and slash/Beat 'em up"
-    ]
-  },
-  {
-    "id": 26192,
-    "name": "The Last of Us Part II",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/3a96a1164364c063f40ce33aaf971783.png",
-    "releaseYear": 2020,
-    "rating": 93,
-    "platforms": [
-      "PlayStation 4",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Shooter",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 1026,
-    "name": "The Legend of Zelda: A Link to the Past",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/0e4ad552eaa734c35c136c11e7183efa.png",
-    "releaseYear": 1991,
-    "rating": 96,
-    "platforms": [
-      "Satellaview",
-      "Super Nintendo Entertainment System",
-      "Wii",
-      "Wii U",
-      "New Nintendo 3DS",
-      "Super Famicom"
-    ],
-    "genres": [
-      "Puzzle",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 1078,
-    "name": "Super Mario Galaxy 2",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/e407ebda50100920810c87e64a79abd8.png",
-    "releaseYear": 2010,
-    "rating": 93,
-    "platforms": [
-      "Wii",
-      "Wii U"
-    ],
-    "genres": [
-      "Platform",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 26472,
-    "name": "Disco Elysium",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/e17233dc1c4e3457d5a259c06c7eb502.jpg",
-    "releaseYear": 2019,
-    "rating": 91,
-    "platforms": [
-      "PC (Microsoft Windows)",
-      "Mac"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Adventure",
-      "Indie"
-    ]
-  },
-  {
-    "id": 330539,
-    "name": "Oxide: Survival Island",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/215a92784fbb3a415297c33dd28cd117.png",
+    "id": 335127,
+    "name": "Ghost Town",
+    "posterUrl": "https://images.igdb.com/igdb/image/upload/t_1080p/co9isx.jpg",
     "releaseYear": 2025,
     "rating": 100,
     "platforms": [
-      "Android",
-      "iOS"
-    ],
-    "genres": [
-      "Shooter",
-      "Role-playing (RPG)",
-      "Simulator"
-    ]
-  },
-  {
-    "id": 136482,
-    "name": "Undertale Yellow",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/513f718593a988efe43fc5f63fda26eb.png",
-    "releaseYear": 2023,
-    "rating": 99,
-    "platforms": [
-      "PC (Microsoft Windows)"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Turn-based strategy (TBS)",
-      "Adventure",
-      "Indie"
-    ]
-  },
-  {
-    "id": 14,
-    "name": "Fallout 2",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/cd7c0dfc3f4b6ef663c6b9f371e7ff37.png",
-    "releaseYear": 1998,
-    "rating": 89,
-    "platforms": [
-      "PC (Microsoft Windows)",
-      "Mac"
+      "Meta Quest 2",
+      "PlayStation VR2",
+      "SteamVR"
     ],
     "genres": [
       "Puzzle",
-      "Role-playing (RPG)"
-    ]
-  },
-  {
-    "id": 141503,
-    "name": "Forza Horizon 5",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/6abd5c03e1414f4600add2d7956bb442.png",
-    "releaseYear": 2021,
-    "rating": 89,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5",
-      "Xbox One"
-    ],
-    "genres": [
-      "Racing"
-    ]
-  },
-  {
-    "id": 302168,
-    "name": "Warhammer 40,000: Rogue Trader - Void Shadows",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/592b9e4f528d1a6aa6802e9595262dbd.png",
-    "releaseYear": 2024,
-    "rating": 100,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5",
-      "Mac"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Strategy",
-      "Turn-based strategy (TBS)",
-      "Tactical",
-      "Adventure",
-      "Indie"
-    ]
-  },
-  {
-    "id": 1068,
-    "name": "Super Mario Bros. 3",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/c5279e07367ef7ba59d6e772bfd9ac5d.png",
-    "releaseYear": 1988,
-    "rating": 89,
-    "platforms": [
-      "Arcade",
-      "Nintendo 3DS",
-      "Wii",
-      "Family Computer",
-      "Wii U",
-      "Nintendo Entertainment System"
-    ],
-    "genres": [
-      "Platform"
-    ]
-  },
-  {
-    "id": 293,
-    "name": "Sid Meier's Civilization IV",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/be925cdb6f03c1b58212df4c2831aedd.png",
-    "releaseYear": 2005,
-    "rating": 90,
-    "platforms": [
-      "PC (Microsoft Windows)",
-      "Mac"
-    ],
-    "genres": [
-      "Simulator",
-      "Strategy",
-      "Turn-based strategy (TBS)"
-    ]
-  },
-  {
-    "id": 134709,
-    "name": "Grand Theft Auto V",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/af0a25e27510f77d97634a6bbe653b13.jpg",
-    "releaseYear": 2022,
-    "rating": 100,
-    "platforms": [
-      "Xbox Series X|S",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Shooter",
-      "Racing",
       "Adventure"
     ]
   },
@@ -2977,126 +3263,14 @@
     ]
   },
   {
-    "id": 338073,
-    "name": "The Legend of Zelda: Tears of the Kingdom - Nintendo Switch 2 Edition",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/9760466d26d920091807993e4cb72d05.png",
-    "releaseYear": 2025,
-    "rating": 100,
-    "platforms": [
-      "Nintendo Switch 2"
-    ],
-    "genres": [
-      "Puzzle",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 7342,
-    "name": "Inside",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/3240f70f7ea5d523e886a8327cd49ce9.png",
+    "id": 9927,
+    "name": "Persona 5",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/1266ec139fca80cab1939250958861b0.png",
     "releaseYear": 2016,
-    "rating": 89,
+    "rating": 93,
     "platforms": [
-      "PlayStation 4",
-      "PC (Microsoft Windows)",
-      "iOS",
-      "Mac",
-      "Xbox One",
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Platform",
-      "Puzzle",
-      "Adventure",
-      "Indie"
-    ]
-  },
-  {
-    "id": 134606,
-    "name": "Demon's Souls",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/f80afec6b887f5f8a5c7ca6bdb08a769.png",
-    "releaseYear": 2020,
-    "rating": 90,
-    "platforms": [
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Hack and slash/Beat 'em up",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 1073,
-    "name": "Super Mario World 2: Yoshi's Island",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/59857cc70355243795b398b32447b862.png",
-    "releaseYear": 1995,
-    "rating": 94,
-    "platforms": [
-      "Satellaview",
-      "Super Nintendo Entertainment System",
-      "Super Famicom"
-    ],
-    "genres": [
-      "Platform"
-    ]
-  },
-  {
-    "id": 551,
-    "name": "God of War II",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/7f5c8cbd9c1a9f0fbbb793d440dfd8e3.png",
-    "releaseYear": 2007,
-    "rating": 89,
-    "platforms": [
-      "PlayStation 2"
-    ],
-    "genres": [
-      "Platform",
-      "Hack and slash/Beat 'em up",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 1077,
-    "name": "Super Mario Galaxy",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/850660ba5cb014184e5cc0e6b3d4c6bb.png",
-    "releaseYear": 2007,
-    "rating": 94,
-    "platforms": [
-      "Wii",
-      "Wii U"
-    ],
-    "genres": [
-      "Platform",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 9602,
-    "name": "Super Smash Bros. for Wii U",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/5b2133764ba9ee4e211cf50a7e3c86f5.png",
-    "releaseYear": 2014,
-    "rating": 89,
-    "platforms": [
-      "Wii U"
-    ],
-    "genres": [
-      "Fighting",
-      "Platform"
-    ]
-  },
-  {
-    "id": 11169,
-    "name": "Final Fantasy VII Remake",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/2d2a62f0f4b1f5b7c40d4324e309f39c.png",
-    "releaseYear": 2020,
-    "rating": 89,
-    "platforms": [
-      "Xbox Series X|S",
-      "PlayStation 4",
-      "Nintendo Switch 2",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
+      "PlayStation 3",
+      "PlayStation 4"
     ],
     "genres": [
       "Role-playing (RPG)",
@@ -3104,226 +3278,52 @@
     ]
   },
   {
-    "id": 184,
-    "name": "Indiana Jones and the Fate of Atlantis",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/2d9d8c02281a1e13edbe828ba0eaa0d4.png",
-    "releaseYear": 1992,
-    "rating": 90,
-    "platforms": [
-      "Linux",
-      "PC (Microsoft Windows)",
-      "Mac",
-      "DOS",
-      "Amiga"
-    ],
-    "genres": [
-      "Point-and-click",
-      "Puzzle",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 272,
-    "name": "Unreal Tournament",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/9060b6f07473839fc0bbda82aea5cd31.png",
-    "releaseYear": 1999,
-    "rating": 92,
-    "platforms": [
-      "Linux",
-      "PC (Microsoft Windows)",
-      "Mac",
-      "Dreamcast",
-      "PlayStation 2"
-    ],
-    "genres": [
-      "Shooter"
-    ]
-  },
-  {
-    "id": 215769,
-    "name": "Cyberpunk 2077: Phantom Liberty",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/8b69d3d879cf6a6766dece6a8df9eb63.png",
-    "releaseYear": 2023,
-    "rating": 92,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5",
-      "Mac"
-    ],
-    "genres": [
-      "Shooter",
-      "Role-playing (RPG)",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 335127,
-    "name": "Ghost Town",
-    "posterUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co9isx.jpg",
-    "releaseYear": 2025,
-    "rating": 100,
-    "platforms": [
-      "Meta Quest 2",
-      "PlayStation VR2",
-      "SteamVR"
-    ],
-    "genres": [
-      "Puzzle",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 72870,
-    "name": "Horizon Zero Dawn: Complete Edition",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/eb607421d94ea054d3cf191ae493867a.png",
-    "releaseYear": 2017,
-    "rating": 90,
-    "platforms": [
-      "PlayStation 4",
-      "PC (Microsoft Windows)"
-    ],
-    "genres": [
-      "Shooter",
-      "Role-playing (RPG)",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 3340,
-    "name": "Paper Mario",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/f98e8082f2b3924b8a137d1cfc12e08b.png",
-    "releaseYear": 2000,
-    "rating": 89,
-    "platforms": [
-      "Wii",
-      "Nintendo 64",
-      "Wii U"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 318395,
-    "name": "Animal Company",
-    "posterUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/coauu2.jpg",
-    "releaseYear": 2024,
-    "rating": 97,
-    "platforms": [
-      "Meta Quest 2",
-      "SteamVR"
-    ],
-    "genres": [
-      "Adventure"
-    ]
-  },
-  {
-    "id": 204034,
-    "name": "Ghosts of Tabor",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/33094fa3135b48eb43c2fb3447a5445e.jpg",
-    "releaseYear": 2024,
-    "rating": 96,
-    "platforms": [
-      "Meta Quest 2",
-      "PlayStation VR2",
-      "SteamVR"
-    ],
-    "genres": [
-      "Shooter",
-      "Tactical"
-    ]
-  },
-  {
-    "id": 61,
-    "name": "Monkey Island 2: LeChuck's Revenge",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/8ec0888a5b04139be0dfe942c7eb4199.png",
-    "releaseYear": 1991,
-    "rating": 88,
-    "platforms": [
-      "Mac",
-      "DOS",
-      "Amiga"
-    ],
-    "genres": [
-      "Point-and-click",
-      "Puzzle",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 372930,
-    "name": "Dig Island",
-    "posterUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/cobet5.jpg",
-    "releaseYear": 2026,
-    "rating": 97,
+    "id": 150100,
+    "name": "Captain of Industry",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/5759b6f27a9f282701dbe0e58443ad8b.png",
+    "releaseYear": 2022,
+    "rating": 98,
     "platforms": [
       "PC (Microsoft Windows)"
     ],
     "genres": [
       "Simulator",
-      "Adventure",
+      "Strategy",
       "Indie"
     ]
   },
   {
-    "id": 185246,
-    "name": "Alan Wake II",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/a7147fd59ab64d16e49e819733ad2187.png",
-    "releaseYear": 2023,
-    "rating": 90,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Shooter",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 227211,
-    "name": "S.T.A.L.K.E.R. G.A.M.M.A.",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/e7c7f26e208f2cd121779b810d9e9096.jpg",
-    "releaseYear": 2018,
+    "id": 1802,
+    "name": "Chrono Trigger",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/abc617f05e41620356626cf7761d5143.png",
+    "releaseYear": 1995,
     "rating": 92,
     "platforms": [
-      "PC (Microsoft Windows)"
-    ],
-    "genres": [
-      "Shooter",
-      "Tactical",
-      "Adventure",
-      "Indie"
-    ]
-  },
-  {
-    "id": 254339,
-    "name": "Super Mario Bros. Wonder",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/66da3b21fe18692332284c64e08b8e02.png",
-    "releaseYear": 2023,
-    "rating": 91,
-    "platforms": [
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Platform"
-    ]
-  },
-  {
-    "id": 228,
-    "name": "World of Warcraft: Wrath of the Lich King",
-    "posterUrl": "https://cdn2.steamgriddb.com/grid/20a2da5b33a57517ced6715266f3c67d.png",
-    "releaseYear": 2008,
-    "rating": 94,
-    "platforms": [
-      "PC (Microsoft Windows)",
-      "Mac"
+      "Satellaview",
+      "Super Nintendo Entertainment System",
+      "Wii",
+      "Super Famicom"
     ],
     "genres": [
       "Role-playing (RPG)"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "BioShock",
+    "posterUrl": "https://cdn2.steamgriddb.com/grid/01c050dbc3b37794507091493d6adac4.png",
+    "releaseYear": 2007,
+    "rating": 90,
+    "platforms": [
+      "PC (Microsoft Windows)",
+      "Mac",
+      "Xbox 360"
+    ],
+    "genres": [
+      "Shooter",
+      "Puzzle",
+      "Role-playing (RPG)",
+      "Adventure"
     ]
   }
 ]
