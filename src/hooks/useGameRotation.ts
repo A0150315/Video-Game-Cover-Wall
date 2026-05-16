@@ -16,14 +16,22 @@ const GALLERY_BATCH = GALLERY_COLS * GALLERY_ROWS;
 const SPOTLIGHT_BATCH = 1 + SPOTLIGHT_THUMB_COUNT;
 
 export function useGameRotation(games: GameData[], mode: DisplayMode) {
-  const getRandomIndex = () => {
+  const pickRandom = () => {
     const step = mode === 'gallery' ? GALLERY_BATCH : mode === 'spotlight' ? SPOTLIGHT_BATCH : 1;
     const max = Math.max(0, games.length - step);
     return max > 0 ? Math.floor(Math.random() * (max + 1)) : 0;
   };
 
-  const [index, setIndex] = useState(getRandomIndex);
+  const [index, setIndex] = useState(pickRandom);
   const timerRef = useRef<ReturnType<typeof setInterval>>(undefined);
+
+  // For cinematic random mode: pre-select the next target so we can preload it
+  const nextRandomRef = useRef<number | null>(null);
+  if (nextRandomRef.current === null && games.length > 1 && mode === 'cinematic') {
+    let next: number;
+    do { next = pickRandom(); } while (next === index && games.length > 1);
+    nextRandomRef.current = next;
+  }
 
   const count = mode === 'gallery' ? GALLERY_BATCH : mode === 'spotlight' ? SPOTLIGHT_BATCH : 1;
   const maxIndex = Math.max(0, games.length - count);
@@ -37,19 +45,41 @@ export function useGameRotation(games: GameData[], mode: DisplayMode) {
 
   const advance = useCallback((dir: 1 | -1) => {
     setIndex(prev => {
+      if (mode === 'cinematic') {
+        // Jump to the pre-selected random target
+        const target = nextRandomRef.current;
+        if (target !== null && target !== prev && target <= games.length - 1) {
+          // Pick next random target
+          let next: number;
+          do { next = pickRandom(); } while (next === target && games.length > 1);
+          nextRandomRef.current = next;
+          return target;
+        }
+        return prev;
+      }
       const step = mode === 'gallery' ? GALLERY_BATCH : 1;
       const next = prev + dir * step;
       if (next > maxIndex) return 0;
       if (next < 0) return maxIndex;
       return next;
     });
-  }, [maxIndex, mode]);
+  }, [maxIndex, mode, games.length]);
 
   const next = useCallback(() => advance(1), [advance]);
   const prev = useCallback(() => advance(-1), [advance]);
 
-  // Peek at the next batch for preloading
   const peekNextUrls = () => {
+    if (mode === 'cinematic') {
+      // Preload the pre-selected random target
+      const target = nextRandomRef.current;
+      if (target === null) return [];
+      const g = games[target];
+      if (!g) return [];
+      const urls: string[] = [];
+      if (g.posters[0]) urls.push(g.posters[0]);
+      if (g.heroes[0]) urls.push(g.heroes[0]);
+      return urls;
+    }
     const nextIdx = index + count > maxIndex ? 0 : index + count;
     const total = mode === 'gallery' ? GALLERY_BATCH : mode === 'spotlight' ? SPOTLIGHT_BATCH : 1;
     const peeked = games.slice(nextIdx, nextIdx + total);
@@ -66,7 +96,10 @@ export function useGameRotation(games: GameData[], mode: DisplayMode) {
     return () => clearInterval(timerRef.current);
   }, [mode, advance]);
 
-  useEffect(() => { setIndex(getRandomIndex()); }, [mode]);
+  useEffect(() => {
+    setIndex(pickRandom());
+    nextRandomRef.current = null; // trigger re-initialization on next render
+  }, [mode]);
 
   return { current, phaseKey, peekNextUrls, next, prev };
 }
