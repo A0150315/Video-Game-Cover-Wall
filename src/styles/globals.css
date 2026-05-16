@@ -72,3 +72,8 @@ html, body, #root {
   z-index: 3;
   opacity: 0.4;
 }
+
+.edge-fade {
+  -webkit-mask-image: radial-gradient(ellipse at center, black 55%, transparent 85%);
+  mask-image: radial-gradient(ellipse at center, black 55%, transparent 85%);
+}
