@@ -167,35 +167,53 @@ export function createCoverWall(container: HTMLElement, posters: string[]): Cove
     c.width = 128;
     c.height = 192;
     const ctx = c.getContext('2d')!;
-    ctx.filter = 'blur(20px)';
+    ctx.filter = 'blur(12px)';
     ctx.fillStyle = '#fff';
-    ctx.fillRect(128 / 2 - 40, 192 / 2 - 60, 80, 120);
+    ctx.fillRect(128 / 2 - 43, 192 / 2 - 64, 86, 128);
     return new THREE.CanvasTexture(c);
   })();
   const glowGeometry = new THREE.PlaneGeometry(CARD_W * 1.5, CARD_H * 1.5);
 
   const colorCanvas = document.createElement('canvas');
-  colorCanvas.width = colorCanvas.height = 8;
+  colorCanvas.width = colorCanvas.height = 16;
   const colorCtx = colorCanvas.getContext('2d', { willReadFrequently: true })!;
+  // Vibrant-style extraction (ColorThief / Android Palette family):
+  // quantize to 5-bit buckets, score by population × avg saturation, take the winner.
   const dominantColor = (img: CanvasImageSource): THREE.Color => {
-    colorCtx.drawImage(img, 0, 0, 8, 8);
-    const d = colorCtx.getImageData(0, 0, 8, 8).data;
-    let r = 0, g = 0, b = 0, n = 0;
-    const pass = (filter: boolean) => {
-      for (let i = 0; i < d.length; i += 4) {
-        const R = d[i] / 255, G = d[i + 1] / 255, B = d[i + 2] / 255;
-        if (filter) {
-          const mx = Math.max(R, G, B), mn = Math.min(R, G, B);
-          const sat = mx === 0 ? 0 : (mx - mn) / mx;
-          const lum = (R + G + B) / 3;
-          if (sat <= 0.12 || lum <= 0.08 || lum >= 0.92) continue;
-        }
-        r += R; g += G; b += B; n++;
+    colorCtx.drawImage(img, 0, 0, 16, 16);
+    const d = colorCtx.getImageData(0, 0, 16, 16).data;
+    const buckets = new Map<number, { r: number; g: number; b: number; n: number; sat: number }>();
+    for (let i = 0; i < d.length; i += 4) {
+      const R = d[i] / 255, G = d[i + 1] / 255, B = d[i + 2] / 255;
+      const key = ((d[i] >> 3) << 10) | ((d[i + 1] >> 3) << 5) | (d[i + 2] >> 3);
+      let bk = buckets.get(key);
+      if (!bk) {
+        bk = { r: 0, g: 0, b: 0, n: 0, sat: 0 };
+        buckets.set(key, bk);
       }
-    };
-    pass(true);
-    if (n === 0) pass(false);
-    return new THREE.Color(r / n, g / n, b / n);
+      const mx = Math.max(R, G, B), mn = Math.min(R, G, B);
+      bk.r += R; bk.g += G; bk.b += B; bk.n++;
+      bk.sat += mx === 0 ? 0 : (mx - mn) / mx;
+    }
+    let best: { r: number; g: number; b: number; n: number } | null = null;
+    let bestScore = 0;
+    for (const bk of buckets.values()) {
+      const lum = (bk.r + bk.g + bk.b) / (3 * bk.n);
+      if (lum < 0.06 || lum > 0.94) continue;
+      const score = bk.sat;
+      if (score > bestScore) {
+        bestScore = score;
+        best = bk;
+      }
+    }
+    if (!best) {
+      let r = 0, g = 0, b = 0, n = 0;
+      for (let i = 0; i < d.length; i += 4) {
+        r += d[i] / 255; g += d[i + 1] / 255; b += d[i + 2] / 255; n++;
+      }
+      return new THREE.Color(r / n, g / n, b / n);
+    }
+    return new THREE.Color(best.r / best.n, best.g / best.n, best.b / best.n);
   };
 
   const worldUp = new THREE.Vector3(0, 1, 0);
@@ -258,9 +276,8 @@ export function createCoverWall(container: HTMLElement, posters: string[]): Cove
         activeLoads--;
 
         const color = dominantColor(texture.image as CanvasImageSource)
-          .convertSRGBToLinear();
-        const peak = Math.max(color.r, color.g, color.b);
-        if (peak > 0) color.multiplyScalar(1.0 / peak);
+          .convertSRGBToLinear()
+          .multiplyScalar(1.3);
         const glow = new THREE.Mesh(
           glowGeometry,
           new THREE.MeshBasicMaterial({
@@ -268,12 +285,12 @@ export function createCoverWall(container: HTMLElement, posters: string[]): Cove
             color,
             transparent: true,
             opacity: 0,
-            blending: THREE.AdditiveBlending,
             depthWrite: false,
           }),
         );
         glow.position.copy(card.mesh.position).multiplyScalar((radius - 0.18) / radius);
         glow.quaternion.copy(card.mesh.quaternion);
+        glow.translateY(-0.06); // slight drop — floating shadow feel
         wall.add(glow);
         card.glow = glow;
         if (DEBUG && glowLogged++ < 5) {
@@ -364,11 +381,11 @@ export function createCoverWall(container: HTMLElement, posters: string[]): Cove
       if (card.fading) {
         const m = card.mesh.material;
         m.opacity = Math.min(1, m.opacity + dt * 1.5);
-        if (card.glow) card.glow.material.opacity = m.opacity * 0.5;
+        if (card.glow) card.glow.material.opacity = m.opacity * 0.55;
         if (m.opacity >= 1) {
           card.fading = false;
           m.transparent = false;
-          if (card.glow) card.glow.material.opacity = 0.5;
+          if (card.glow) card.glow.material.opacity = 0.55;
         }
       }
     }
