@@ -59,7 +59,8 @@ void main() {
   col += noise(uv * 40.0) * 0.05 * smoothstep(0.4, 0.8, f); // granulation
   float d = distance(vUv, vec2(0.5));
   col *= 1.0 - smoothstep(0.3, 0.85, d) * 0.75;
-  gl_FragColor = vec4(col, 1.0);
+  // uniforms are in linear working space; encode to sRGB for display
+  gl_FragColor = vec4(pow(col, vec3(1.0 / 2.2)), 1.0);
 }
 `;
 
@@ -111,7 +112,7 @@ export function createCoverWall(container: HTMLElement, posters: string[]): Cove
     },
     depthWrite: false,
   });
-  const bg = new THREE.Mesh(new THREE.PlaneGeometry(200, 110), bgMaterial);
+  const bg = new THREE.Mesh(new THREE.PlaneGeometry(280, 160), bgMaterial);
   bg.position.z = -80;
   bg.renderOrder = -1;
   scene.add(bg);

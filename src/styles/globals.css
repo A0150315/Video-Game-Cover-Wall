@@ -38,5 +38,5 @@ html, body, #root {
   background-repeat: repeat;
   pointer-events: none;
   z-index: 6;
-  opacity: 0.4;
+  opacity: 0.25;
 }
