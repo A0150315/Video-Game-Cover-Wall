@@ -9,6 +9,10 @@ const FOV = 50;
 const CAM_FRONT_DIST = 9;
 const ROT_SPEED = 0.02;
 const MAX_DPR = 1.5;
+const MAX_CONCURRENT_LOADS = 8;
+const LOAD_ZONE = 1.9;
+const EVICT_ZONE = 2.4;
+const LAZY_INTERVAL = 0.25;
 
 // Ported from JRMeyer/ghostty-watercolors — wet-on-wet-bg.glsl (MIT-style, open source).
 // Adaptations: hue as uniform (random per load), time-drifting noise domains,
@@ -92,7 +96,14 @@ export interface CoverWallHandle {
 
 interface Card {
   mesh: THREE.Mesh<THREE.PlaneGeometry, THREE.MeshBasicMaterial>;
+  theta: number;
+  url: string;
+  state: 'none' | 'loading' | 'loaded';
   fading: boolean;
+}
+
+function wrapPi(a: number): number {
+  return ((((a + Math.PI) % (2 * Math.PI)) + 2 * Math.PI) % (2 * Math.PI)) - Math.PI;
 }
 
 function bandCounts(n: number): number[] {
@@ -176,21 +187,66 @@ export function createCoverWall(container: HTMLElement, posters: string[]): Cove
       mesh.position.copy(normal).multiplyScalar(radius);
       mesh.quaternion.setFromRotationMatrix(basis);
       wall.add(mesh);
-      const card: Card = { mesh, fading: false };
-      cards.push(card);
-
-      loader.load(posters[idx], texture => {
-        texture.colorSpace = THREE.SRGBColorSpace;
-        texture.anisotropy = maxAnisotropy;
-        material.map = texture;
-        material.opacity = 0;
-        card.fading = true;
-      });
+      cards.push({ mesh, theta, url: posters[idx], state: 'none', fading: false });
     }
   }
 
+  let activeLoads = 0;
+  let alive = true;
+  const requestTexture = (card: Card) => {
+    card.state = 'loading';
+    activeLoads++;
+    loader.load(
+      card.url,
+      texture => {
+        if (!alive) {
+          texture.dispose();
+          return;
+        }
+        texture.colorSpace = THREE.SRGBColorSpace;
+        texture.anisotropy = maxAnisotropy;
+        const m = card.mesh.material;
+        m.map = texture;
+        m.transparent = true;
+        m.opacity = 0;
+        card.state = 'loaded';
+        card.fading = true;
+        activeLoads--;
+      },
+      undefined,
+      () => {
+        card.state = 'none';
+        activeLoads--;
+      },
+    );
+  };
+
+  const lazyPass = () => {
+    const rotY = wall.rotation.y;
+    const candidates: { card: Card; dist: number }[] = [];
+    for (const card of cards) {
+      const a = Math.abs(wrapPi(card.theta + rotY));
+      if (card.state === 'none' && a < LOAD_ZONE) {
+        candidates.push({ card, dist: a });
+      } else if (card.state === 'loaded' && a > EVICT_ZONE) {
+        card.mesh.material.map?.dispose();
+        card.mesh.material.map = placeholder;
+        card.mesh.material.transparent = false;
+        card.mesh.material.opacity = 1;
+        card.state = 'none';
+        card.fading = false;
+      }
+    }
+    candidates.sort((x, y) => x.dist - y.dist);
+    for (const { card } of candidates) {
+      if (activeLoads >= MAX_CONCURRENT_LOADS) break;
+      requestTexture(card);
+    }
+  };
+
   let last = performance.now();
   let rafId = 0;
+  let lazyTimer = LAZY_INTERVAL;
 
   const params = new URLSearchParams(location.search);
   const DEBUG = params.has('debug');
@@ -228,6 +284,12 @@ export function createCoverWall(container: HTMLElement, posters: string[]): Cove
     wall.rotation.y += ROT_SPEED * dt;
     camera.position.x = 1.2 + Math.sin(t * 0.05) * 0.4;
     camera.lookAt(0, 0, 0);
+
+    lazyTimer += dt;
+    if (lazyTimer >= LAZY_INTERVAL) {
+      lazyTimer = 0;
+      lazyPass();
+    }
 
     for (const card of cards) {
       if (card.fading) {
@@ -286,6 +348,7 @@ export function createCoverWall(container: HTMLElement, posters: string[]): Cove
 
   return {
     dispose() {
+      alive = false;
       cancelAnimationFrame(rafId);
       window.removeEventListener('resize', onResize);
       for (const card of cards) {
