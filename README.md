@@ -1,18 +1,17 @@
 # Video Game Cover Wall
 
-全屏游戏封面展示墙，适用于 LG G4 电视待机场景。三种展示模式自动轮换，数据由 GitHub Actions 每日自动更新。
+全屏 3D 游戏封面展示墙，适用于 LG G4 电视待机场景。Three.js 渲染的无限轮播封面墙 + 水墨晕染动态背景，纯屏保零交互。
 
 ## 技术栈
 
-**pnpm + Vite + React 19 + TypeScript + Tailwind CSS v4 + Motion (Framer Motion)**
+**pnpm + Vite + React 19 + TypeScript + Tailwind CSS v4 + Three.js**
 
-## 三种展示模式
+## 展示效果
 
-| 模式 | 占比 | 效果 |
-|------|------|------|
-| Cinematic 电影模式 | 60% | 全屏 Ken Burns 缩放 + 羽化 + 胶片颗粒 |
-| Gallery 画廊模式 | 25% | 5×3 网格 + 交错入场 + 随机 Hero 放大 |
-| Spotlight 聚光灯 | 15% | 65%/35% Hero+侧栏 + 轮播动画 |
+- 全部封面贴于球面（赤道 2 行环绕 360°），球体匀速自转，前半球即滑动窗口，无限循环
+- 深黑水墨晕染 shader 背景，每次载入随机配色，相机微幅摆动
+- 启动时随机洗牌，同图去重，404 封面自动剔除
+- 封面本地化存储（512px JPEG），同源加载，无 CORS/限流问题
 
 ## 本地开发
 
@@ -42,6 +41,13 @@ pnpm test         # 运行测试
 pnpm fetch-games
 ```
 
+`fetch-games` 会自动把封面下载、重编码到 `public/data/covers/`，并去重/剔除失败项。
+已有 `games.json` 但缺本地封面时，可单独运行：
+
+```bash
+pnpm download-covers
+```
+
 ## 部署
 
 1. Fork 此仓库
@@ -52,14 +58,9 @@ pnpm fetch-games
 3. Settings → Pages → Source: GitHub Actions
 4. Push 到 main 分支，自动部署
 
-## 遥控器操作
-
-| 按键 | 功能 |
-|------|------|
-| 左/右 | 上一款/下一款游戏 |
-| 上/下 | 切换展示模式 |
-
 ## 兼容性
+
+需要支持 WebGL 的浏览器：
 
 - LG webOS 浏览器（主要目标平台）
 - Apple TV 浏览器

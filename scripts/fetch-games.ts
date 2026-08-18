@@ -1,5 +1,6 @@
 import { writeFileSync, readFileSync } from 'node:fs';
 import { resolve } from 'node:path';
+import { localizePosters } from './lib/covers';
 
 // ---------------------------------------------------------------------------
 // Types
@@ -238,12 +239,14 @@ async function main() {
     await new Promise(r => setTimeout(r, 200));
   }
 
-  // 5. Remove games with no images, then shuffle & write
+  // 5. Remove games with no images, download covers locally, then shuffle & write
   const filtered = output.filter(g => g.posters.length > 0 || g.heroes.length > 0);
   console.log(`  Filtered: ${output.length - filtered.length} games with no images removed`);
-  shuffle(filtered);
-  writeFileSync(OUTPUT_PATH, JSON.stringify(filtered, null, 2), 'utf-8');
-  console.log(`\nDone! ${filtered.length} games written to ${OUTPUT_PATH}`);
+  console.log('Localizing cover images...');
+  const localized = await localizePosters(filtered);
+  shuffle(localized);
+  writeFileSync(OUTPUT_PATH, JSON.stringify(localized, null, 2), 'utf-8');
+  console.log(`\nDone! ${localized.length} games written to ${OUTPUT_PATH}`);
 }
 
 main().catch(err => {

@@ -1,15 +1,12 @@
 import { useState, useEffect, useMemo } from 'react';
 import type { GameData } from './types/game';
-import { useModeSchedule } from './hooks/useModeSchedule';
-import { useGameRotation } from './hooks/useGameRotation';
-import ModeRenderer from './components/ModeRenderer';
+import { shuffle } from './utils/shuffle';
+import CoverWallCanvas from './components/CoverWallCanvas';
 
 export default function App() {
   const [games, setGames] = useState<GameData[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(false);
-  const { mode, cycleMode } = useModeSchedule();
-  const { current, phaseKey, peekNextUrls, next, prev } = useGameRotation(games, mode);
 
   useEffect(() => {
     fetch(`${import.meta.env.BASE_URL}data/games.json`)
@@ -18,7 +15,7 @@ export default function App() {
         return res.json();
       })
       .then((data: GameData[]) => {
-        setGames(data);
+        setGames(shuffle(data));
         setLoading(false);
       })
       .catch(() => {
@@ -27,47 +24,14 @@ export default function App() {
       });
   }, []);
 
-  useEffect(() => {
-    const handler = (e: KeyboardEvent) => {
-      switch (e.key) {
-        case 'ArrowRight':
-          e.preventDefault();
-          next();
-          break;
-        case 'ArrowLeft':
-          e.preventDefault();
-          prev();
-          break;
-        case 'ArrowUp':
-          e.preventDefault();
-          cycleMode(-1);
-          break;
-        case 'ArrowDown':
-          e.preventDefault();
-          cycleMode(1);
-          break;
-      }
-    };
-    window.addEventListener('keydown', handler);
-    return () => window.removeEventListener('keydown', handler);
-  }, [next, prev, cycleMode]);
-
-  const modeProps = useMemo(() => {
-    if (!games.length) {
-      return {
-        cinematicGame: null,
-        galleryGames: [] as GameData[],
-        spotlightData: null as { hero: GameData; thumbs: GameData[] } | null,
-      };
-    }
-    return {
-      cinematicGame: mode === 'cinematic' ? (current as GameData) : null,
-      galleryGames: mode === 'gallery' ? (current as GameData[]) : [],
-      spotlightData: mode === 'spotlight'
-        ? (current as { hero: GameData; thumbs: GameData[] })
-        : null,
-    };
-  }, [games, mode, current]);
+  const posters = useMemo(
+    () =>
+      games
+        .map(g => g.posters[0])
+        .filter((p): p is string => Boolean(p))
+        .map(p => (p.startsWith('http') ? p : `${import.meta.env.BASE_URL}${p}`)),
+    [games],
+  );
 
   if (loading) {
     return (
@@ -88,15 +52,10 @@ export default function App() {
   }
 
   return (
-    <ModeRenderer
-      mode={mode}
-      games={games}
-      cinematicGame={modeProps.cinematicGame}
-      galleryGames={modeProps.galleryGames}
-      spotlightData={modeProps.spotlightData}
-      phaseKey={phaseKey}
-      preloadUrls={peekNextUrls()}
-      onSkip={next}
-    />
+    <>
+      <CoverWallCanvas posters={posters} />
+      <div className="vignette pointer-events-none absolute inset-0" />
+      <div className="film-grain pointer-events-none absolute inset-0" />
+    </>
   );
 }
