@@ -7,14 +7,14 @@ const CARD_GAP = 0.3;
 const BANDS = 2;
 const FOV = 50;
 const CAM_FRONT_DIST = 9;
-const ROT_SPEED = 0.05;
+const ROT_SPEED = 0.02;
 const MAX_DPR = 1.5;
 
 const INK_PALETTES: [number, number][] = [
-  [0x1a2340, 0x0f2e2e], // indigo / teal
-  [0x2b1220, 0x1a2340], // wine / indigo
-  [0x0f2e2e, 0x16240f], // teal / moss
-  [0x16240f, 0x2b1220], // moss / wine
+  [0x24305e, 0x0e3a3a], // indigo / teal
+  [0x3a1830, 0x24305e], // wine / indigo
+  [0x0e3a3a, 0x1d3313], // teal / moss
+  [0x1d3313, 0x3a1830], // moss / wine
 ];
 
 const BG_VERT = `
@@ -44,15 +44,21 @@ float fbm(vec2 p) {
   return v;
 }
 void main() {
-  vec2 uv = vUv * 2.4;
-  float t = uTime * 0.02;
-  vec2 q = vec2(fbm(uv * 1.6 + t), fbm(uv * 1.6 - t * 0.7 + 5.2));
-  float ink = fbm(uv * 2.2 + q * 1.8 - t * 0.5);
-  vec3 col = vec3(0.016, 0.016, 0.022);
-  col = mix(col, uColorA, smoothstep(0.45, 0.85, ink) * 0.32);
-  col = mix(col, uColorB, smoothstep(0.55, 0.95, fbm(uv * 1.2 - q + t * 0.3)) * 0.22);
+  vec2 uv = vUv * 3.0;
+  uv.x *= 1.8;
+  float t = uTime * 0.015;
+  // double domain warp (iq) — organic ink-bleed shapes
+  vec2 q = vec2(fbm(uv + t * 0.3), fbm(uv + vec2(5.2, 1.3) - t * 0.2));
+  vec2 r = vec2(fbm(uv + 2.0 * q + vec2(1.7, 9.2) + t * 0.15),
+                fbm(uv + 2.0 * q + vec2(8.3, 2.8) - t * 0.12));
+  float f = fbm(uv + 2.5 * r);
+  vec3 col = vec3(0.012, 0.012, 0.018);
+  col = mix(col, uColorA, smoothstep(0.35, 0.75, f) * 0.55);
+  col = mix(col, uColorB, smoothstep(0.45, 0.9, length(q) * 0.9) * 0.35);
+  col += uColorA * smoothstep(0.6, 0.95, r.x) * 0.18;
+  col += noise(uv * 40.0) * 0.05 * smoothstep(0.4, 0.8, f); // granulation
   float d = distance(vUv, vec2(0.5));
-  col *= 1.0 - smoothstep(0.35, 0.9, d) * 0.7;
+  col *= 1.0 - smoothstep(0.3, 0.85, d) * 0.75;
   gl_FragColor = vec4(col, 1.0);
 }
 `;
@@ -165,7 +171,9 @@ export function createCoverWall(container: HTMLElement, posters: string[]): Cove
   let last = performance.now();
   let rafId = 0;
 
-  const DEBUG = new URLSearchParams(location.search).has('debug');
+  const params = new URLSearchParams(location.search);
+  const DEBUG = params.has('debug');
+  const HQ = params.has('hq');
   let tier = 0;
   let badWindows = 0;
   let frameCount = 0;
@@ -175,6 +183,7 @@ export function createCoverWall(container: HTMLElement, posters: string[]): Cove
   let windows = 0;
 
   const degrade = () => {
+    if (HQ) return;
     if (tier === 0) {
       tier = 1;
       renderer.setPixelRatio(1.0);
