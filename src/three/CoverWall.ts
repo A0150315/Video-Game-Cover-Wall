@@ -167,9 +167,9 @@ export function createCoverWall(container: HTMLElement, posters: string[]): Cove
     c.width = 128;
     c.height = 192;
     const ctx = c.getContext('2d')!;
-    ctx.filter = 'blur(18px)';
+    ctx.filter = 'blur(20px)';
     ctx.fillStyle = '#fff';
-    ctx.fillRect(128 / 2 - 43, 192 / 2 - 64, 86, 128);
+    ctx.fillRect(128 / 2 - 40, 192 / 2 - 60, 80, 120);
     return new THREE.CanvasTexture(c);
   })();
   const glowGeometry = new THREE.PlaneGeometry(CARD_W * 1.5, CARD_H * 1.5);
@@ -230,8 +230,13 @@ export function createCoverWall(container: HTMLElement, posters: string[]): Cove
     }
   }
 
+  const params = new URLSearchParams(location.search);
+  const DEBUG = params.has('debug');
+  const HQ = params.has('hq');
+
   let activeLoads = 0;
   let alive = true;
+  let glowLogged = 0;
   const requestTexture = (card: Card) => {
     card.state = 'loading';
     activeLoads++;
@@ -253,8 +258,9 @@ export function createCoverWall(container: HTMLElement, posters: string[]): Cove
         activeLoads--;
 
         const color = dominantColor(texture.image as CanvasImageSource)
-          .convertSRGBToLinear()
-          .multiplyScalar(1.6);
+          .convertSRGBToLinear();
+        const peak = Math.max(color.r, color.g, color.b);
+        if (peak > 0) color.multiplyScalar(1.0 / peak);
         const glow = new THREE.Mesh(
           glowGeometry,
           new THREE.MeshBasicMaterial({
@@ -270,6 +276,9 @@ export function createCoverWall(container: HTMLElement, posters: string[]): Cove
         glow.quaternion.copy(card.mesh.quaternion);
         wall.add(glow);
         card.glow = glow;
+        if (DEBUG && glowLogged++ < 5) {
+          console.log('[glow]', card.url, '#' + color.getHexString());
+        }
       },
       undefined,
       () => {
@@ -311,9 +320,6 @@ export function createCoverWall(container: HTMLElement, posters: string[]): Cove
   let rafId = 0;
   let lazyTimer = LAZY_INTERVAL;
 
-  const params = new URLSearchParams(location.search);
-  const DEBUG = params.has('debug');
-  const HQ = params.has('hq');
   let tier = 0;
   let badWindows = 0;
   let frameCount = 0;
@@ -358,11 +364,11 @@ export function createCoverWall(container: HTMLElement, posters: string[]): Cove
       if (card.fading) {
         const m = card.mesh.material;
         m.opacity = Math.min(1, m.opacity + dt * 1.5);
-        if (card.glow) card.glow.material.opacity = m.opacity * 0.6;
+        if (card.glow) card.glow.material.opacity = m.opacity * 0.5;
         if (m.opacity >= 1) {
           card.fading = false;
           m.transparent = false;
-          if (card.glow) card.glow.material.opacity = 0.6;
+          if (card.glow) card.glow.material.opacity = 0.5;
         }
       }
     }
