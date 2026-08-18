@@ -10,13 +10,9 @@ const CAM_FRONT_DIST = 9;
 const ROT_SPEED = 0.02;
 const MAX_DPR = 1.5;
 
-const INK_PALETTES: [number, number][] = [
-  [0x24305e, 0x0e3a3a], // indigo / teal
-  [0x3a1830, 0x24305e], // wine / indigo
-  [0x0e3a3a, 0x1d3313], // teal / moss
-  [0x1d3313, 0x3a1830], // moss / wine
-];
-
+// Ported from JRMeyer/ghostty-watercolors — wet-on-wet-bg.glsl (MIT-style, open source).
+// Adaptations: hue as uniform (random per load), time-drifting noise domains,
+// dimmed over dark base to sit behind the cover wall.
 const BG_VERT = `
 varying vec2 vUv;
 void main() {
@@ -27,39 +23,65 @@ void main() {
 
 const BG_FRAG = `
 uniform float uTime;
-uniform vec3 uColorA;
-uniform vec3 uColorB;
+uniform float uHue;
 varying vec2 vUv;
 
-float hash(vec2 p) { return fract(sin(dot(p, vec2(127.1, 311.7))) * 43758.5453123); }
-float noise(vec2 p) {
+float hash21(vec2 p) {
+  p = fract(p * vec2(234.34, 435.345));
+  p += dot(p, p + 34.23);
+  return fract(p.x * p.y);
+}
+float vnoise(vec2 p) {
   vec2 i = floor(p); vec2 f = fract(p);
-  vec2 u = f * f * (3.0 - 2.0 * f);
-  return mix(mix(hash(i), hash(i + vec2(1.0, 0.0)), u.x),
-             mix(hash(i + vec2(0.0, 1.0)), hash(i + vec2(1.0, 1.0)), u.x), u.y);
+  f = f * f * (3.0 - 2.0 * f);
+  float a = hash21(i), b = hash21(i + vec2(1.0, 0.0));
+  float c = hash21(i + vec2(0.0, 1.0)), d = hash21(i + vec2(1.0, 1.0));
+  return mix(mix(a, b, f.x), mix(c, d, f.x), f.y);
 }
 float fbm(vec2 p) {
-  float v = 0.0; float a = 0.5;
-  for (int i = 0; i < 3; i++) { v += a * noise(p); p = p * 2.03 + vec2(17.3, 9.1); a *= 0.5; }
-  return v;
+  float s = 0.0, a = 0.5;
+  for (int i = 0; i < 4; i++) { s += vnoise(p) * a; p *= 2.0; a *= 0.5; }
+  return s;
 }
 void main() {
-  vec2 uv = vUv * 3.0;
-  uv.x *= 1.8;
-  float t = uTime * 0.015;
-  // double domain warp (iq) — organic ink-bleed shapes
-  vec2 q = vec2(fbm(uv + t * 0.3), fbm(uv + vec2(5.2, 1.3) - t * 0.2));
-  vec2 r = vec2(fbm(uv + 2.0 * q + vec2(1.7, 9.2) + t * 0.15),
-                fbm(uv + 2.0 * q + vec2(8.3, 2.8) - t * 0.12));
-  float f = fbm(uv + 2.5 * r);
-  vec3 col = vec3(0.012, 0.012, 0.018);
-  col = mix(col, uColorA, smoothstep(0.35, 0.75, f) * 0.55);
-  col = mix(col, uColorB, smoothstep(0.45, 0.9, length(q) * 0.9) * 0.35);
-  col += uColorA * smoothstep(0.6, 0.95, r.x) * 0.18;
-  col += noise(uv * 40.0) * 0.05 * smoothstep(0.4, 0.8, f); // granulation
+  float t = uTime * 0.05;
+  vec2 p = vUv * vec2(1.75, 1.0) * 1.9 + vec2(uHue * 100.0, uHue * 73.0);
+
+  // three pigments on wet paper (cosine palette)
+  vec3 pigment1 = 0.35 + 0.2 * cos(6.28318 * (uHue + vec3(0.0, 0.33, 0.67)));
+  vec3 pigment2 = 0.35 + 0.2 * cos(6.28318 * (uHue + 0.15 + vec3(0.0, 0.33, 0.67)));
+  vec3 pigment3 = 0.35 + 0.2 * cos(6.28318 * (uHue + 0.4 + vec3(0.0, 0.33, 0.67)));
+
+  // domain-warped soft bleed shapes
+  vec2 q1 = vec2(fbm(p * 1.2 + t * 0.3), fbm(p * 1.2 + vec2(5.2, 1.3) - t * 0.2));
+  float bloom1 = fbm(p * 1.2 + 3.0 * q1);
+  vec2 q2 = vec2(fbm(p * 1.0 + vec2(8.0, 3.0) + t * 0.15), fbm(p * 1.0 + vec2(2.0, 7.0) - t * 0.1));
+  float bloom2 = fbm(p * 1.0 + 3.0 * q2);
+  float bloom3 = fbm(p * 1.4 + vec2(12.0, 5.0) + t * 0.1);
+
+  float m1 = smoothstep(0.3, 0.7, bloom1);
+  float m2 = smoothstep(0.35, 0.7, bloom2);
+  float m3 = smoothstep(0.3, 0.65, bloom3);
+
+  vec3 wash = mix(pigment1, pigment2, m1);
+  wash = mix(wash, pigment3, m2 * 0.6);
+
+  // water blooms — lighter spots where water pushed pigment away
+  float waterBloom = fbm(p * 2.0 + vec2(20.0) + t * 0.15);
+  wash = mix(wash, wash * 1.4, smoothstep(0.55, 0.75, waterBloom) * 0.25);
+
+  // pigment concentration variation
+  float concentration = fbm(p * 1.8 + vec2(15.0, 8.0) + t * 0.12);
+  wash = mix(wash * 0.7, wash, smoothstep(0.3, 0.7, concentration));
+
+  // paper grain
+  wash *= 0.97 + 0.06 * vnoise(p * 40.0);
+  wash = clamp(wash, 0.0, 1.0);
+
+  vec3 col = vec3(0.012, 0.012, 0.018) + wash * (0.30 + 0.25 * m3);
   float d = distance(vUv, vec2(0.5));
-  col *= 1.0 - smoothstep(0.3, 0.85, d) * 0.75;
-  // uniforms are in linear working space; encode to sRGB for display
+  col *= 1.0 - smoothstep(0.35, 0.9, d) * 0.6;
+  // encode linear working space to sRGB for display
   gl_FragColor = vec4(pow(col, vec3(1.0 / 2.2)), 1.0);
 }
 `;
@@ -101,14 +123,12 @@ export function createCoverWall(container: HTMLElement, posters: string[]): Cove
   camera.position.set(1.2, 0, radius + CAM_FRONT_DIST);
   camera.lookAt(0, 0, 0);
 
-  const palette = INK_PALETTES[Math.floor(Math.random() * INK_PALETTES.length)];
   const bgMaterial = new THREE.ShaderMaterial({
     vertexShader: BG_VERT,
     fragmentShader: BG_FRAG,
     uniforms: {
       uTime: { value: 0 },
-      uColorA: { value: new THREE.Color(palette[0]) },
-      uColorB: { value: new THREE.Color(palette[1]) },
+      uHue: { value: Math.random() },
     },
     depthWrite: false,
   });
