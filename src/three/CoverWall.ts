@@ -165,12 +165,36 @@ export function createCoverWall(container: HTMLElement, posters: string[]): Cove
   let last = performance.now();
   let rafId = 0;
 
+  const DEBUG = new URLSearchParams(location.search).has('debug');
+  let tier = 0;
+  let badWindows = 0;
+  let frameCount = 0;
+  let sumMs = 0;
+  let worstMs = 0;
+  let windowStart = performance.now();
+  let windows = 0;
+
+  const degrade = () => {
+    if (tier === 0) {
+      tier = 1;
+      renderer.setPixelRatio(1.0);
+      renderer.setSize(container.clientWidth, container.clientHeight);
+      console.warn('[cover-wall] perf tier 1: pixelRatio lowered to 1.0');
+    } else if (tier === 1) {
+      tier = 2;
+      bg.visible = false;
+      scene.background = new THREE.Color(0x050507);
+      console.warn('[cover-wall] perf tier 2: background shader removed');
+    }
+  };
+
   const tick = (now: number) => {
     const dt = Math.min((now - last) / 1000, 0.1);
+    const frameMs = now - last;
     last = now;
     const t = now / 1000;
 
-    bgMaterial.uniforms.uTime.value = t;
+    if (tier < 2) bgMaterial.uniforms.uTime.value = t;
     wall.rotation.y += ROT_SPEED * dt;
     camera.position.x = 1.2 + Math.sin(t * 0.05) * 0.4;
     camera.lookAt(0, 0, 0);
@@ -187,6 +211,36 @@ export function createCoverWall(container: HTMLElement, posters: string[]): Cove
     }
 
     renderer.render(scene, camera);
+
+    frameCount++;
+    sumMs += frameMs;
+    if (frameMs > worstMs) worstMs = frameMs;
+    if (now - windowStart >= 3000) {
+      const avgMs = sumMs / frameCount;
+      if (DEBUG) {
+        console.log(
+          `[perf] avg ${avgMs.toFixed(1)}ms worst ${worstMs.toFixed(1)}ms tier ${tier}`,
+          `drawcalls ${renderer.info.render.calls} tris ${renderer.info.render.triangles}`,
+        );
+      }
+      windows++;
+      if (windows > 1 && frameCount > 60) {
+        if (avgMs > 24) {
+          badWindows++;
+          if (badWindows >= 2) {
+            badWindows = 0;
+            if (tier < 2) degrade();
+          }
+        } else {
+          badWindows = 0;
+        }
+      }
+      frameCount = 0;
+      sumMs = 0;
+      worstMs = 0;
+      windowStart = now;
+    }
+
     rafId = requestAnimationFrame(tick);
   };
   rafId = requestAnimationFrame(tick);

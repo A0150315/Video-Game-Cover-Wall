@@ -172,14 +172,6 @@ function toOutput(game: IgdbGame, posters: string[], heroes: string[]): GameOutp
   };
 }
 
-function shuffle<T>(arr: T[]): T[] {
-  for (let i = arr.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [arr[i], arr[j]] = [arr[j], arr[i]];
-  }
-  return arr;
-}
-
 async function main() {
   if (!IGDB_CLIENT_ID || !IGDB_CLIENT_SECRET || !STEAMGRIDDB_API_KEY) {
     console.error('Missing required env vars: IGDB_CLIENT_ID, IGDB_CLIENT_SECRET, STEAMGRIDDB_API_KEY');
@@ -239,12 +231,13 @@ async function main() {
     await new Promise(r => setTimeout(r, 200));
   }
 
-  // 5. Remove games with no images, download covers locally, then shuffle & write
+  // 5. Remove games with no images, download covers locally, then write.
+  //    Order is deterministic (query order) so CI only commits on real changes;
+  //    display order is shuffled client-side at runtime.
   const filtered = output.filter(g => g.posters.length > 0 || g.heroes.length > 0);
   console.log(`  Filtered: ${output.length - filtered.length} games with no images removed`);
   console.log('Localizing cover images...');
   const localized = await localizePosters(filtered);
-  shuffle(localized);
   writeFileSync(OUTPUT_PATH, JSON.stringify(localized, null, 2), 'utf-8');
   console.log(`\nDone! ${localized.length} games written to ${OUTPUT_PATH}`);
 }

@@ -1,4 +1,4 @@
-import { existsSync, mkdirSync, readFileSync } from 'node:fs';
+import { existsSync, mkdirSync, readFileSync, readdirSync } from 'node:fs';
 import { writeFile, unlink } from 'node:fs/promises';
 import { resolve } from 'node:path';
 import { createHash } from 'node:crypto';
@@ -55,10 +55,7 @@ async function processOne(game: GameLike, seen: Set<string>): Promise<Verdict> {
   }
 
   const hash = await contentHash(jpeg);
-  if (seen.has(hash)) {
-    if (existsSync(dest)) await unlink(dest);
-    return 'dup';
-  }
+  if (seen.has(hash)) return 'dup';
   seen.add(hash);
   game.posters = [`${LOCAL_PREFIX}${game.id}.jpg`];
   return 'keep';
@@ -88,6 +85,15 @@ export async function localizePosters(games: GameLike[]): Promise<GameLike[]> {
     }
   }
 
-  console.log(`  Covers: ${kept.length} kept, ${dups} duplicates removed, ${failed} failures removed`);
+  const referenced = new Set(kept.map(g => `${g.id}.jpg`));
+  let swept = 0;
+  for (const f of readdirSync(COVERS_DIR)) {
+    if (!referenced.has(f)) {
+      await unlink(resolve(COVERS_DIR, f));
+      swept++;
+    }
+  }
+
+  console.log(`  Covers: ${kept.length} kept, ${dups} duplicates removed, ${failed} failures removed, ${swept} orphan files swept`);
   return kept;
 }
