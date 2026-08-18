@@ -7,7 +7,7 @@ const CARD_GAP = 0.3;
 const BANDS = 2;
 const FOV = 50;
 const CAM_FRONT_DIST = 9;
-const ROT_SPEED = 0.02;
+const ROT_SPEED = 0.005;
 const MAX_DPR = 1.5;
 const MAX_CONCURRENT_LOADS = 8;
 const LOAD_ZONE = 1.9;
@@ -96,6 +96,7 @@ export interface CoverWallHandle {
 
 interface Card {
   mesh: THREE.Mesh<THREE.PlaneGeometry, THREE.MeshBasicMaterial>;
+  glow: THREE.Mesh<THREE.PlaneGeometry, THREE.MeshBasicMaterial> | null;
   theta: number;
   url: string;
   state: 'none' | 'loading' | 'loaded';
@@ -159,6 +160,44 @@ export function createCoverWall(container: HTMLElement, posters: string[]): Cove
   const cards: Card[] = [];
   const placeholder = new THREE.DataTexture(new Uint8Array([24, 24, 29, 255]), 1, 1);
   placeholder.needsUpdate = true;
+
+  const glowTexture = (() => {
+    // blurred white rect: glow band peaks right at the card edge
+    const c = document.createElement('canvas');
+    c.width = 128;
+    c.height = 192;
+    const ctx = c.getContext('2d')!;
+    ctx.filter = 'blur(18px)';
+    ctx.fillStyle = '#fff';
+    ctx.fillRect(128 / 2 - 43, 192 / 2 - 64, 86, 128);
+    return new THREE.CanvasTexture(c);
+  })();
+  const glowGeometry = new THREE.PlaneGeometry(CARD_W * 1.5, CARD_H * 1.5);
+
+  const colorCanvas = document.createElement('canvas');
+  colorCanvas.width = colorCanvas.height = 8;
+  const colorCtx = colorCanvas.getContext('2d', { willReadFrequently: true })!;
+  const dominantColor = (img: CanvasImageSource): THREE.Color => {
+    colorCtx.drawImage(img, 0, 0, 8, 8);
+    const d = colorCtx.getImageData(0, 0, 8, 8).data;
+    let r = 0, g = 0, b = 0, n = 0;
+    const pass = (filter: boolean) => {
+      for (let i = 0; i < d.length; i += 4) {
+        const R = d[i] / 255, G = d[i + 1] / 255, B = d[i + 2] / 255;
+        if (filter) {
+          const mx = Math.max(R, G, B), mn = Math.min(R, G, B);
+          const sat = mx === 0 ? 0 : (mx - mn) / mx;
+          const lum = (R + G + B) / 3;
+          if (sat <= 0.12 || lum <= 0.08 || lum >= 0.92) continue;
+        }
+        r += R; g += G; b += B; n++;
+      }
+    };
+    pass(true);
+    if (n === 0) pass(false);
+    return new THREE.Color(r / n, g / n, b / n);
+  };
+
   const worldUp = new THREE.Vector3(0, 1, 0);
   let idx = 0;
 
@@ -187,7 +226,7 @@ export function createCoverWall(container: HTMLElement, posters: string[]): Cove
       mesh.position.copy(normal).multiplyScalar(radius);
       mesh.quaternion.setFromRotationMatrix(basis);
       wall.add(mesh);
-      cards.push({ mesh, theta, url: posters[idx], state: 'none', fading: false });
+      cards.push({ mesh, glow: null, theta, url: posters[idx], state: 'none', fading: false });
     }
   }
 
@@ -212,6 +251,25 @@ export function createCoverWall(container: HTMLElement, posters: string[]): Cove
         card.state = 'loaded';
         card.fading = true;
         activeLoads--;
+
+        const color = dominantColor(texture.image as CanvasImageSource)
+          .convertSRGBToLinear()
+          .multiplyScalar(1.6);
+        const glow = new THREE.Mesh(
+          glowGeometry,
+          new THREE.MeshBasicMaterial({
+            map: glowTexture,
+            color,
+            transparent: true,
+            opacity: 0,
+            blending: THREE.AdditiveBlending,
+            depthWrite: false,
+          }),
+        );
+        glow.position.copy(card.mesh.position).multiplyScalar((radius - 0.18) / radius);
+        glow.quaternion.copy(card.mesh.quaternion);
+        wall.add(glow);
+        card.glow = glow;
       },
       undefined,
       () => {
@@ -235,6 +293,11 @@ export function createCoverWall(container: HTMLElement, posters: string[]): Cove
         card.mesh.material.opacity = 1;
         card.state = 'none';
         card.fading = false;
+        if (card.glow) {
+          wall.remove(card.glow);
+          card.glow.material.dispose();
+          card.glow = null;
+        }
       }
     }
     candidates.sort((x, y) => x.dist - y.dist);
@@ -295,9 +358,11 @@ export function createCoverWall(container: HTMLElement, posters: string[]): Cove
       if (card.fading) {
         const m = card.mesh.material;
         m.opacity = Math.min(1, m.opacity + dt * 1.5);
+        if (card.glow) card.glow.material.opacity = m.opacity * 0.6;
         if (m.opacity >= 1) {
           card.fading = false;
           m.transparent = false;
+          if (card.glow) card.glow.material.opacity = 0.6;
         }
       }
     }
@@ -355,8 +420,11 @@ export function createCoverWall(container: HTMLElement, posters: string[]): Cove
         const map = card.mesh.material.map;
         if (map && map !== placeholder) map.dispose();
         card.mesh.material.dispose();
+        card.glow?.material.dispose();
       }
       placeholder.dispose();
+      glowTexture.dispose();
+      glowGeometry.dispose();
       geometry.dispose();
       bg.geometry.dispose();
       bgMaterial.dispose();
