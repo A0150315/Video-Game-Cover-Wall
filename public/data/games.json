@@ -727,9 +727,9 @@
       "https://cdn2.steamgriddb.com/hero/3a900dc34f5f470bc5b734222f657d7f.png",
       "https://cdn2.steamgriddb.com/hero/93c6c0bd09a280606df12f66752d7b76.png",
       "https://cdn2.steamgriddb.com/hero/6aaba9a124857622930ca4e50f5afed2.png",
+      "https://cdn2.steamgriddb.com/hero/68aa2710db021ce351467da417b912d8.png",
       "https://cdn2.steamgriddb.com/hero/e8c1bdc555e17fd06b44ea4d3b4adbda.png",
-      "https://cdn2.steamgriddb.com/hero/049671e28a386427e432b3370a22aae4.jpg",
-      "https://cdn2.steamgriddb.com/hero/2f4ccb0f7a84f335affb418aee08a6df.jpg"
+      "https://cdn2.steamgriddb.com/hero/049671e28a386427e432b3370a22aae4.jpg"
     ],
     "releaseYear": 2012,
     "rating": 92,
@@ -1022,9 +1022,9 @@
       "https://cdn2.steamgriddb.com/hero/879524f6284d9922de824c77c4a03141.png",
       "https://cdn2.steamgriddb.com/hero/3a6f7e5575a17cb1e9cecbb8f6ad3df6.jpg",
       "https://cdn2.steamgriddb.com/hero/375c5abc9bfb6079943ef3c297e4ac78.png",
+      "https://cdn2.steamgriddb.com/hero/457e7f7202e02bc05533389d9e9aef86.png",
       "https://cdn2.steamgriddb.com/hero/c9663f86bdfd6137c73121a550887aa4.png",
-      "https://cdn2.steamgriddb.com/hero/26e49cf53d47b35b4527160c7aacd2df.png",
-      "https://cdn2.steamgriddb.com/hero/ed164222d4f4f5faa92b0e1f4ba2fb4d.png"
+      "https://cdn2.steamgriddb.com/hero/26e49cf53d47b35b4527160c7aacd2df.png"
     ],
     "releaseYear": 2004,
     "rating": 92,
@@ -1035,35 +1035,6 @@
     "genres": [
       "Role-playing (RPG)",
       "Turn-based strategy (TBS)",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 1029,
-    "name": "The Legend of Zelda: Ocarina of Time",
-    "posters": [
-      "data/covers/1029.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/1595af6435015c77a7149e92a551338e.png",
-      "https://cdn2.steamgriddb.com/hero/6597e35504c82e2f89f20837fb631376.png",
-      "https://cdn2.steamgriddb.com/hero/f4655a2b707853f1b118e0dadc52f9ba.png",
-      "https://cdn2.steamgriddb.com/hero/299024cfe2cd92197e0ab02d2421285c.png",
-      "https://cdn2.steamgriddb.com/hero/4da04049a062f5adfe81b67dd755cecc.png",
-      "https://cdn2.steamgriddb.com/hero/6e92962008491b24a803ff3b7d61734b.png",
-      "https://cdn2.steamgriddb.com/hero/f3d0c38aba71c170a70fc61c71db4e6f.png",
-      "https://cdn2.steamgriddb.com/hero/dbb795db64c6ab685cc819262a4c36fc.png"
-    ],
-    "releaseYear": 1998,
-    "rating": 92,
-    "platforms": [
-      "Wii",
-      "Nintendo 64",
-      "64DD",
-      "Wii U"
-    ],
-    "genres": [
-      "Puzzle",
       "Adventure"
     ]
   },
@@ -1101,6 +1072,35 @@
       "Platform",
       "Adventure",
       "Indie"
+    ]
+  },
+  {
+    "id": 1029,
+    "name": "The Legend of Zelda: Ocarina of Time",
+    "posters": [
+      "data/covers/1029.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/1595af6435015c77a7149e92a551338e.png",
+      "https://cdn2.steamgriddb.com/hero/6597e35504c82e2f89f20837fb631376.png",
+      "https://cdn2.steamgriddb.com/hero/f4655a2b707853f1b118e0dadc52f9ba.png",
+      "https://cdn2.steamgriddb.com/hero/299024cfe2cd92197e0ab02d2421285c.png",
+      "https://cdn2.steamgriddb.com/hero/4da04049a062f5adfe81b67dd755cecc.png",
+      "https://cdn2.steamgriddb.com/hero/6e92962008491b24a803ff3b7d61734b.png",
+      "https://cdn2.steamgriddb.com/hero/f3d0c38aba71c170a70fc61c71db4e6f.png",
+      "https://cdn2.steamgriddb.com/hero/dbb795db64c6ab685cc819262a4c36fc.png"
+    ],
+    "releaseYear": 1998,
+    "rating": 92,
+    "platforms": [
+      "Wii",
+      "Nintendo 64",
+      "64DD",
+      "Wii U"
+    ],
+    "genres": [
+      "Puzzle",
+      "Adventure"
     ]
   },
   {
@@ -1727,7 +1727,7 @@
       "https://cdn2.steamgriddb.com/hero/8b2ced7428b64f653036b4a67d32302b.jpg",
       "https://cdn2.steamgriddb.com/hero/1134ac57b5b1d38b7d70c1b6feaa28cf.png",
       "https://cdn2.steamgriddb.com/hero/94c8e4495d11846b18dd44998eed4968.png",
-      "https://cdn2.steamgriddb.com/hero/93aaa29263d4040a9099001cc887d333.png"
+      "https://cdn2.steamgriddb.com/hero/65f5a24d2b690cf3819e992cc20173e6.png"
     ],
     "releaseYear": 2019,
     "rating": 90,
@@ -1957,9 +1957,9 @@
       "https://cdn2.steamgriddb.com/hero/388814209b675f2845e8737658701033.png",
       "https://cdn2.steamgriddb.com/hero/14d203158e5c5fd54555ecd1bd9ed8e3.png",
       "https://cdn2.steamgriddb.com/hero/4cba8b40e26654975d5ed2256eeba2e2.png",
+      "https://cdn2.steamgriddb.com/hero/7481ba3bda3fc286ecdba18396db7bdd.jpg",
       "https://cdn2.steamgriddb.com/hero/1087ef240a4fa531a4cec93d41621ca8.png",
-      "https://cdn2.steamgriddb.com/hero/7273e671a40fa9f0d3867d1098d5ac6e.png",
-      "https://cdn2.steamgriddb.com/hero/8e95e14b0e2bafd4727ab78d07506206.png"
+      "https://cdn2.steamgriddb.com/hero/7273e671a40fa9f0d3867d1098d5ac6e.png"
     ],
     "releaseYear": 2011,
     "rating": 89,
@@ -2370,7 +2370,7 @@
       "https://cdn2.steamgriddb.com/hero/f7ba5748e6bc21c3df7d9aa0a40168df.png",
       "https://cdn2.steamgriddb.com/hero/8fe4779ca30f6436a2fb4596e16b38fa.png",
       "https://cdn2.steamgriddb.com/hero/21cf1e2c7605ae77ececeed18a7e2c96.png",
-      "https://cdn2.steamgriddb.com/hero/988364bcc26502007c86ec98737dbd5c.png"
+      "https://cdn2.steamgriddb.com/hero/f9d7a3db99e0ce3becd216c9e776b691.jpg"
     ],
     "releaseYear": 2005,
     "rating": 89,
@@ -3024,10 +3024,10 @@
       "data/covers/11156.jpg"
     ],
     "heroes": [
-      "https://cdn2.steamgriddb.com/hero/83a17b1aec90395c67bba676be661288.png",
       "https://cdn2.steamgriddb.com/hero/67ba02d73c54f0b83c05507b7fb7267f.jpg",
+      "https://cdn2.steamgriddb.com/hero/83a17b1aec90395c67bba676be661288.png",
       "https://cdn2.steamgriddb.com/hero/0dce20892f775d8953c42e4a49978e38.png",
-      "https://cdn2.steamgriddb.com/hero/02e6120e4959b0e4f86d16e2ef8f921d.png",
+      "https://cdn2.steamgriddb.com/hero/e63d3a30502eec110b0a2f0659774b2d.png",
       "https://cdn2.steamgriddb.com/hero/f5e536083a438cec5b64a4954abc17f1.png",
       "https://cdn2.steamgriddb.com/hero/9d4c03631b8b0c85ae08bf05eda37d0f.jpg",
       "https://cdn2.steamgriddb.com/hero/eda44882e30a3e27c62f9bf139d6ad2f.png",
@@ -6512,8 +6512,8 @@
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/0dc76f2b5c3bada7c8bf8a8cbf02a968.png",
       "https://cdn2.steamgriddb.com/hero/e5b81416d033fd7e1dbfd8ebd0f354f1.png",
-      "https://cdn2.steamgriddb.com/hero/de2326cf69d9b51067dc2253aaf8c883.png",
       "https://cdn2.steamgriddb.com/hero/81a7f320c97037905c1e74ed4fba57b4.png",
+      "https://cdn2.steamgriddb.com/hero/de2326cf69d9b51067dc2253aaf8c883.png",
       "https://cdn2.steamgriddb.com/hero/585e8d6e108d44ee0303463ba7fb023e.jpg",
       "https://cdn2.steamgriddb.com/hero/54bf847d6e3908dc5277af42fbf566db.png",
       "https://cdn2.steamgriddb.com/hero/1ccfd90b5d5a5504eeceea9404433515.jpg",
