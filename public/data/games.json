@@ -442,8 +442,8 @@
       "https://cdn2.steamgriddb.com/hero/cd758e8f59dfdf06a852adad277986ca.png",
       "https://cdn2.steamgriddb.com/hero/81e5f81db77c596492e6f1a5a792ed53.png",
       "https://cdn2.steamgriddb.com/hero/b0a4fed42fc9723fc5ef166da6e25614.png",
-      "https://cdn2.steamgriddb.com/hero/5d48e9f704ec8385f0c4e97dfcb6aa33.png",
-      "https://cdn2.steamgriddb.com/hero/913d19091137781b5e23bdc6fb247e64.png"
+      "https://cdn2.steamgriddb.com/hero/9e9e1b7ea4e250af8fe1f1865650d42b.png",
+      "https://cdn2.steamgriddb.com/hero/5d48e9f704ec8385f0c4e97dfcb6aa33.png"
     ],
     "releaseYear": 2018,
     "rating": 94,
@@ -4312,33 +4312,6 @@
     ]
   },
   {
-    "id": 126098,
-    "name": "Half-Life: Alyx",
-    "posters": [
-      "data/covers/126098.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/e1360bb1174a56e62f5a7d1194950342.png",
-      "https://cdn2.steamgriddb.com/hero/a73d18446f20a30be28c26ab513da8d8.png",
-      "https://cdn2.steamgriddb.com/hero/b0cbd1803daba2f4be6919b9f773f921.png",
-      "https://cdn2.steamgriddb.com/hero/33abbac390f933b4d29d1ccae857ea98.jpg",
-      "https://cdn2.steamgriddb.com/hero/f03c011dbcfc842f49e035316a45c6fc.jpg",
-      "https://cdn2.steamgriddb.com/hero/816751b23dc0b7f460431c51f0ffd6b2.png",
-      "https://cdn2.steamgriddb.com/hero/235a4b01cca43ead1a2435ec19c04bab.png",
-      "https://cdn2.steamgriddb.com/hero/5179a33ebd7d7380c3cc36d04bc03ba8.jpg"
-    ],
-    "releaseYear": 2020,
-    "rating": 93,
-    "platforms": [
-      "SteamVR"
-    ],
-    "genres": [
-      "Shooter",
-      "Puzzle",
-      "Adventure"
-    ]
-  },
-  {
     "id": 298526,
     "name": "Kingdom Come: Deliverance II",
     "posters": [
@@ -4364,6 +4337,33 @@
     "genres": [
       "Role-playing (RPG)",
       "Simulator",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 126098,
+    "name": "Half-Life: Alyx",
+    "posters": [
+      "data/covers/126098.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/e1360bb1174a56e62f5a7d1194950342.png",
+      "https://cdn2.steamgriddb.com/hero/a73d18446f20a30be28c26ab513da8d8.png",
+      "https://cdn2.steamgriddb.com/hero/b0cbd1803daba2f4be6919b9f773f921.png",
+      "https://cdn2.steamgriddb.com/hero/33abbac390f933b4d29d1ccae857ea98.jpg",
+      "https://cdn2.steamgriddb.com/hero/f03c011dbcfc842f49e035316a45c6fc.jpg",
+      "https://cdn2.steamgriddb.com/hero/816751b23dc0b7f460431c51f0ffd6b2.png",
+      "https://cdn2.steamgriddb.com/hero/235a4b01cca43ead1a2435ec19c04bab.png",
+      "https://cdn2.steamgriddb.com/hero/5179a33ebd7d7380c3cc36d04bc03ba8.jpg"
+    ],
+    "releaseYear": 2020,
+    "rating": 93,
+    "platforms": [
+      "SteamVR"
+    ],
+    "genres": [
+      "Shooter",
+      "Puzzle",
       "Adventure"
     ]
   },
@@ -4442,8 +4442,7 @@
     "releaseYear": 2025,
     "rating": 92,
     "platforms": [
-      "Nintendo Switch 2",
-      "Nintendo Switch"
+      "Nintendo Switch 2"
     ],
     "genres": [
       "Platform",
@@ -4786,10 +4785,10 @@
     ],
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/ef41115b8a262573b89017d7fc8f29da.png",
-      "https://cdn2.steamgriddb.com/hero/b5d41d42dcb9dc1bed0fad42b68c285e.jpg",
       "https://cdn2.steamgriddb.com/hero/5a72b144029e9c4366727a0fc01234c5.png",
       "https://cdn2.steamgriddb.com/hero/638280a8dd1707928685d85dc07953c2.png",
-      "https://cdn2.steamgriddb.com/hero/a25a785142da9f3b16a8c1038b809c81.png",
+      "https://cdn2.steamgriddb.com/hero/cf5bb59ad1a80b2f93633b746cf3c4ce.png",
+      "https://cdn2.steamgriddb.com/hero/cb0ddc1d9c974da31eab1cfa3ed61ea7.png",
       "https://cdn2.steamgriddb.com/hero/2c743f2d4e76731333c43e8f5562f687.jpg",
       "https://cdn2.steamgriddb.com/hero/09024af3b4cdde94e4b700c5f2e28e9c.png",
       "https://cdn2.steamgriddb.com/hero/9cc621a57c19ce53bb8a89b5ad27c20d.png"
@@ -5923,9 +5922,9 @@
       "https://cdn2.steamgriddb.com/hero/9135d68826af2d0802c03554d508446e.png",
       "https://cdn2.steamgriddb.com/hero/44d21d4798f1f11195763debdaeba60b.png",
       "https://cdn2.steamgriddb.com/hero/40ab5635391fe4ae6b3211682dd4178c.png",
-      "https://cdn2.steamgriddb.com/hero/df9055ace4012845c14a579b0bdbb3e4.jpg",
       "https://cdn2.steamgriddb.com/hero/feadb715e3aa62d1cf5b7bffd46d63c0.png",
-      "https://cdn2.steamgriddb.com/hero/638ac49074f855c235e5f70dd3c1f9fd.png"
+      "https://cdn2.steamgriddb.com/hero/638ac49074f855c235e5f70dd3c1f9fd.png",
+      "https://cdn2.steamgriddb.com/hero/53ab50eafebbfa3920c5521d09e88d31.png"
     ],
     "releaseYear": 2023,
     "rating": 87,
