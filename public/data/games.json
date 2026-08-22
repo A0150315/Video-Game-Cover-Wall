@@ -871,8 +871,8 @@
       "https://cdn2.steamgriddb.com/hero/acd8d58c7c352df2d1d729701488f54f.png",
       "https://cdn2.steamgriddb.com/hero/7753eb3f2d2f5dd5bda141d7761e38e4.png",
       "https://cdn2.steamgriddb.com/hero/62d2979f157a3c2c0631a51982fd34f1.png",
-      "https://cdn2.steamgriddb.com/hero/5d213bd3a5c23a5bb86015235647a3e4.png",
-      "https://cdn2.steamgriddb.com/hero/4d28e74f86094725e098c6b7d10b449c.png"
+      "https://cdn2.steamgriddb.com/hero/b8fb79af69865668f942683495e767ca.png",
+      "https://cdn2.steamgriddb.com/hero/5d213bd3a5c23a5bb86015235647a3e4.png"
     ],
     "releaseYear": 2003,
     "rating": 92,
@@ -1417,33 +1417,6 @@
       "Racing",
       "Adventure",
       "Arcade"
-    ]
-  },
-  {
-    "id": 380,
-    "name": "Metal Gear Solid 4: Guns of the Patriots",
-    "posters": [
-      "data/covers/380.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/e2d4866ea6828d3806235a88e5cd0a46.png",
-      "https://cdn2.steamgriddb.com/hero/f6bed2ef25de07abc1c2f9bcde83ac2d.jpg",
-      "https://cdn2.steamgriddb.com/hero/768d0716be8a5566cc4f04717e209a22.png",
-      "https://cdn2.steamgriddb.com/hero/2672292548089c65c6648b3f200fcd7f.jpg",
-      "https://cdn2.steamgriddb.com/hero/1def1713ebf17722cbe300cfc1c88558.png",
-      "https://cdn2.steamgriddb.com/hero/887433a50673fa4cf734b14ba787c8b9.jpg",
-      "https://cdn2.steamgriddb.com/hero/7c93ebe873ef213123c8af4b188e7558.png",
-      "https://cdn2.steamgriddb.com/hero/c97090ec18bff34640ff391d8115c281.jpg"
-    ],
-    "releaseYear": 2008,
-    "rating": 91,
-    "platforms": [
-      "PlayStation 3"
-    ],
-    "genres": [
-      "Shooter",
-      "Tactical",
-      "Adventure"
     ]
   },
   {
@@ -3831,8 +3804,8 @@
       "https://cdn2.steamgriddb.com/hero/3caea4d9bcdd5cde2b1a1f338a06a086.png",
       "https://cdn2.steamgriddb.com/hero/ed8a8a99fd79417dd5ee86e141fc2233.png",
       "https://cdn2.steamgriddb.com/hero/4ab1a2235d0eb9bd34cb84c0bc59cf6c.png",
-      "https://cdn2.steamgriddb.com/hero/73cb3907eb1dd5924282ac37dfa008fb.jpg",
-      "https://cdn2.steamgriddb.com/hero/0a6fbee9b5f6092233b7921f39554a33.png"
+      "https://cdn2.steamgriddb.com/hero/85b8309c3b1ad28e141945a9cd355099.png",
+      "https://cdn2.steamgriddb.com/hero/73cb3907eb1dd5924282ac37dfa008fb.jpg"
     ],
     "releaseYear": 1999,
     "rating": 86,
@@ -4254,6 +4227,41 @@
     ]
   },
   {
+    "id": 1318,
+    "name": "XCOM: Enemy Unknown",
+    "posters": [
+      "data/covers/1318.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/8ef1bcf08007f16f32e7933e174c7198.png",
+      "https://cdn2.steamgriddb.com/hero/7c3a966d88a80726a95c2e16e56c3997.png",
+      "https://cdn2.steamgriddb.com/hero/e4017fc196bfb479f173f387595d79e5.png",
+      "https://cdn2.steamgriddb.com/hero/28ec410e2ac9d191d1d1558806bace8c.png",
+      "https://cdn2.steamgriddb.com/hero/9b05c6867283045a3e83dbc8756803ad.png",
+      "https://cdn2.steamgriddb.com/hero/d9f4bbeff6ec13b9eeb925bc0efd1266.jpg",
+      "https://cdn2.steamgriddb.com/hero/d80460d2c687f8aeb7548ed896022043.png",
+      "https://cdn2.steamgriddb.com/hero/9ea256486ebf4710ff2623a18fa02ac5.jpg"
+    ],
+    "releaseYear": 2012,
+    "rating": 86,
+    "platforms": [
+      "PlayStation 3",
+      "Linux",
+      "Android",
+      "PC (Microsoft Windows)",
+      "iOS",
+      "Mac",
+      "Xbox 360"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Simulator",
+      "Strategy",
+      "Turn-based strategy (TBS)",
+      "Tactical"
+    ]
+  },
+  {
     "id": 318395,
     "name": "Animal Company",
     "posters": [
@@ -4312,6 +4320,33 @@
     ]
   },
   {
+    "id": 126098,
+    "name": "Half-Life: Alyx",
+    "posters": [
+      "data/covers/126098.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/e1360bb1174a56e62f5a7d1194950342.png",
+      "https://cdn2.steamgriddb.com/hero/a73d18446f20a30be28c26ab513da8d8.png",
+      "https://cdn2.steamgriddb.com/hero/b0cbd1803daba2f4be6919b9f773f921.png",
+      "https://cdn2.steamgriddb.com/hero/33abbac390f933b4d29d1ccae857ea98.jpg",
+      "https://cdn2.steamgriddb.com/hero/f03c011dbcfc842f49e035316a45c6fc.jpg",
+      "https://cdn2.steamgriddb.com/hero/816751b23dc0b7f460431c51f0ffd6b2.png",
+      "https://cdn2.steamgriddb.com/hero/235a4b01cca43ead1a2435ec19c04bab.png",
+      "https://cdn2.steamgriddb.com/hero/5179a33ebd7d7380c3cc36d04bc03ba8.jpg"
+    ],
+    "releaseYear": 2020,
+    "rating": 93,
+    "platforms": [
+      "SteamVR"
+    ],
+    "genres": [
+      "Shooter",
+      "Puzzle",
+      "Adventure"
+    ]
+  },
+  {
     "id": 298526,
     "name": "Kingdom Come: Deliverance II",
     "posters": [
@@ -4337,33 +4372,6 @@
     "genres": [
       "Role-playing (RPG)",
       "Simulator",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 126098,
-    "name": "Half-Life: Alyx",
-    "posters": [
-      "data/covers/126098.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/e1360bb1174a56e62f5a7d1194950342.png",
-      "https://cdn2.steamgriddb.com/hero/a73d18446f20a30be28c26ab513da8d8.png",
-      "https://cdn2.steamgriddb.com/hero/b0cbd1803daba2f4be6919b9f773f921.png",
-      "https://cdn2.steamgriddb.com/hero/33abbac390f933b4d29d1ccae857ea98.jpg",
-      "https://cdn2.steamgriddb.com/hero/f03c011dbcfc842f49e035316a45c6fc.jpg",
-      "https://cdn2.steamgriddb.com/hero/816751b23dc0b7f460431c51f0ffd6b2.png",
-      "https://cdn2.steamgriddb.com/hero/235a4b01cca43ead1a2435ec19c04bab.png",
-      "https://cdn2.steamgriddb.com/hero/5179a33ebd7d7380c3cc36d04bc03ba8.jpg"
-    ],
-    "releaseYear": 2020,
-    "rating": 93,
-    "platforms": [
-      "SteamVR"
-    ],
-    "genres": [
-      "Shooter",
-      "Puzzle",
       "Adventure"
     ]
   },
@@ -5067,8 +5075,8 @@
       "https://cdn2.steamgriddb.com/hero/30d3ea0723cbfe619edb0201c8efa94b.jpg",
       "https://cdn2.steamgriddb.com/hero/e7240b5a0b10b78241dc426e1e63921c.jpg",
       "https://cdn2.steamgriddb.com/hero/f6bd2a3672ec73783ad8f4b3dd1d18f4.jpg",
-      "https://cdn2.steamgriddb.com/hero/984a1368247673c9d71851ee0457e788.jpg",
-      "https://cdn2.steamgriddb.com/hero/3d96ef65a9b66538b4d19c16cff3ffd7.jpg"
+      "https://cdn2.steamgriddb.com/hero/349377899f2cd027c6e47786e67aee69.png",
+      "https://cdn2.steamgriddb.com/hero/fd0fd9f3475fe2e289dc2ff7bf8c96ec.png"
     ],
     "releaseYear": 2021,
     "rating": 90,
@@ -5450,14 +5458,14 @@
       "data/covers/112874.jpg"
     ],
     "heroes": [
+      "https://cdn2.steamgriddb.com/hero/8afe7323856249c73fe99086157110e2.jpg",
       "https://cdn2.steamgriddb.com/hero/4ef10445b952a8b3c93a9379d581146a.jpg",
       "https://cdn2.steamgriddb.com/hero/279b369266fbc65a0f271fe465b9e8e0.png",
       "https://cdn2.steamgriddb.com/hero/c2d66337ca53fe0c1c58a92f2665ef70.png",
       "https://cdn2.steamgriddb.com/hero/23a3e6f194568999c9a9737703423dfa.png",
       "https://cdn2.steamgriddb.com/hero/357ce6d68076ea178620a62a901349d4.jpg",
       "https://cdn2.steamgriddb.com/hero/07ba1599ce7c572506e7ea702fee5415.png",
-      "https://cdn2.steamgriddb.com/hero/94302fbe2968597131a0ae606df3f5e4.png",
-      "https://cdn2.steamgriddb.com/hero/14042488aa0540d58af172f92cd38f09.jpg"
+      "https://cdn2.steamgriddb.com/hero/94302fbe2968597131a0ae606df3f5e4.png"
     ],
     "releaseYear": 2022,
     "rating": 89,
