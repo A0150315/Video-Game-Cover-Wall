@@ -723,12 +723,12 @@
     ],
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/83f075354ac93f60d1c1ac9a15399196.png",
-      "https://cdn2.steamgriddb.com/hero/766ebcd59621e305170616ba3d3dac32.jpg",
       "https://cdn2.steamgriddb.com/hero/3a900dc34f5f470bc5b734222f657d7f.png",
       "https://cdn2.steamgriddb.com/hero/93c6c0bd09a280606df12f66752d7b76.png",
+      "https://cdn2.steamgriddb.com/hero/766ebcd59621e305170616ba3d3dac32.jpg",
+      "https://cdn2.steamgriddb.com/hero/e8c1bdc555e17fd06b44ea4d3b4adbda.png",
       "https://cdn2.steamgriddb.com/hero/6aaba9a124857622930ca4e50f5afed2.png",
       "https://cdn2.steamgriddb.com/hero/68aa2710db021ce351467da417b912d8.png",
-      "https://cdn2.steamgriddb.com/hero/e8c1bdc555e17fd06b44ea4d3b4adbda.png",
       "https://cdn2.steamgriddb.com/hero/049671e28a386427e432b3370a22aae4.jpg"
     ],
     "releaseYear": 2012,
@@ -1305,6 +1305,41 @@
     "genres": [
       "Puzzle",
       "Adventure"
+    ]
+  },
+  {
+    "id": 115289,
+    "name": "Hollow Knight: Silksong",
+    "posters": [
+      "data/covers/115289.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/beac6d8fdd97a5e184ace84f9988a0fc.png",
+      "https://cdn2.steamgriddb.com/hero/23f811e37729965843d2906bda3eb947.png",
+      "https://cdn2.steamgriddb.com/hero/763fed0defbe882aea794b20e4569b6c.png",
+      "https://cdn2.steamgriddb.com/hero/56cb1764fd28103317c9cbc01f0e2f25.png",
+      "https://cdn2.steamgriddb.com/hero/452ae4bfb0544b0da41c345a2f1b5309.png",
+      "https://cdn2.steamgriddb.com/hero/a940947825c0a0e51ddcd726cf6353ae.jpg",
+      "https://cdn2.steamgriddb.com/hero/c6bcb74c53f3b1fbb7cc951f07923003.png",
+      "https://cdn2.steamgriddb.com/hero/55f0e0017a67cfc281a02dfffe9809f5.png"
+    ],
+    "releaseYear": 2025,
+    "rating": 91,
+    "platforms": [
+      "Xbox Series X|S",
+      "PlayStation 4",
+      "Linux",
+      "Nintendo Switch 2",
+      "PC (Microsoft Windows)",
+      "PlayStation 5",
+      "Mac",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Platform",
+      "Adventure",
+      "Indie"
     ]
   },
   {
@@ -3337,8 +3372,8 @@
     ],
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/395af6444dfab37005c07b8264090296.jpg",
-      "https://cdn2.steamgriddb.com/hero/2f998dda8f0ba06965f745c6b4b39a28.jpg",
       "https://cdn2.steamgriddb.com/hero/d645920e395fedad7bbbed0eca3fe2e0.png",
+      "https://cdn2.steamgriddb.com/hero/2f998dda8f0ba06965f745c6b4b39a28.jpg",
       "https://cdn2.steamgriddb.com/hero/e1b97c787a5677efa5eba575c41e8688.png",
       "https://cdn2.steamgriddb.com/hero/2546ca898e28f10ef2ef41f08b17d2c1.jpg",
       "https://cdn2.steamgriddb.com/hero/fd0844cddec522c72993e744add7ed20.png",
@@ -3424,8 +3459,8 @@
       "https://cdn2.steamgriddb.com/hero/7da5911f451a4d399d9739416bec1535.jpg",
       "https://cdn2.steamgriddb.com/hero/3eaa6a718459ac1e33359767e8254e8c.png",
       "https://cdn2.steamgriddb.com/hero/dbb98c5cb7d0c5942a4a7e47c28bf5fb.jpg",
-      "https://cdn2.steamgriddb.com/hero/e606763b01171afd48e13b91a9cd1307.png",
       "https://cdn2.steamgriddb.com/hero/3fcedf144be9f3dff1145db6c515fb34.png",
+      "https://cdn2.steamgriddb.com/hero/e606763b01171afd48e13b91a9cd1307.png",
       "https://cdn2.steamgriddb.com/hero/12abb7d08e46c6e6482d040daf69e00a.jpg",
       "https://cdn2.steamgriddb.com/hero/2181d94fba9a1d2de2b5f6fb75f8ab08.png"
     ],
@@ -3600,8 +3635,8 @@
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/4c219c46862037687b97c645d0eee717.png",
       "https://cdn2.steamgriddb.com/hero/4f87316aad8152983ec104de3351aba9.png",
-      "https://cdn2.steamgriddb.com/hero/39ec84a99221f244f1eb7e01c2231d38.png",
       "https://cdn2.steamgriddb.com/hero/fadba6db839c36f9c6876396e55083df.png",
+      "https://cdn2.steamgriddb.com/hero/39ec84a99221f244f1eb7e01c2231d38.png",
       "https://cdn2.steamgriddb.com/hero/38faae069a1371784081ea9ad9b279d0.png",
       "https://cdn2.steamgriddb.com/hero/a2a6a5c6ea38cac0864685dffaea8e92.png",
       "https://cdn2.steamgriddb.com/hero/f6c744ece7e1a36892eba3a5d2938110.png",
@@ -4227,41 +4262,6 @@
     ]
   },
   {
-    "id": 1318,
-    "name": "XCOM: Enemy Unknown",
-    "posters": [
-      "data/covers/1318.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/8ef1bcf08007f16f32e7933e174c7198.png",
-      "https://cdn2.steamgriddb.com/hero/7c3a966d88a80726a95c2e16e56c3997.png",
-      "https://cdn2.steamgriddb.com/hero/e4017fc196bfb479f173f387595d79e5.png",
-      "https://cdn2.steamgriddb.com/hero/28ec410e2ac9d191d1d1558806bace8c.png",
-      "https://cdn2.steamgriddb.com/hero/9b05c6867283045a3e83dbc8756803ad.png",
-      "https://cdn2.steamgriddb.com/hero/d9f4bbeff6ec13b9eeb925bc0efd1266.jpg",
-      "https://cdn2.steamgriddb.com/hero/d80460d2c687f8aeb7548ed896022043.png",
-      "https://cdn2.steamgriddb.com/hero/9ea256486ebf4710ff2623a18fa02ac5.jpg"
-    ],
-    "releaseYear": 2012,
-    "rating": 86,
-    "platforms": [
-      "PlayStation 3",
-      "Linux",
-      "Android",
-      "PC (Microsoft Windows)",
-      "iOS",
-      "Mac",
-      "Xbox 360"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Simulator",
-      "Strategy",
-      "Turn-based strategy (TBS)",
-      "Tactical"
-    ]
-  },
-  {
     "id": 318395,
     "name": "Animal Company",
     "posters": [
@@ -4572,41 +4572,6 @@
     ]
   },
   {
-    "id": 115289,
-    "name": "Hollow Knight: Silksong",
-    "posters": [
-      "data/covers/115289.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/beac6d8fdd97a5e184ace84f9988a0fc.png",
-      "https://cdn2.steamgriddb.com/hero/23f811e37729965843d2906bda3eb947.png",
-      "https://cdn2.steamgriddb.com/hero/763fed0defbe882aea794b20e4569b6c.png",
-      "https://cdn2.steamgriddb.com/hero/56cb1764fd28103317c9cbc01f0e2f25.png",
-      "https://cdn2.steamgriddb.com/hero/452ae4bfb0544b0da41c345a2f1b5309.png",
-      "https://cdn2.steamgriddb.com/hero/a940947825c0a0e51ddcd726cf6353ae.jpg",
-      "https://cdn2.steamgriddb.com/hero/c6bcb74c53f3b1fbb7cc951f07923003.png",
-      "https://cdn2.steamgriddb.com/hero/55f0e0017a67cfc281a02dfffe9809f5.png"
-    ],
-    "releaseYear": 2025,
-    "rating": 91,
-    "platforms": [
-      "Xbox Series X|S",
-      "PlayStation 4",
-      "Linux",
-      "Nintendo Switch 2",
-      "PC (Microsoft Windows)",
-      "PlayStation 5",
-      "Mac",
-      "Xbox One",
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Platform",
-      "Adventure",
-      "Indie"
-    ]
-  },
-  {
     "id": 228525,
     "name": "Hades II",
     "posters": [
@@ -4795,11 +4760,11 @@
       "https://cdn2.steamgriddb.com/hero/ef41115b8a262573b89017d7fc8f29da.png",
       "https://cdn2.steamgriddb.com/hero/5a72b144029e9c4366727a0fc01234c5.png",
       "https://cdn2.steamgriddb.com/hero/638280a8dd1707928685d85dc07953c2.png",
+      "https://cdn2.steamgriddb.com/hero/9adfabf9343cec257a9afbef2feb7c51.png",
+      "https://cdn2.steamgriddb.com/hero/8e9d5963eec66fb4748bbbf180f876bc.png",
       "https://cdn2.steamgriddb.com/hero/cf5bb59ad1a80b2f93633b746cf3c4ce.png",
       "https://cdn2.steamgriddb.com/hero/cb0ddc1d9c974da31eab1cfa3ed61ea7.png",
-      "https://cdn2.steamgriddb.com/hero/2c743f2d4e76731333c43e8f5562f687.jpg",
-      "https://cdn2.steamgriddb.com/hero/09024af3b4cdde94e4b700c5f2e28e9c.png",
-      "https://cdn2.steamgriddb.com/hero/9cc621a57c19ce53bb8a89b5ad27c20d.png"
+      "https://cdn2.steamgriddb.com/hero/2c743f2d4e76731333c43e8f5562f687.jpg"
     ],
     "releaseYear": 2025,
     "rating": 90,
@@ -6033,8 +5998,8 @@
       "https://cdn2.steamgriddb.com/hero/646d2f7cc11dd365e6f0aaa39831a7cc.png",
       "https://cdn2.steamgriddb.com/hero/16b42e3bdfb5aa64c9519c72fb9fd613.png",
       "https://cdn2.steamgriddb.com/hero/2e951e37ba37f327f064614bc8d63378.png",
-      "https://cdn2.steamgriddb.com/hero/7e2967e9f0dfe8106faf21d564639308.jpg",
-      "https://cdn2.steamgriddb.com/hero/538fda4a99206604576bbefcb2a927d8.png"
+      "https://cdn2.steamgriddb.com/hero/c941029b040ed6e0da88249464283423.png",
+      "https://cdn2.steamgriddb.com/hero/7e2967e9f0dfe8106faf21d564639308.jpg"
     ],
     "releaseYear": 2026,
     "rating": 87,
@@ -7114,22 +7079,6 @@
     ]
   },
   {
-    "id": 330379,
-    "name": "Fellowship",
-    "posters": [
-      "data/covers/330379.jpg"
-    ],
-    "heroes": [],
-    "releaseYear": 2025,
-    "rating": 0,
-    "platforms": [
-      "PC (Microsoft Windows)"
-    ],
-    "genres": [
-      "Role-playing (RPG)"
-    ]
-  },
-  {
     "id": 404673,
     "name": "Resident Evil Veronica",
     "posters": [
@@ -7182,6 +7131,22 @@
       "Role-playing (RPG)",
       "Hack and slash/Beat 'em up",
       "Adventure"
+    ]
+  },
+  {
+    "id": 330379,
+    "name": "Fellowship",
+    "posters": [
+      "data/covers/330379.jpg"
+    ],
+    "heroes": [],
+    "releaseYear": 2025,
+    "rating": 0,
+    "platforms": [
+      "PC (Microsoft Windows)"
+    ],
+    "genres": [
+      "Role-playing (RPG)"
     ]
   },
   {
