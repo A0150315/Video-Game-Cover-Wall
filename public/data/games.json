@@ -1039,6 +1039,35 @@
     ]
   },
   {
+    "id": 1029,
+    "name": "The Legend of Zelda: Ocarina of Time",
+    "posters": [
+      "data/covers/1029.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/1595af6435015c77a7149e92a551338e.png",
+      "https://cdn2.steamgriddb.com/hero/6597e35504c82e2f89f20837fb631376.png",
+      "https://cdn2.steamgriddb.com/hero/f4655a2b707853f1b118e0dadc52f9ba.png",
+      "https://cdn2.steamgriddb.com/hero/299024cfe2cd92197e0ab02d2421285c.png",
+      "https://cdn2.steamgriddb.com/hero/4da04049a062f5adfe81b67dd755cecc.png",
+      "https://cdn2.steamgriddb.com/hero/6e92962008491b24a803ff3b7d61734b.png",
+      "https://cdn2.steamgriddb.com/hero/f3d0c38aba71c170a70fc61c71db4e6f.png",
+      "https://cdn2.steamgriddb.com/hero/dbb795db64c6ab685cc819262a4c36fc.png"
+    ],
+    "releaseYear": 1998,
+    "rating": 92,
+    "platforms": [
+      "Wii",
+      "Nintendo 64",
+      "64DD",
+      "Wii U"
+    ],
+    "genres": [
+      "Puzzle",
+      "Adventure"
+    ]
+  },
+  {
     "id": 14593,
     "name": "Hollow Knight",
     "posters": [
@@ -1072,35 +1101,6 @@
       "Platform",
       "Adventure",
       "Indie"
-    ]
-  },
-  {
-    "id": 1029,
-    "name": "The Legend of Zelda: Ocarina of Time",
-    "posters": [
-      "data/covers/1029.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/1595af6435015c77a7149e92a551338e.png",
-      "https://cdn2.steamgriddb.com/hero/6597e35504c82e2f89f20837fb631376.png",
-      "https://cdn2.steamgriddb.com/hero/f4655a2b707853f1b118e0dadc52f9ba.png",
-      "https://cdn2.steamgriddb.com/hero/299024cfe2cd92197e0ab02d2421285c.png",
-      "https://cdn2.steamgriddb.com/hero/4da04049a062f5adfe81b67dd755cecc.png",
-      "https://cdn2.steamgriddb.com/hero/6e92962008491b24a803ff3b7d61734b.png",
-      "https://cdn2.steamgriddb.com/hero/f3d0c38aba71c170a70fc61c71db4e6f.png",
-      "https://cdn2.steamgriddb.com/hero/dbb795db64c6ab685cc819262a4c36fc.png"
-    ],
-    "releaseYear": 1998,
-    "rating": 92,
-    "platforms": [
-      "Wii",
-      "Nintendo 64",
-      "64DD",
-      "Wii U"
-    ],
-    "genres": [
-      "Puzzle",
-      "Adventure"
     ]
   },
   {
@@ -1995,8 +1995,8 @@
       "https://cdn2.steamgriddb.com/hero/3bfe11904d16672c7c87e30d58894339.png",
       "https://cdn2.steamgriddb.com/hero/d2d195657240f493374e95e2b75cc8cf.png",
       "https://cdn2.steamgriddb.com/hero/90deff4b32c134f32e3f0d7e8a2aad92.png",
-      "https://cdn2.steamgriddb.com/hero/351264651d762713a247d997f6eae551.png",
       "https://cdn2.steamgriddb.com/hero/143f8d687ce439ff0e5dce08c4c92c89.png",
+      "https://cdn2.steamgriddb.com/hero/351264651d762713a247d997f6eae551.png",
       "https://cdn2.steamgriddb.com/hero/f4fcdae47e9d745ec7b03083870361f1.png"
     ],
     "releaseYear": 2025,
@@ -2566,14 +2566,14 @@
       "data/covers/36926.jpg"
     ],
     "heroes": [
-      "https://cdn2.steamgriddb.com/hero/9da3bbc7c90afeae7fe153b1ff238c35.png",
       "https://cdn2.steamgriddb.com/hero/daa28096f9e8879ab3a02b90aa0e2f83.png",
+      "https://cdn2.steamgriddb.com/hero/9da3bbc7c90afeae7fe153b1ff238c35.png",
       "https://cdn2.steamgriddb.com/hero/de2126a9b990548c1c93f5de4f8bc640.png",
       "https://cdn2.steamgriddb.com/hero/44228097f45b64cf24f6a533803743e1.png",
       "https://cdn2.steamgriddb.com/hero/f26e9d8b1065c3dc872995dda5a9ea6c.png",
+      "https://cdn2.steamgriddb.com/hero/4fd2055007a6c4e3ddcf335738d972b6.png",
       "https://cdn2.steamgriddb.com/hero/2ebcdae9bbf2c2dbc0228d7bccc805a4.jpg",
-      "https://cdn2.steamgriddb.com/hero/169557952c3a937230c3c8880146f494.jpg",
-      "https://cdn2.steamgriddb.com/hero/36f4d832825380f102846560a5104c90.jpg"
+      "https://cdn2.steamgriddb.com/hero/169557952c3a937230c3c8880146f494.jpg"
     ],
     "releaseYear": 2018,
     "rating": 89,
@@ -4063,8 +4063,8 @@
     ],
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/0f27c12b5d79ce8419764f71ac4ba499.png",
-      "https://cdn2.steamgriddb.com/hero/34ba06658770b411acc56aaf592070f5.png",
       "https://cdn2.steamgriddb.com/hero/16755a59feefe5a2e038fa89eb54278d.png",
+      "https://cdn2.steamgriddb.com/hero/34ba06658770b411acc56aaf592070f5.png",
       "https://cdn2.steamgriddb.com/hero/23ce88322d3298cbfac813448612a1c9.png",
       "https://cdn2.steamgriddb.com/hero/9f03eab8a6dd1a59a90dd758769f4bb3.png",
       "https://cdn2.steamgriddb.com/hero/333a55a4dd50a0fafb33f7e2e5b0df03.png",
@@ -4526,14 +4526,14 @@
       "data/covers/228530.jpg"
     ],
     "heroes": [
-      "https://cdn2.steamgriddb.com/hero/02fc8aad99f83dd975d77b7aa954754d.png",
       "https://cdn2.steamgriddb.com/hero/be0a03c512e81c809b9b9f359e8f0883.jpg",
+      "https://cdn2.steamgriddb.com/hero/02fc8aad99f83dd975d77b7aa954754d.png",
       "https://cdn2.steamgriddb.com/hero/2b00e20bf615db411d9bac7819b6e003.jpg",
       "https://cdn2.steamgriddb.com/hero/a48ea3f98067cb5bbd6eb863a7b40f38.png",
+      "https://cdn2.steamgriddb.com/hero/bd6039f5e2457fc18f5c4559b3487666.jpg",
       "https://cdn2.steamgriddb.com/hero/682a64a4fba9f39d954eaf28531e55a0.png",
       "https://cdn2.steamgriddb.com/hero/08142446d0ba78b8f9091f52df384fcd.png",
-      "https://cdn2.steamgriddb.com/hero/a283f6b30fc942119e90f406e7b75aa6.png",
-      "https://cdn2.steamgriddb.com/hero/4bd5415e1c969b7e45aa38f2f4232b25.jpg"
+      "https://cdn2.steamgriddb.com/hero/a283f6b30fc942119e90f406e7b75aa6.png"
     ],
     "releaseYear": 2025,
     "rating": 91,
@@ -5445,35 +5445,6 @@
     ]
   },
   {
-    "id": 136879,
-    "name": "Black Myth: Wukong",
-    "posters": [
-      "data/covers/136879.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/55ffbc6f00eda5781c6a4f5d91a17a2a.jpg",
-      "https://cdn2.steamgriddb.com/hero/23021cdcfb38fe29dcea064ebe1ecce4.png",
-      "https://cdn2.steamgriddb.com/hero/fe48f38a38a0de03e490fbab36a94304.jpg",
-      "https://cdn2.steamgriddb.com/hero/a04b2bdc1d9d9c72240d6ab2118ef8f1.png",
-      "https://cdn2.steamgriddb.com/hero/538bb178cf73205573bf842c265f1a69.png",
-      "https://cdn2.steamgriddb.com/hero/ee18a47b446f6818e747fa5b2027cd8b.png",
-      "https://cdn2.steamgriddb.com/hero/2b202ed68f9de0f3bff421f42a7daaaa.png",
-      "https://cdn2.steamgriddb.com/hero/af684eddd9a3d8690fedbc30ef26d3b8.png"
-    ],
-    "releaseYear": 2024,
-    "rating": 89,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Hack and slash/Beat 'em up",
-      "Adventure"
-    ]
-  },
-  {
     "id": 142415,
     "name": "Indiana Jones and the Great Circle",
     "posters": [
@@ -5615,6 +5586,35 @@
     "genres": [
       "Shooter",
       "Platform",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 136879,
+    "name": "Black Myth: Wukong",
+    "posters": [
+      "data/covers/136879.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/55ffbc6f00eda5781c6a4f5d91a17a2a.jpg",
+      "https://cdn2.steamgriddb.com/hero/23021cdcfb38fe29dcea064ebe1ecce4.png",
+      "https://cdn2.steamgriddb.com/hero/fe48f38a38a0de03e490fbab36a94304.jpg",
+      "https://cdn2.steamgriddb.com/hero/a04b2bdc1d9d9c72240d6ab2118ef8f1.png",
+      "https://cdn2.steamgriddb.com/hero/538bb178cf73205573bf842c265f1a69.png",
+      "https://cdn2.steamgriddb.com/hero/ee18a47b446f6818e747fa5b2027cd8b.png",
+      "https://cdn2.steamgriddb.com/hero/2b202ed68f9de0f3bff421f42a7daaaa.png",
+      "https://cdn2.steamgriddb.com/hero/af684eddd9a3d8690fedbc30ef26d3b8.png"
+    ],
+    "releaseYear": 2024,
+    "rating": 88,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Hack and slash/Beat 'em up",
       "Adventure"
     ]
   },
@@ -6596,7 +6596,7 @@
       "https://cdn2.steamgriddb.com/hero/8eff5a27256c49b1f1d20dcbd5971edb.jpg",
       "https://cdn2.steamgriddb.com/hero/cce8b6d3802cf80a524e4b2f41dacb73.jpg"
     ],
-    "releaseYear": 0,
+    "releaseYear": 2028,
     "rating": 0,
     "platforms": [
       "Xbox Series X|S",
@@ -6969,6 +6969,23 @@
     ]
   },
   {
+    "id": 252840,
+    "name": "Clockwork Revolution",
+    "posters": [
+      "data/covers/252840.jpg"
+    ],
+    "heroes": [],
+    "releaseYear": 2027,
+    "rating": 0,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)"
+    ],
+    "genres": [
+      "Role-playing (RPG)"
+    ]
+  },
+  {
     "id": 228527,
     "name": "Judas",
     "posters": [
@@ -6985,23 +7002,6 @@
     "genres": [
       "Shooter",
       "Adventure"
-    ]
-  },
-  {
-    "id": 252840,
-    "name": "Clockwork Revolution",
-    "posters": [
-      "data/covers/252840.jpg"
-    ],
-    "heroes": [],
-    "releaseYear": 2027,
-    "rating": 0,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)"
-    ],
-    "genres": [
-      "Role-playing (RPG)"
     ]
   },
   {
@@ -7079,6 +7079,31 @@
     ]
   },
   {
+    "id": 331212,
+    "name": "Tides of Annihilation",
+    "posters": [
+      "data/covers/331212.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/8a2d814c49d0f4a6a7b8cc84769944d3.png",
+      "https://cdn2.steamgriddb.com/hero/c3242232f2f02854bfa78c9a65786b76.png",
+      "https://cdn2.steamgriddb.com/hero/9dc4995116b45bc9d97bafbe2a533a14.png",
+      "https://cdn2.steamgriddb.com/hero/6aecc5688439e968309784eb983bad6e.png"
+    ],
+    "releaseYear": 0,
+    "rating": 0,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Hack and slash/Beat 'em up",
+      "Adventure"
+    ]
+  },
+  {
     "id": 404673,
     "name": "Resident Evil Veronica",
     "posters": [
@@ -7105,31 +7130,6 @@
     "genres": [
       "Shooter",
       "Puzzle",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 331212,
-    "name": "Tides of Annihilation",
-    "posters": [
-      "data/covers/331212.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/8a2d814c49d0f4a6a7b8cc84769944d3.png",
-      "https://cdn2.steamgriddb.com/hero/c3242232f2f02854bfa78c9a65786b76.png",
-      "https://cdn2.steamgriddb.com/hero/9dc4995116b45bc9d97bafbe2a533a14.png",
-      "https://cdn2.steamgriddb.com/hero/6aecc5688439e968309784eb983bad6e.png"
-    ],
-    "releaseYear": 0,
-    "rating": 0,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Hack and slash/Beat 'em up",
       "Adventure"
     ]
   },
