@@ -426,7 +426,8 @@
       "Super Famicom"
     ],
     "genres": [
-      "Platform"
+      "Platform",
+      "Adventure"
     ]
   },
   {
@@ -1984,35 +1985,6 @@
     ]
   },
   {
-    "id": 305152,
-    "name": "Clair Obscur: Expedition 33",
-    "posters": [
-      "data/covers/305152.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/905372ea814051dfb31429fe44e18cab.png",
-      "https://cdn2.steamgriddb.com/hero/42aae50b505bb0adbedb1f8f8bbd6378.jpg",
-      "https://cdn2.steamgriddb.com/hero/3bfe11904d16672c7c87e30d58894339.png",
-      "https://cdn2.steamgriddb.com/hero/d2d195657240f493374e95e2b75cc8cf.png",
-      "https://cdn2.steamgriddb.com/hero/90deff4b32c134f32e3f0d7e8a2aad92.png",
-      "https://cdn2.steamgriddb.com/hero/143f8d687ce439ff0e5dce08c4c92c89.png",
-      "https://cdn2.steamgriddb.com/hero/351264651d762713a247d997f6eae551.png",
-      "https://cdn2.steamgriddb.com/hero/f4fcdae47e9d745ec7b03083870361f1.png"
-    ],
-    "releaseYear": 2025,
-    "rating": 89,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Adventure",
-      "Indie"
-    ]
-  },
-  {
     "id": 1068,
     "name": "Super Mario Bros. 3",
     "posters": [
@@ -2041,6 +2013,36 @@
     "genres": [
       "Platform",
       "Adventure"
+    ]
+  },
+  {
+    "id": 305152,
+    "name": "Clair Obscur: Expedition 33",
+    "posters": [
+      "data/covers/305152.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/905372ea814051dfb31429fe44e18cab.png",
+      "https://cdn2.steamgriddb.com/hero/42aae50b505bb0adbedb1f8f8bbd6378.jpg",
+      "https://cdn2.steamgriddb.com/hero/3bfe11904d16672c7c87e30d58894339.png",
+      "https://cdn2.steamgriddb.com/hero/d2d195657240f493374e95e2b75cc8cf.png",
+      "https://cdn2.steamgriddb.com/hero/90deff4b32c134f32e3f0d7e8a2aad92.png",
+      "https://cdn2.steamgriddb.com/hero/143f8d687ce439ff0e5dce08c4c92c89.png",
+      "https://cdn2.steamgriddb.com/hero/351264651d762713a247d997f6eae551.png",
+      "https://cdn2.steamgriddb.com/hero/f4fcdae47e9d745ec7b03083870361f1.png"
+    ],
+    "releaseYear": 2025,
+    "rating": 89,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Turn-based strategy (TBS)",
+      "Adventure",
+      "Indie"
     ]
   },
   {
@@ -5598,12 +5600,12 @@
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/55ffbc6f00eda5781c6a4f5d91a17a2a.jpg",
       "https://cdn2.steamgriddb.com/hero/23021cdcfb38fe29dcea064ebe1ecce4.png",
-      "https://cdn2.steamgriddb.com/hero/fe48f38a38a0de03e490fbab36a94304.jpg",
-      "https://cdn2.steamgriddb.com/hero/a04b2bdc1d9d9c72240d6ab2118ef8f1.png",
       "https://cdn2.steamgriddb.com/hero/538bb178cf73205573bf842c265f1a69.png",
-      "https://cdn2.steamgriddb.com/hero/ee18a47b446f6818e747fa5b2027cd8b.png",
-      "https://cdn2.steamgriddb.com/hero/2b202ed68f9de0f3bff421f42a7daaaa.png",
-      "https://cdn2.steamgriddb.com/hero/af684eddd9a3d8690fedbc30ef26d3b8.png"
+      "https://cdn2.steamgriddb.com/hero/f952877d70eceb554578bc0a0826d4a9.png",
+      "https://cdn2.steamgriddb.com/hero/5d899028f3260a25f037f37db9aeeb5b.jpg",
+      "https://cdn2.steamgriddb.com/hero/d2c6571c425b36af3cc01ffe48c2364a.png",
+      "https://cdn2.steamgriddb.com/hero/13d423c869d1f12c22c6544d405f891b.jpg",
+      "https://cdn2.steamgriddb.com/hero/fe48f38a38a0de03e490fbab36a94304.jpg"
     ],
     "releaseYear": 2024,
     "rating": 88,
@@ -6476,38 +6478,34 @@
     ]
   },
   {
-    "id": 131890,
-    "name": "Sea of Stars",
+    "id": 195517,
+    "name": "Return to Monkey Island",
     "posters": [
-      "data/covers/131890.jpg"
+      "data/covers/195517.jpg"
     ],
     "heroes": [
-      "https://cdn2.steamgriddb.com/hero/0dc76f2b5c3bada7c8bf8a8cbf02a968.png",
-      "https://cdn2.steamgriddb.com/hero/e5b81416d033fd7e1dbfd8ebd0f354f1.png",
-      "https://cdn2.steamgriddb.com/hero/81a7f320c97037905c1e74ed4fba57b4.png",
-      "https://cdn2.steamgriddb.com/hero/de2326cf69d9b51067dc2253aaf8c883.png",
-      "https://cdn2.steamgriddb.com/hero/585e8d6e108d44ee0303463ba7fb023e.jpg",
-      "https://cdn2.steamgriddb.com/hero/54bf847d6e3908dc5277af42fbf566db.png",
-      "https://cdn2.steamgriddb.com/hero/1ccfd90b5d5a5504eeceea9404433515.jpg",
-      "https://cdn2.steamgriddb.com/hero/c33eb6109cb5509165ec855ca28e060d.png"
+      "https://cdn2.steamgriddb.com/hero/362ecba8def0b49f92307e8f0927ec43.png",
+      "https://cdn2.steamgriddb.com/hero/6201006ca73bfb4966550c5228932da6.jpg",
+      "https://cdn2.steamgriddb.com/hero/095e0c0ae17515306ad9a09cc74aef49.jpg",
+      "https://cdn2.steamgriddb.com/hero/d4cd019bd8c10650e4c1c05beddca082.png",
+      "https://cdn2.steamgriddb.com/hero/a34dfbef5668442567f72da5dfe506a0.png"
     ],
-    "releaseYear": 2023,
+    "releaseYear": 2022,
     "rating": 86,
     "platforms": [
       "Xbox Series X|S",
-      "PlayStation 4",
-      "Nintendo Switch 2",
+      "Linux",
       "Android",
       "PC (Microsoft Windows)",
       "iOS",
       "PlayStation 5",
-      "Xbox One",
+      "Mac",
       "Nintendo Switch"
     ],
     "genres": [
-      "Role-playing (RPG)",
-      "Adventure",
-      "Indie"
+      "Point-and-click",
+      "Puzzle",
+      "Adventure"
     ]
   },
   {
@@ -6587,28 +6585,6 @@
     ]
   },
   {
-    "id": 194662,
-    "name": "The Witcher IV",
-    "posters": [
-      "data/covers/194662.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/8eff5a27256c49b1f1d20dcbd5971edb.jpg",
-      "https://cdn2.steamgriddb.com/hero/cce8b6d3802cf80a524e4b2f41dacb73.jpg"
-    ],
-    "releaseYear": 2028,
-    "rating": 0,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Adventure"
-    ]
-  },
-  {
     "id": 282831,
     "name": "The Blood of Dawnwalker",
     "posters": [
@@ -6621,6 +6597,28 @@
       "https://cdn2.steamgriddb.com/hero/23e6bcb19cc55a2705f94274a406f30f.png"
     ],
     "releaseYear": 2026,
+    "rating": 0,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 194662,
+    "name": "The Witcher IV",
+    "posters": [
+      "data/covers/194662.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/8eff5a27256c49b1f1d20dcbd5971edb.jpg",
+      "https://cdn2.steamgriddb.com/hero/cce8b6d3802cf80a524e4b2f41dacb73.jpg"
+    ],
+    "releaseYear": 2028,
     "rating": 0,
     "platforms": [
       "Xbox Series X|S",
@@ -7005,32 +7003,6 @@
     ]
   },
   {
-    "id": 317124,
-    "name": "Fate Trigger",
-    "posters": [
-      "data/covers/317124.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/59bea885811818e6aad0a4718cbb0916.jpg",
-      "https://cdn2.steamgriddb.com/hero/2c255bcb462668efbe82237336f95edf.jpg",
-      "https://cdn2.steamgriddb.com/hero/452780597b96d641e504d0d4018ef065.jpg",
-      "https://cdn2.steamgriddb.com/hero/c712ad198050d9f960cc6f315d453410.jpg",
-      "https://cdn2.steamgriddb.com/hero/e940416cb114586faa6b08432f9cc237.jpg"
-    ],
-    "releaseYear": 0,
-    "rating": 0,
-    "platforms": [
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Shooter",
-      "Tactical",
-      "Adventure",
-      "MOBA"
-    ]
-  },
-  {
     "id": 305160,
     "name": "Gears of War: E-Day",
     "posters": [
@@ -7059,26 +7031,6 @@
     ]
   },
   {
-    "id": 347869,
-    "name": "The Expanse: Osiris Reborn",
-    "posters": [
-      "data/covers/347869.jpg"
-    ],
-    "heroes": [],
-    "releaseYear": 2027,
-    "rating": 0,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Shooter",
-      "Role-playing (RPG)",
-      "Adventure"
-    ]
-  },
-  {
     "id": 331212,
     "name": "Tides of Annihilation",
     "posters": [
@@ -7100,6 +7052,52 @@
     "genres": [
       "Role-playing (RPG)",
       "Hack and slash/Beat 'em up",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 317124,
+    "name": "Fate Trigger",
+    "posters": [
+      "data/covers/317124.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/59bea885811818e6aad0a4718cbb0916.jpg",
+      "https://cdn2.steamgriddb.com/hero/2c255bcb462668efbe82237336f95edf.jpg",
+      "https://cdn2.steamgriddb.com/hero/452780597b96d641e504d0d4018ef065.jpg",
+      "https://cdn2.steamgriddb.com/hero/c712ad198050d9f960cc6f315d453410.jpg",
+      "https://cdn2.steamgriddb.com/hero/e940416cb114586faa6b08432f9cc237.jpg"
+    ],
+    "releaseYear": 0,
+    "rating": 0,
+    "platforms": [
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Shooter",
+      "Tactical",
+      "Adventure",
+      "MOBA"
+    ]
+  },
+  {
+    "id": 347869,
+    "name": "The Expanse: Osiris Reborn",
+    "posters": [
+      "data/covers/347869.jpg"
+    ],
+    "heroes": [],
+    "releaseYear": 2027,
+    "rating": 0,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Shooter",
+      "Role-playing (RPG)",
       "Adventure"
     ]
   },
