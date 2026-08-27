@@ -1603,10 +1603,10 @@
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/f73ff6b435051f83259a5f7b2f542e4b.png",
       "https://cdn2.steamgriddb.com/hero/a47dbfe7e87d38f9ddbf3e5021d44c70.png",
+      "https://cdn2.steamgriddb.com/hero/7cc2794f14963ceaedb29d19875c950c.png",
       "https://cdn2.steamgriddb.com/hero/5328c22dc818e19521b07a7a36ca1620.jpg",
       "https://cdn2.steamgriddb.com/hero/07e99f116b916656b3fd4f7dd58a3cbe.png",
       "https://cdn2.steamgriddb.com/hero/fd00d3474e495e7b6d5f9f575b2d7ec4.png",
-      "https://cdn2.steamgriddb.com/hero/7cc2794f14963ceaedb29d19875c950c.png",
       "https://cdn2.steamgriddb.com/hero/5d7b7c3e1abf09b305816fb62d3b30fd.png",
       "https://cdn2.steamgriddb.com/hero/fee1fd1f21232c5940af7cee262ef273.jpg"
     ],
@@ -2466,8 +2466,7 @@
     "releaseYear": 2002,
     "rating": 89,
     "platforms": [
-      "Nintendo GameCube",
-      "Wii U"
+      "Nintendo GameCube"
     ],
     "genres": [
       "Puzzle",
@@ -3009,8 +3008,8 @@
       "https://cdn2.steamgriddb.com/hero/239a08b036996af21be91c28f8b985cb.png",
       "https://cdn2.steamgriddb.com/hero/719c42e8fb7d391f1f8481ccba539727.png",
       "https://cdn2.steamgriddb.com/hero/59cf35ec5effe5787749804bd77dfb45.png",
-      "https://cdn2.steamgriddb.com/hero/77db8276d9c9286f4c406beb516cb15f.png",
-      "https://cdn2.steamgriddb.com/hero/8ce385891442aafcc84e0cf96686219e.png"
+      "https://cdn2.steamgriddb.com/hero/5fbfd8e90448df4c7adfd6f16bca0b51.png",
+      "https://cdn2.steamgriddb.com/hero/77db8276d9c9286f4c406beb516cb15f.png"
     ],
     "releaseYear": 2017,
     "rating": 88,
@@ -4434,32 +4433,6 @@
     ]
   },
   {
-    "id": 338106,
-    "name": "Donkey Kong Bananza",
-    "posters": [
-      "data/covers/338106.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/dadfab57415742158d615392eb2f9786.png",
-      "https://cdn2.steamgriddb.com/hero/e6dd55168d54c4d3b6e320f350c005f4.png",
-      "https://cdn2.steamgriddb.com/hero/1b473b16a0c304b8376bbf09eefde16e.png",
-      "https://cdn2.steamgriddb.com/hero/13da48cddb6ff8cb112786ae58d17e13.png",
-      "https://cdn2.steamgriddb.com/hero/e8502664bac3c418cc48b3ea12501809.jpg",
-      "https://cdn2.steamgriddb.com/hero/5ea7c24582a0e9b23255231d40cb481b.png",
-      "https://cdn2.steamgriddb.com/hero/bea79f3371a5d7f46ba2f4a865758182.png",
-      "https://cdn2.steamgriddb.com/hero/88d935b0c93146a93fb7a0dc591843e3.png"
-    ],
-    "releaseYear": 2025,
-    "rating": 92,
-    "platforms": [
-      "Nintendo Switch 2"
-    ],
-    "genres": [
-      "Platform",
-      "Adventure"
-    ]
-  },
-  {
     "id": 215769,
     "name": "Cyberpunk 2077: Phantom Liberty",
     "posters": [
@@ -4487,6 +4460,32 @@
     "genres": [
       "Shooter",
       "Role-playing (RPG)",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 338106,
+    "name": "Donkey Kong Bananza",
+    "posters": [
+      "data/covers/338106.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/dadfab57415742158d615392eb2f9786.png",
+      "https://cdn2.steamgriddb.com/hero/e6dd55168d54c4d3b6e320f350c005f4.png",
+      "https://cdn2.steamgriddb.com/hero/1b473b16a0c304b8376bbf09eefde16e.png",
+      "https://cdn2.steamgriddb.com/hero/13da48cddb6ff8cb112786ae58d17e13.png",
+      "https://cdn2.steamgriddb.com/hero/e8502664bac3c418cc48b3ea12501809.jpg",
+      "https://cdn2.steamgriddb.com/hero/5ea7c24582a0e9b23255231d40cb481b.png",
+      "https://cdn2.steamgriddb.com/hero/bea79f3371a5d7f46ba2f4a865758182.png",
+      "https://cdn2.steamgriddb.com/hero/88d935b0c93146a93fb7a0dc591843e3.png"
+    ],
+    "releaseYear": 2025,
+    "rating": 92,
+    "platforms": [
+      "Nintendo Switch 2"
+    ],
+    "genres": [
+      "Platform",
       "Adventure"
     ]
   },
@@ -4813,42 +4812,6 @@
     ]
   },
   {
-    "id": 135999,
-    "name": "Tetris Effect: Connected",
-    "posters": [
-      "data/covers/135999.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/dbb500b2959b76223815fa8c62550516.png",
-      "https://cdn2.steamgriddb.com/hero/b8f88236cd0be638862eb71b23d41809.png",
-      "https://cdn2.steamgriddb.com/hero/159083ad411011cfad29d3b1bf5b4359.jpg",
-      "https://cdn2.steamgriddb.com/hero/75733aa82b562a1b5b6d08d6c52fbfc6.jpg",
-      "https://cdn2.steamgriddb.com/hero/4da6c481037585b860ba642df71c5072.png",
-      "https://cdn2.steamgriddb.com/hero/6f6db048645298245cb176e88fa0f1b0.png",
-      "https://cdn2.steamgriddb.com/hero/2feb2a7d3f2db05779809b65e2ba1475.jpg",
-      "https://cdn2.steamgriddb.com/hero/7172e7af1932387934411523da45519d.jpg"
-    ],
-    "releaseYear": 2020,
-    "rating": 90,
-    "platforms": [
-      "Meta Quest 2",
-      "Xbox Series X|S",
-      "PlayStation VR2",
-      "PlayStation 4",
-      "PC (Microsoft Windows)",
-      "PlayStation 5",
-      "Xbox One",
-      "Nintendo Switch",
-      "Oculus Quest"
-    ],
-    "genres": [
-      "Music",
-      "Puzzle",
-      "Indie",
-      "Arcade"
-    ]
-  },
-  {
     "id": 185246,
     "name": "Alan Wake II",
     "posters": [
@@ -5055,6 +5018,42 @@
     "genres": [
       "Role-playing (RPG)",
       "Adventure"
+    ]
+  },
+  {
+    "id": 135999,
+    "name": "Tetris Effect: Connected",
+    "posters": [
+      "data/covers/135999.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/dbb500b2959b76223815fa8c62550516.png",
+      "https://cdn2.steamgriddb.com/hero/b8f88236cd0be638862eb71b23d41809.png",
+      "https://cdn2.steamgriddb.com/hero/159083ad411011cfad29d3b1bf5b4359.jpg",
+      "https://cdn2.steamgriddb.com/hero/75733aa82b562a1b5b6d08d6c52fbfc6.jpg",
+      "https://cdn2.steamgriddb.com/hero/4da6c481037585b860ba642df71c5072.png",
+      "https://cdn2.steamgriddb.com/hero/6f6db048645298245cb176e88fa0f1b0.png",
+      "https://cdn2.steamgriddb.com/hero/2feb2a7d3f2db05779809b65e2ba1475.jpg",
+      "https://cdn2.steamgriddb.com/hero/7172e7af1932387934411523da45519d.jpg"
+    ],
+    "releaseYear": 2020,
+    "rating": 90,
+    "platforms": [
+      "Meta Quest 2",
+      "Xbox Series X|S",
+      "PlayStation VR2",
+      "PlayStation 4",
+      "PC (Microsoft Windows)",
+      "PlayStation 5",
+      "Xbox One",
+      "Nintendo Switch",
+      "Oculus Quest"
+    ],
+    "genres": [
+      "Music",
+      "Puzzle",
+      "Indie",
+      "Arcade"
     ]
   },
   {
@@ -5740,32 +5739,6 @@
     ]
   },
   {
-    "id": 191411,
-    "name": "Xenoblade Chronicles 3",
-    "posters": [
-      "data/covers/191411.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/9ce050e2f8b9a793dbe3777b394500ad.png",
-      "https://cdn2.steamgriddb.com/hero/0567d17bfdff218ab82d86a1e9ae9cf3.jpg",
-      "https://cdn2.steamgriddb.com/hero/303b2dcbe5c58b7065f4f0bfd4f9131a.jpg",
-      "https://cdn2.steamgriddb.com/hero/0e469a18c3550ed1bf823b8f3c82c4b7.png",
-      "https://cdn2.steamgriddb.com/hero/a5d4037764ecd51c5637039f7813446d.png",
-      "https://cdn2.steamgriddb.com/hero/1479d215a677db77ef44e290edbcb702.png",
-      "https://cdn2.steamgriddb.com/hero/42aec61b6295616863885203a1f3abf4.png",
-      "https://cdn2.steamgriddb.com/hero/a7d53356c7725961ea7e1757cdaf1b98.png"
-    ],
-    "releaseYear": 2022,
-    "rating": 88,
-    "platforms": [
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Adventure"
-    ]
-  },
-  {
     "id": 250634,
     "name": "Metal Gear Solid Delta: Snake Eater",
     "posters": [
@@ -5791,6 +5764,32 @@
     "genres": [
       "Shooter",
       "Tactical",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 191411,
+    "name": "Xenoblade Chronicles 3",
+    "posters": [
+      "data/covers/191411.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/9ce050e2f8b9a793dbe3777b394500ad.png",
+      "https://cdn2.steamgriddb.com/hero/0567d17bfdff218ab82d86a1e9ae9cf3.jpg",
+      "https://cdn2.steamgriddb.com/hero/303b2dcbe5c58b7065f4f0bfd4f9131a.jpg",
+      "https://cdn2.steamgriddb.com/hero/0e469a18c3550ed1bf823b8f3c82c4b7.png",
+      "https://cdn2.steamgriddb.com/hero/a5d4037764ecd51c5637039f7813446d.png",
+      "https://cdn2.steamgriddb.com/hero/1479d215a677db77ef44e290edbcb702.png",
+      "https://cdn2.steamgriddb.com/hero/42aec61b6295616863885203a1f3abf4.png",
+      "https://cdn2.steamgriddb.com/hero/a7d53356c7725961ea7e1757cdaf1b98.png"
+    ],
+    "releaseYear": 2022,
+    "rating": 88,
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
       "Adventure"
     ]
   },
@@ -6616,7 +6615,8 @@
     ],
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/8eff5a27256c49b1f1d20dcbd5971edb.jpg",
-      "https://cdn2.steamgriddb.com/hero/cce8b6d3802cf80a524e4b2f41dacb73.jpg"
+      "https://cdn2.steamgriddb.com/hero/cce8b6d3802cf80a524e4b2f41dacb73.jpg",
+      "https://cdn2.steamgriddb.com/hero/d217b49a725604883ebf4aade961ae4a.png"
     ],
     "releaseYear": 2028,
     "rating": 0,
@@ -6795,6 +6795,30 @@
     ]
   },
   {
+    "id": 325611,
+    "name": "Intergalactic: The Heretic Prophet",
+    "posters": [
+      "data/covers/325611.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/a1c30ef970be784dc187651529af29e3.png",
+      "https://cdn2.steamgriddb.com/hero/68845343aca4867c6d08cc7022166781.png",
+      "https://cdn2.steamgriddb.com/hero/02a27f35ebd6ad1a81b19063bf8c6993.png",
+      "https://cdn2.steamgriddb.com/hero/09b5bc9e1efb9ca6f999b02c672f04e4.jpg",
+      "https://cdn2.steamgriddb.com/hero/569138f1070394bcde8bb3e35e580d6e.png",
+      "https://cdn2.steamgriddb.com/hero/2a4bba5048cca1b0f95335ccc6b6f225.jpg"
+    ],
+    "releaseYear": 2027,
+    "rating": 0,
+    "platforms": [
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Hack and slash/Beat 'em up",
+      "Adventure"
+    ]
+  },
+  {
     "id": 381235,
     "name": "Tomb Raider: Legacy of Atlantis",
     "posters": [
@@ -6846,26 +6870,24 @@
     ]
   },
   {
-    "id": 325611,
-    "name": "Intergalactic: The Heretic Prophet",
+    "id": 343335,
+    "name": "Silver Palace",
     "posters": [
-      "data/covers/325611.jpg"
+      "data/covers/343335.jpg"
     ],
     "heroes": [
-      "https://cdn2.steamgriddb.com/hero/a1c30ef970be784dc187651529af29e3.png",
-      "https://cdn2.steamgriddb.com/hero/68845343aca4867c6d08cc7022166781.png",
-      "https://cdn2.steamgriddb.com/hero/02a27f35ebd6ad1a81b19063bf8c6993.png",
-      "https://cdn2.steamgriddb.com/hero/09b5bc9e1efb9ca6f999b02c672f04e4.jpg",
-      "https://cdn2.steamgriddb.com/hero/569138f1070394bcde8bb3e35e580d6e.png",
-      "https://cdn2.steamgriddb.com/hero/2a4bba5048cca1b0f95335ccc6b6f225.jpg"
+      "https://cdn2.steamgriddb.com/hero/ea3a48c74a9efb9a08635fe7990347cc.png"
     ],
-    "releaseYear": 2027,
+    "releaseYear": 0,
     "rating": 0,
     "platforms": [
+      "Android",
+      "PC (Microsoft Windows)",
+      "iOS",
       "PlayStation 5"
     ],
     "genres": [
-      "Hack and slash/Beat 'em up",
+      "Role-playing (RPG)",
       "Adventure"
     ]
   },
@@ -6898,28 +6920,6 @@
     ]
   },
   {
-    "id": 343335,
-    "name": "Silver Palace",
-    "posters": [
-      "data/covers/343335.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/ea3a48c74a9efb9a08635fe7990347cc.png"
-    ],
-    "releaseYear": 0,
-    "rating": 0,
-    "platforms": [
-      "Android",
-      "PC (Microsoft Windows)",
-      "iOS",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Adventure"
-    ]
-  },
-  {
     "id": 381234,
     "name": "Tomb Raider: Catalyst",
     "posters": [
@@ -6944,6 +6944,31 @@
     ]
   },
   {
+    "id": 331212,
+    "name": "Tides of Annihilation",
+    "posters": [
+      "data/covers/331212.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/8a2d814c49d0f4a6a7b8cc84769944d3.png",
+      "https://cdn2.steamgriddb.com/hero/c3242232f2f02854bfa78c9a65786b76.png",
+      "https://cdn2.steamgriddb.com/hero/9dc4995116b45bc9d97bafbe2a533a14.png",
+      "https://cdn2.steamgriddb.com/hero/6aecc5688439e968309784eb983bad6e.png"
+    ],
+    "releaseYear": 0,
+    "rating": 0,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Hack and slash/Beat 'em up",
+      "Adventure"
+    ]
+  },
+  {
     "id": 325599,
     "name": "Stranger Than Heaven",
     "posters": [
@@ -6963,6 +6988,34 @@
       "Fighting",
       "Puzzle",
       "Role-playing (RPG)",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 305160,
+    "name": "Gears of War: E-Day",
+    "posters": [
+      "data/covers/305160.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/25f9777d56ab959676a73e317c491e1a.png",
+      "https://cdn2.steamgriddb.com/hero/5125381e68c1ac901e9b4612e6797a1b.png",
+      "https://cdn2.steamgriddb.com/hero/07f2e0a88631dab56b6762b5d0267e4b.png",
+      "https://cdn2.steamgriddb.com/hero/8540838cbd094a70c6fc1686c80f5947.png",
+      "https://cdn2.steamgriddb.com/hero/92b5e71e9794efb2a6e0e2df8936e012.jpg",
+      "https://cdn2.steamgriddb.com/hero/1db7a1c9ef6838f83d9f6dafab946e17.jpg",
+      "https://cdn2.steamgriddb.com/hero/2b67ef2570ea954d5b8faf76e224cf48.jpg",
+      "https://cdn2.steamgriddb.com/hero/b6f0f53b7491b52746b63c8c7039d6b2.png"
+    ],
+    "releaseYear": 2026,
+    "rating": 0,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Shooter",
       "Adventure"
     ]
   },
@@ -6999,59 +7052,6 @@
     ],
     "genres": [
       "Shooter",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 305160,
-    "name": "Gears of War: E-Day",
-    "posters": [
-      "data/covers/305160.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/25f9777d56ab959676a73e317c491e1a.png",
-      "https://cdn2.steamgriddb.com/hero/5125381e68c1ac901e9b4612e6797a1b.png",
-      "https://cdn2.steamgriddb.com/hero/07f2e0a88631dab56b6762b5d0267e4b.png",
-      "https://cdn2.steamgriddb.com/hero/8540838cbd094a70c6fc1686c80f5947.png",
-      "https://cdn2.steamgriddb.com/hero/92b5e71e9794efb2a6e0e2df8936e012.jpg",
-      "https://cdn2.steamgriddb.com/hero/1db7a1c9ef6838f83d9f6dafab946e17.jpg",
-      "https://cdn2.steamgriddb.com/hero/2b67ef2570ea954d5b8faf76e224cf48.jpg",
-      "https://cdn2.steamgriddb.com/hero/b6f0f53b7491b52746b63c8c7039d6b2.png"
-    ],
-    "releaseYear": 2026,
-    "rating": 0,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Shooter",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 331212,
-    "name": "Tides of Annihilation",
-    "posters": [
-      "data/covers/331212.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/8a2d814c49d0f4a6a7b8cc84769944d3.png",
-      "https://cdn2.steamgriddb.com/hero/c3242232f2f02854bfa78c9a65786b76.png",
-      "https://cdn2.steamgriddb.com/hero/9dc4995116b45bc9d97bafbe2a533a14.png",
-      "https://cdn2.steamgriddb.com/hero/6aecc5688439e968309784eb983bad6e.png"
-    ],
-    "releaseYear": 0,
-    "rating": 0,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Hack and slash/Beat 'em up",
       "Adventure"
     ]
   },
@@ -7148,6 +7148,33 @@
     ]
   },
   {
+    "id": 222342,
+    "name": "Silent Hill: Townfall",
+    "posters": [
+      "data/covers/222342.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/84e9033503492d6951ee2c3631ed0915.png",
+      "https://cdn2.steamgriddb.com/hero/5b5c38887510f00d3b8aca60899b4697.png",
+      "https://cdn2.steamgriddb.com/hero/d4a880ffcab96141d7a3538bf17255de.png",
+      "https://cdn2.steamgriddb.com/hero/81c7173784184c0d6645038922981051.png",
+      "https://cdn2.steamgriddb.com/hero/c61078a05ca3c56140a6d2bf06b49c6f.png",
+      "https://cdn2.steamgriddb.com/hero/9aab82b20887ca284964bc2474fe1f83.png",
+      "https://cdn2.steamgriddb.com/hero/64705d03e4205626b7f625c843242794.png",
+      "https://cdn2.steamgriddb.com/hero/337653b3c9942b9ee76db0becfd3022c.png"
+    ],
+    "releaseYear": 2026,
+    "rating": 0,
+    "platforms": [
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Puzzle",
+      "Adventure"
+    ]
+  },
+  {
     "id": 28029,
     "name": "Half-Life 3",
     "posters": [
@@ -7166,30 +7193,6 @@
     ],
     "genres": [
       "Shooter"
-    ]
-  },
-  {
-    "id": 216315,
-    "name": "Marvel 1943: Rise of Hydra",
-    "posters": [
-      "data/covers/216315.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/1ab60b5e8bd4eac8a7537abb5936aadc.jpg",
-      "https://cdn2.steamgriddb.com/hero/708d7246fd34ae11f2eeca41d4e698bd.png",
-      "https://cdn2.steamgriddb.com/hero/7da9fd85999f583e3906f99a3ee58911.jpg",
-      "https://cdn2.steamgriddb.com/hero/c632445303b629972c5cfb37e873df9c.jpg",
-      "https://cdn2.steamgriddb.com/hero/13e2a99ea53e73d8a2c2437f612362fa.jpg"
-    ],
-    "releaseYear": 2027,
-    "rating": 0,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Adventure"
     ]
   }
 ]
