@@ -4993,34 +4993,6 @@
     ]
   },
   {
-    "id": 153700,
-    "name": "Ghost of Tsushima: Director's Cut",
-    "posters": [
-      "data/covers/153700.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/4e51b70d7ae3e2a6194d23b399acb43d.png",
-      "https://cdn2.steamgriddb.com/hero/fbbd5c9acd74f9a68a2ac5296c8f6677.jpg",
-      "https://cdn2.steamgriddb.com/hero/4d88fddcbb854166f3b5ba0d4b50597f.jpg",
-      "https://cdn2.steamgriddb.com/hero/30d3ea0723cbfe619edb0201c8efa94b.jpg",
-      "https://cdn2.steamgriddb.com/hero/e7240b5a0b10b78241dc426e1e63921c.jpg",
-      "https://cdn2.steamgriddb.com/hero/f6bd2a3672ec73783ad8f4b3dd1d18f4.jpg",
-      "https://cdn2.steamgriddb.com/hero/984a1368247673c9d71851ee0457e788.jpg",
-      "https://cdn2.steamgriddb.com/hero/3d96ef65a9b66538b4d19c16cff3ffd7.jpg"
-    ],
-    "releaseYear": 2021,
-    "rating": 90,
-    "platforms": [
-      "PlayStation 4",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Adventure"
-    ]
-  },
-  {
     "id": 135999,
     "name": "Tetris Effect: Connected",
     "posters": [
@@ -5225,6 +5197,34 @@
     "genres": [
       "Role-playing (RPG)",
       "Strategy",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 153700,
+    "name": "Ghost of Tsushima: Director's Cut",
+    "posters": [
+      "data/covers/153700.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/4e51b70d7ae3e2a6194d23b399acb43d.png",
+      "https://cdn2.steamgriddb.com/hero/fbbd5c9acd74f9a68a2ac5296c8f6677.jpg",
+      "https://cdn2.steamgriddb.com/hero/4d88fddcbb854166f3b5ba0d4b50597f.jpg",
+      "https://cdn2.steamgriddb.com/hero/30d3ea0723cbfe619edb0201c8efa94b.jpg",
+      "https://cdn2.steamgriddb.com/hero/e7240b5a0b10b78241dc426e1e63921c.jpg",
+      "https://cdn2.steamgriddb.com/hero/f6bd2a3672ec73783ad8f4b3dd1d18f4.jpg",
+      "https://cdn2.steamgriddb.com/hero/984a1368247673c9d71851ee0457e788.jpg",
+      "https://cdn2.steamgriddb.com/hero/3d96ef65a9b66538b4d19c16cff3ffd7.jpg"
+    ],
+    "releaseYear": 2021,
+    "rating": 89,
+    "platforms": [
+      "PlayStation 4",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
       "Adventure"
     ]
   },
@@ -6849,27 +6849,6 @@
     ]
   },
   {
-    "id": 348168,
-    "name": "Resonance: A Plague Tale Legacy",
-    "posters": [
-      "data/covers/348168.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/3f148caba609f41e1f3d419ccbd9873b.png",
-      "https://cdn2.steamgriddb.com/hero/b55f1c0b5e5aed6ae7813900dd440989.png"
-    ],
-    "releaseYear": 2026,
-    "rating": 0,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Adventure"
-    ]
-  },
-  {
     "id": 343335,
     "name": "Silver Palace",
     "posters": [
@@ -7148,6 +7127,27 @@
     ]
   },
   {
+    "id": 28029,
+    "name": "Half-Life 3",
+    "posters": [
+      "data/covers/28029.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/ec4b2e408e41a86f2fd70cc17c564994.png",
+      "https://cdn2.steamgriddb.com/hero/4fd04fbeeb9aabf2f029c8133c4bf881.jpg"
+    ],
+    "releaseYear": 0,
+    "rating": 0,
+    "platforms": [
+      "Linux",
+      "PC (Microsoft Windows)",
+      "Mac"
+    ],
+    "genres": [
+      "Shooter"
+    ]
+  },
+  {
     "id": 222342,
     "name": "Silent Hill: Townfall",
     "posters": [
@@ -7175,24 +7175,27 @@
     ]
   },
   {
-    "id": 28029,
-    "name": "Half-Life 3",
+    "id": 216315,
+    "name": "Marvel 1943: Rise of Hydra",
     "posters": [
-      "data/covers/28029.jpg"
+      "data/covers/216315.jpg"
     ],
     "heroes": [
-      "https://cdn2.steamgriddb.com/hero/ec4b2e408e41a86f2fd70cc17c564994.png",
-      "https://cdn2.steamgriddb.com/hero/4fd04fbeeb9aabf2f029c8133c4bf881.jpg"
+      "https://cdn2.steamgriddb.com/hero/1ab60b5e8bd4eac8a7537abb5936aadc.jpg",
+      "https://cdn2.steamgriddb.com/hero/708d7246fd34ae11f2eeca41d4e698bd.png",
+      "https://cdn2.steamgriddb.com/hero/7da9fd85999f583e3906f99a3ee58911.jpg",
+      "https://cdn2.steamgriddb.com/hero/c632445303b629972c5cfb37e873df9c.jpg",
+      "https://cdn2.steamgriddb.com/hero/13e2a99ea53e73d8a2c2437f612362fa.jpg"
     ],
-    "releaseYear": 0,
+    "releaseYear": 2027,
     "rating": 0,
     "platforms": [
-      "Linux",
+      "Xbox Series X|S",
       "PC (Microsoft Windows)",
-      "Mac"
+      "PlayStation 5"
     ],
     "genres": [
-      "Shooter"
+      "Adventure"
     ]
   }
 ]
