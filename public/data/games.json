@@ -1567,34 +1567,6 @@
     ]
   },
   {
-    "id": 75235,
-    "name": "Ghost of Tsushima",
-    "posters": [
-      "data/covers/75235.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/97fbc7ee9bcb73fe7c08efe8e5d701f0.png",
-      "https://cdn2.steamgriddb.com/hero/607e79272c337728322fe13f83866c17.png",
-      "https://cdn2.steamgriddb.com/hero/c1a7e33ea8abdd49950096fc20f04e86.jpg",
-      "https://cdn2.steamgriddb.com/hero/5807fd4cc86d41ab1ffdbcc9b7d4146c.png",
-      "https://cdn2.steamgriddb.com/hero/1a1d4f57954c3c7f143cbaf3c9996ac4.png",
-      "https://cdn2.steamgriddb.com/hero/8f5d1c52e7545c7072e15113a7d120e2.png",
-      "https://cdn2.steamgriddb.com/hero/5c3507b72dec5e4f097906ccf9df0c88.png",
-      "https://cdn2.steamgriddb.com/hero/3685227c64f66ea8888deca4984ed442.jpg"
-    ],
-    "releaseYear": 2020,
-    "rating": 90,
-    "platforms": [
-      "PlayStation 4",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Hack and slash/Beat 'em up",
-      "Adventure"
-    ]
-  },
-  {
     "id": 1985,
     "name": "Metal Gear Solid V: The Phantom Pain",
     "posters": [
@@ -1604,11 +1576,11 @@
       "https://cdn2.steamgriddb.com/hero/f73ff6b435051f83259a5f7b2f542e4b.png",
       "https://cdn2.steamgriddb.com/hero/a47dbfe7e87d38f9ddbf3e5021d44c70.png",
       "https://cdn2.steamgriddb.com/hero/7cc2794f14963ceaedb29d19875c950c.png",
-      "https://cdn2.steamgriddb.com/hero/5328c22dc818e19521b07a7a36ca1620.jpg",
-      "https://cdn2.steamgriddb.com/hero/07e99f116b916656b3fd4f7dd58a3cbe.png",
       "https://cdn2.steamgriddb.com/hero/fd00d3474e495e7b6d5f9f575b2d7ec4.png",
-      "https://cdn2.steamgriddb.com/hero/5d7b7c3e1abf09b305816fb62d3b30fd.png",
-      "https://cdn2.steamgriddb.com/hero/fee1fd1f21232c5940af7cee262ef273.jpg"
+      "https://cdn2.steamgriddb.com/hero/07e99f116b916656b3fd4f7dd58a3cbe.png",
+      "https://cdn2.steamgriddb.com/hero/5328c22dc818e19521b07a7a36ca1620.jpg",
+      "https://cdn2.steamgriddb.com/hero/563f46b363c65f90644e0c38c17fcde2.jpg",
+      "https://cdn2.steamgriddb.com/hero/5d7b7c3e1abf09b305816fb62d3b30fd.png"
     ],
     "releaseYear": 2015,
     "rating": 90,
@@ -1680,6 +1652,34 @@
     ],
     "genres": [
       "Shooter",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 75235,
+    "name": "Ghost of Tsushima",
+    "posters": [
+      "data/covers/75235.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/97fbc7ee9bcb73fe7c08efe8e5d701f0.png",
+      "https://cdn2.steamgriddb.com/hero/607e79272c337728322fe13f83866c17.png",
+      "https://cdn2.steamgriddb.com/hero/c1a7e33ea8abdd49950096fc20f04e86.jpg",
+      "https://cdn2.steamgriddb.com/hero/5807fd4cc86d41ab1ffdbcc9b7d4146c.png",
+      "https://cdn2.steamgriddb.com/hero/1a1d4f57954c3c7f143cbaf3c9996ac4.png",
+      "https://cdn2.steamgriddb.com/hero/8f5d1c52e7545c7072e15113a7d120e2.png",
+      "https://cdn2.steamgriddb.com/hero/5c3507b72dec5e4f097906ccf9df0c88.png",
+      "https://cdn2.steamgriddb.com/hero/3685227c64f66ea8888deca4984ed442.jpg"
+    ],
+    "releaseYear": 2020,
+    "rating": 90,
+    "platforms": [
+      "PlayStation 4",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Hack and slash/Beat 'em up",
       "Adventure"
     ]
   },
@@ -1908,13 +1908,13 @@
     ],
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/77bd061c0e645ca42b087a6d0d06c019.png",
-      "https://cdn2.steamgriddb.com/hero/23b502ddef112ff35f1c35f265ddc70c.jpg",
       "https://cdn2.steamgriddb.com/hero/dfaa27bd112fcd155240e4b365ab95e9.png",
-      "https://cdn2.steamgriddb.com/hero/405ddbb9d84e2d5278914feccb457712.jpg",
-      "https://cdn2.steamgriddb.com/hero/db209d71df52e8a3595972ef488b636a.jpg",
-      "https://cdn2.steamgriddb.com/hero/a532400ed62e772b9dc0b86f46e583ff.png",
       "https://cdn2.steamgriddb.com/hero/38fcbf5a987b8592d40890d360183a97.jpg",
-      "https://cdn2.steamgriddb.com/hero/4c25257cc0a490730dee6fe6a528accc.png"
+      "https://cdn2.steamgriddb.com/hero/405ddbb9d84e2d5278914feccb457712.jpg",
+      "https://cdn2.steamgriddb.com/hero/23b502ddef112ff35f1c35f265ddc70c.jpg",
+      "https://cdn2.steamgriddb.com/hero/db209d71df52e8a3595972ef488b636a.jpg",
+      "https://cdn2.steamgriddb.com/hero/9719a00ed0c5709d80dfef33795dcef3.png",
+      "https://cdn2.steamgriddb.com/hero/a532400ed62e772b9dc0b86f46e583ff.png"
     ],
     "releaseYear": 2001,
     "rating": 89,
@@ -1955,6 +1955,38 @@
     ]
   },
   {
+    "id": 135243,
+    "name": "It Takes Two",
+    "posters": [
+      "data/covers/135243.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/4eef81afcca65a2bec89409a35bc237d.png",
+      "https://cdn2.steamgriddb.com/hero/54430319f44a3febe74012d9ced38a1d.jpg",
+      "https://cdn2.steamgriddb.com/hero/642229884370cc6d55a12c69b0b1c2fa.png",
+      "https://cdn2.steamgriddb.com/hero/1b5a5a165128b8eaaf1440224f3edde7.png",
+      "https://cdn2.steamgriddb.com/hero/4ddd456026832dbe602ad461304e3077.png",
+      "https://cdn2.steamgriddb.com/hero/3c986ecb63ca91188fbd4ceeb263a793.png",
+      "https://cdn2.steamgriddb.com/hero/2d828e02b09603683f0e967403e7da91.png",
+      "https://cdn2.steamgriddb.com/hero/1741542df8086e1873676cf25ce91578.jpg"
+    ],
+    "releaseYear": 2021,
+    "rating": 89,
+    "platforms": [
+      "Xbox Series X|S",
+      "PlayStation 4",
+      "PC (Microsoft Windows)",
+      "PlayStation 5",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Platform",
+      "Puzzle",
+      "Adventure"
+    ]
+  },
+  {
     "id": 501,
     "name": "Batman: Arkham City",
     "posters": [
@@ -1981,37 +2013,6 @@
     ],
     "genres": [
       "Hack and slash/Beat 'em up",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 1068,
-    "name": "Super Mario Bros. 3",
-    "posters": [
-      "data/covers/1068.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/07e1cd7dca89a1678042477183b7ac3f.png",
-      "https://cdn2.steamgriddb.com/hero/986b701d5b9bb1e34b79d0266dc18c7d.png",
-      "https://cdn2.steamgriddb.com/hero/d15e02b2d502871eba5f71999008e026.jpg",
-      "https://cdn2.steamgriddb.com/hero/54bcdb63fab2b188f3205d909fac27ac.png",
-      "https://cdn2.steamgriddb.com/hero/c8c91941c44ee273af84ef092c01a0b1.jpg",
-      "https://cdn2.steamgriddb.com/hero/a70ef651f1086ff9a0a988e4ed93069a.png",
-      "https://cdn2.steamgriddb.com/hero/ae3957e98c48990c5f6448c1db3a0627.png",
-      "https://cdn2.steamgriddb.com/hero/e21c3b94456b475b40cd245bd090ebc8.png"
-    ],
-    "releaseYear": 1988,
-    "rating": 89,
-    "platforms": [
-      "Arcade",
-      "Nintendo 3DS",
-      "Wii",
-      "Family Computer",
-      "Wii U",
-      "Nintendo Entertainment System"
-    ],
-    "genres": [
-      "Platform",
       "Adventure"
     ]
   },
@@ -2046,34 +2047,33 @@
     ]
   },
   {
-    "id": 135243,
-    "name": "It Takes Two",
+    "id": 1068,
+    "name": "Super Mario Bros. 3",
     "posters": [
-      "data/covers/135243.jpg"
+      "data/covers/1068.jpg"
     ],
     "heroes": [
-      "https://cdn2.steamgriddb.com/hero/4eef81afcca65a2bec89409a35bc237d.png",
-      "https://cdn2.steamgriddb.com/hero/54430319f44a3febe74012d9ced38a1d.jpg",
-      "https://cdn2.steamgriddb.com/hero/642229884370cc6d55a12c69b0b1c2fa.png",
-      "https://cdn2.steamgriddb.com/hero/1b5a5a165128b8eaaf1440224f3edde7.png",
-      "https://cdn2.steamgriddb.com/hero/4ddd456026832dbe602ad461304e3077.png",
-      "https://cdn2.steamgriddb.com/hero/3c986ecb63ca91188fbd4ceeb263a793.png",
-      "https://cdn2.steamgriddb.com/hero/2d828e02b09603683f0e967403e7da91.png",
-      "https://cdn2.steamgriddb.com/hero/1741542df8086e1873676cf25ce91578.jpg"
+      "https://cdn2.steamgriddb.com/hero/07e1cd7dca89a1678042477183b7ac3f.png",
+      "https://cdn2.steamgriddb.com/hero/986b701d5b9bb1e34b79d0266dc18c7d.png",
+      "https://cdn2.steamgriddb.com/hero/d15e02b2d502871eba5f71999008e026.jpg",
+      "https://cdn2.steamgriddb.com/hero/54bcdb63fab2b188f3205d909fac27ac.png",
+      "https://cdn2.steamgriddb.com/hero/c8c91941c44ee273af84ef092c01a0b1.jpg",
+      "https://cdn2.steamgriddb.com/hero/a70ef651f1086ff9a0a988e4ed93069a.png",
+      "https://cdn2.steamgriddb.com/hero/ae3957e98c48990c5f6448c1db3a0627.png",
+      "https://cdn2.steamgriddb.com/hero/e21c3b94456b475b40cd245bd090ebc8.png"
     ],
-    "releaseYear": 2021,
+    "releaseYear": 1988,
     "rating": 89,
     "platforms": [
-      "Xbox Series X|S",
-      "PlayStation 4",
-      "PC (Microsoft Windows)",
-      "PlayStation 5",
-      "Xbox One",
-      "Nintendo Switch"
+      "Arcade",
+      "Nintendo 3DS",
+      "Wii",
+      "Family Computer",
+      "Wii U",
+      "Nintendo Entertainment System"
     ],
     "genres": [
       "Platform",
-      "Puzzle",
       "Adventure"
     ]
   },
@@ -4692,6 +4692,36 @@
     ]
   },
   {
+    "id": 325594,
+    "name": "Split Fiction",
+    "posters": [
+      "data/covers/325594.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/ef41115b8a262573b89017d7fc8f29da.png",
+      "https://cdn2.steamgriddb.com/hero/5a72b144029e9c4366727a0fc01234c5.png",
+      "https://cdn2.steamgriddb.com/hero/638280a8dd1707928685d85dc07953c2.png",
+      "https://cdn2.steamgriddb.com/hero/9adfabf9343cec257a9afbef2feb7c51.png",
+      "https://cdn2.steamgriddb.com/hero/8e9d5963eec66fb4748bbbf180f876bc.png",
+      "https://cdn2.steamgriddb.com/hero/cf5bb59ad1a80b2f93633b746cf3c4ce.png",
+      "https://cdn2.steamgriddb.com/hero/cb0ddc1d9c974da31eab1cfa3ed61ea7.png",
+      "https://cdn2.steamgriddb.com/hero/2c743f2d4e76731333c43e8f5562f687.jpg"
+    ],
+    "releaseYear": 2025,
+    "rating": 90,
+    "platforms": [
+      "Xbox Series X|S",
+      "Nintendo Switch 2",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Platform",
+      "Puzzle",
+      "Adventure"
+    ]
+  },
+  {
     "id": 118193,
     "name": "Toem",
     "posters": [
@@ -4748,36 +4778,6 @@
     "genres": [
       "Role-playing (RPG)",
       "Turn-based strategy (TBS)",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 325594,
-    "name": "Split Fiction",
-    "posters": [
-      "data/covers/325594.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/ef41115b8a262573b89017d7fc8f29da.png",
-      "https://cdn2.steamgriddb.com/hero/5a72b144029e9c4366727a0fc01234c5.png",
-      "https://cdn2.steamgriddb.com/hero/638280a8dd1707928685d85dc07953c2.png",
-      "https://cdn2.steamgriddb.com/hero/9adfabf9343cec257a9afbef2feb7c51.png",
-      "https://cdn2.steamgriddb.com/hero/8e9d5963eec66fb4748bbbf180f876bc.png",
-      "https://cdn2.steamgriddb.com/hero/cf5bb59ad1a80b2f93633b746cf3c4ce.png",
-      "https://cdn2.steamgriddb.com/hero/cb0ddc1d9c974da31eab1cfa3ed61ea7.png",
-      "https://cdn2.steamgriddb.com/hero/2c743f2d4e76731333c43e8f5562f687.jpg"
-    ],
-    "releaseYear": 2025,
-    "rating": 90,
-    "platforms": [
-      "Xbox Series X|S",
-      "Nintendo Switch 2",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Platform",
-      "Puzzle",
       "Adventure"
     ]
   },
@@ -5794,6 +5794,34 @@
     ]
   },
   {
+    "id": 31551,
+    "name": "Final Fantasy XVI",
+    "posters": [
+      "data/covers/31551.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/2922207bf47569056f4252d168e17d07.png",
+      "https://cdn2.steamgriddb.com/hero/b80f5fa15a1d40b33245084686ebeac2.png",
+      "https://cdn2.steamgriddb.com/hero/38d293713c7d61963d583f339409abc3.png",
+      "https://cdn2.steamgriddb.com/hero/cfa9eb4df5bdf3aea7b8b139e42b7090.jpg",
+      "https://cdn2.steamgriddb.com/hero/e2f232687833a4fd8664f759d6474309.jpg",
+      "https://cdn2.steamgriddb.com/hero/4bfbcd81e0bab6d6cb459d53f116979a.jpg",
+      "https://cdn2.steamgriddb.com/hero/bfecd58da2f3d526a44157fbd6a11cf6.png",
+      "https://cdn2.steamgriddb.com/hero/cbc7bb0e27984e15dc44748102d6596c.png"
+    ],
+    "releaseYear": 2023,
+    "rating": 87,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Adventure"
+    ]
+  },
+  {
     "id": 14741,
     "name": "Psychonauts 2",
     "posters": [
@@ -5822,34 +5850,6 @@
     ],
     "genres": [
       "Platform",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 31551,
-    "name": "Final Fantasy XVI",
-    "posters": [
-      "data/covers/31551.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/2922207bf47569056f4252d168e17d07.png",
-      "https://cdn2.steamgriddb.com/hero/b80f5fa15a1d40b33245084686ebeac2.png",
-      "https://cdn2.steamgriddb.com/hero/38d293713c7d61963d583f339409abc3.png",
-      "https://cdn2.steamgriddb.com/hero/cfa9eb4df5bdf3aea7b8b139e42b7090.jpg",
-      "https://cdn2.steamgriddb.com/hero/e2f232687833a4fd8664f759d6474309.jpg",
-      "https://cdn2.steamgriddb.com/hero/4bfbcd81e0bab6d6cb459d53f116979a.jpg",
-      "https://cdn2.steamgriddb.com/hero/bfecd58da2f3d526a44157fbd6a11cf6.png",
-      "https://cdn2.steamgriddb.com/hero/cbc7bb0e27984e15dc44748102d6596c.png"
-    ],
-    "releaseYear": 2023,
-    "rating": 87,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
       "Adventure"
     ]
   },
@@ -6319,6 +6319,37 @@
     ]
   },
   {
+    "id": 204623,
+    "name": "Pentiment",
+    "posters": [
+      "data/covers/204623.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/8a6183976635a6f65a96c2a62305c63a.png",
+      "https://cdn2.steamgriddb.com/hero/aaab51bf65c6a69f2cf1738b4bcb63b4.png",
+      "https://cdn2.steamgriddb.com/hero/092b649487e732e7518908665d81cb07.png",
+      "https://cdn2.steamgriddb.com/hero/32df15b04f45c9942a34c07511dc6251.png",
+      "https://cdn2.steamgriddb.com/hero/4b6f74dfb95b77d5c9de5489e67069e4.png",
+      "https://cdn2.steamgriddb.com/hero/23214ef2cb717699803844bb75495dd0.png",
+      "https://cdn2.steamgriddb.com/hero/099c0495c26e69183fc32946d81ca51d.png"
+    ],
+    "releaseYear": 2022,
+    "rating": 86,
+    "platforms": [
+      "Xbox Series X|S",
+      "PlayStation 4",
+      "PC (Microsoft Windows)",
+      "PlayStation 5",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Puzzle",
+      "Role-playing (RPG)",
+      "Adventure"
+    ]
+  },
+  {
     "id": 26673,
     "name": "Omori",
     "posters": [
@@ -6350,37 +6381,6 @@
       "Role-playing (RPG)",
       "Adventure",
       "Indie"
-    ]
-  },
-  {
-    "id": 204623,
-    "name": "Pentiment",
-    "posters": [
-      "data/covers/204623.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/8a6183976635a6f65a96c2a62305c63a.png",
-      "https://cdn2.steamgriddb.com/hero/aaab51bf65c6a69f2cf1738b4bcb63b4.png",
-      "https://cdn2.steamgriddb.com/hero/092b649487e732e7518908665d81cb07.png",
-      "https://cdn2.steamgriddb.com/hero/32df15b04f45c9942a34c07511dc6251.png",
-      "https://cdn2.steamgriddb.com/hero/4b6f74dfb95b77d5c9de5489e67069e4.png",
-      "https://cdn2.steamgriddb.com/hero/23214ef2cb717699803844bb75495dd0.png",
-      "https://cdn2.steamgriddb.com/hero/099c0495c26e69183fc32946d81ca51d.png"
-    ],
-    "releaseYear": 2022,
-    "rating": 86,
-    "platforms": [
-      "Xbox Series X|S",
-      "PlayStation 4",
-      "PC (Microsoft Windows)",
-      "PlayStation 5",
-      "Xbox One",
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Puzzle",
-      "Role-playing (RPG)",
-      "Adventure"
     ]
   },
   {
@@ -7175,17 +7175,20 @@
     ]
   },
   {
-    "id": 216315,
-    "name": "Marvel 1943: Rise of Hydra",
+    "id": 398225,
+    "name": "Metro 2039",
     "posters": [
-      "data/covers/216315.jpg"
+      "data/covers/398225.jpg"
     ],
     "heroes": [
-      "https://cdn2.steamgriddb.com/hero/1ab60b5e8bd4eac8a7537abb5936aadc.jpg",
-      "https://cdn2.steamgriddb.com/hero/708d7246fd34ae11f2eeca41d4e698bd.png",
-      "https://cdn2.steamgriddb.com/hero/7da9fd85999f583e3906f99a3ee58911.jpg",
-      "https://cdn2.steamgriddb.com/hero/c632445303b629972c5cfb37e873df9c.jpg",
-      "https://cdn2.steamgriddb.com/hero/13e2a99ea53e73d8a2c2437f612362fa.jpg"
+      "https://cdn2.steamgriddb.com/hero/a5ffb371628660680f9ee0baf043fb3c.jpg",
+      "https://cdn2.steamgriddb.com/hero/192443305db254afb8e532d00a34b4aa.jpg",
+      "https://cdn2.steamgriddb.com/hero/ea1f8e148cd9d42ec4ba0753f2e76b5f.png",
+      "https://cdn2.steamgriddb.com/hero/5505b04b0f722168f8ecda7712e8c2a8.png",
+      "https://cdn2.steamgriddb.com/hero/d029fb44c1e45326c0c011d48722fa68.jpg",
+      "https://cdn2.steamgriddb.com/hero/1ecb86c96dd62c982d40d0699fc5a156.jpg",
+      "https://cdn2.steamgriddb.com/hero/bcf01df2c389168594cb4f646c51e3bf.png",
+      "https://cdn2.steamgriddb.com/hero/9b60ae21f922beabfd5713248f3802d0.png"
     ],
     "releaseYear": 2027,
     "rating": 0,
@@ -7195,6 +7198,7 @@
       "PlayStation 5"
     ],
     "genres": [
+      "Shooter",
       "Adventure"
     ]
   }
