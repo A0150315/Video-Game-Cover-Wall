@@ -1695,9 +1695,9 @@
       "https://cdn2.steamgriddb.com/hero/a1677f67c9e0342b5dd4dd69762a0c43.png",
       "https://cdn2.steamgriddb.com/hero/fbf5a0f7b2ac2ffd30e433d6c394eb8f.png",
       "https://cdn2.steamgriddb.com/hero/4c562a922dda29172f86955ed505472e.png",
+      "https://cdn2.steamgriddb.com/hero/e2a5f13d6b6f916a564810e6fed60730.png",
       "https://cdn2.steamgriddb.com/hero/aca4bc50f57f2a211fde11758160a688.png",
-      "https://cdn2.steamgriddb.com/hero/530c64ce47e128820c350b8d62023927.png",
-      "https://cdn2.steamgriddb.com/hero/e7349182e7fd37666d520a499bcb3762.png"
+      "https://cdn2.steamgriddb.com/hero/530c64ce47e128820c350b8d62023927.png"
     ],
     "releaseYear": 2014,
     "rating": 90,
@@ -1890,10 +1890,12 @@
     "rating": 89,
     "platforms": [
       "PlayStation 3",
+      "PlayStation 4",
       "Linux",
       "PC (Microsoft Windows)",
       "Mac",
-      "Xbox 360"
+      "Xbox 360",
+      "Xbox One"
     ],
     "genres": [
       "Shooter",
@@ -2348,8 +2350,8 @@
       "https://cdn2.steamgriddb.com/hero/2b423dc1a327648b419922ee8980e8dd.jpg",
       "https://cdn2.steamgriddb.com/hero/bbcb0a179f5728cd615974a511d38bd4.png",
       "https://cdn2.steamgriddb.com/hero/c6bff625bdb0393992c9d4db0c6bbe45.png",
-      "https://cdn2.steamgriddb.com/hero/8ee7730e97c67473a424ccfeff49ab20.png",
       "https://cdn2.steamgriddb.com/hero/1ee8c137bb71a4bec258c2faf3cd31a7.png",
+      "https://cdn2.steamgriddb.com/hero/8ee7730e97c67473a424ccfeff49ab20.png",
       "https://cdn2.steamgriddb.com/hero/66b8d6392a59b5ce703c28340d8b3565.png",
       "https://cdn2.steamgriddb.com/hero/4204dc3a11678c6b1d0be57cfe0a21b0.png",
       "https://cdn2.steamgriddb.com/hero/59490e21e9c64b7ef8aa6eb5cdfbec82.png"
@@ -2589,32 +2591,6 @@
     ]
   },
   {
-    "id": 19565,
-    "name": "Marvel's Spider-Man",
-    "posters": [
-      "data/covers/19565.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/e72d760a8952d3ae95a15f40cf8f56d3.jpg",
-      "https://cdn2.steamgriddb.com/hero/cc0e1713aa0e2bcba6f5edf1436b81ef.png",
-      "https://cdn2.steamgriddb.com/hero/729b05a43b36330ad8c0d7d5216247c0.png",
-      "https://cdn2.steamgriddb.com/hero/9dd89c0343aeef155fbe39b0b956d64f.jpg",
-      "https://cdn2.steamgriddb.com/hero/fd512441a1a791770a6fa573d688bff5.png",
-      "https://cdn2.steamgriddb.com/hero/7d6c7d95a1e5e861c54d20002585a809.jpg",
-      "https://cdn2.steamgriddb.com/hero/7a43ed4e82d06a1e6b2e88518fb8c2b0.png",
-      "https://cdn2.steamgriddb.com/hero/6072cd1424d62d9c33c6a7a82cacd40e.png"
-    ],
-    "releaseYear": 2018,
-    "rating": 88,
-    "platforms": [
-      "PlayStation 4"
-    ],
-    "genres": [
-      "Hack and slash/Beat 'em up",
-      "Adventure"
-    ]
-  },
-  {
     "id": 127,
     "name": "Assassin's Creed II",
     "posters": [
@@ -2640,6 +2616,32 @@
     ],
     "genres": [
       "Platform",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 19565,
+    "name": "Marvel's Spider-Man",
+    "posters": [
+      "data/covers/19565.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/e72d760a8952d3ae95a15f40cf8f56d3.jpg",
+      "https://cdn2.steamgriddb.com/hero/cc0e1713aa0e2bcba6f5edf1436b81ef.png",
+      "https://cdn2.steamgriddb.com/hero/729b05a43b36330ad8c0d7d5216247c0.png",
+      "https://cdn2.steamgriddb.com/hero/9dd89c0343aeef155fbe39b0b956d64f.jpg",
+      "https://cdn2.steamgriddb.com/hero/fd512441a1a791770a6fa573d688bff5.png",
+      "https://cdn2.steamgriddb.com/hero/7d6c7d95a1e5e861c54d20002585a809.jpg",
+      "https://cdn2.steamgriddb.com/hero/7a43ed4e82d06a1e6b2e88518fb8c2b0.png",
+      "https://cdn2.steamgriddb.com/hero/6072cd1424d62d9c33c6a7a82cacd40e.png"
+    ],
+    "releaseYear": 2018,
+    "rating": 88,
+    "platforms": [
+      "PlayStation 4"
+    ],
+    "genres": [
+      "Hack and slash/Beat 'em up",
       "Adventure"
     ]
   },
@@ -4464,32 +4466,6 @@
     ]
   },
   {
-    "id": 338106,
-    "name": "Donkey Kong Bananza",
-    "posters": [
-      "data/covers/338106.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/dadfab57415742158d615392eb2f9786.png",
-      "https://cdn2.steamgriddb.com/hero/e6dd55168d54c4d3b6e320f350c005f4.png",
-      "https://cdn2.steamgriddb.com/hero/1b473b16a0c304b8376bbf09eefde16e.png",
-      "https://cdn2.steamgriddb.com/hero/13da48cddb6ff8cb112786ae58d17e13.png",
-      "https://cdn2.steamgriddb.com/hero/e8502664bac3c418cc48b3ea12501809.jpg",
-      "https://cdn2.steamgriddb.com/hero/5ea7c24582a0e9b23255231d40cb481b.png",
-      "https://cdn2.steamgriddb.com/hero/bea79f3371a5d7f46ba2f4a865758182.png",
-      "https://cdn2.steamgriddb.com/hero/88d935b0c93146a93fb7a0dc591843e3.png"
-    ],
-    "releaseYear": 2025,
-    "rating": 92,
-    "platforms": [
-      "Nintendo Switch 2"
-    ],
-    "genres": [
-      "Platform",
-      "Adventure"
-    ]
-  },
-  {
     "id": 240009,
     "name": "Elden Ring: Shadow of the Erdtree",
     "posters": [
@@ -4544,6 +4520,32 @@
     ],
     "genres": [
       "Shooter",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 338106,
+    "name": "Donkey Kong Bananza",
+    "posters": [
+      "data/covers/338106.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/dadfab57415742158d615392eb2f9786.png",
+      "https://cdn2.steamgriddb.com/hero/e6dd55168d54c4d3b6e320f350c005f4.png",
+      "https://cdn2.steamgriddb.com/hero/1b473b16a0c304b8376bbf09eefde16e.png",
+      "https://cdn2.steamgriddb.com/hero/13da48cddb6ff8cb112786ae58d17e13.png",
+      "https://cdn2.steamgriddb.com/hero/e8502664bac3c418cc48b3ea12501809.jpg",
+      "https://cdn2.steamgriddb.com/hero/5ea7c24582a0e9b23255231d40cb481b.png",
+      "https://cdn2.steamgriddb.com/hero/bea79f3371a5d7f46ba2f4a865758182.png",
+      "https://cdn2.steamgriddb.com/hero/88d935b0c93146a93fb7a0dc591843e3.png"
+    ],
+    "releaseYear": 2025,
+    "rating": 91,
+    "platforms": [
+      "Nintendo Switch 2"
+    ],
+    "genres": [
+      "Platform",
       "Adventure"
     ]
   },
@@ -5118,9 +5120,9 @@
       "data/covers/141503.jpg"
     ],
     "heroes": [
+      "https://cdn2.steamgriddb.com/hero/894f2c736075c519dbe099240d339277.jpg",
       "https://cdn2.steamgriddb.com/hero/6092d29b6f8f3047da5ff4543629d5cd.jpg",
       "https://cdn2.steamgriddb.com/hero/c66e5f7ba8bb65ad35eee35f1b413a87.png",
-      "https://cdn2.steamgriddb.com/hero/894f2c736075c519dbe099240d339277.jpg",
       "https://cdn2.steamgriddb.com/hero/edb484b38d130b891ca248fa171b274d.png",
       "https://cdn2.steamgriddb.com/hero/422c6ac45351468ef3acf63b93faab7d.png",
       "https://cdn2.steamgriddb.com/hero/0bdeeae875330b10b50054bb6bed6f36.png",
@@ -5620,32 +5622,6 @@
     ]
   },
   {
-    "id": 317627,
-    "name": "Ghost of Yotei",
-    "posters": [
-      "data/covers/317627.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/2970aa3d325be49e7b01c34fe9b22f81.png",
-      "https://cdn2.steamgriddb.com/hero/2edad989553573af7807ad0803d6f712.png",
-      "https://cdn2.steamgriddb.com/hero/1572e6df6cc099653c6abcfcd65ba478.png",
-      "https://cdn2.steamgriddb.com/hero/377580ab7301d99e3ce5cab6e55190ba.png",
-      "https://cdn2.steamgriddb.com/hero/03a7c983dc2f6588d35a5db0fc93dcdd.png",
-      "https://cdn2.steamgriddb.com/hero/e1a3a6f38219e9a9689dc1d029efa285.png",
-      "https://cdn2.steamgriddb.com/hero/ef484451acd5c10ff84797b4a5e5cb27.png",
-      "https://cdn2.steamgriddb.com/hero/fd1f8b44640c1dfa191c74b7836be8ee.png"
-    ],
-    "releaseYear": 2025,
-    "rating": 88,
-    "platforms": [
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Adventure"
-    ]
-  },
-  {
     "id": 250621,
     "name": "Neva",
     "posters": [
@@ -5676,6 +5652,32 @@
       "Puzzle",
       "Adventure",
       "Indie"
+    ]
+  },
+  {
+    "id": 317627,
+    "name": "Ghost of Yotei",
+    "posters": [
+      "data/covers/317627.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/2970aa3d325be49e7b01c34fe9b22f81.png",
+      "https://cdn2.steamgriddb.com/hero/2edad989553573af7807ad0803d6f712.png",
+      "https://cdn2.steamgriddb.com/hero/1572e6df6cc099653c6abcfcd65ba478.png",
+      "https://cdn2.steamgriddb.com/hero/377580ab7301d99e3ce5cab6e55190ba.png",
+      "https://cdn2.steamgriddb.com/hero/03a7c983dc2f6588d35a5db0fc93dcdd.png",
+      "https://cdn2.steamgriddb.com/hero/e1a3a6f38219e9a9689dc1d029efa285.png",
+      "https://cdn2.steamgriddb.com/hero/ef484451acd5c10ff84797b4a5e5cb27.png",
+      "https://cdn2.steamgriddb.com/hero/fd1f8b44640c1dfa191c74b7836be8ee.png"
+    ],
+    "releaseYear": 2025,
+    "rating": 88,
+    "platforms": [
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Adventure"
     ]
   },
   {
@@ -7035,6 +7037,26 @@
     ]
   },
   {
+    "id": 347869,
+    "name": "The Expanse: Osiris Reborn",
+    "posters": [
+      "data/covers/347869.jpg"
+    ],
+    "heroes": [],
+    "releaseYear": 2027,
+    "rating": 0,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Shooter",
+      "Role-playing (RPG)",
+      "Adventure"
+    ]
+  },
+  {
     "id": 317124,
     "name": "Fate Trigger",
     "posters": [
@@ -7058,26 +7080,6 @@
       "Tactical",
       "Adventure",
       "MOBA"
-    ]
-  },
-  {
-    "id": 347869,
-    "name": "The Expanse: Osiris Reborn",
-    "posters": [
-      "data/covers/347869.jpg"
-    ],
-    "heroes": [],
-    "releaseYear": 2027,
-    "rating": 0,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Shooter",
-      "Role-playing (RPG)",
-      "Adventure"
     ]
   },
   {
@@ -7127,24 +7129,31 @@
     ]
   },
   {
-    "id": 28029,
-    "name": "Half-Life 3",
+    "id": 398225,
+    "name": "Metro 2039",
     "posters": [
-      "data/covers/28029.jpg"
+      "data/covers/398225.jpg"
     ],
     "heroes": [
-      "https://cdn2.steamgriddb.com/hero/ec4b2e408e41a86f2fd70cc17c564994.png",
-      "https://cdn2.steamgriddb.com/hero/4fd04fbeeb9aabf2f029c8133c4bf881.jpg"
+      "https://cdn2.steamgriddb.com/hero/a5ffb371628660680f9ee0baf043fb3c.jpg",
+      "https://cdn2.steamgriddb.com/hero/192443305db254afb8e532d00a34b4aa.jpg",
+      "https://cdn2.steamgriddb.com/hero/ea1f8e148cd9d42ec4ba0753f2e76b5f.png",
+      "https://cdn2.steamgriddb.com/hero/5505b04b0f722168f8ecda7712e8c2a8.png",
+      "https://cdn2.steamgriddb.com/hero/d029fb44c1e45326c0c011d48722fa68.jpg",
+      "https://cdn2.steamgriddb.com/hero/1ecb86c96dd62c982d40d0699fc5a156.jpg",
+      "https://cdn2.steamgriddb.com/hero/bcf01df2c389168594cb4f646c51e3bf.png",
+      "https://cdn2.steamgriddb.com/hero/9b60ae21f922beabfd5713248f3802d0.png"
     ],
-    "releaseYear": 0,
+    "releaseYear": 2027,
     "rating": 0,
     "platforms": [
-      "Linux",
+      "Xbox Series X|S",
       "PC (Microsoft Windows)",
-      "Mac"
+      "PlayStation 5"
     ],
     "genres": [
-      "Shooter"
+      "Shooter",
+      "Adventure"
     ]
   },
   {
@@ -7175,31 +7184,24 @@
     ]
   },
   {
-    "id": 398225,
-    "name": "Metro 2039",
+    "id": 28029,
+    "name": "Half-Life 3",
     "posters": [
-      "data/covers/398225.jpg"
+      "data/covers/28029.jpg"
     ],
     "heroes": [
-      "https://cdn2.steamgriddb.com/hero/a5ffb371628660680f9ee0baf043fb3c.jpg",
-      "https://cdn2.steamgriddb.com/hero/192443305db254afb8e532d00a34b4aa.jpg",
-      "https://cdn2.steamgriddb.com/hero/ea1f8e148cd9d42ec4ba0753f2e76b5f.png",
-      "https://cdn2.steamgriddb.com/hero/5505b04b0f722168f8ecda7712e8c2a8.png",
-      "https://cdn2.steamgriddb.com/hero/d029fb44c1e45326c0c011d48722fa68.jpg",
-      "https://cdn2.steamgriddb.com/hero/1ecb86c96dd62c982d40d0699fc5a156.jpg",
-      "https://cdn2.steamgriddb.com/hero/bcf01df2c389168594cb4f646c51e3bf.png",
-      "https://cdn2.steamgriddb.com/hero/9b60ae21f922beabfd5713248f3802d0.png"
+      "https://cdn2.steamgriddb.com/hero/ec4b2e408e41a86f2fd70cc17c564994.png",
+      "https://cdn2.steamgriddb.com/hero/4fd04fbeeb9aabf2f029c8133c4bf881.jpg"
     ],
-    "releaseYear": 2027,
+    "releaseYear": 0,
     "rating": 0,
     "platforms": [
-      "Xbox Series X|S",
+      "Linux",
       "PC (Microsoft Windows)",
-      "PlayStation 5"
+      "Mac"
     ],
     "genres": [
-      "Shooter",
-      "Adventure"
+      "Shooter"
     ]
   }
 ]
