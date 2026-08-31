@@ -1695,9 +1695,9 @@
       "https://cdn2.steamgriddb.com/hero/a1677f67c9e0342b5dd4dd69762a0c43.png",
       "https://cdn2.steamgriddb.com/hero/fbf5a0f7b2ac2ffd30e433d6c394eb8f.png",
       "https://cdn2.steamgriddb.com/hero/4c562a922dda29172f86955ed505472e.png",
-      "https://cdn2.steamgriddb.com/hero/e2a5f13d6b6f916a564810e6fed60730.png",
       "https://cdn2.steamgriddb.com/hero/aca4bc50f57f2a211fde11758160a688.png",
-      "https://cdn2.steamgriddb.com/hero/530c64ce47e128820c350b8d62023927.png"
+      "https://cdn2.steamgriddb.com/hero/530c64ce47e128820c350b8d62023927.png",
+      "https://cdn2.steamgriddb.com/hero/e7349182e7fd37666d520a499bcb3762.png"
     ],
     "releaseYear": 2014,
     "rating": 90,
@@ -1957,6 +1957,36 @@
     ]
   },
   {
+    "id": 305152,
+    "name": "Clair Obscur: Expedition 33",
+    "posters": [
+      "data/covers/305152.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/905372ea814051dfb31429fe44e18cab.png",
+      "https://cdn2.steamgriddb.com/hero/42aae50b505bb0adbedb1f8f8bbd6378.jpg",
+      "https://cdn2.steamgriddb.com/hero/3bfe11904d16672c7c87e30d58894339.png",
+      "https://cdn2.steamgriddb.com/hero/d2d195657240f493374e95e2b75cc8cf.png",
+      "https://cdn2.steamgriddb.com/hero/90deff4b32c134f32e3f0d7e8a2aad92.png",
+      "https://cdn2.steamgriddb.com/hero/143f8d687ce439ff0e5dce08c4c92c89.png",
+      "https://cdn2.steamgriddb.com/hero/351264651d762713a247d997f6eae551.png",
+      "https://cdn2.steamgriddb.com/hero/f4fcdae47e9d745ec7b03083870361f1.png"
+    ],
+    "releaseYear": 2025,
+    "rating": 89,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Turn-based strategy (TBS)",
+      "Adventure",
+      "Indie"
+    ]
+  },
+  {
     "id": 135243,
     "name": "It Takes Two",
     "posters": [
@@ -2016,36 +2046,6 @@
     "genres": [
       "Hack and slash/Beat 'em up",
       "Adventure"
-    ]
-  },
-  {
-    "id": 305152,
-    "name": "Clair Obscur: Expedition 33",
-    "posters": [
-      "data/covers/305152.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/905372ea814051dfb31429fe44e18cab.png",
-      "https://cdn2.steamgriddb.com/hero/42aae50b505bb0adbedb1f8f8bbd6378.jpg",
-      "https://cdn2.steamgriddb.com/hero/3bfe11904d16672c7c87e30d58894339.png",
-      "https://cdn2.steamgriddb.com/hero/d2d195657240f493374e95e2b75cc8cf.png",
-      "https://cdn2.steamgriddb.com/hero/90deff4b32c134f32e3f0d7e8a2aad92.png",
-      "https://cdn2.steamgriddb.com/hero/143f8d687ce439ff0e5dce08c4c92c89.png",
-      "https://cdn2.steamgriddb.com/hero/351264651d762713a247d997f6eae551.png",
-      "https://cdn2.steamgriddb.com/hero/f4fcdae47e9d745ec7b03083870361f1.png"
-    ],
-    "releaseYear": 2025,
-    "rating": 89,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Turn-based strategy (TBS)",
-      "Adventure",
-      "Indie"
     ]
   },
   {
@@ -2435,8 +2435,8 @@
       "https://cdn2.steamgriddb.com/hero/d53697441ef12a45422f6660202f9840.png?",
       "https://cdn2.steamgriddb.com/hero/ce145c98ba2abf75d1b2813329587429.png",
       "https://cdn2.steamgriddb.com/hero/8f176754401cda515b0c4dc13561ba1f.png",
-      "https://cdn2.steamgriddb.com/hero/7ca60ad13acfa1c715953b54b6f50fe0.png",
-      "https://cdn2.steamgriddb.com/hero/a8cb228891a2b5adf3bc7ace5f6db53e.png"
+      "https://cdn2.steamgriddb.com/hero/7020b2c8a7fcf98937fced7a6028f188.png",
+      "https://cdn2.steamgriddb.com/hero/7ca60ad13acfa1c715953b54b6f50fe0.png"
     ],
     "releaseYear": 2014,
     "rating": 89,
@@ -2804,6 +2804,36 @@
     ]
   },
   {
+    "id": 43,
+    "name": "Deus Ex: Human Revolution",
+    "posters": [
+      "data/covers/43.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/0ff8033cf9437c213ee13937b1c4c455.png",
+      "https://cdn2.steamgriddb.com/hero/90fd4f88f588ae64038134f1eeaa023f.png",
+      "https://cdn2.steamgriddb.com/hero/3cce7df3fe2fd70bd214726f58d08fa4.png",
+      "https://cdn2.steamgriddb.com/hero/8171ac2c5544a5cb54ac0f38bf477af4.png",
+      "https://cdn2.steamgriddb.com/hero/b83aac23b9528732c23cc7352950e880.jpg",
+      "https://cdn2.steamgriddb.com/hero/b6a1085a27ab7bff7550f8a3bd017df8.jpg",
+      "https://cdn2.steamgriddb.com/hero/3cd9fd588c126cc9043850408c2c19ab.png",
+      "https://cdn2.steamgriddb.com/hero/5a9542c773018268fc6271f7afeea969.png"
+    ],
+    "releaseYear": 2011,
+    "rating": 88,
+    "platforms": [
+      "PlayStation 3",
+      "PC (Microsoft Windows)",
+      "Mac",
+      "Xbox 360"
+    ],
+    "genres": [
+      "Shooter",
+      "Puzzle",
+      "Role-playing (RPG)"
+    ]
+  },
+  {
     "id": 41,
     "name": "Deus Ex",
     "posters": [
@@ -2918,36 +2948,6 @@
     "genres": [
       "Shooter",
       "Adventure"
-    ]
-  },
-  {
-    "id": 43,
-    "name": "Deus Ex: Human Revolution",
-    "posters": [
-      "data/covers/43.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/0ff8033cf9437c213ee13937b1c4c455.png",
-      "https://cdn2.steamgriddb.com/hero/90fd4f88f588ae64038134f1eeaa023f.png",
-      "https://cdn2.steamgriddb.com/hero/3cce7df3fe2fd70bd214726f58d08fa4.png",
-      "https://cdn2.steamgriddb.com/hero/8171ac2c5544a5cb54ac0f38bf477af4.png",
-      "https://cdn2.steamgriddb.com/hero/b83aac23b9528732c23cc7352950e880.jpg",
-      "https://cdn2.steamgriddb.com/hero/b6a1085a27ab7bff7550f8a3bd017df8.jpg",
-      "https://cdn2.steamgriddb.com/hero/3cd9fd588c126cc9043850408c2c19ab.png",
-      "https://cdn2.steamgriddb.com/hero/5a9542c773018268fc6271f7afeea969.png"
-    ],
-    "releaseYear": 2011,
-    "rating": 88,
-    "platforms": [
-      "PlayStation 3",
-      "PC (Microsoft Windows)",
-      "Mac",
-      "Xbox 360"
-    ],
-    "genres": [
-      "Shooter",
-      "Puzzle",
-      "Role-playing (RPG)"
     ]
   },
   {
@@ -3630,6 +3630,35 @@
     ]
   },
   {
+    "id": 76253,
+    "name": "Devil May Cry 5",
+    "posters": [
+      "data/covers/76253.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/4f513f68a7732df8db6b106ba6565073.png",
+      "https://cdn2.steamgriddb.com/hero/b92894e4589f652dc3116cb3a8c48c08.png",
+      "https://cdn2.steamgriddb.com/hero/4a50099e4b1e3d4376fa30b80a5d604f.png",
+      "https://cdn2.steamgriddb.com/hero/779ce0602e357694977a3a40c4e50121.png",
+      "https://cdn2.steamgriddb.com/hero/d79199b86238c86baa35733a3a1ce4a5.jpg",
+      "https://cdn2.steamgriddb.com/hero/72dfa10de34751253a094e8db24a0567.jpg",
+      "https://cdn2.steamgriddb.com/hero/89885ff2c83a10305ee08bd507c1049c.png",
+      "https://cdn2.steamgriddb.com/hero/1df58e63816ec9ab895d8f14640a5f47.png"
+    ],
+    "releaseYear": 2019,
+    "rating": 86,
+    "platforms": [
+      "PlayStation 4",
+      "Nintendo Switch 2",
+      "PC (Microsoft Windows)",
+      "Xbox One"
+    ],
+    "genres": [
+      "Hack and slash/Beat 'em up",
+      "Adventure"
+    ]
+  },
+  {
     "id": 1983,
     "name": "Bastion",
     "posters": [
@@ -3689,35 +3718,6 @@
     ],
     "genres": [
       "Shooter",
-      "Hack and slash/Beat 'em up",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 76253,
-    "name": "Devil May Cry 5",
-    "posters": [
-      "data/covers/76253.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/4f513f68a7732df8db6b106ba6565073.png",
-      "https://cdn2.steamgriddb.com/hero/b92894e4589f652dc3116cb3a8c48c08.png",
-      "https://cdn2.steamgriddb.com/hero/4a50099e4b1e3d4376fa30b80a5d604f.png",
-      "https://cdn2.steamgriddb.com/hero/779ce0602e357694977a3a40c4e50121.png",
-      "https://cdn2.steamgriddb.com/hero/d79199b86238c86baa35733a3a1ce4a5.jpg",
-      "https://cdn2.steamgriddb.com/hero/72dfa10de34751253a094e8db24a0567.jpg",
-      "https://cdn2.steamgriddb.com/hero/89885ff2c83a10305ee08bd507c1049c.png",
-      "https://cdn2.steamgriddb.com/hero/1df58e63816ec9ab895d8f14640a5f47.png"
-    ],
-    "releaseYear": 2019,
-    "rating": 86,
-    "platforms": [
-      "PlayStation 4",
-      "Nintendo Switch 2",
-      "PC (Microsoft Windows)",
-      "Xbox One"
-    ],
-    "genres": [
       "Hack and slash/Beat 'em up",
       "Adventure"
     ]
@@ -6291,6 +6291,34 @@
     ]
   },
   {
+    "id": 125633,
+    "name": "Crimson Desert",
+    "posters": [
+      "data/covers/125633.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/d38b254cb20fd15d4bab546f6d4dd959.jpg",
+      "https://cdn2.steamgriddb.com/hero/338b5878e682cc64c0756deb09e695fd.jpg",
+      "https://cdn2.steamgriddb.com/hero/ec554ba4356d497669326d0f332e0d6f.png",
+      "https://cdn2.steamgriddb.com/hero/11af2e35fe0228ff4a349714f3dde3d3.png",
+      "https://cdn2.steamgriddb.com/hero/cb51090e9c10cda176f81a7fa92c3dfc.jpg",
+      "https://cdn2.steamgriddb.com/hero/e71c5334f6d7e8ed93d606dd2fa4d2eb.png",
+      "https://cdn2.steamgriddb.com/hero/65cf5ade90cbcb48f47d51c966ce51c9.png",
+      "https://cdn2.steamgriddb.com/hero/9bc88dfc094e4ab62c23c6bcc74ae41d.jpg"
+    ],
+    "releaseYear": 2026,
+    "rating": 86,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5",
+      "Mac"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  {
     "id": 348330,
     "name": "Forza Horizon 6",
     "posters": [
@@ -6451,10 +6479,10 @@
       "https://cdn2.steamgriddb.com/hero/d55c063e665cf55517a9f186af1b48e4.png",
       "https://cdn2.steamgriddb.com/hero/b026f93439176b320722ea7d2591a6f4.png",
       "https://cdn2.steamgriddb.com/hero/0e8c5c04107d38331fdd921015823de6.png",
+      "https://cdn2.steamgriddb.com/hero/64ef8c7578a256855335bf9993dd7e4a.jpg",
       "https://cdn2.steamgriddb.com/hero/bddf21dd98f310024ac650b1ea613cdf.jpg",
       "https://cdn2.steamgriddb.com/hero/ee56b945da4167b78cf475c48ae0539b.png",
       "https://cdn2.steamgriddb.com/hero/bfa066944d23a6776caa67066d1f7b57.png",
-      "https://cdn2.steamgriddb.com/hero/64ef8c7578a256855335bf9993dd7e4a.jpg",
       "https://cdn2.steamgriddb.com/hero/d194f08d5baaab2893ca7626a2415c8a.png"
     ],
     "releaseYear": 2022,
@@ -6476,37 +6504,6 @@
       "Adventure",
       "Indie",
       "Arcade"
-    ]
-  },
-  {
-    "id": 195517,
-    "name": "Return to Monkey Island",
-    "posters": [
-      "data/covers/195517.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/362ecba8def0b49f92307e8f0927ec43.png",
-      "https://cdn2.steamgriddb.com/hero/6201006ca73bfb4966550c5228932da6.jpg",
-      "https://cdn2.steamgriddb.com/hero/095e0c0ae17515306ad9a09cc74aef49.jpg",
-      "https://cdn2.steamgriddb.com/hero/d4cd019bd8c10650e4c1c05beddca082.png",
-      "https://cdn2.steamgriddb.com/hero/a34dfbef5668442567f72da5dfe506a0.png"
-    ],
-    "releaseYear": 2022,
-    "rating": 86,
-    "platforms": [
-      "Xbox Series X|S",
-      "Linux",
-      "Android",
-      "PC (Microsoft Windows)",
-      "iOS",
-      "PlayStation 5",
-      "Mac",
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Point-and-click",
-      "Puzzle",
-      "Adventure"
     ]
   },
   {
@@ -7169,8 +7166,8 @@
       "https://cdn2.steamgriddb.com/hero/81c7173784184c0d6645038922981051.png",
       "https://cdn2.steamgriddb.com/hero/c61078a05ca3c56140a6d2bf06b49c6f.png",
       "https://cdn2.steamgriddb.com/hero/9aab82b20887ca284964bc2474fe1f83.png",
-      "https://cdn2.steamgriddb.com/hero/64705d03e4205626b7f625c843242794.png",
-      "https://cdn2.steamgriddb.com/hero/337653b3c9942b9ee76db0becfd3022c.png"
+      "https://cdn2.steamgriddb.com/hero/337653b3c9942b9ee76db0becfd3022c.png",
+      "https://cdn2.steamgriddb.com/hero/64705d03e4205626b7f625c843242794.png"
     ],
     "releaseYear": 2026,
     "rating": 0,
