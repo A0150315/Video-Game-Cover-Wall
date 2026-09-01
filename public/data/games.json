@@ -290,35 +290,6 @@
     ]
   },
   {
-    "id": 19560,
-    "name": "God of War",
-    "posters": [
-      "data/covers/19560.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/261474eb96c1fdc6456d2abef7019e45.png",
-      "https://cdn2.steamgriddb.com/hero/a3d669000a098ca225f1ed842e18b444.png",
-      "https://cdn2.steamgriddb.com/hero/fa7a4229d85b7747fc1f885a4c46828d.png",
-      "https://cdn2.steamgriddb.com/hero/ba69c18752ba976646ab3002adf2a116.png",
-      "https://cdn2.steamgriddb.com/hero/33c7c478e181b849b1a65eef4ba8d414.png",
-      "https://cdn2.steamgriddb.com/hero/c48d7848e187d76c5a72510d5a5ca71e.png",
-      "https://cdn2.steamgriddb.com/hero/134293bbf23c22aace4868c2f04d3bd7.png",
-      "https://cdn2.steamgriddb.com/hero/5e9f7647cb705b217fe8ea2b78b1f764.png"
-    ],
-    "releaseYear": 2018,
-    "rating": 94,
-    "platforms": [
-      "PlayStation 4",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Hack and slash/Beat 'em up",
-      "Adventure"
-    ]
-  },
-  {
     "id": 114283,
     "name": "Persona 5 Royal",
     "posters": [
@@ -346,6 +317,35 @@
     ],
     "genres": [
       "Role-playing (RPG)",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 19560,
+    "name": "God of War",
+    "posters": [
+      "data/covers/19560.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/261474eb96c1fdc6456d2abef7019e45.png",
+      "https://cdn2.steamgriddb.com/hero/a3d669000a098ca225f1ed842e18b444.png",
+      "https://cdn2.steamgriddb.com/hero/fa7a4229d85b7747fc1f885a4c46828d.png",
+      "https://cdn2.steamgriddb.com/hero/ba69c18752ba976646ab3002adf2a116.png",
+      "https://cdn2.steamgriddb.com/hero/33c7c478e181b849b1a65eef4ba8d414.png",
+      "https://cdn2.steamgriddb.com/hero/c48d7848e187d76c5a72510d5a5ca71e.png",
+      "https://cdn2.steamgriddb.com/hero/134293bbf23c22aace4868c2f04d3bd7.png",
+      "https://cdn2.steamgriddb.com/hero/5e9f7647cb705b217fe8ea2b78b1f764.png"
+    ],
+    "releaseYear": 2018,
+    "rating": 94,
+    "platforms": [
+      "PlayStation 4",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Hack and slash/Beat 'em up",
       "Adventure"
     ]
   },
@@ -2489,7 +2489,7 @@
       "https://cdn2.steamgriddb.com/hero/59495dda55063c90e74d8761976f3229.png",
       "https://cdn2.steamgriddb.com/hero/ef1f3fc8be928fd5b5e721689bb92b7b.png",
       "https://cdn2.steamgriddb.com/hero/9f44fdee15143bbb809e516cecc658e9.png",
-      "https://cdn2.steamgriddb.com/hero/480eb54452f63abfa7f2eb0ffb1c62fe.png"
+      "https://cdn2.steamgriddb.com/hero/9bd81dc8888424bc78667f18017bdf42.png"
     ],
     "releaseYear": 2011,
     "rating": 89,
@@ -2602,9 +2602,9 @@
       "https://cdn2.steamgriddb.com/hero/af523c5d4c1038a5f074c4320af0ce78.png",
       "https://cdn2.steamgriddb.com/hero/09e7bb8e71d5cf0750cf485e9929a50e.png",
       "https://cdn2.steamgriddb.com/hero/dfd7468ac613286cdbb40872c8ef3b06.png",
-      "https://cdn2.steamgriddb.com/hero/d26deb6325aed2d1d9ebb9d96c423854.png",
       "https://cdn2.steamgriddb.com/hero/570ad34b315e6329f1d12872ecb9a7ea.png",
-      "https://cdn2.steamgriddb.com/hero/e651fdc0316d0d16c6af304d2023ca3f.jpg"
+      "https://cdn2.steamgriddb.com/hero/e651fdc0316d0d16c6af304d2023ca3f.jpg",
+      "https://cdn2.steamgriddb.com/hero/cf1c92539a270ed7a08f3eaeb5ad722e.png"
     ],
     "releaseYear": 2009,
     "rating": 88,
@@ -2721,10 +2721,10 @@
       "https://cdn2.steamgriddb.com/hero/d44c78dcad9de0aed2f37902ea02cef2.png",
       "https://cdn2.steamgriddb.com/hero/866d051deb3437d40731901ae7fd9092.jpg",
       "https://cdn2.steamgriddb.com/hero/8ee3c97728fc56a229d2234ce1bd7cec.png",
+      "https://cdn2.steamgriddb.com/hero/ccd198800cc50cc84ee327cec2f4336c.jpg",
       "https://cdn2.steamgriddb.com/hero/a606db731d30029173a3cedca5085ae9.png",
       "https://cdn2.steamgriddb.com/hero/80f55b1a93513773c713cd4df7db4e44.png",
       "https://cdn2.steamgriddb.com/hero/4a7f8ff99efa3673c1bf7d079e86ff3b.png",
-      "https://cdn2.steamgriddb.com/hero/ccd198800cc50cc84ee327cec2f4336c.jpg",
       "https://cdn2.steamgriddb.com/hero/e90530107c4166d88ba58e2475e958b2.png"
     ],
     "releaseYear": 2016,
@@ -2923,6 +2923,33 @@
     ]
   },
   {
+    "id": 133,
+    "name": "Warcraft III: The Frozen Throne",
+    "posters": [
+      "data/covers/133.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/e0abd6e6385c00b0960a292aa8522351.png",
+      "https://cdn2.steamgriddb.com/hero/20872559d95722c9d6a71d973c1a00b5.png",
+      "https://cdn2.steamgriddb.com/hero/701df7b874ea6eae443cb81e9e069735.png",
+      "https://cdn2.steamgriddb.com/hero/4ff3d71d1db60f2973fc2a2f24967dc7.png",
+      "https://cdn2.steamgriddb.com/hero/7c29440875ef4bda3f5f3e5d8d786786.png",
+      "https://cdn2.steamgriddb.com/hero/e25cfa90f04351958216f97e3efdabe9.png",
+      "https://cdn2.steamgriddb.com/hero/3378854ce2ec04cba6fa3f4de13266dc.png",
+      "https://cdn2.steamgriddb.com/hero/1d02b94edf020a20f0a450a430b0a47a.jpg"
+    ],
+    "releaseYear": 2003,
+    "rating": 88,
+    "platforms": [
+      "PC (Microsoft Windows)",
+      "Mac"
+    ],
+    "genres": [
+      "Real Time Strategy (RTS)",
+      "Strategy"
+    ]
+  },
+  {
     "id": 38,
     "name": "Dead Space 2",
     "posters": [
@@ -2933,10 +2960,10 @@
       "https://cdn2.steamgriddb.com/hero/eef6a11d6c02f4443cf9c5e91947536d.png",
       "https://cdn2.steamgriddb.com/hero/55b1927fdafef39c48e5b73b5d61ea60.png",
       "https://cdn2.steamgriddb.com/hero/cbaf30bcaccd92e95da57295aaf62851.jpg",
-      "https://cdn2.steamgriddb.com/hero/db9ad56c71619aeed9723314d1456037.jpg",
       "https://cdn2.steamgriddb.com/hero/070dbb6024b5ef93784428afc71f2146.jpg",
       "https://cdn2.steamgriddb.com/hero/05b0afd266cc205432b8dad3f3413c28.jpg",
-      "https://cdn2.steamgriddb.com/hero/3ada268dec01dab0f6434c3ef50ec89f.png"
+      "https://cdn2.steamgriddb.com/hero/3ada268dec01dab0f6434c3ef50ec89f.png",
+      "https://cdn2.steamgriddb.com/hero/d94e18a8adb4cc0f623f7a83b1ac75b4.jpg"
     ],
     "releaseYear": 2011,
     "rating": 88,
@@ -2960,33 +2987,6 @@
       "https://cdn2.steamgriddb.com/hero/c757db153bb444294ae503de6a9f192d.png"
     ],
     "releaseYear": 2010,
-    "rating": 88,
-    "platforms": [
-      "PC (Microsoft Windows)",
-      "Mac"
-    ],
-    "genres": [
-      "Real Time Strategy (RTS)",
-      "Strategy"
-    ]
-  },
-  {
-    "id": 133,
-    "name": "Warcraft III: The Frozen Throne",
-    "posters": [
-      "data/covers/133.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/e0abd6e6385c00b0960a292aa8522351.png",
-      "https://cdn2.steamgriddb.com/hero/20872559d95722c9d6a71d973c1a00b5.png",
-      "https://cdn2.steamgriddb.com/hero/701df7b874ea6eae443cb81e9e069735.png",
-      "https://cdn2.steamgriddb.com/hero/4ff3d71d1db60f2973fc2a2f24967dc7.png",
-      "https://cdn2.steamgriddb.com/hero/7c29440875ef4bda3f5f3e5d8d786786.png",
-      "https://cdn2.steamgriddb.com/hero/e25cfa90f04351958216f97e3efdabe9.png",
-      "https://cdn2.steamgriddb.com/hero/3378854ce2ec04cba6fa3f4de13266dc.png",
-      "https://cdn2.steamgriddb.com/hero/1d02b94edf020a20f0a450a430b0a47a.jpg"
-    ],
-    "releaseYear": 2003,
     "rating": 88,
     "platforms": [
       "PC (Microsoft Windows)",
@@ -3070,8 +3070,8 @@
       "https://cdn2.steamgriddb.com/hero/70563bbb1bfa3c7d6852da9a846a5975.jpg",
       "https://cdn2.steamgriddb.com/hero/1d075e2fdbc8e2e66a47b39a0652ce31.png",
       "https://cdn2.steamgriddb.com/hero/b877c34c37d3ab54dcabe110b6a67214.jpg",
-      "https://cdn2.steamgriddb.com/hero/37b7e92467019cab666124c562dd0031.png",
-      "https://cdn2.steamgriddb.com/hero/38628a2c8d8d9f2ad4ec31e3a8f0f1df.jpg"
+      "https://cdn2.steamgriddb.com/hero/d91f21b6b8cbe6052238e959ef52ffb8.png",
+      "https://cdn2.steamgriddb.com/hero/df07a467909d836eec9ca188a259aec0.png"
     ],
     "releaseYear": 2007,
     "rating": 88,
@@ -4505,9 +4505,9 @@
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/be0a03c512e81c809b9b9f359e8f0883.jpg",
       "https://cdn2.steamgriddb.com/hero/02fc8aad99f83dd975d77b7aa954754d.png",
+      "https://cdn2.steamgriddb.com/hero/bd6039f5e2457fc18f5c4559b3487666.jpg",
       "https://cdn2.steamgriddb.com/hero/2b00e20bf615db411d9bac7819b6e003.jpg",
       "https://cdn2.steamgriddb.com/hero/a48ea3f98067cb5bbd6eb863a7b40f38.png",
-      "https://cdn2.steamgriddb.com/hero/bd6039f5e2457fc18f5c4559b3487666.jpg",
       "https://cdn2.steamgriddb.com/hero/682a64a4fba9f39d954eaf28531e55a0.png",
       "https://cdn2.steamgriddb.com/hero/08142446d0ba78b8f9091f52df384fcd.png",
       "https://cdn2.steamgriddb.com/hero/a283f6b30fc942119e90f406e7b75aa6.png"
@@ -6638,12 +6638,12 @@
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/240e23eebf039a0dc1ec15529a3c2ecc.png",
       "https://cdn2.steamgriddb.com/hero/bd40e4bd7c3fd394cfe926660335b391.png",
-      "https://cdn2.steamgriddb.com/hero/96681ebcc11afbcc7613b688e37af4b8.png",
       "https://cdn2.steamgriddb.com/hero/c9e171b812992625c75344234c09e92a.png",
+      "https://cdn2.steamgriddb.com/hero/abb7e54b51ba50dc6954a512d1a132fa.jpg",
+      "https://cdn2.steamgriddb.com/hero/96681ebcc11afbcc7613b688e37af4b8.png",
       "https://cdn2.steamgriddb.com/hero/6a480dde4a529565d473063cc43cb551.png",
       "https://cdn2.steamgriddb.com/hero/667d22dfde43bafb3f8fada578c96c25.png",
-      "https://cdn2.steamgriddb.com/hero/61c233952f8cd96aa723141c7efe952b.png",
-      "https://cdn2.steamgriddb.com/hero/712e39b0dc7e0620e70924464e52ba6b.png"
+      "https://cdn2.steamgriddb.com/hero/61c233952f8cd96aa723141c7efe952b.png"
     ],
     "releaseYear": 2026,
     "rating": 0,
@@ -7054,32 +7054,6 @@
     ]
   },
   {
-    "id": 317124,
-    "name": "Fate Trigger",
-    "posters": [
-      "data/covers/317124.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/59bea885811818e6aad0a4718cbb0916.jpg",
-      "https://cdn2.steamgriddb.com/hero/2c255bcb462668efbe82237336f95edf.jpg",
-      "https://cdn2.steamgriddb.com/hero/452780597b96d641e504d0d4018ef065.jpg",
-      "https://cdn2.steamgriddb.com/hero/c712ad198050d9f960cc6f315d453410.jpg",
-      "https://cdn2.steamgriddb.com/hero/e940416cb114586faa6b08432f9cc237.jpg"
-    ],
-    "releaseYear": 0,
-    "rating": 0,
-    "platforms": [
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Shooter",
-      "Tactical",
-      "Adventure",
-      "MOBA"
-    ]
-  },
-  {
     "id": 404673,
     "name": "Resident Evil Veronica",
     "posters": [
@@ -7107,6 +7081,32 @@
       "Shooter",
       "Puzzle",
       "Adventure"
+    ]
+  },
+  {
+    "id": 317124,
+    "name": "Fate Trigger",
+    "posters": [
+      "data/covers/317124.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/59bea885811818e6aad0a4718cbb0916.jpg",
+      "https://cdn2.steamgriddb.com/hero/2c255bcb462668efbe82237336f95edf.jpg",
+      "https://cdn2.steamgriddb.com/hero/452780597b96d641e504d0d4018ef065.jpg",
+      "https://cdn2.steamgriddb.com/hero/c712ad198050d9f960cc6f315d453410.jpg",
+      "https://cdn2.steamgriddb.com/hero/e940416cb114586faa6b08432f9cc237.jpg"
+    ],
+    "releaseYear": 0,
+    "rating": 0,
+    "platforms": [
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Shooter",
+      "Tactical",
+      "Adventure",
+      "MOBA"
     ]
   },
   {
