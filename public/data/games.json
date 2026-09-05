@@ -1436,8 +1436,8 @@
       "https://cdn2.steamgriddb.com/hero/5bd529d5b07b647a8863cf71e98d651a.jpg",
       "https://cdn2.steamgriddb.com/hero/54d77f5dc6f98d0d68a23cf792c49e57.jpg",
       "https://cdn2.steamgriddb.com/hero/10678b97635e173b084e8f3c681527cb.jpg",
-      "https://cdn2.steamgriddb.com/hero/6ebb69ffbebe9fd95d160ffc29e0fe5d.jpg",
-      "https://cdn2.steamgriddb.com/hero/1a07bcc79f21590b3ed2622d5807bdd0.jpg"
+      "https://cdn2.steamgriddb.com/hero/1a07bcc79f21590b3ed2622d5807bdd0.jpg",
+      "https://cdn2.steamgriddb.com/hero/6ebb69ffbebe9fd95d160ffc29e0fe5d.jpg"
     ],
     "releaseYear": 2002,
     "rating": 91,
@@ -1836,7 +1836,8 @@
     ],
     "genres": [
       "Platform",
-      "Adventure"
+      "Adventure",
+      "Indie"
     ]
   },
   {
@@ -2555,6 +2556,7 @@
     "releaseYear": 2017,
     "rating": 89,
     "platforms": [
+      "Nintendo Switch 2",
       "Nintendo Switch"
     ],
     "genres": [
@@ -3609,9 +3611,9 @@
     ],
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/163f02c08eeb3462cf1be9be349d02df.png",
+      "https://cdn2.steamgriddb.com/hero/3b796bac4dc055a7358cd28ae118eb09.jpg",
       "https://cdn2.steamgriddb.com/hero/e8258e5140317ff36c7f8225a3bf9590.png",
       "https://cdn2.steamgriddb.com/hero/b1553ff2787f1055807a8058fe1f8d99.png",
-      "https://cdn2.steamgriddb.com/hero/3b796bac4dc055a7358cd28ae118eb09.jpg",
       "https://cdn2.steamgriddb.com/hero/d5e714549e9937f437d4fc2edf35b8fb.jpg",
       "https://cdn2.steamgriddb.com/hero/a3e76dbd0758435d572478d9df74f409.png",
       "https://cdn2.steamgriddb.com/hero/b98ee86215125aa5b01966e7891a4cf7.png",
@@ -3922,11 +3924,11 @@
     ],
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/bd76785b649c832f942bc8c88795a64f.png",
-      "https://cdn2.steamgriddb.com/hero/b6d767d2f8ed5d21a44b0e5886680cb9.png",
       "https://cdn2.steamgriddb.com/hero/a3f7d862c33229dcc60fa496ce61fbdf.jpg",
-      "https://cdn2.steamgriddb.com/hero/e6f12c7fb3719fe303849c00ad9a6367.jpg",
+      "https://cdn2.steamgriddb.com/hero/b6d767d2f8ed5d21a44b0e5886680cb9.png",
       "https://cdn2.steamgriddb.com/hero/6fa9efe2c2b098248ebf3af98a77c804.png",
       "https://cdn2.steamgriddb.com/hero/90306a0237c000d33f4dbd3f8f41ba7c.png",
+      "https://cdn2.steamgriddb.com/hero/e6f12c7fb3719fe303849c00ad9a6367.jpg",
       "https://cdn2.steamgriddb.com/hero/95f2351eb791917e3e1cee823cf25969.png",
       "https://cdn2.steamgriddb.com/hero/947bfc4139626776fbf85b85583077d2.jpg"
     ],
@@ -5333,9 +5335,9 @@
       "https://cdn2.steamgriddb.com/hero/a79b77a836a4cac1c64791a6ec7844fa.jpg",
       "https://cdn2.steamgriddb.com/hero/992e801c9b969f93e54fb91fcca305f8.png",
       "https://cdn2.steamgriddb.com/hero/af53aa7073dfd26c04ac4055055dd716.png",
-      "https://cdn2.steamgriddb.com/hero/42dae262b8531b3df48cde9cc018c512.jpg",
-      "https://cdn2.steamgriddb.com/hero/e32d190b227b79688b3c4bd76ff2f33e.jpg",
-      "https://cdn2.steamgriddb.com/hero/d0ed3ce01aa99d5f4101b196e85fba3a.png"
+      "https://cdn2.steamgriddb.com/hero/1124225a47b3f07185073f3df3b449bf.png",
+      "https://cdn2.steamgriddb.com/hero/d0ed3ce01aa99d5f4101b196e85fba3a.png",
+      "https://cdn2.steamgriddb.com/hero/5160bab035bf7fbafe9cf178db1a44c4.jpg"
     ],
     "releaseYear": 2021,
     "rating": 89,
@@ -5573,10 +5575,10 @@
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/9e0aaeef6b914a9091beaaec19cc2e34.jpg",
       "https://cdn2.steamgriddb.com/hero/90d7348fce3c310aa923fc635bf7170f.png",
-      "https://cdn2.steamgriddb.com/hero/f761efa8e6a59d222cd4b70a0accfd87.png",
+      "https://cdn2.steamgriddb.com/hero/1b87389d1050794664a5c16d23de6824.jpg",
       "https://cdn2.steamgriddb.com/hero/9fb39fd910a6708e156d228c541bb278.png",
       "https://cdn2.steamgriddb.com/hero/220ddf008416e895e6e649a2bba33484.jpg",
-      "https://cdn2.steamgriddb.com/hero/1b87389d1050794664a5c16d23de6824.jpg",
+      "https://cdn2.steamgriddb.com/hero/f761efa8e6a59d222cd4b70a0accfd87.png",
       "https://cdn2.steamgriddb.com/hero/09f602377056c50b49f87b668eae739f.png",
       "https://cdn2.steamgriddb.com/hero/fb3336fca8851437f980e83045e75749.png"
     ],
@@ -5856,35 +5858,6 @@
     ]
   },
   {
-    "id": 134612,
-    "name": "Pragmata",
-    "posters": [
-      "data/covers/134612.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/1593937e2099ea418f9c25f83e5425aa.png",
-      "https://cdn2.steamgriddb.com/hero/0b9f166f1f75217d3a28dc96e53eecfb.png",
-      "https://cdn2.steamgriddb.com/hero/b5a62c52a3558ae63099a7b1f21a46e1.png",
-      "https://cdn2.steamgriddb.com/hero/646d2f7cc11dd365e6f0aaa39831a7cc.png",
-      "https://cdn2.steamgriddb.com/hero/16b42e3bdfb5aa64c9519c72fb9fd613.png",
-      "https://cdn2.steamgriddb.com/hero/2e951e37ba37f327f064614bc8d63378.png",
-      "https://cdn2.steamgriddb.com/hero/c941029b040ed6e0da88249464283423.png",
-      "https://cdn2.steamgriddb.com/hero/7e2967e9f0dfe8106faf21d564639308.jpg"
-    ],
-    "releaseYear": 2026,
-    "rating": 87,
-    "platforms": [
-      "Xbox Series X|S",
-      "Nintendo Switch 2",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Shooter",
-      "Adventure"
-    ]
-  },
-  {
     "id": 124954,
     "name": "Crusader Kings III",
     "posters": [
@@ -5913,6 +5886,35 @@
       "Role-playing (RPG)",
       "Simulator",
       "Strategy"
+    ]
+  },
+  {
+    "id": 134612,
+    "name": "Pragmata",
+    "posters": [
+      "data/covers/134612.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/1593937e2099ea418f9c25f83e5425aa.png",
+      "https://cdn2.steamgriddb.com/hero/0b9f166f1f75217d3a28dc96e53eecfb.png",
+      "https://cdn2.steamgriddb.com/hero/b5a62c52a3558ae63099a7b1f21a46e1.png",
+      "https://cdn2.steamgriddb.com/hero/646d2f7cc11dd365e6f0aaa39831a7cc.png",
+      "https://cdn2.steamgriddb.com/hero/16b42e3bdfb5aa64c9519c72fb9fd613.png",
+      "https://cdn2.steamgriddb.com/hero/2e951e37ba37f327f064614bc8d63378.png",
+      "https://cdn2.steamgriddb.com/hero/c941029b040ed6e0da88249464283423.png",
+      "https://cdn2.steamgriddb.com/hero/7e2967e9f0dfe8106faf21d564639308.jpg"
+    ],
+    "releaseYear": 2026,
+    "rating": 87,
+    "platforms": [
+      "Xbox Series X|S",
+      "Nintendo Switch 2",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Shooter",
+      "Adventure"
     ]
   },
   {
@@ -6387,10 +6389,10 @@
     ],
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/b6fb195cd80c0e13f03cb75d7f1c51ca.jpg",
+      "https://cdn2.steamgriddb.com/hero/a5384785153cc0eb3f660794920dd543.jpg",
       "https://cdn2.steamgriddb.com/hero/9bb697859bafd4f3a4a21b3035ea09e6.jpg",
       "https://cdn2.steamgriddb.com/hero/d6d7f563c6ce9c976832bca992a70102.png",
       "https://cdn2.steamgriddb.com/hero/5e5e0bd5ad7c2ca72b0c5ff8b6debbba.png",
-      "https://cdn2.steamgriddb.com/hero/a5384785153cc0eb3f660794920dd543.jpg",
       "https://cdn2.steamgriddb.com/hero/2ef6599cefce40c2b215fc43491006a5.png",
       "https://cdn2.steamgriddb.com/hero/bdcd5f96320d42af21d8ca5b26bbb74c.png",
       "https://cdn2.steamgriddb.com/hero/bdfee46a99c2e1aed598b0a404178e24.png"
@@ -6566,11 +6568,11 @@
       "https://cdn2.steamgriddb.com/hero/5fe904eb5337336c64944610132d5e34.jpg",
       "https://cdn2.steamgriddb.com/hero/8722414bff52e7a5dcc1ef2deae7ddbf.jpg",
       "https://cdn2.steamgriddb.com/hero/91df7a7b84f19ed9b5a1858b7e318e75.jpg",
+      "https://cdn2.steamgriddb.com/hero/010a23fbdd7cc2fb4539fc866a88d6aa.jpg",
       "https://cdn2.steamgriddb.com/hero/fe6b4a0d60d82923c204063ec771b2d2.png",
       "https://cdn2.steamgriddb.com/hero/4716e647c64614f064e0bc4a2d49bfab.jpg",
       "https://cdn2.steamgriddb.com/hero/2399ec0c4a679bb77a9fb38b73973ee6.jpg",
-      "https://cdn2.steamgriddb.com/hero/010a23fbdd7cc2fb4539fc866a88d6aa.jpg",
-      "https://cdn2.steamgriddb.com/hero/0476842d0a516c6d65b6591bead342df.jpg"
+      "https://cdn2.steamgriddb.com/hero/3c9c7f07812e1e76f227ba699adc54a2.png"
     ],
     "releaseYear": 2026,
     "rating": 0,
@@ -6897,29 +6899,6 @@
     ]
   },
   {
-    "id": 325599,
-    "name": "Stranger Than Heaven",
-    "posters": [
-      "data/covers/325599.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/aa63cb5db66c1e8ef5028857ff1de37a.png"
-    ],
-    "releaseYear": 2027,
-    "rating": 0,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Fighting",
-      "Puzzle",
-      "Role-playing (RPG)",
-      "Adventure"
-    ]
-  },
-  {
     "id": 305160,
     "name": "Gears of War: E-Day",
     "posters": [
@@ -6948,20 +6927,26 @@
     ]
   },
   {
-    "id": 252840,
-    "name": "Clockwork Revolution",
+    "id": 325599,
+    "name": "Stranger Than Heaven",
     "posters": [
-      "data/covers/252840.jpg"
+      "data/covers/325599.jpg"
     ],
-    "heroes": [],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/aa63cb5db66c1e8ef5028857ff1de37a.png"
+    ],
     "releaseYear": 2027,
     "rating": 0,
     "platforms": [
       "Xbox Series X|S",
-      "PC (Microsoft Windows)"
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
     ],
     "genres": [
-      "Role-playing (RPG)"
+      "Fighting",
+      "Puzzle",
+      "Role-playing (RPG)",
+      "Adventure"
     ]
   },
   {
@@ -7001,6 +6986,23 @@
       "Shooter",
       "Role-playing (RPG)",
       "Adventure"
+    ]
+  },
+  {
+    "id": 252840,
+    "name": "Clockwork Revolution",
+    "posters": [
+      "data/covers/252840.jpg"
+    ],
+    "heroes": [],
+    "releaseYear": 2027,
+    "rating": 0,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)"
+    ],
+    "genres": [
+      "Role-playing (RPG)"
     ]
   },
   {
@@ -7076,34 +7078,6 @@
     ]
   },
   {
-    "id": 398225,
-    "name": "Metro 2039",
-    "posters": [
-      "data/covers/398225.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/a5ffb371628660680f9ee0baf043fb3c.jpg",
-      "https://cdn2.steamgriddb.com/hero/192443305db254afb8e532d00a34b4aa.jpg",
-      "https://cdn2.steamgriddb.com/hero/ea1f8e148cd9d42ec4ba0753f2e76b5f.png",
-      "https://cdn2.steamgriddb.com/hero/5505b04b0f722168f8ecda7712e8c2a8.png",
-      "https://cdn2.steamgriddb.com/hero/d029fb44c1e45326c0c011d48722fa68.jpg",
-      "https://cdn2.steamgriddb.com/hero/1ecb86c96dd62c982d40d0699fc5a156.jpg",
-      "https://cdn2.steamgriddb.com/hero/bcf01df2c389168594cb4f646c51e3bf.png",
-      "https://cdn2.steamgriddb.com/hero/9b60ae21f922beabfd5713248f3802d0.png"
-    ],
-    "releaseYear": 2027,
-    "rating": 0,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Shooter",
-      "Adventure"
-    ]
-  },
-  {
     "id": 222342,
     "name": "Silent Hill: Townfall",
     "posters": [
@@ -7131,24 +7105,31 @@
     ]
   },
   {
-    "id": 28029,
-    "name": "Half-Life 3",
+    "id": 398225,
+    "name": "Metro 2039",
     "posters": [
-      "data/covers/28029.jpg"
+      "data/covers/398225.jpg"
     ],
     "heroes": [
-      "https://cdn2.steamgriddb.com/hero/ec4b2e408e41a86f2fd70cc17c564994.png",
-      "https://cdn2.steamgriddb.com/hero/4fd04fbeeb9aabf2f029c8133c4bf881.jpg"
+      "https://cdn2.steamgriddb.com/hero/a5ffb371628660680f9ee0baf043fb3c.jpg",
+      "https://cdn2.steamgriddb.com/hero/192443305db254afb8e532d00a34b4aa.jpg",
+      "https://cdn2.steamgriddb.com/hero/ea1f8e148cd9d42ec4ba0753f2e76b5f.png",
+      "https://cdn2.steamgriddb.com/hero/5505b04b0f722168f8ecda7712e8c2a8.png",
+      "https://cdn2.steamgriddb.com/hero/d029fb44c1e45326c0c011d48722fa68.jpg",
+      "https://cdn2.steamgriddb.com/hero/1ecb86c96dd62c982d40d0699fc5a156.jpg",
+      "https://cdn2.steamgriddb.com/hero/bcf01df2c389168594cb4f646c51e3bf.png",
+      "https://cdn2.steamgriddb.com/hero/9b60ae21f922beabfd5713248f3802d0.png"
     ],
-    "releaseYear": 0,
+    "releaseYear": 2027,
     "rating": 0,
     "platforms": [
-      "Linux",
+      "Xbox Series X|S",
       "PC (Microsoft Windows)",
-      "Mac"
+      "PlayStation 5"
     ],
     "genres": [
-      "Shooter"
+      "Shooter",
+      "Adventure"
     ]
   },
   {
@@ -7178,6 +7159,27 @@
       "Shooter",
       "Role-playing (RPG)",
       "Adventure"
+    ]
+  },
+  {
+    "id": 28029,
+    "name": "Half-Life 3",
+    "posters": [
+      "data/covers/28029.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/ec4b2e408e41a86f2fd70cc17c564994.png",
+      "https://cdn2.steamgriddb.com/hero/4fd04fbeeb9aabf2f029c8133c4bf881.jpg"
+    ],
+    "releaseYear": 0,
+    "rating": 0,
+    "platforms": [
+      "Linux",
+      "PC (Microsoft Windows)",
+      "Mac"
+    ],
+    "genres": [
+      "Shooter"
     ]
   },
   {
