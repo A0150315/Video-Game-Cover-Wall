@@ -1914,8 +1914,8 @@
       "https://cdn2.steamgriddb.com/hero/ae714b2895215ee6c844a04374bde7fb.jpg",
       "https://cdn2.steamgriddb.com/hero/7ea25c95b0792ca4ce01ea18bbda2d44.png",
       "https://cdn2.steamgriddb.com/hero/bfaadb09eb2d1eb21b7b5f1eac3ea902.png",
-      "https://cdn2.steamgriddb.com/hero/766f5dee4fe81aba12de2750d0c30ac1.png",
-      "https://cdn2.steamgriddb.com/hero/83715fd4755b33f9c3958e1a9ee221e1.png"
+      "https://cdn2.steamgriddb.com/hero/233ff9b78f1fe49605dccf78bd9f42d6.png",
+      "https://cdn2.steamgriddb.com/hero/766f5dee4fe81aba12de2750d0c30ac1.png"
     ],
     "releaseYear": 2013,
     "rating": 89,
@@ -1988,6 +1988,36 @@
     ]
   },
   {
+    "id": 501,
+    "name": "Batman: Arkham City",
+    "posters": [
+      "data/covers/501.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/9cbe38ee91368cef7c0f22de9c3461e3.png",
+      "https://cdn2.steamgriddb.com/hero/a0715b3d3eeed8446fc3bf227c1e4b83.png",
+      "https://cdn2.steamgriddb.com/hero/388814209b675f2845e8737658701033.png",
+      "https://cdn2.steamgriddb.com/hero/14d203158e5c5fd54555ecd1bd9ed8e3.png",
+      "https://cdn2.steamgriddb.com/hero/4cba8b40e26654975d5ed2256eeba2e2.png",
+      "https://cdn2.steamgriddb.com/hero/1087ef240a4fa531a4cec93d41621ca8.png",
+      "https://cdn2.steamgriddb.com/hero/7273e671a40fa9f0d3867d1098d5ac6e.png",
+      "https://cdn2.steamgriddb.com/hero/7481ba3bda3fc286ecdba18396db7bdd.jpg"
+    ],
+    "releaseYear": 2011,
+    "rating": 89,
+    "platforms": [
+      "OnLive Game System",
+      "PlayStation 3",
+      "PC (Microsoft Windows)",
+      "Xbox 360",
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Hack and slash/Beat 'em up",
+      "Adventure"
+    ]
+  },
+  {
     "id": 135243,
     "name": "It Takes Two",
     "posters": [
@@ -2016,36 +2046,6 @@
     "genres": [
       "Platform",
       "Puzzle",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 501,
-    "name": "Batman: Arkham City",
-    "posters": [
-      "data/covers/501.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/9cbe38ee91368cef7c0f22de9c3461e3.png",
-      "https://cdn2.steamgriddb.com/hero/a0715b3d3eeed8446fc3bf227c1e4b83.png",
-      "https://cdn2.steamgriddb.com/hero/388814209b675f2845e8737658701033.png",
-      "https://cdn2.steamgriddb.com/hero/14d203158e5c5fd54555ecd1bd9ed8e3.png",
-      "https://cdn2.steamgriddb.com/hero/4cba8b40e26654975d5ed2256eeba2e2.png",
-      "https://cdn2.steamgriddb.com/hero/1087ef240a4fa531a4cec93d41621ca8.png",
-      "https://cdn2.steamgriddb.com/hero/7273e671a40fa9f0d3867d1098d5ac6e.png",
-      "https://cdn2.steamgriddb.com/hero/7481ba3bda3fc286ecdba18396db7bdd.jpg"
-    ],
-    "releaseYear": 2011,
-    "rating": 89,
-    "platforms": [
-      "OnLive Game System",
-      "PlayStation 3",
-      "PC (Microsoft Windows)",
-      "Xbox 360",
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Hack and slash/Beat 'em up",
       "Adventure"
     ]
   },
@@ -3060,33 +3060,6 @@
     ]
   },
   {
-    "id": 987,
-    "name": "Halo 3",
-    "posters": [
-      "data/covers/987.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/276598efa3cad81bba327f56cea301ef.jpg",
-      "https://cdn2.steamgriddb.com/hero/4d3fd59d5bbacbfca10365d936592965.jpg",
-      "https://cdn2.steamgriddb.com/hero/d91f21b6b8cbe6052238e959ef52ffb8.png",
-      "https://cdn2.steamgriddb.com/hero/df07a467909d836eec9ca188a259aec0.png",
-      "https://cdn2.steamgriddb.com/hero/5c6b2bbb65d235600c127377c571410c.png",
-      "https://cdn2.steamgriddb.com/hero/1d075e2fdbc8e2e66a47b39a0652ce31.png",
-      "https://cdn2.steamgriddb.com/hero/b877c34c37d3ab54dcabe110b6a67214.jpg",
-      "https://cdn2.steamgriddb.com/hero/8283d674a3e149941c5f8f45394cafc4.jpg"
-    ],
-    "releaseYear": 2007,
-    "rating": 88,
-    "platforms": [
-      "PC (Microsoft Windows)",
-      "Xbox 360",
-      "Xbox One"
-    ],
-    "genres": [
-      "Shooter"
-    ]
-  },
-  {
     "id": 75,
     "name": "Mass Effect 3",
     "posters": [
@@ -3114,6 +3087,33 @@
       "Role-playing (RPG)",
       "Strategy",
       "Adventure"
+    ]
+  },
+  {
+    "id": 987,
+    "name": "Halo 3",
+    "posters": [
+      "data/covers/987.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/276598efa3cad81bba327f56cea301ef.jpg",
+      "https://cdn2.steamgriddb.com/hero/4d3fd59d5bbacbfca10365d936592965.jpg",
+      "https://cdn2.steamgriddb.com/hero/d91f21b6b8cbe6052238e959ef52ffb8.png",
+      "https://cdn2.steamgriddb.com/hero/df07a467909d836eec9ca188a259aec0.png",
+      "https://cdn2.steamgriddb.com/hero/5c6b2bbb65d235600c127377c571410c.png",
+      "https://cdn2.steamgriddb.com/hero/1d075e2fdbc8e2e66a47b39a0652ce31.png",
+      "https://cdn2.steamgriddb.com/hero/b877c34c37d3ab54dcabe110b6a67214.jpg",
+      "https://cdn2.steamgriddb.com/hero/8283d674a3e149941c5f8f45394cafc4.jpg"
+    ],
+    "releaseYear": 2007,
+    "rating": 88,
+    "platforms": [
+      "PC (Microsoft Windows)",
+      "Xbox 360",
+      "Xbox One"
+    ],
+    "genres": [
+      "Shooter"
     ]
   },
   {
@@ -4864,6 +4864,7 @@
     "platforms": [
       "Xbox Series X|S",
       "PlayStation 4",
+      "Nintendo Switch 2",
       "PlayStation VR",
       "PC (Microsoft Windows)",
       "iOS",
@@ -5998,9 +5999,9 @@
       "https://cdn2.steamgriddb.com/hero/d9a2872036bccc295e23b8f8662143d0.jpg",
       "https://cdn2.steamgriddb.com/hero/1146d96286ade57a9fa715376dae4c20.png",
       "https://cdn2.steamgriddb.com/hero/9e2769801a380e29acd1fbd62159754a.png",
+      "https://cdn2.steamgriddb.com/hero/ef74ea49f0411c79754f2df37c2b45ae.jpg",
       "https://cdn2.steamgriddb.com/hero/1de70b84bc03fce46e2ce689abd99479.jpg",
-      "https://cdn2.steamgriddb.com/hero/d0ceaba6d228fd9ad99831d5df783c7c.png",
-      "https://cdn2.steamgriddb.com/hero/e952d21279d4c8ec5f9d5a6d6f1a94b3.png"
+      "https://cdn2.steamgriddb.com/hero/d0ceaba6d228fd9ad99831d5df783c7c.png"
     ],
     "releaseYear": 2021,
     "rating": 87,
@@ -6950,6 +6951,23 @@
     ]
   },
   {
+    "id": 252840,
+    "name": "Clockwork Revolution",
+    "posters": [
+      "data/covers/252840.jpg"
+    ],
+    "heroes": [],
+    "releaseYear": 2027,
+    "rating": 0,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)"
+    ],
+    "genres": [
+      "Role-playing (RPG)"
+    ]
+  },
+  {
     "id": 228527,
     "name": "Judas",
     "posters": [
@@ -6986,23 +7004,6 @@
       "Shooter",
       "Role-playing (RPG)",
       "Adventure"
-    ]
-  },
-  {
-    "id": 252840,
-    "name": "Clockwork Revolution",
-    "posters": [
-      "data/covers/252840.jpg"
-    ],
-    "heroes": [],
-    "releaseYear": 2027,
-    "rating": 0,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)"
-    ],
-    "genres": [
-      "Role-playing (RPG)"
     ]
   },
   {
