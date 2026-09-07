@@ -976,6 +976,34 @@
     ]
   },
   {
+    "id": 1559,
+    "name": "Pokémon FireRed Version",
+    "posters": [
+      "data/covers/1559.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/6c71c32d4dbcd21cd73552855eed2d79.png",
+      "https://cdn2.steamgriddb.com/hero/99e477044cde45c8abef17d848d453f2.jpg",
+      "https://cdn2.steamgriddb.com/hero/879524f6284d9922de824c77c4a03141.png",
+      "https://cdn2.steamgriddb.com/hero/3a6f7e5575a17cb1e9cecbb8f6ad3df6.jpg",
+      "https://cdn2.steamgriddb.com/hero/375c5abc9bfb6079943ef3c297e4ac78.png",
+      "https://cdn2.steamgriddb.com/hero/457e7f7202e02bc05533389d9e9aef86.png",
+      "https://cdn2.steamgriddb.com/hero/c9663f86bdfd6137c73121a550887aa4.png",
+      "https://cdn2.steamgriddb.com/hero/26e49cf53d47b35b4527160c7aacd2df.png"
+    ],
+    "releaseYear": 2004,
+    "rating": 92,
+    "platforms": [
+      "Game Boy Advance",
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Turn-based strategy (TBS)",
+      "Adventure"
+    ]
+  },
+  {
     "id": 732,
     "name": "Grand Theft Auto: San Andreas",
     "posters": [
@@ -1008,34 +1036,6 @@
     "genres": [
       "Shooter",
       "Racing",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 1559,
-    "name": "Pokémon FireRed Version",
-    "posters": [
-      "data/covers/1559.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/6c71c32d4dbcd21cd73552855eed2d79.png",
-      "https://cdn2.steamgriddb.com/hero/99e477044cde45c8abef17d848d453f2.jpg",
-      "https://cdn2.steamgriddb.com/hero/879524f6284d9922de824c77c4a03141.png",
-      "https://cdn2.steamgriddb.com/hero/3a6f7e5575a17cb1e9cecbb8f6ad3df6.jpg",
-      "https://cdn2.steamgriddb.com/hero/375c5abc9bfb6079943ef3c297e4ac78.png",
-      "https://cdn2.steamgriddb.com/hero/457e7f7202e02bc05533389d9e9aef86.png",
-      "https://cdn2.steamgriddb.com/hero/c9663f86bdfd6137c73121a550887aa4.png",
-      "https://cdn2.steamgriddb.com/hero/26e49cf53d47b35b4527160c7aacd2df.png"
-    ],
-    "releaseYear": 2004,
-    "rating": 92,
-    "platforms": [
-      "Game Boy Advance",
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Turn-based strategy (TBS)",
       "Adventure"
     ]
   },
@@ -2874,8 +2874,8 @@
       "https://cdn2.steamgriddb.com/hero/25fa2d39a0143f1f30c36eece145a526.png",
       "https://cdn2.steamgriddb.com/hero/6962448d565dc65ce98caf5e51e1dfec.png",
       "https://cdn2.steamgriddb.com/hero/08d98638c6fcd194a4b1e6992063e944.png",
-      "https://cdn2.steamgriddb.com/hero/a0bfd9e2a5529c21836fd99454a390bb.png",
       "https://cdn2.steamgriddb.com/hero/68a83eeb494a308fe5295da69428a507.png",
+      "https://cdn2.steamgriddb.com/hero/a0bfd9e2a5529c21836fd99454a390bb.png",
       "https://cdn2.steamgriddb.com/hero/3925d313c95e874b3e75a4b6d2067d2a.png",
       "https://cdn2.steamgriddb.com/hero/481f0dd7ae83e18513be0b4e400a9535.png",
       "https://cdn2.steamgriddb.com/hero/58ba92bb04654cbc4b114b345536efbf.png"
@@ -6300,8 +6300,8 @@
       "data/covers/125633.jpg"
     ],
     "heroes": [
-      "https://cdn2.steamgriddb.com/hero/7d6f45e3fa9d8273cc53f15b18b78cf4.jpg",
       "https://cdn2.steamgriddb.com/hero/d38b254cb20fd15d4bab546f6d4dd959.jpg",
+      "https://cdn2.steamgriddb.com/hero/7d6f45e3fa9d8273cc53f15b18b78cf4.jpg",
       "https://cdn2.steamgriddb.com/hero/ec554ba4356d497669326d0f332e0d6f.png",
       "https://cdn2.steamgriddb.com/hero/11af2e35fe0228ff4a349714f3dde3d3.png",
       "https://cdn2.steamgriddb.com/hero/cb51090e9c10cda176f81a7fa92c3dfc.jpg",
@@ -6319,36 +6319,6 @@
     ],
     "genres": [
       "Adventure"
-    ]
-  },
-  {
-    "id": 348330,
-    "name": "Forza Horizon 6",
-    "posters": [
-      "data/covers/348330.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/d6b3a54d189bc6cd921f6581a7d41b17.png",
-      "https://cdn2.steamgriddb.com/hero/56540abcdb375502c6c871b8f141a40b.jpg",
-      "https://cdn2.steamgriddb.com/hero/07561478adc8ca51c9646960a5508186.png",
-      "https://cdn2.steamgriddb.com/hero/35b0b52c6892699f86129ef791ed11c2.png",
-      "https://cdn2.steamgriddb.com/hero/bcb39d95c667faa134415186c0e8fbdf.png",
-      "https://cdn2.steamgriddb.com/hero/2adccb7d8f9e85dfbf1d53f00e96d522.png",
-      "https://cdn2.steamgriddb.com/hero/5fc13b57f3008aa88d051d65f1b0f429.png",
-      "https://cdn2.steamgriddb.com/hero/34ed4d3dbc2ed9136932b8d350382dab.png"
-    ],
-    "releaseYear": 2026,
-    "rating": 86,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Racing",
-      "Simulator",
-      "Sport",
-      "Arcade"
     ]
   },
   {
@@ -6417,6 +6387,36 @@
     ]
   },
   {
+    "id": 348330,
+    "name": "Forza Horizon 6",
+    "posters": [
+      "data/covers/348330.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/d6b3a54d189bc6cd921f6581a7d41b17.png",
+      "https://cdn2.steamgriddb.com/hero/56540abcdb375502c6c871b8f141a40b.jpg",
+      "https://cdn2.steamgriddb.com/hero/07561478adc8ca51c9646960a5508186.png",
+      "https://cdn2.steamgriddb.com/hero/35b0b52c6892699f86129ef791ed11c2.png",
+      "https://cdn2.steamgriddb.com/hero/bcb39d95c667faa134415186c0e8fbdf.png",
+      "https://cdn2.steamgriddb.com/hero/2adccb7d8f9e85dfbf1d53f00e96d522.png",
+      "https://cdn2.steamgriddb.com/hero/5fc13b57f3008aa88d051d65f1b0f429.png",
+      "https://cdn2.steamgriddb.com/hero/34ed4d3dbc2ed9136932b8d350382dab.png"
+    ],
+    "releaseYear": 2026,
+    "rating": 86,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Racing",
+      "Simulator",
+      "Sport",
+      "Arcade"
+    ]
+  },
+  {
     "id": 122238,
     "name": "Xenoblade Chronicles: Definitive Edition",
     "posters": [
@@ -6439,37 +6439,6 @@
     "genres": [
       "Real Time Strategy (RTS)",
       "Role-playing (RPG)"
-    ]
-  },
-  {
-    "id": 204627,
-    "name": "Cocoon",
-    "posters": [
-      "data/covers/204627.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/c6b5447597e82209184ac3202de17b2d.jpg",
-      "https://cdn2.steamgriddb.com/hero/f6865660406ac68ce2cf3aee624ab2a6.png",
-      "https://cdn2.steamgriddb.com/hero/87d93f94d5ff7211456d9742e970d861.png",
-      "https://cdn2.steamgriddb.com/hero/85870c6bd84c86a1eb59bc1d770c23a9.png",
-      "https://cdn2.steamgriddb.com/hero/70ed2f2d61a4e79a4079049d01d42989.jpg",
-      "https://cdn2.steamgriddb.com/hero/f3ff6f500449961c12d5471fcf821cda.png",
-      "https://cdn2.steamgriddb.com/hero/d4e08acc73d2038cc88df1a8a1c8a822.png"
-    ],
-    "releaseYear": 2023,
-    "rating": 86,
-    "platforms": [
-      "Xbox Series X|S",
-      "PlayStation 4",
-      "PC (Microsoft Windows)",
-      "PlayStation 5",
-      "Xbox One",
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Puzzle",
-      "Adventure",
-      "Indie"
     ]
   },
   {
@@ -6507,6 +6476,37 @@
       "Adventure",
       "Indie",
       "Arcade"
+    ]
+  },
+  {
+    "id": 204627,
+    "name": "Cocoon",
+    "posters": [
+      "data/covers/204627.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/c6b5447597e82209184ac3202de17b2d.jpg",
+      "https://cdn2.steamgriddb.com/hero/f6865660406ac68ce2cf3aee624ab2a6.png",
+      "https://cdn2.steamgriddb.com/hero/87d93f94d5ff7211456d9742e970d861.png",
+      "https://cdn2.steamgriddb.com/hero/85870c6bd84c86a1eb59bc1d770c23a9.png",
+      "https://cdn2.steamgriddb.com/hero/70ed2f2d61a4e79a4079049d01d42989.jpg",
+      "https://cdn2.steamgriddb.com/hero/f3ff6f500449961c12d5471fcf821cda.png",
+      "https://cdn2.steamgriddb.com/hero/d4e08acc73d2038cc88df1a8a1c8a822.png"
+    ],
+    "releaseYear": 2023,
+    "rating": 86,
+    "platforms": [
+      "Xbox Series X|S",
+      "PlayStation 4",
+      "PC (Microsoft Windows)",
+      "PlayStation 5",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Puzzle",
+      "Adventure",
+      "Indie"
     ]
   },
   {
@@ -6928,13 +6928,36 @@
     ]
   },
   {
+    "id": 347869,
+    "name": "The Expanse: Osiris Reborn",
+    "posters": [
+      "data/covers/347869.jpg"
+    ],
+    "heroes": [],
+    "releaseYear": 2027,
+    "rating": 0,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Shooter",
+      "Role-playing (RPG)",
+      "Adventure"
+    ]
+  },
+  {
     "id": 325599,
     "name": "Stranger Than Heaven",
     "posters": [
       "data/covers/325599.jpg"
     ],
     "heroes": [
-      "https://cdn2.steamgriddb.com/hero/aa63cb5db66c1e8ef5028857ff1de37a.png"
+      "https://cdn2.steamgriddb.com/hero/aa63cb5db66c1e8ef5028857ff1de37a.png",
+      "https://cdn2.steamgriddb.com/hero/f1cab1954b1fc4ff1914fc819d30f3c1.jpg",
+      "https://cdn2.steamgriddb.com/hero/cd09fe0d3b309221c157a07513d8eceb.jpg",
+      "https://cdn2.steamgriddb.com/hero/e971c298d7fba28722b4c69b3fad1129.jpg"
     ],
     "releaseYear": 2027,
     "rating": 0,
@@ -6983,26 +7006,6 @@
     ],
     "genres": [
       "Shooter",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 347869,
-    "name": "The Expanse: Osiris Reborn",
-    "posters": [
-      "data/covers/347869.jpg"
-    ],
-    "heroes": [],
-    "releaseYear": 2027,
-    "rating": 0,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Shooter",
-      "Role-playing (RPG)",
       "Adventure"
     ]
   },
