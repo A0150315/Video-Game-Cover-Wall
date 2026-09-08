@@ -441,10 +441,10 @@
       "https://cdn2.steamgriddb.com/hero/e4037822f631cf13d894ef7837c90ad6.png",
       "https://cdn2.steamgriddb.com/hero/4d57c8ac8153e8565a307084434a7355.png",
       "https://cdn2.steamgriddb.com/hero/cd758e8f59dfdf06a852adad277986ca.png",
+      "https://cdn2.steamgriddb.com/hero/5d48e9f704ec8385f0c4e97dfcb6aa33.png",
       "https://cdn2.steamgriddb.com/hero/81e5f81db77c596492e6f1a5a792ed53.png",
       "https://cdn2.steamgriddb.com/hero/b0a4fed42fc9723fc5ef166da6e25614.png",
-      "https://cdn2.steamgriddb.com/hero/9e9e1b7ea4e250af8fe1f1865650d42b.png",
-      "https://cdn2.steamgriddb.com/hero/5d48e9f704ec8385f0c4e97dfcb6aa33.png"
+      "https://cdn2.steamgriddb.com/hero/9e9e1b7ea4e250af8fe1f1865650d42b.png"
     ],
     "releaseYear": 2018,
     "rating": 94,
@@ -3492,9 +3492,9 @@
       "https://cdn2.steamgriddb.com/hero/076023edc9187cf1ac1f1163470e479a.png",
       "https://cdn2.steamgriddb.com/hero/ec4c26cb33e170f4c5521d91457fcf50.png",
       "https://cdn2.steamgriddb.com/hero/6872fbd4d9c2156c2cf1230e206e6578.jpg",
+      "https://cdn2.steamgriddb.com/hero/befaba9f0976b2c30d32ceabe66f6636.png",
       "https://cdn2.steamgriddb.com/hero/84cdde86a4560c17d00c9c437fc2f0da.png",
       "https://cdn2.steamgriddb.com/hero/9d15d52edae41f4e3b21f8a5613e42de.png",
-      "https://cdn2.steamgriddb.com/hero/befaba9f0976b2c30d32ceabe66f6636.png",
       "https://cdn2.steamgriddb.com/hero/6cfa4a3ada8ca4e5b8a217c892beafcf.png"
     ],
     "releaseYear": 2008,
@@ -5088,6 +5088,34 @@
     ]
   },
   {
+    "id": 141503,
+    "name": "Forza Horizon 5",
+    "posters": [
+      "data/covers/141503.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/894f2c736075c519dbe099240d339277.jpg",
+      "https://cdn2.steamgriddb.com/hero/6092d29b6f8f3047da5ff4543629d5cd.jpg",
+      "https://cdn2.steamgriddb.com/hero/c66e5f7ba8bb65ad35eee35f1b413a87.png",
+      "https://cdn2.steamgriddb.com/hero/edb484b38d130b891ca248fa171b274d.png",
+      "https://cdn2.steamgriddb.com/hero/422c6ac45351468ef3acf63b93faab7d.png",
+      "https://cdn2.steamgriddb.com/hero/0bdeeae875330b10b50054bb6bed6f36.png",
+      "https://cdn2.steamgriddb.com/hero/399fb867d690d0bb82fae38942bc29ae.png",
+      "https://cdn2.steamgriddb.com/hero/68482ad368c7b9779cf50a7164815379.png"
+    ],
+    "releaseYear": 2021,
+    "rating": 89,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5",
+      "Xbox One"
+    ],
+    "genres": [
+      "Racing"
+    ]
+  },
+  {
     "id": 279634,
     "name": "Dragon Ball: Sparking! Zero",
     "posters": [
@@ -5114,34 +5142,6 @@
     ],
     "genres": [
       "Fighting"
-    ]
-  },
-  {
-    "id": 141503,
-    "name": "Forza Horizon 5",
-    "posters": [
-      "data/covers/141503.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/894f2c736075c519dbe099240d339277.jpg",
-      "https://cdn2.steamgriddb.com/hero/6092d29b6f8f3047da5ff4543629d5cd.jpg",
-      "https://cdn2.steamgriddb.com/hero/c66e5f7ba8bb65ad35eee35f1b413a87.png",
-      "https://cdn2.steamgriddb.com/hero/edb484b38d130b891ca248fa171b274d.png",
-      "https://cdn2.steamgriddb.com/hero/422c6ac45351468ef3acf63b93faab7d.png",
-      "https://cdn2.steamgriddb.com/hero/0bdeeae875330b10b50054bb6bed6f36.png",
-      "https://cdn2.steamgriddb.com/hero/399fb867d690d0bb82fae38942bc29ae.png",
-      "https://cdn2.steamgriddb.com/hero/68482ad368c7b9779cf50a7164815379.png"
-    ],
-    "releaseYear": 2021,
-    "rating": 89,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5",
-      "Xbox One"
-    ],
-    "genres": [
-      "Racing"
     ]
   },
   {
@@ -6265,6 +6265,34 @@
     ]
   },
   {
+    "id": 125633,
+    "name": "Crimson Desert",
+    "posters": [
+      "data/covers/125633.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/d38b254cb20fd15d4bab546f6d4dd959.jpg",
+      "https://cdn2.steamgriddb.com/hero/7d6f45e3fa9d8273cc53f15b18b78cf4.jpg",
+      "https://cdn2.steamgriddb.com/hero/ec554ba4356d497669326d0f332e0d6f.png",
+      "https://cdn2.steamgriddb.com/hero/11af2e35fe0228ff4a349714f3dde3d3.png",
+      "https://cdn2.steamgriddb.com/hero/cb51090e9c10cda176f81a7fa92c3dfc.jpg",
+      "https://cdn2.steamgriddb.com/hero/f0e3b2070332363c62650c7332911a80.png",
+      "https://cdn2.steamgriddb.com/hero/9bc88dfc094e4ab62c23c6bcc74ae41d.jpg",
+      "https://cdn2.steamgriddb.com/hero/338b5878e682cc64c0756deb09e695fd.jpg"
+    ],
+    "releaseYear": 2026,
+    "rating": 86,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5",
+      "Mac"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  {
     "id": 191692,
     "name": "Street Fighter 6",
     "posters": [
@@ -6291,34 +6319,6 @@
     "genres": [
       "Fighting",
       "Arcade"
-    ]
-  },
-  {
-    "id": 125633,
-    "name": "Crimson Desert",
-    "posters": [
-      "data/covers/125633.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/d38b254cb20fd15d4bab546f6d4dd959.jpg",
-      "https://cdn2.steamgriddb.com/hero/7d6f45e3fa9d8273cc53f15b18b78cf4.jpg",
-      "https://cdn2.steamgriddb.com/hero/ec554ba4356d497669326d0f332e0d6f.png",
-      "https://cdn2.steamgriddb.com/hero/11af2e35fe0228ff4a349714f3dde3d3.png",
-      "https://cdn2.steamgriddb.com/hero/cb51090e9c10cda176f81a7fa92c3dfc.jpg",
-      "https://cdn2.steamgriddb.com/hero/9bc88dfc094e4ab62c23c6bcc74ae41d.jpg",
-      "https://cdn2.steamgriddb.com/hero/338b5878e682cc64c0756deb09e695fd.jpg",
-      "https://cdn2.steamgriddb.com/hero/e71c5334f6d7e8ed93d606dd2fa4d2eb.png"
-    ],
-    "releaseYear": 2026,
-    "rating": 86,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5",
-      "Mac"
-    ],
-    "genres": [
-      "Adventure"
     ]
   },
   {
@@ -6851,6 +6851,31 @@
     ]
   },
   {
+    "id": 331212,
+    "name": "Tides of Annihilation",
+    "posters": [
+      "data/covers/331212.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/8a2d814c49d0f4a6a7b8cc84769944d3.png",
+      "https://cdn2.steamgriddb.com/hero/c3242232f2f02854bfa78c9a65786b76.png",
+      "https://cdn2.steamgriddb.com/hero/9dc4995116b45bc9d97bafbe2a533a14.png",
+      "https://cdn2.steamgriddb.com/hero/6aecc5688439e968309784eb983bad6e.png"
+    ],
+    "releaseYear": 0,
+    "rating": 0,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Hack and slash/Beat 'em up",
+      "Adventure"
+    ]
+  },
+  {
     "id": 381234,
     "name": "Tomb Raider: Catalyst",
     "posters": [
@@ -6875,18 +6900,13 @@
     ]
   },
   {
-    "id": 331212,
-    "name": "Tides of Annihilation",
+    "id": 347869,
+    "name": "The Expanse: Osiris Reborn",
     "posters": [
-      "data/covers/331212.jpg"
+      "data/covers/347869.jpg"
     ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/8a2d814c49d0f4a6a7b8cc84769944d3.png",
-      "https://cdn2.steamgriddb.com/hero/c3242232f2f02854bfa78c9a65786b76.png",
-      "https://cdn2.steamgriddb.com/hero/9dc4995116b45bc9d97bafbe2a533a14.png",
-      "https://cdn2.steamgriddb.com/hero/6aecc5688439e968309784eb983bad6e.png"
-    ],
-    "releaseYear": 0,
+    "heroes": [],
+    "releaseYear": 2027,
     "rating": 0,
     "platforms": [
       "Xbox Series X|S",
@@ -6894,8 +6914,8 @@
       "PlayStation 5"
     ],
     "genres": [
+      "Shooter",
       "Role-playing (RPG)",
-      "Hack and slash/Beat 'em up",
       "Adventure"
     ]
   },
@@ -6928,26 +6948,6 @@
     ]
   },
   {
-    "id": 347869,
-    "name": "The Expanse: Osiris Reborn",
-    "posters": [
-      "data/covers/347869.jpg"
-    ],
-    "heroes": [],
-    "releaseYear": 2027,
-    "rating": 0,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Shooter",
-      "Role-playing (RPG)",
-      "Adventure"
-    ]
-  },
-  {
     "id": 325599,
     "name": "Stranger Than Heaven",
     "posters": [
@@ -6974,23 +6974,6 @@
     ]
   },
   {
-    "id": 252840,
-    "name": "Clockwork Revolution",
-    "posters": [
-      "data/covers/252840.jpg"
-    ],
-    "heroes": [],
-    "releaseYear": 2027,
-    "rating": 0,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)"
-    ],
-    "genres": [
-      "Role-playing (RPG)"
-    ]
-  },
-  {
     "id": 228527,
     "name": "Judas",
     "posters": [
@@ -7007,6 +6990,25 @@
     "genres": [
       "Shooter",
       "Adventure"
+    ]
+  },
+  {
+    "id": 252840,
+    "name": "Clockwork Revolution",
+    "posters": [
+      "data/covers/252840.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/fc42f2114057ed36c8a40034814c8d93.jpg"
+    ],
+    "releaseYear": 2027,
+    "rating": 0,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)"
+    ],
+    "genres": [
+      "Role-playing (RPG)"
     ]
   },
   {
