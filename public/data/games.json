@@ -871,8 +871,8 @@
       "https://cdn2.steamgriddb.com/hero/c53fdeb4367f55e43161bf45eedee613.png",
       "https://cdn2.steamgriddb.com/hero/acd8d58c7c352df2d1d729701488f54f.png",
       "https://cdn2.steamgriddb.com/hero/7753eb3f2d2f5dd5bda141d7761e38e4.png",
-      "https://cdn2.steamgriddb.com/hero/62d2979f157a3c2c0631a51982fd34f1.png",
       "https://cdn2.steamgriddb.com/hero/b8fb79af69865668f942683495e767ca.png",
+      "https://cdn2.steamgriddb.com/hero/62d2979f157a3c2c0631a51982fd34f1.png",
       "https://cdn2.steamgriddb.com/hero/5d213bd3a5c23a5bb86015235647a3e4.png"
     ],
     "releaseYear": 2003,
@@ -918,32 +918,6 @@
     ]
   },
   {
-    "id": 7331,
-    "name": "Uncharted 4: A Thief's End",
-    "posters": [
-      "data/covers/7331.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/81ef6cd96ab8d7992d5a291b20897ec4.jpg",
-      "https://cdn2.steamgriddb.com/hero/21a38ed2ee0c2c081c31286d29db2acc.png",
-      "https://cdn2.steamgriddb.com/hero/eeb7eebbb38d3cd16f18d4a68f065866.png",
-      "https://cdn2.steamgriddb.com/hero/bbf514d16a56cba73809fd0b7e262436.png",
-      "https://cdn2.steamgriddb.com/hero/07a81d45ff030b63fe2a0f375b779f09.png",
-      "https://cdn2.steamgriddb.com/hero/df7c2b3c3966426c14e4b3005c931eb1.png",
-      "https://cdn2.steamgriddb.com/hero/baef4802848fb2c2e3026a7f26a53315.png",
-      "https://cdn2.steamgriddb.com/hero/f7b6da9dedde15499538bf7e5e23f0ee.png"
-    ],
-    "releaseYear": 2016,
-    "rating": 92,
-    "platforms": [
-      "PlayStation 4"
-    ],
-    "genres": [
-      "Shooter",
-      "Adventure"
-    ]
-  },
-  {
     "id": 72,
     "name": "Portal 2",
     "posters": [
@@ -972,6 +946,32 @@
     "genres": [
       "Platform",
       "Puzzle",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 7331,
+    "name": "Uncharted 4: A Thief's End",
+    "posters": [
+      "data/covers/7331.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/81ef6cd96ab8d7992d5a291b20897ec4.jpg",
+      "https://cdn2.steamgriddb.com/hero/21a38ed2ee0c2c081c31286d29db2acc.png",
+      "https://cdn2.steamgriddb.com/hero/eeb7eebbb38d3cd16f18d4a68f065866.png",
+      "https://cdn2.steamgriddb.com/hero/bbf514d16a56cba73809fd0b7e262436.png",
+      "https://cdn2.steamgriddb.com/hero/07a81d45ff030b63fe2a0f375b779f09.png",
+      "https://cdn2.steamgriddb.com/hero/df7c2b3c3966426c14e4b3005c931eb1.png",
+      "https://cdn2.steamgriddb.com/hero/baef4802848fb2c2e3026a7f26a53315.png",
+      "https://cdn2.steamgriddb.com/hero/f7b6da9dedde15499538bf7e5e23f0ee.png"
+    ],
+    "releaseYear": 2016,
+    "rating": 92,
+    "platforms": [
+      "PlayStation 4"
+    ],
+    "genres": [
+      "Shooter",
       "Adventure"
     ]
   },
@@ -1734,9 +1734,9 @@
       "https://cdn2.steamgriddb.com/hero/0df5627695c1aaf2a2be5c738a80f0c3.png",
       "https://cdn2.steamgriddb.com/hero/2750dc2828e8f769ede73fd216f19b62.png",
       "https://cdn2.steamgriddb.com/hero/8b2ced7428b64f653036b4a67d32302b.jpg",
-      "https://cdn2.steamgriddb.com/hero/1134ac57b5b1d38b7d70c1b6feaa28cf.png",
       "https://cdn2.steamgriddb.com/hero/94c8e4495d11846b18dd44998eed4968.png",
-      "https://cdn2.steamgriddb.com/hero/65f5a24d2b690cf3819e992cc20173e6.png"
+      "https://cdn2.steamgriddb.com/hero/65f5a24d2b690cf3819e992cc20173e6.png",
+      "https://cdn2.steamgriddb.com/hero/93aaa29263d4040a9099001cc887d333.png"
     ],
     "releaseYear": 2019,
     "rating": 90,
@@ -2806,36 +2806,6 @@
     ]
   },
   {
-    "id": 43,
-    "name": "Deus Ex: Human Revolution",
-    "posters": [
-      "data/covers/43.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/0ff8033cf9437c213ee13937b1c4c455.png",
-      "https://cdn2.steamgriddb.com/hero/90fd4f88f588ae64038134f1eeaa023f.png",
-      "https://cdn2.steamgriddb.com/hero/3cce7df3fe2fd70bd214726f58d08fa4.png",
-      "https://cdn2.steamgriddb.com/hero/8171ac2c5544a5cb54ac0f38bf477af4.png",
-      "https://cdn2.steamgriddb.com/hero/b83aac23b9528732c23cc7352950e880.jpg",
-      "https://cdn2.steamgriddb.com/hero/b6a1085a27ab7bff7550f8a3bd017df8.jpg",
-      "https://cdn2.steamgriddb.com/hero/3cd9fd588c126cc9043850408c2c19ab.png",
-      "https://cdn2.steamgriddb.com/hero/5a9542c773018268fc6271f7afeea969.png"
-    ],
-    "releaseYear": 2011,
-    "rating": 88,
-    "platforms": [
-      "PlayStation 3",
-      "PC (Microsoft Windows)",
-      "Mac",
-      "Xbox 360"
-    ],
-    "genres": [
-      "Shooter",
-      "Puzzle",
-      "Role-playing (RPG)"
-    ]
-  },
-  {
     "id": 41,
     "name": "Deus Ex",
     "posters": [
@@ -2891,6 +2861,36 @@
     "genres": [
       "Puzzle",
       "Adventure"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Deus Ex: Human Revolution",
+    "posters": [
+      "data/covers/43.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/0ff8033cf9437c213ee13937b1c4c455.png",
+      "https://cdn2.steamgriddb.com/hero/90fd4f88f588ae64038134f1eeaa023f.png",
+      "https://cdn2.steamgriddb.com/hero/3cce7df3fe2fd70bd214726f58d08fa4.png",
+      "https://cdn2.steamgriddb.com/hero/8171ac2c5544a5cb54ac0f38bf477af4.png",
+      "https://cdn2.steamgriddb.com/hero/b83aac23b9528732c23cc7352950e880.jpg",
+      "https://cdn2.steamgriddb.com/hero/b6a1085a27ab7bff7550f8a3bd017df8.jpg",
+      "https://cdn2.steamgriddb.com/hero/3cd9fd588c126cc9043850408c2c19ab.png",
+      "https://cdn2.steamgriddb.com/hero/5a9542c773018268fc6271f7afeea969.png"
+    ],
+    "releaseYear": 2011,
+    "rating": 88,
+    "platforms": [
+      "PlayStation 3",
+      "PC (Microsoft Windows)",
+      "Mac",
+      "Xbox 360"
+    ],
+    "genres": [
+      "Shooter",
+      "Puzzle",
+      "Role-playing (RPG)"
     ]
   },
   {
@@ -3616,8 +3616,8 @@
       "https://cdn2.steamgriddb.com/hero/b1553ff2787f1055807a8058fe1f8d99.png",
       "https://cdn2.steamgriddb.com/hero/d5e714549e9937f437d4fc2edf35b8fb.jpg",
       "https://cdn2.steamgriddb.com/hero/a3e76dbd0758435d572478d9df74f409.png",
-      "https://cdn2.steamgriddb.com/hero/b98ee86215125aa5b01966e7891a4cf7.png",
-      "https://cdn2.steamgriddb.com/hero/c4539e880b908ad22a401caf9046d152.jpg"
+      "https://cdn2.steamgriddb.com/hero/c4539e880b908ad22a401caf9046d152.jpg",
+      "https://cdn2.steamgriddb.com/hero/7f01c939761597f9b832694d4c381512.jpg"
     ],
     "releaseYear": 2012,
     "rating": 86,
@@ -4610,34 +4610,6 @@
     ]
   },
   {
-    "id": 120710,
-    "name": "The Henry Stickmin Collection",
-    "posters": [
-      "data/covers/120710.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/b4366e4f7a98b9d6f8ff252be7206253.png",
-      "https://cdn2.steamgriddb.com/hero/d0cefa43d15f7e4b74ae21595155ec91.png",
-      "https://cdn2.steamgriddb.com/hero/1a95a20ee480d3c53bd76874aaf30773.png",
-      "https://cdn2.steamgriddb.com/hero/3ac1ebdc2f397eca8228042ec9c52c2f.png",
-      "https://cdn2.steamgriddb.com/hero/92a69ed33c2cf792dc965b0b6b12300d.png",
-      "https://cdn2.steamgriddb.com/hero/ab5b1583bea4ebb1f7e976e1f4d70515.png",
-      "https://cdn2.steamgriddb.com/hero/cb82127db0399cbeaca2988d3ad8e000.jpg",
-      "https://cdn2.steamgriddb.com/hero/de673d31baeae5f044e0e13816fd6646.png"
-    ],
-    "releaseYear": 2020,
-    "rating": 91,
-    "platforms": [
-      "PC (Microsoft Windows)",
-      "Mac"
-    ],
-    "genres": [
-      "Point-and-click",
-      "Adventure",
-      "Indie"
-    ]
-  },
-  {
     "id": 236663,
     "name": "Metroid Prime Remastered",
     "posters": [
@@ -4998,6 +4970,33 @@
     ]
   },
   {
+    "id": 168670,
+    "name": "Uncharted: Legacy of Thieves Collection",
+    "posters": [
+      "data/covers/168670.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/02d3465230b21c8a7732d411b87a7ca5.jpg",
+      "https://cdn2.steamgriddb.com/hero/88a9401beac028d192ea33b2e3d081ef.png",
+      "https://cdn2.steamgriddb.com/hero/7d66788d9bbbdc992995a492075269a5.jpg",
+      "https://cdn2.steamgriddb.com/hero/99665b901ab21d09dab51ca2f581d777.jpg",
+      "https://cdn2.steamgriddb.com/hero/9398f589012c416aefc7eeb6384bfef1.jpg",
+      "https://cdn2.steamgriddb.com/hero/dad7e851012c3d9c094e3c0702b089d6.png",
+      "https://cdn2.steamgriddb.com/hero/8dbc97d9720940c30d0c7ffec4ba41c7.jpg",
+      "https://cdn2.steamgriddb.com/hero/f4e633b10673114696d47aec0fb50c2f.jpg"
+    ],
+    "releaseYear": 2022,
+    "rating": 90,
+    "platforms": [
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Shooter",
+      "Adventure"
+    ]
+  },
+  {
     "id": 135999,
     "name": "Tetris Effect: Connected",
     "posters": [
@@ -5031,33 +5030,6 @@
       "Puzzle",
       "Indie",
       "Arcade"
-    ]
-  },
-  {
-    "id": 168670,
-    "name": "Uncharted: Legacy of Thieves Collection",
-    "posters": [
-      "data/covers/168670.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/02d3465230b21c8a7732d411b87a7ca5.jpg",
-      "https://cdn2.steamgriddb.com/hero/88a9401beac028d192ea33b2e3d081ef.png",
-      "https://cdn2.steamgriddb.com/hero/7d66788d9bbbdc992995a492075269a5.jpg",
-      "https://cdn2.steamgriddb.com/hero/99665b901ab21d09dab51ca2f581d777.jpg",
-      "https://cdn2.steamgriddb.com/hero/9398f589012c416aefc7eeb6384bfef1.jpg",
-      "https://cdn2.steamgriddb.com/hero/dad7e851012c3d9c094e3c0702b089d6.png",
-      "https://cdn2.steamgriddb.com/hero/8dbc97d9720940c30d0c7ffec4ba41c7.jpg",
-      "https://cdn2.steamgriddb.com/hero/f4e633b10673114696d47aec0fb50c2f.jpg"
-    ],
-    "releaseYear": 2022,
-    "rating": 90,
-    "platforms": [
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Shooter",
-      "Adventure"
     ]
   },
   {
@@ -5113,35 +5085,6 @@
     ],
     "genres": [
       "Racing"
-    ]
-  },
-  {
-    "id": 279634,
-    "name": "Dragon Ball: Sparking! Zero",
-    "posters": [
-      "data/covers/279634.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/2d12729c665a9c1c3bda27ba1273154c.jpg",
-      "https://cdn2.steamgriddb.com/hero/c44b034dab0ecc0d163f3c01e388f8aa.png",
-      "https://cdn2.steamgriddb.com/hero/cef2465985311c2d8aa8cc9e89a0b17a.jpg",
-      "https://cdn2.steamgriddb.com/hero/05d4d1064a3f35425953bef00657d133.jpg",
-      "https://cdn2.steamgriddb.com/hero/13487cb401d0113ada148b8262c499a5.png",
-      "https://cdn2.steamgriddb.com/hero/3e8bd7e8026b87e3f4b8c92203516000.png",
-      "https://cdn2.steamgriddb.com/hero/a530344ef42250d0dd3371bd31245f27.png",
-      "https://cdn2.steamgriddb.com/hero/38c0bb6153a37c4f42fbe27a45e3b51f.jpg"
-    ],
-    "releaseYear": 2024,
-    "rating": 89,
-    "platforms": [
-      "Xbox Series X|S",
-      "Nintendo Switch 2",
-      "PC (Microsoft Windows)",
-      "PlayStation 5",
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Fighting"
     ]
   },
   {
@@ -5269,6 +5212,35 @@
     ]
   },
   {
+    "id": 144024,
+    "name": "Final Fantasy VII Remake Intergrade",
+    "posters": [
+      "data/covers/144024.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/dc25bde4ace85bea2546fe382b8b8488.png",
+      "https://cdn2.steamgriddb.com/hero/d3461f335ae23337802adafac2653ecd.png",
+      "https://cdn2.steamgriddb.com/hero/a79b77a836a4cac1c64791a6ec7844fa.jpg",
+      "https://cdn2.steamgriddb.com/hero/992e801c9b969f93e54fb91fcca305f8.png",
+      "https://cdn2.steamgriddb.com/hero/af53aa7073dfd26c04ac4055055dd716.png",
+      "https://cdn2.steamgriddb.com/hero/1124225a47b3f07185073f3df3b449bf.png",
+      "https://cdn2.steamgriddb.com/hero/d0ed3ce01aa99d5f4101b196e85fba3a.png",
+      "https://cdn2.steamgriddb.com/hero/5160bab035bf7fbafe9cf178db1a44c4.jpg"
+    ],
+    "releaseYear": 2021,
+    "rating": 89,
+    "platforms": [
+      "Xbox Series X|S",
+      "Nintendo Switch 2",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Adventure"
+    ]
+  },
+  {
     "id": 149657,
     "name": "Blue Prince",
     "posters": [
@@ -5322,35 +5294,6 @@
       "Puzzle",
       "Adventure",
       "Indie"
-    ]
-  },
-  {
-    "id": 144024,
-    "name": "Final Fantasy VII Remake Intergrade",
-    "posters": [
-      "data/covers/144024.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/dc25bde4ace85bea2546fe382b8b8488.png",
-      "https://cdn2.steamgriddb.com/hero/d3461f335ae23337802adafac2653ecd.png",
-      "https://cdn2.steamgriddb.com/hero/a79b77a836a4cac1c64791a6ec7844fa.jpg",
-      "https://cdn2.steamgriddb.com/hero/992e801c9b969f93e54fb91fcca305f8.png",
-      "https://cdn2.steamgriddb.com/hero/af53aa7073dfd26c04ac4055055dd716.png",
-      "https://cdn2.steamgriddb.com/hero/1124225a47b3f07185073f3df3b449bf.png",
-      "https://cdn2.steamgriddb.com/hero/d0ed3ce01aa99d5f4101b196e85fba3a.png",
-      "https://cdn2.steamgriddb.com/hero/5160bab035bf7fbafe9cf178db1a44c4.jpg"
-    ],
-    "releaseYear": 2021,
-    "rating": 89,
-    "platforms": [
-      "Xbox Series X|S",
-      "Nintendo Switch 2",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Adventure"
     ]
   },
   {
@@ -5481,32 +5424,6 @@
     ]
   },
   {
-    "id": 119295,
-    "name": "Microsoft Flight Simulator",
-    "posters": [
-      "data/covers/119295.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/2dc78e6026928309d3d26dc6dbd0276e.jpg",
-      "https://cdn2.steamgriddb.com/hero/c65db23b93631916f5bb31abf24462b8.png",
-      "https://cdn2.steamgriddb.com/hero/9e8f0a810171c43d0a37500a8a1c647d.jpg",
-      "https://cdn2.steamgriddb.com/hero/26c5553872d3a2e9df90b8f8ffb615c5.png",
-      "https://cdn2.steamgriddb.com/hero/9f28ce601456bfd8b7f85790de26c1a6.jpg",
-      "https://cdn2.steamgriddb.com/hero/8a74bb4bae7d22a9f29f878e665a31c4.jpg",
-      "https://cdn2.steamgriddb.com/hero/870204ec2caac44bdaf843af98f0df7a.jpg",
-      "https://cdn2.steamgriddb.com/hero/9ada1e20aaf877196658f9a6b050c46d.jpg"
-    ],
-    "releaseYear": 2020,
-    "rating": 88,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)"
-    ],
-    "genres": [
-      "Simulator"
-    ]
-  },
-  {
     "id": 252647,
     "name": "Persona 3 Reload",
     "posters": [
@@ -5538,33 +5455,57 @@
     ]
   },
   {
-    "id": 125642,
-    "name": "Path of Exile 2",
+    "id": 119295,
+    "name": "Microsoft Flight Simulator",
     "posters": [
-      "data/covers/125642.jpg"
+      "data/covers/119295.jpg"
     ],
     "heroes": [
-      "https://cdn2.steamgriddb.com/hero/0496f9b544243ec5dff64344d1477858.png",
-      "https://cdn2.steamgriddb.com/hero/c2cb5756ab726e065755c4743ef4cb87.png",
-      "https://cdn2.steamgriddb.com/hero/16228c0b296eb1e41d6820f27059bf40.png",
-      "https://cdn2.steamgriddb.com/hero/daf3a8509903b9dc5c719d644505bd4e.png",
-      "https://cdn2.steamgriddb.com/hero/23ca2bc6358b97b675c4c10d2cc58761.png",
-      "https://cdn2.steamgriddb.com/hero/7f4c930feecc8cf0591498c3ccfdba1e.png",
-      "https://cdn2.steamgriddb.com/hero/aab6ed1b64428873672ae553aac1efe7.png",
-      "https://cdn2.steamgriddb.com/hero/3778f23c520d750708cec1c8c3118688.png"
+      "https://cdn2.steamgriddb.com/hero/2dc78e6026928309d3d26dc6dbd0276e.jpg",
+      "https://cdn2.steamgriddb.com/hero/c65db23b93631916f5bb31abf24462b8.png",
+      "https://cdn2.steamgriddb.com/hero/9e8f0a810171c43d0a37500a8a1c647d.jpg",
+      "https://cdn2.steamgriddb.com/hero/26c5553872d3a2e9df90b8f8ffb615c5.png",
+      "https://cdn2.steamgriddb.com/hero/9f28ce601456bfd8b7f85790de26c1a6.jpg",
+      "https://cdn2.steamgriddb.com/hero/8a74bb4bae7d22a9f29f878e665a31c4.jpg",
+      "https://cdn2.steamgriddb.com/hero/870204ec2caac44bdaf843af98f0df7a.jpg",
+      "https://cdn2.steamgriddb.com/hero/9ada1e20aaf877196658f9a6b050c46d.jpg"
     ],
-    "releaseYear": 2024,
+    "releaseYear": 2020,
     "rating": 88,
     "platforms": [
       "Xbox Series X|S",
+      "PC (Microsoft Windows)"
+    ],
+    "genres": [
+      "Simulator"
+    ]
+  },
+  {
+    "id": 120710,
+    "name": "The Henry Stickmin Collection",
+    "posters": [
+      "data/covers/120710.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/b4366e4f7a98b9d6f8ff252be7206253.png",
+      "https://cdn2.steamgriddb.com/hero/d0cefa43d15f7e4b74ae21595155ec91.png",
+      "https://cdn2.steamgriddb.com/hero/1a95a20ee480d3c53bd76874aaf30773.png",
+      "https://cdn2.steamgriddb.com/hero/3ac1ebdc2f397eca8228042ec9c52c2f.png",
+      "https://cdn2.steamgriddb.com/hero/92a69ed33c2cf792dc965b0b6b12300d.png",
+      "https://cdn2.steamgriddb.com/hero/ab5b1583bea4ebb1f7e976e1f4d70515.png",
+      "https://cdn2.steamgriddb.com/hero/cb82127db0399cbeaca2988d3ad8e000.jpg",
+      "https://cdn2.steamgriddb.com/hero/de673d31baeae5f044e0e13816fd6646.png"
+    ],
+    "releaseYear": 2020,
+    "rating": 88,
+    "platforms": [
       "PC (Microsoft Windows)",
-      "PlayStation 5",
       "Mac"
     ],
     "genres": [
-      "Role-playing (RPG)",
-      "Hack and slash/Beat 'em up",
-      "Adventure"
+      "Point-and-click",
+      "Adventure",
+      "Indie"
     ]
   },
   {
@@ -5617,6 +5558,36 @@
       "Xbox Series X|S",
       "PC (Microsoft Windows)",
       "PlayStation 5"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Hack and slash/Beat 'em up",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 125642,
+    "name": "Path of Exile 2",
+    "posters": [
+      "data/covers/125642.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/0496f9b544243ec5dff64344d1477858.png",
+      "https://cdn2.steamgriddb.com/hero/c2cb5756ab726e065755c4743ef4cb87.png",
+      "https://cdn2.steamgriddb.com/hero/16228c0b296eb1e41d6820f27059bf40.png",
+      "https://cdn2.steamgriddb.com/hero/daf3a8509903b9dc5c719d644505bd4e.png",
+      "https://cdn2.steamgriddb.com/hero/23ca2bc6358b97b675c4c10d2cc58761.png",
+      "https://cdn2.steamgriddb.com/hero/7f4c930feecc8cf0591498c3ccfdba1e.png",
+      "https://cdn2.steamgriddb.com/hero/aab6ed1b64428873672ae553aac1efe7.png",
+      "https://cdn2.steamgriddb.com/hero/3778f23c520d750708cec1c8c3118688.png"
+    ],
+    "releaseYear": 2024,
+    "rating": 88,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5",
+      "Mac"
     ],
     "genres": [
       "Role-playing (RPG)",
@@ -5681,36 +5652,6 @@
     "genres": [
       "Role-playing (RPG)",
       "Adventure"
-    ]
-  },
-  {
-    "id": 166722,
-    "name": "The Case of the Golden Idol",
-    "posters": [
-      "data/covers/166722.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/db4f7695d3dc40726311747633e3fca6.png",
-      "https://cdn2.steamgriddb.com/hero/41fbbc33ee9376b64336a6ceb21ec76b.png"
-    ],
-    "releaseYear": 2022,
-    "rating": 88,
-    "platforms": [
-      "Xbox Series X|S",
-      "PlayStation 4",
-      "Android",
-      "PC (Microsoft Windows)",
-      "iOS",
-      "PlayStation 5",
-      "Mac",
-      "Xbox One",
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Point-and-click",
-      "Puzzle",
-      "Adventure",
-      "Indie"
     ]
   },
   {
@@ -5799,31 +5740,33 @@
     ]
   },
   {
-    "id": 31551,
-    "name": "Final Fantasy XVI",
+    "id": 166722,
+    "name": "The Case of the Golden Idol",
     "posters": [
-      "data/covers/31551.jpg"
+      "data/covers/166722.jpg"
     ],
     "heroes": [
-      "https://cdn2.steamgriddb.com/hero/2922207bf47569056f4252d168e17d07.png",
-      "https://cdn2.steamgriddb.com/hero/b80f5fa15a1d40b33245084686ebeac2.png",
-      "https://cdn2.steamgriddb.com/hero/38d293713c7d61963d583f339409abc3.png",
-      "https://cdn2.steamgriddb.com/hero/cfa9eb4df5bdf3aea7b8b139e42b7090.jpg",
-      "https://cdn2.steamgriddb.com/hero/e2f232687833a4fd8664f759d6474309.jpg",
-      "https://cdn2.steamgriddb.com/hero/4bfbcd81e0bab6d6cb459d53f116979a.jpg",
-      "https://cdn2.steamgriddb.com/hero/bfecd58da2f3d526a44157fbd6a11cf6.png",
-      "https://cdn2.steamgriddb.com/hero/cbc7bb0e27984e15dc44748102d6596c.png"
+      "https://cdn2.steamgriddb.com/hero/db4f7695d3dc40726311747633e3fca6.png",
+      "https://cdn2.steamgriddb.com/hero/41fbbc33ee9376b64336a6ceb21ec76b.png"
     ],
-    "releaseYear": 2023,
-    "rating": 87,
+    "releaseYear": 2022,
+    "rating": 88,
     "platforms": [
       "Xbox Series X|S",
+      "PlayStation 4",
+      "Android",
       "PC (Microsoft Windows)",
-      "PlayStation 5"
+      "iOS",
+      "PlayStation 5",
+      "Mac",
+      "Xbox One",
+      "Nintendo Switch"
     ],
     "genres": [
-      "Role-playing (RPG)",
-      "Adventure"
+      "Point-and-click",
+      "Puzzle",
+      "Adventure",
+      "Indie"
     ]
   },
   {
@@ -5855,6 +5798,34 @@
     ],
     "genres": [
       "Platform",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 31551,
+    "name": "Final Fantasy XVI",
+    "posters": [
+      "data/covers/31551.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/2922207bf47569056f4252d168e17d07.png",
+      "https://cdn2.steamgriddb.com/hero/b80f5fa15a1d40b33245084686ebeac2.png",
+      "https://cdn2.steamgriddb.com/hero/38d293713c7d61963d583f339409abc3.png",
+      "https://cdn2.steamgriddb.com/hero/cfa9eb4df5bdf3aea7b8b139e42b7090.jpg",
+      "https://cdn2.steamgriddb.com/hero/e2f232687833a4fd8664f759d6474309.jpg",
+      "https://cdn2.steamgriddb.com/hero/4bfbcd81e0bab6d6cb459d53f116979a.jpg",
+      "https://cdn2.steamgriddb.com/hero/bfecd58da2f3d526a44157fbd6a11cf6.png",
+      "https://cdn2.steamgriddb.com/hero/cbc7bb0e27984e15dc44748102d6596c.png"
+    ],
+    "releaseYear": 2023,
+    "rating": 87,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
       "Adventure"
     ]
   },
@@ -5919,6 +5890,40 @@
     ]
   },
   {
+    "id": 194821,
+    "name": "Nine Sols",
+    "posters": [
+      "data/covers/194821.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/d692ac7798fc83dfbd340003112084f7.png",
+      "https://cdn2.steamgriddb.com/hero/0218a173ca02d7c2036ab4ba42911b8e.png",
+      "https://cdn2.steamgriddb.com/hero/cff6ebf011d28a7adbdbe34fed74881f.png",
+      "https://cdn2.steamgriddb.com/hero/98d097683939501582a4f9ce1253851a.jpg",
+      "https://cdn2.steamgriddb.com/hero/9d1ee8cad78f6062a99c870394d35bae.png",
+      "https://cdn2.steamgriddb.com/hero/716ceafa7f37de96996b0154686fdcf2.png",
+      "https://cdn2.steamgriddb.com/hero/7a5efbe8db5b7092566da85315df3ee8.png",
+      "https://cdn2.steamgriddb.com/hero/7ead969cd27b943111faf6651224f092.png"
+    ],
+    "releaseYear": 2024,
+    "rating": 87,
+    "platforms": [
+      "Xbox Series X|S",
+      "PlayStation 4",
+      "PC (Microsoft Windows)",
+      "PlayStation 5",
+      "Mac",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Platform",
+      "Hack and slash/Beat 'em up",
+      "Adventure",
+      "Indie"
+    ]
+  },
+  {
     "id": 203722,
     "name": "Dave the Diver",
     "posters": [
@@ -5954,40 +5959,6 @@
     ]
   },
   {
-    "id": 194821,
-    "name": "Nine Sols",
-    "posters": [
-      "data/covers/194821.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/d692ac7798fc83dfbd340003112084f7.png",
-      "https://cdn2.steamgriddb.com/hero/0218a173ca02d7c2036ab4ba42911b8e.png",
-      "https://cdn2.steamgriddb.com/hero/cff6ebf011d28a7adbdbe34fed74881f.png",
-      "https://cdn2.steamgriddb.com/hero/98d097683939501582a4f9ce1253851a.jpg",
-      "https://cdn2.steamgriddb.com/hero/9d1ee8cad78f6062a99c870394d35bae.png",
-      "https://cdn2.steamgriddb.com/hero/716ceafa7f37de96996b0154686fdcf2.png",
-      "https://cdn2.steamgriddb.com/hero/7a5efbe8db5b7092566da85315df3ee8.png",
-      "https://cdn2.steamgriddb.com/hero/7ead969cd27b943111faf6651224f092.png"
-    ],
-    "releaseYear": 2024,
-    "rating": 87,
-    "platforms": [
-      "Xbox Series X|S",
-      "PlayStation 4",
-      "PC (Microsoft Windows)",
-      "PlayStation 5",
-      "Mac",
-      "Xbox One",
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Platform",
-      "Hack and slash/Beat 'em up",
-      "Adventure",
-      "Indie"
-    ]
-  },
-  {
     "id": 104967,
     "name": "Valheim",
     "posters": [
@@ -6003,7 +5974,7 @@
       "https://cdn2.steamgriddb.com/hero/1de70b84bc03fce46e2ce689abd99479.jpg",
       "https://cdn2.steamgriddb.com/hero/d0ceaba6d228fd9ad99831d5df783c7c.png"
     ],
-    "releaseYear": 2021,
+    "releaseYear": 2026,
     "rating": 87,
     "platforms": [
       "Xbox Series X|S",
@@ -6117,32 +6088,6 @@
     ]
   },
   {
-    "id": 152288,
-    "name": "Immortality",
-    "posters": [
-      "data/covers/152288.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/a5362e8ba96b8ff0e70419048cc03bcb.png",
-      "https://cdn2.steamgriddb.com/hero/a9dd0997b8d8d9a47c9a42aecb811e57.jpg"
-    ],
-    "releaseYear": 2022,
-    "rating": 87,
-    "platforms": [
-      "Xbox Series X|S",
-      "Android",
-      "PC (Microsoft Windows)",
-      "iOS",
-      "PlayStation 5",
-      "Mac"
-    ],
-    "genres": [
-      "Point-and-click",
-      "Simulator",
-      "Indie"
-    ]
-  },
-  {
     "id": 135818,
     "name": "Pizza Tower",
     "posters": [
@@ -6202,6 +6147,61 @@
       "Hack and slash/Beat 'em up",
       "Adventure",
       "Indie"
+    ]
+  },
+  {
+    "id": 152288,
+    "name": "Immortality",
+    "posters": [
+      "data/covers/152288.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/a5362e8ba96b8ff0e70419048cc03bcb.png",
+      "https://cdn2.steamgriddb.com/hero/a9dd0997b8d8d9a47c9a42aecb811e57.jpg"
+    ],
+    "releaseYear": 2022,
+    "rating": 87,
+    "platforms": [
+      "Xbox Series X|S",
+      "Android",
+      "PC (Microsoft Windows)",
+      "iOS",
+      "PlayStation 5",
+      "Mac"
+    ],
+    "genres": [
+      "Point-and-click",
+      "Simulator",
+      "Indie"
+    ]
+  },
+  {
+    "id": 279634,
+    "name": "Dragon Ball: Sparking! Zero",
+    "posters": [
+      "data/covers/279634.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/2d12729c665a9c1c3bda27ba1273154c.jpg",
+      "https://cdn2.steamgriddb.com/hero/c44b034dab0ecc0d163f3c01e388f8aa.png",
+      "https://cdn2.steamgriddb.com/hero/cef2465985311c2d8aa8cc9e89a0b17a.jpg",
+      "https://cdn2.steamgriddb.com/hero/05d4d1064a3f35425953bef00657d133.jpg",
+      "https://cdn2.steamgriddb.com/hero/13487cb401d0113ada148b8262c499a5.png",
+      "https://cdn2.steamgriddb.com/hero/3e8bd7e8026b87e3f4b8c92203516000.png",
+      "https://cdn2.steamgriddb.com/hero/a530344ef42250d0dd3371bd31245f27.png",
+      "https://cdn2.steamgriddb.com/hero/38c0bb6153a37c4f42fbe27a45e3b51f.jpg"
+    ],
+    "releaseYear": 2024,
+    "rating": 87,
+    "platforms": [
+      "Xbox Series X|S",
+      "Nintendo Switch 2",
+      "PC (Microsoft Windows)",
+      "PlayStation 5",
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Fighting"
     ]
   },
   {
@@ -6319,37 +6319,6 @@
     "genres": [
       "Fighting",
       "Arcade"
-    ]
-  },
-  {
-    "id": 204623,
-    "name": "Pentiment",
-    "posters": [
-      "data/covers/204623.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/8a6183976635a6f65a96c2a62305c63a.png",
-      "https://cdn2.steamgriddb.com/hero/aaab51bf65c6a69f2cf1738b4bcb63b4.png",
-      "https://cdn2.steamgriddb.com/hero/092b649487e732e7518908665d81cb07.png",
-      "https://cdn2.steamgriddb.com/hero/32df15b04f45c9942a34c07511dc6251.png",
-      "https://cdn2.steamgriddb.com/hero/4b6f74dfb95b77d5c9de5489e67069e4.png",
-      "https://cdn2.steamgriddb.com/hero/23214ef2cb717699803844bb75495dd0.png",
-      "https://cdn2.steamgriddb.com/hero/099c0495c26e69183fc32946d81ca51d.png"
-    ],
-    "releaseYear": 2022,
-    "rating": 86,
-    "platforms": [
-      "Xbox Series X|S",
-      "PlayStation 4",
-      "PC (Microsoft Windows)",
-      "PlayStation 5",
-      "Xbox One",
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Puzzle",
-      "Role-playing (RPG)",
-      "Adventure"
     ]
   },
   {
@@ -6507,6 +6476,68 @@
       "Puzzle",
       "Adventure",
       "Indie"
+    ]
+  },
+  {
+    "id": 195517,
+    "name": "Return to Monkey Island",
+    "posters": [
+      "data/covers/195517.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/362ecba8def0b49f92307e8f0927ec43.png",
+      "https://cdn2.steamgriddb.com/hero/6201006ca73bfb4966550c5228932da6.jpg",
+      "https://cdn2.steamgriddb.com/hero/095e0c0ae17515306ad9a09cc74aef49.jpg",
+      "https://cdn2.steamgriddb.com/hero/d4cd019bd8c10650e4c1c05beddca082.png",
+      "https://cdn2.steamgriddb.com/hero/a34dfbef5668442567f72da5dfe506a0.png"
+    ],
+    "releaseYear": 2022,
+    "rating": 86,
+    "platforms": [
+      "Xbox Series X|S",
+      "Linux",
+      "Android",
+      "PC (Microsoft Windows)",
+      "iOS",
+      "PlayStation 5",
+      "Mac",
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Point-and-click",
+      "Puzzle",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 204623,
+    "name": "Pentiment",
+    "posters": [
+      "data/covers/204623.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/8a6183976635a6f65a96c2a62305c63a.png",
+      "https://cdn2.steamgriddb.com/hero/aaab51bf65c6a69f2cf1738b4bcb63b4.png",
+      "https://cdn2.steamgriddb.com/hero/092b649487e732e7518908665d81cb07.png",
+      "https://cdn2.steamgriddb.com/hero/32df15b04f45c9942a34c07511dc6251.png",
+      "https://cdn2.steamgriddb.com/hero/4b6f74dfb95b77d5c9de5489e67069e4.png",
+      "https://cdn2.steamgriddb.com/hero/23214ef2cb717699803844bb75495dd0.png",
+      "https://cdn2.steamgriddb.com/hero/099c0495c26e69183fc32946d81ca51d.png"
+    ],
+    "releaseYear": 2022,
+    "rating": 86,
+    "platforms": [
+      "Xbox Series X|S",
+      "PlayStation 4",
+      "PC (Microsoft Windows)",
+      "PlayStation 5",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Puzzle",
+      "Role-playing (RPG)",
+      "Adventure"
     ]
   },
   {
@@ -6738,8 +6769,11 @@
     "rating": 0,
     "platforms": [
       "Xbox Series X|S",
+      "Nintendo Switch 2",
       "PC (Microsoft Windows)",
-      "PlayStation 5"
+      "PlayStation 5",
+      "Xbox One",
+      "Nintendo Switch"
     ],
     "genres": [
       "Point-and-click",
@@ -6905,7 +6939,9 @@
     "posters": [
       "data/covers/347869.jpg"
     ],
-    "heroes": [],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/2f2eb9099a6cfbba208113179bce672e.jpg"
+    ],
     "releaseYear": 2027,
     "rating": 0,
     "platforms": [
@@ -6993,25 +7029,6 @@
     ]
   },
   {
-    "id": 252840,
-    "name": "Clockwork Revolution",
-    "posters": [
-      "data/covers/252840.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/fc42f2114057ed36c8a40034814c8d93.jpg"
-    ],
-    "releaseYear": 2027,
-    "rating": 0,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)"
-    ],
-    "genres": [
-      "Role-playing (RPG)"
-    ]
-  },
-  {
     "id": 404673,
     "name": "Resident Evil Veronica",
     "posters": [
@@ -7039,6 +7056,25 @@
       "Shooter",
       "Puzzle",
       "Adventure"
+    ]
+  },
+  {
+    "id": 252840,
+    "name": "Clockwork Revolution",
+    "posters": [
+      "data/covers/252840.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/fc42f2114057ed36c8a40034814c8d93.jpg"
+    ],
+    "releaseYear": 2027,
+    "rating": 0,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)"
+    ],
+    "genres": [
+      "Role-playing (RPG)"
     ]
   },
   {
