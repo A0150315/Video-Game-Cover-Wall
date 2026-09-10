@@ -2038,6 +2038,7 @@
     "platforms": [
       "Xbox Series X|S",
       "PlayStation 4",
+      "Nintendo Switch 2",
       "PC (Microsoft Windows)",
       "PlayStation 5",
       "Xbox One",
@@ -2342,6 +2343,33 @@
     ]
   },
   {
+    "id": 512,
+    "name": "Uncharted 3: Drake's Deception",
+    "posters": [
+      "data/covers/512.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/25397b4aa0a8d579b7f41bb0a4d5e1e3.png",
+      "https://cdn2.steamgriddb.com/hero/1b932eaf9f7c0cb84f471a560097ddb8.png",
+      "https://cdn2.steamgriddb.com/hero/e72f04340ba52eeb59aac43d472d1d31.png",
+      "https://cdn2.steamgriddb.com/hero/cce08058c7bf76a788543e4ff059b574.png",
+      "https://cdn2.steamgriddb.com/hero/c8245970f4b8928346f669bf62dbc288.png",
+      "https://cdn2.steamgriddb.com/hero/ff10bdb362b3ea4aa07fae2dcd78cf79.png",
+      "https://cdn2.steamgriddb.com/hero/6f7ed2665430436edf77b2c6d75740c7.png",
+      "https://cdn2.steamgriddb.com/hero/1fe165377d4907f0ea45a5397520b85c.png"
+    ],
+    "releaseYear": 2011,
+    "rating": 89,
+    "platforms": [
+      "PlayStation 3"
+    ],
+    "genres": [
+      "Shooter",
+      "Platform",
+      "Adventure"
+    ]
+  },
+  {
     "id": 1074,
     "name": "Super Mario 64",
     "posters": [
@@ -2393,33 +2421,6 @@
     "genres": [
       "Platform",
       "Puzzle",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 512,
-    "name": "Uncharted 3: Drake's Deception",
-    "posters": [
-      "data/covers/512.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/25397b4aa0a8d579b7f41bb0a4d5e1e3.png",
-      "https://cdn2.steamgriddb.com/hero/1b932eaf9f7c0cb84f471a560097ddb8.png",
-      "https://cdn2.steamgriddb.com/hero/e72f04340ba52eeb59aac43d472d1d31.png",
-      "https://cdn2.steamgriddb.com/hero/cce08058c7bf76a788543e4ff059b574.png",
-      "https://cdn2.steamgriddb.com/hero/c8245970f4b8928346f669bf62dbc288.png",
-      "https://cdn2.steamgriddb.com/hero/ff10bdb362b3ea4aa07fae2dcd78cf79.png",
-      "https://cdn2.steamgriddb.com/hero/6f7ed2665430436edf77b2c6d75740c7.png",
-      "https://cdn2.steamgriddb.com/hero/1fe165377d4907f0ea45a5397520b85c.png"
-    ],
-    "releaseYear": 2011,
-    "rating": 89,
-    "platforms": [
-      "PlayStation 3"
-    ],
-    "genres": [
-      "Shooter",
-      "Platform",
       "Adventure"
     ]
   },
@@ -3245,7 +3246,7 @@
       "https://cdn2.steamgriddb.com/hero/9d2987177c832d835ca5dd1291dae360.png"
     ],
     "releaseYear": 2009,
-    "rating": 87,
+    "rating": 88,
     "platforms": [
       "PlayStation 3",
       "Ouya",
@@ -3455,33 +3456,6 @@
     ]
   },
   {
-    "id": 990,
-    "name": "Halo: Reach",
-    "posters": [
-      "data/covers/990.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/644b522e92999426ab230d94a4bb4512.jpg",
-      "https://cdn2.steamgriddb.com/hero/515ab26c135e92ed8bf3a594d67e4ade.jpg",
-      "https://cdn2.steamgriddb.com/hero/7137debd45ae4d0ab9aa953017286b20.jpg",
-      "https://cdn2.steamgriddb.com/hero/25e2a30f44898b9f3e978b1786dcd85c.jpg",
-      "https://cdn2.steamgriddb.com/hero/74563ba21a90da13dacf2a73e3ddefa7.jpg",
-      "https://cdn2.steamgriddb.com/hero/3e7e0224018ab3cf51abb96464d518cd.jpg",
-      "https://cdn2.steamgriddb.com/hero/b0cf188d74589db9b23d5d277238a929.png",
-      "https://cdn2.steamgriddb.com/hero/178b0113689dce8a7e48360c3886dc99.png"
-    ],
-    "releaseYear": 2010,
-    "rating": 87,
-    "platforms": [
-      "PC (Microsoft Windows)",
-      "Xbox 360",
-      "Xbox One"
-    ],
-    "genres": [
-      "Shooter"
-    ]
-  },
-  {
     "id": 1628,
     "name": "Super Smash Bros. Brawl",
     "posters": [
@@ -3531,6 +3505,33 @@
     "genres": [
       "Fighting",
       "Platform"
+    ]
+  },
+  {
+    "id": 990,
+    "name": "Halo: Reach",
+    "posters": [
+      "data/covers/990.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/644b522e92999426ab230d94a4bb4512.jpg",
+      "https://cdn2.steamgriddb.com/hero/515ab26c135e92ed8bf3a594d67e4ade.jpg",
+      "https://cdn2.steamgriddb.com/hero/7137debd45ae4d0ab9aa953017286b20.jpg",
+      "https://cdn2.steamgriddb.com/hero/25e2a30f44898b9f3e978b1786dcd85c.jpg",
+      "https://cdn2.steamgriddb.com/hero/74563ba21a90da13dacf2a73e3ddefa7.jpg",
+      "https://cdn2.steamgriddb.com/hero/3e7e0224018ab3cf51abb96464d518cd.jpg",
+      "https://cdn2.steamgriddb.com/hero/b0cf188d74589db9b23d5d277238a929.png",
+      "https://cdn2.steamgriddb.com/hero/178b0113689dce8a7e48360c3886dc99.png"
+    ],
+    "releaseYear": 2010,
+    "rating": 87,
+    "platforms": [
+      "PC (Microsoft Windows)",
+      "Xbox 360",
+      "Xbox One"
+    ],
+    "genres": [
+      "Shooter"
     ]
   },
   {
@@ -4371,6 +4372,7 @@
     "rating": 93,
     "platforms": [
       "Xbox Series X|S",
+      "Nintendo Switch 2",
       "PC (Microsoft Windows)",
       "PlayStation 5"
     ],
@@ -5830,6 +5832,39 @@
     ]
   },
   {
+    "id": 104967,
+    "name": "Valheim",
+    "posters": [
+      "data/covers/104967.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/41c5d1b3d528eb912e486ad35dfaec92.png",
+      "https://cdn2.steamgriddb.com/hero/4804fe705dd45e8072df0745cbcfc21a.png",
+      "https://cdn2.steamgriddb.com/hero/d9a2872036bccc295e23b8f8662143d0.jpg",
+      "https://cdn2.steamgriddb.com/hero/1146d96286ade57a9fa715376dae4c20.png",
+      "https://cdn2.steamgriddb.com/hero/9e2769801a380e29acd1fbd62159754a.png",
+      "https://cdn2.steamgriddb.com/hero/732f4bddc863c769ab0686364f114b8b.png",
+      "https://cdn2.steamgriddb.com/hero/ef74ea49f0411c79754f2df37c2b45ae.jpg",
+      "https://cdn2.steamgriddb.com/hero/1de70b84bc03fce46e2ce689abd99479.jpg"
+    ],
+    "releaseYear": 2026,
+    "rating": 87,
+    "platforms": [
+      "Xbox Series X|S",
+      "Linux",
+      "Nintendo Switch 2",
+      "PC (Microsoft Windows)",
+      "PlayStation 5",
+      "Mac",
+      "Xbox One"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Adventure",
+      "Indie"
+    ]
+  },
+  {
     "id": 124954,
     "name": "Crusader Kings III",
     "posters": [
@@ -5959,39 +5994,6 @@
     ]
   },
   {
-    "id": 104967,
-    "name": "Valheim",
-    "posters": [
-      "data/covers/104967.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/41c5d1b3d528eb912e486ad35dfaec92.png",
-      "https://cdn2.steamgriddb.com/hero/4804fe705dd45e8072df0745cbcfc21a.png",
-      "https://cdn2.steamgriddb.com/hero/d9a2872036bccc295e23b8f8662143d0.jpg",
-      "https://cdn2.steamgriddb.com/hero/1146d96286ade57a9fa715376dae4c20.png",
-      "https://cdn2.steamgriddb.com/hero/9e2769801a380e29acd1fbd62159754a.png",
-      "https://cdn2.steamgriddb.com/hero/ef74ea49f0411c79754f2df37c2b45ae.jpg",
-      "https://cdn2.steamgriddb.com/hero/1de70b84bc03fce46e2ce689abd99479.jpg",
-      "https://cdn2.steamgriddb.com/hero/d0ceaba6d228fd9ad99831d5df783c7c.png"
-    ],
-    "releaseYear": 2026,
-    "rating": 87,
-    "platforms": [
-      "Xbox Series X|S",
-      "Linux",
-      "Nintendo Switch 2",
-      "PC (Microsoft Windows)",
-      "PlayStation 5",
-      "Mac",
-      "Xbox One"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Adventure",
-      "Indie"
-    ]
-  },
-  {
     "id": 23733,
     "name": "Tunic",
     "posters": [
@@ -6085,6 +6087,34 @@
       "Adventure",
       "Indie",
       "Arcade"
+    ]
+  },
+  {
+    "id": 125633,
+    "name": "Crimson Desert",
+    "posters": [
+      "data/covers/125633.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/d38b254cb20fd15d4bab546f6d4dd959.jpg",
+      "https://cdn2.steamgriddb.com/hero/7d6f45e3fa9d8273cc53f15b18b78cf4.jpg",
+      "https://cdn2.steamgriddb.com/hero/ec554ba4356d497669326d0f332e0d6f.png",
+      "https://cdn2.steamgriddb.com/hero/11af2e35fe0228ff4a349714f3dde3d3.png",
+      "https://cdn2.steamgriddb.com/hero/cb51090e9c10cda176f81a7fa92c3dfc.jpg",
+      "https://cdn2.steamgriddb.com/hero/f0e3b2070332363c62650c7332911a80.png",
+      "https://cdn2.steamgriddb.com/hero/9bc88dfc094e4ab62c23c6bcc74ae41d.jpg",
+      "https://cdn2.steamgriddb.com/hero/338b5878e682cc64c0756deb09e695fd.jpg"
+    ],
+    "releaseYear": 2026,
+    "rating": 87,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5",
+      "Mac"
+    ],
+    "genres": [
+      "Adventure"
     ]
   },
   {
@@ -6262,34 +6292,6 @@
     ],
     "genres": [
       "Shooter"
-    ]
-  },
-  {
-    "id": 125633,
-    "name": "Crimson Desert",
-    "posters": [
-      "data/covers/125633.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/d38b254cb20fd15d4bab546f6d4dd959.jpg",
-      "https://cdn2.steamgriddb.com/hero/7d6f45e3fa9d8273cc53f15b18b78cf4.jpg",
-      "https://cdn2.steamgriddb.com/hero/ec554ba4356d497669326d0f332e0d6f.png",
-      "https://cdn2.steamgriddb.com/hero/11af2e35fe0228ff4a349714f3dde3d3.png",
-      "https://cdn2.steamgriddb.com/hero/cb51090e9c10cda176f81a7fa92c3dfc.jpg",
-      "https://cdn2.steamgriddb.com/hero/f0e3b2070332363c62650c7332911a80.png",
-      "https://cdn2.steamgriddb.com/hero/9bc88dfc094e4ab62c23c6bcc74ae41d.jpg",
-      "https://cdn2.steamgriddb.com/hero/338b5878e682cc64c0756deb09e695fd.jpg"
-    ],
-    "releaseYear": 2026,
-    "rating": 86,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5",
-      "Mac"
-    ],
-    "genres": [
-      "Adventure"
     ]
   },
   {
@@ -6781,30 +6783,6 @@
     ]
   },
   {
-    "id": 325611,
-    "name": "Intergalactic: The Heretic Prophet",
-    "posters": [
-      "data/covers/325611.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/a1c30ef970be784dc187651529af29e3.png",
-      "https://cdn2.steamgriddb.com/hero/68845343aca4867c6d08cc7022166781.png",
-      "https://cdn2.steamgriddb.com/hero/02a27f35ebd6ad1a81b19063bf8c6993.png",
-      "https://cdn2.steamgriddb.com/hero/09b5bc9e1efb9ca6f999b02c672f04e4.jpg",
-      "https://cdn2.steamgriddb.com/hero/569138f1070394bcde8bb3e35e580d6e.png",
-      "https://cdn2.steamgriddb.com/hero/2a4bba5048cca1b0f95335ccc6b6f225.jpg"
-    ],
-    "releaseYear": 2027,
-    "rating": 0,
-    "platforms": [
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Hack and slash/Beat 'em up",
-      "Adventure"
-    ]
-  },
-  {
     "id": 381235,
     "name": "Tomb Raider: Legacy of Atlantis",
     "posters": [
@@ -6831,6 +6809,30 @@
     "genres": [
       "Platform",
       "Puzzle",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 325611,
+    "name": "Intergalactic: The Heretic Prophet",
+    "posters": [
+      "data/covers/325611.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/a1c30ef970be784dc187651529af29e3.png",
+      "https://cdn2.steamgriddb.com/hero/68845343aca4867c6d08cc7022166781.png",
+      "https://cdn2.steamgriddb.com/hero/02a27f35ebd6ad1a81b19063bf8c6993.png",
+      "https://cdn2.steamgriddb.com/hero/09b5bc9e1efb9ca6f999b02c672f04e4.jpg",
+      "https://cdn2.steamgriddb.com/hero/569138f1070394bcde8bb3e35e580d6e.png",
+      "https://cdn2.steamgriddb.com/hero/2a4bba5048cca1b0f95335ccc6b6f225.jpg"
+    ],
+    "releaseYear": 2027,
+    "rating": 0,
+    "platforms": [
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Hack and slash/Beat 'em up",
       "Adventure"
     ]
   },
@@ -6956,34 +6958,6 @@
     ]
   },
   {
-    "id": 305160,
-    "name": "Gears of War: E-Day",
-    "posters": [
-      "data/covers/305160.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/25f9777d56ab959676a73e317c491e1a.png",
-      "https://cdn2.steamgriddb.com/hero/5125381e68c1ac901e9b4612e6797a1b.png",
-      "https://cdn2.steamgriddb.com/hero/07f2e0a88631dab56b6762b5d0267e4b.png",
-      "https://cdn2.steamgriddb.com/hero/8540838cbd094a70c6fc1686c80f5947.png",
-      "https://cdn2.steamgriddb.com/hero/92b5e71e9794efb2a6e0e2df8936e012.jpg",
-      "https://cdn2.steamgriddb.com/hero/1db7a1c9ef6838f83d9f6dafab946e17.jpg",
-      "https://cdn2.steamgriddb.com/hero/2b67ef2570ea954d5b8faf76e224cf48.jpg",
-      "https://cdn2.steamgriddb.com/hero/b6f0f53b7491b52746b63c8c7039d6b2.png"
-    ],
-    "releaseYear": 2026,
-    "rating": 0,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Shooter",
-      "Adventure"
-    ]
-  },
-  {
     "id": 325599,
     "name": "Stranger Than Heaven",
     "posters": [
@@ -7010,13 +6984,22 @@
     ]
   },
   {
-    "id": 228527,
-    "name": "Judas",
+    "id": 305160,
+    "name": "Gears of War: E-Day",
     "posters": [
-      "data/covers/228527.jpg"
+      "data/covers/305160.jpg"
     ],
-    "heroes": [],
-    "releaseYear": 0,
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/25f9777d56ab959676a73e317c491e1a.png",
+      "https://cdn2.steamgriddb.com/hero/5125381e68c1ac901e9b4612e6797a1b.png",
+      "https://cdn2.steamgriddb.com/hero/07f2e0a88631dab56b6762b5d0267e4b.png",
+      "https://cdn2.steamgriddb.com/hero/8540838cbd094a70c6fc1686c80f5947.png",
+      "https://cdn2.steamgriddb.com/hero/92b5e71e9794efb2a6e0e2df8936e012.jpg",
+      "https://cdn2.steamgriddb.com/hero/1db7a1c9ef6838f83d9f6dafab946e17.jpg",
+      "https://cdn2.steamgriddb.com/hero/2b67ef2570ea954d5b8faf76e224cf48.jpg",
+      "https://cdn2.steamgriddb.com/hero/b6f0f53b7491b52746b63c8c7039d6b2.png"
+    ],
+    "releaseYear": 2026,
     "rating": 0,
     "platforms": [
       "Xbox Series X|S",
@@ -7059,6 +7042,25 @@
     ]
   },
   {
+    "id": 228527,
+    "name": "Judas",
+    "posters": [
+      "data/covers/228527.jpg"
+    ],
+    "heroes": [],
+    "releaseYear": 0,
+    "rating": 0,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Shooter",
+      "Adventure"
+    ]
+  },
+  {
     "id": 252840,
     "name": "Clockwork Revolution",
     "posters": [
@@ -7075,6 +7077,34 @@
     ],
     "genres": [
       "Role-playing (RPG)"
+    ]
+  },
+  {
+    "id": 398225,
+    "name": "Metro 2039",
+    "posters": [
+      "data/covers/398225.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/a5ffb371628660680f9ee0baf043fb3c.jpg",
+      "https://cdn2.steamgriddb.com/hero/192443305db254afb8e532d00a34b4aa.jpg",
+      "https://cdn2.steamgriddb.com/hero/ea1f8e148cd9d42ec4ba0753f2e76b5f.png",
+      "https://cdn2.steamgriddb.com/hero/5505b04b0f722168f8ecda7712e8c2a8.png",
+      "https://cdn2.steamgriddb.com/hero/d029fb44c1e45326c0c011d48722fa68.jpg",
+      "https://cdn2.steamgriddb.com/hero/1ecb86c96dd62c982d40d0699fc5a156.jpg",
+      "https://cdn2.steamgriddb.com/hero/bcf01df2c389168594cb4f646c51e3bf.png",
+      "https://cdn2.steamgriddb.com/hero/9b60ae21f922beabfd5713248f3802d0.png"
+    ],
+    "releaseYear": 2027,
+    "rating": 0,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Shooter",
+      "Adventure"
     ]
   },
   {
@@ -7101,22 +7131,6 @@
       "Tactical",
       "Adventure",
       "MOBA"
-    ]
-  },
-  {
-    "id": 330379,
-    "name": "Fellowship",
-    "posters": [
-      "data/covers/330379.jpg"
-    ],
-    "heroes": [],
-    "releaseYear": 2025,
-    "rating": 0,
-    "platforms": [
-      "PC (Microsoft Windows)"
-    ],
-    "genres": [
-      "Role-playing (RPG)"
     ]
   },
   {
@@ -7147,31 +7161,19 @@
     ]
   },
   {
-    "id": 398225,
-    "name": "Metro 2039",
+    "id": 330379,
+    "name": "Fellowship",
     "posters": [
-      "data/covers/398225.jpg"
+      "data/covers/330379.jpg"
     ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/a5ffb371628660680f9ee0baf043fb3c.jpg",
-      "https://cdn2.steamgriddb.com/hero/192443305db254afb8e532d00a34b4aa.jpg",
-      "https://cdn2.steamgriddb.com/hero/ea1f8e148cd9d42ec4ba0753f2e76b5f.png",
-      "https://cdn2.steamgriddb.com/hero/5505b04b0f722168f8ecda7712e8c2a8.png",
-      "https://cdn2.steamgriddb.com/hero/d029fb44c1e45326c0c011d48722fa68.jpg",
-      "https://cdn2.steamgriddb.com/hero/1ecb86c96dd62c982d40d0699fc5a156.jpg",
-      "https://cdn2.steamgriddb.com/hero/bcf01df2c389168594cb4f646c51e3bf.png",
-      "https://cdn2.steamgriddb.com/hero/9b60ae21f922beabfd5713248f3802d0.png"
-    ],
-    "releaseYear": 2027,
+    "heroes": [],
+    "releaseYear": 2025,
     "rating": 0,
     "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
+      "PC (Microsoft Windows)"
     ],
     "genres": [
-      "Shooter",
-      "Adventure"
+      "Role-playing (RPG)"
     ]
   },
   {
