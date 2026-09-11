@@ -1047,12 +1047,12 @@
     ],
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/1595af6435015c77a7149e92a551338e.png",
+      "https://cdn2.steamgriddb.com/hero/f3d0c38aba71c170a70fc61c71db4e6f.png",
       "https://cdn2.steamgriddb.com/hero/6597e35504c82e2f89f20837fb631376.png",
-      "https://cdn2.steamgriddb.com/hero/f4655a2b707853f1b118e0dadc52f9ba.png",
       "https://cdn2.steamgriddb.com/hero/299024cfe2cd92197e0ab02d2421285c.png",
+      "https://cdn2.steamgriddb.com/hero/f4655a2b707853f1b118e0dadc52f9ba.png",
       "https://cdn2.steamgriddb.com/hero/4da04049a062f5adfe81b67dd755cecc.png",
       "https://cdn2.steamgriddb.com/hero/6e92962008491b24a803ff3b7d61734b.png",
-      "https://cdn2.steamgriddb.com/hero/f3d0c38aba71c170a70fc61c71db4e6f.png",
       "https://cdn2.steamgriddb.com/hero/dbb795db64c6ab685cc819262a4c36fc.png"
     ],
     "releaseYear": 1998,
@@ -1166,32 +1166,6 @@
     ]
   },
   {
-    "id": 7334,
-    "name": "Bloodborne",
-    "posters": [
-      "data/covers/7334.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/f20fd1e8deb34b1bc57a3146f2511eb2.png",
-      "https://cdn2.steamgriddb.com/hero/7500f543d4d00b34abc82287370d1b5d.jpg",
-      "https://cdn2.steamgriddb.com/hero/9b063c87efaca632b17a2a59a522f988.png",
-      "https://cdn2.steamgriddb.com/hero/cd8587e572c5d818e46ae458508f8462.png",
-      "https://cdn2.steamgriddb.com/hero/8138a8468133863b08806cde29342a09.png",
-      "https://cdn2.steamgriddb.com/hero/e76d88aeab47da20d61b1b489af1a281.png",
-      "https://cdn2.steamgriddb.com/hero/8a1276c25f5efe85f0fc4020fbf5b4f8.png",
-      "https://cdn2.steamgriddb.com/hero/19bcaf989e32ed60b579f6a4e950176a.jpg"
-    ],
-    "releaseYear": 2015,
-    "rating": 91,
-    "platforms": [
-      "PlayStation 4"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Adventure"
-    ]
-  },
-  {
     "id": 2899,
     "name": "EarthBound",
     "posters": [
@@ -1254,6 +1228,32 @@
       "Role-playing (RPG)",
       "Adventure",
       "Indie"
+    ]
+  },
+  {
+    "id": 7334,
+    "name": "Bloodborne",
+    "posters": [
+      "data/covers/7334.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/f20fd1e8deb34b1bc57a3146f2511eb2.png",
+      "https://cdn2.steamgriddb.com/hero/7500f543d4d00b34abc82287370d1b5d.jpg",
+      "https://cdn2.steamgriddb.com/hero/9b063c87efaca632b17a2a59a522f988.png",
+      "https://cdn2.steamgriddb.com/hero/cd8587e572c5d818e46ae458508f8462.png",
+      "https://cdn2.steamgriddb.com/hero/8138a8468133863b08806cde29342a09.png",
+      "https://cdn2.steamgriddb.com/hero/e76d88aeab47da20d61b1b489af1a281.png",
+      "https://cdn2.steamgriddb.com/hero/8a1276c25f5efe85f0fc4020fbf5b4f8.png",
+      "https://cdn2.steamgriddb.com/hero/19bcaf989e32ed60b579f6a4e950176a.jpg"
+    ],
+    "releaseYear": 2015,
+    "rating": 91,
+    "platforms": [
+      "PlayStation 4"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Adventure"
     ]
   },
   {
@@ -1999,9 +1999,9 @@
       "https://cdn2.steamgriddb.com/hero/388814209b675f2845e8737658701033.png",
       "https://cdn2.steamgriddb.com/hero/14d203158e5c5fd54555ecd1bd9ed8e3.png",
       "https://cdn2.steamgriddb.com/hero/4cba8b40e26654975d5ed2256eeba2e2.png",
+      "https://cdn2.steamgriddb.com/hero/7556224206e7d2a665dc14caa39ee31d.jpg",
       "https://cdn2.steamgriddb.com/hero/1087ef240a4fa531a4cec93d41621ca8.png",
-      "https://cdn2.steamgriddb.com/hero/7273e671a40fa9f0d3867d1098d5ac6e.png",
-      "https://cdn2.steamgriddb.com/hero/7481ba3bda3fc286ecdba18396db7bdd.jpg"
+      "https://cdn2.steamgriddb.com/hero/7273e671a40fa9f0d3867d1098d5ac6e.png"
     ],
     "releaseYear": 2011,
     "rating": 89,
@@ -4305,8 +4305,8 @@
       "https://cdn2.steamgriddb.com/hero/27a2204eccce28480215e5e8c6d11be7.png",
       "https://cdn2.steamgriddb.com/hero/42bf85e14dc95c0ad727255443108b73.png",
       "https://cdn2.steamgriddb.com/hero/37db66c660124c61c9516cf488344005.png",
-      "https://cdn2.steamgriddb.com/hero/322593b2f9bfdbbbd5e76248c4a4f0a9.jpg",
-      "https://cdn2.steamgriddb.com/hero/4505ae676b5889b579d2d533d4a38642.png"
+      "https://cdn2.steamgriddb.com/hero/3ddc599c5a532de6c4823d06dc79b395.png",
+      "https://cdn2.steamgriddb.com/hero/322593b2f9bfdbbbd5e76248c4a4f0a9.jpg"
     ],
     "releaseYear": 2021,
     "rating": 94,
@@ -6593,32 +6593,6 @@
     ]
   },
   {
-    "id": 168667,
-    "name": "Marvel's Wolverine",
-    "posters": [
-      "data/covers/168667.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/5fe904eb5337336c64944610132d5e34.jpg",
-      "https://cdn2.steamgriddb.com/hero/8722414bff52e7a5dcc1ef2deae7ddbf.jpg",
-      "https://cdn2.steamgriddb.com/hero/91df7a7b84f19ed9b5a1858b7e318e75.jpg",
-      "https://cdn2.steamgriddb.com/hero/010a23fbdd7cc2fb4539fc866a88d6aa.jpg",
-      "https://cdn2.steamgriddb.com/hero/fe6b4a0d60d82923c204063ec771b2d2.png",
-      "https://cdn2.steamgriddb.com/hero/4716e647c64614f064e0bc4a2d49bfab.jpg",
-      "https://cdn2.steamgriddb.com/hero/2399ec0c4a679bb77a9fb38b73973ee6.jpg",
-      "https://cdn2.steamgriddb.com/hero/3c9c7f07812e1e76f227ba699adc54a2.png"
-    ],
-    "releaseYear": 2026,
-    "rating": 0,
-    "platforms": [
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Hack and slash/Beat 'em up",
-      "Adventure"
-    ]
-  },
-  {
     "id": 194662,
     "name": "The Witcher IV",
     "posters": [
@@ -7243,6 +7217,32 @@
     "rating": 0,
     "platforms": [
       "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  {
+    "id": 350503,
+    "name": "Blood Message",
+    "posters": [
+      "data/covers/350503.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/9f7eefa9ace77815cb6b9575512a0171.jpg",
+      "https://cdn2.steamgriddb.com/hero/dcf702356e8c9c78c3fd3e87f0d8896f.png",
+      "https://cdn2.steamgriddb.com/hero/c37a21223db1cda645af1264df751f7f.png",
+      "https://cdn2.steamgriddb.com/hero/5fb0ba117ba4a6532d2533f1f5f914b9.png",
+      "https://cdn2.steamgriddb.com/hero/1c5db5f26705c8dc6cc16c97f85a6ad9.png",
+      "https://cdn2.steamgriddb.com/hero/6cd02aefdfc0fab11c3b20bc576c99ce.png",
+      "https://cdn2.steamgriddb.com/hero/fa729c66b1be72363debbc3cbbf4df44.png",
+      "https://cdn2.steamgriddb.com/hero/a3980fc1d4915887bc4b815080e58a00.jpg"
+    ],
+    "releaseYear": 0,
+    "rating": 0,
+    "platforms": [
       "PC (Microsoft Windows)",
       "PlayStation 5"
     ],
