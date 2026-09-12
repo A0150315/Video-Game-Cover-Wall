@@ -1049,9 +1049,9 @@
       "https://cdn2.steamgriddb.com/hero/1595af6435015c77a7149e92a551338e.png",
       "https://cdn2.steamgriddb.com/hero/f3d0c38aba71c170a70fc61c71db4e6f.png",
       "https://cdn2.steamgriddb.com/hero/6597e35504c82e2f89f20837fb631376.png",
-      "https://cdn2.steamgriddb.com/hero/299024cfe2cd92197e0ab02d2421285c.png",
       "https://cdn2.steamgriddb.com/hero/f4655a2b707853f1b118e0dadc52f9ba.png",
       "https://cdn2.steamgriddb.com/hero/4da04049a062f5adfe81b67dd755cecc.png",
+      "https://cdn2.steamgriddb.com/hero/299024cfe2cd92197e0ab02d2421285c.png",
       "https://cdn2.steamgriddb.com/hero/6e92962008491b24a803ff3b7d61734b.png",
       "https://cdn2.steamgriddb.com/hero/dbb795db64c6ab685cc819262a4c36fc.png"
     ],
@@ -1424,6 +1424,33 @@
     ]
   },
   {
+    "id": 132,
+    "name": "Warcraft III: Reign of Chaos",
+    "posters": [
+      "data/covers/132.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/d3d9446802a44259755d38e6d163e820.png",
+      "https://cdn2.steamgriddb.com/hero/86cfe91693a00fcecb6b093bec3d293f.png",
+      "https://cdn2.steamgriddb.com/hero/39e9d130e6936441d85e8b7e28860823.png",
+      "https://cdn2.steamgriddb.com/hero/798cfc169a66eb10aa814f8a45d5ef42.png",
+      "https://cdn2.steamgriddb.com/hero/7c302fa822e16b58936d33bddbafd6e9.png",
+      "https://cdn2.steamgriddb.com/hero/cbea5988e28286de0c6d660b5723c4f2.jpg",
+      "https://cdn2.steamgriddb.com/hero/af317c590e9e81090ff73c4052537fb8.png",
+      "https://cdn2.steamgriddb.com/hero/220e84cfad8838b8f0d77c0dab92b05d.png"
+    ],
+    "releaseYear": 2002,
+    "rating": 91,
+    "platforms": [
+      "PC (Microsoft Windows)",
+      "Mac"
+    ],
+    "genres": [
+      "Real Time Strategy (RTS)",
+      "Strategy"
+    ]
+  },
+  {
     "id": 733,
     "name": "Grand Theft Auto: Vice City",
     "posters": [
@@ -1453,33 +1480,6 @@
       "Racing",
       "Adventure",
       "Arcade"
-    ]
-  },
-  {
-    "id": 132,
-    "name": "Warcraft III: Reign of Chaos",
-    "posters": [
-      "data/covers/132.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/d3d9446802a44259755d38e6d163e820.png",
-      "https://cdn2.steamgriddb.com/hero/86cfe91693a00fcecb6b093bec3d293f.png",
-      "https://cdn2.steamgriddb.com/hero/39e9d130e6936441d85e8b7e28860823.png",
-      "https://cdn2.steamgriddb.com/hero/798cfc169a66eb10aa814f8a45d5ef42.png",
-      "https://cdn2.steamgriddb.com/hero/7c302fa822e16b58936d33bddbafd6e9.png",
-      "https://cdn2.steamgriddb.com/hero/cbea5988e28286de0c6d660b5723c4f2.jpg",
-      "https://cdn2.steamgriddb.com/hero/af317c590e9e81090ff73c4052537fb8.png",
-      "https://cdn2.steamgriddb.com/hero/220e84cfad8838b8f0d77c0dab92b05d.png"
-    ],
-    "releaseYear": 2002,
-    "rating": 91,
-    "platforms": [
-      "PC (Microsoft Windows)",
-      "Mac"
-    ],
-    "genres": [
-      "Real Time Strategy (RTS)",
-      "Strategy"
     ]
   },
   {
@@ -4073,9 +4073,9 @@
       "https://cdn2.steamgriddb.com/hero/34ba06658770b411acc56aaf592070f5.png",
       "https://cdn2.steamgriddb.com/hero/23ce88322d3298cbfac813448612a1c9.png",
       "https://cdn2.steamgriddb.com/hero/9f03eab8a6dd1a59a90dd758769f4bb3.png",
+      "https://cdn2.steamgriddb.com/hero/1e273c3efad61af89a37f8403b84efd4.png",
       "https://cdn2.steamgriddb.com/hero/333a55a4dd50a0fafb33f7e2e5b0df03.png",
-      "https://cdn2.steamgriddb.com/hero/1690bccd010b308cd33989d3819ed96a.png",
-      "https://cdn2.steamgriddb.com/hero/485b551f4f68d315b9a0856bd3c92195.png"
+      "https://cdn2.steamgriddb.com/hero/1690bccd010b308cd33989d3819ed96a.png"
     ],
     "releaseYear": 2017,
     "rating": 86,
@@ -4420,8 +4420,8 @@
       "https://cdn2.steamgriddb.com/hero/78ca117852cadc43f9f3d00af3001701.jpg",
       "https://cdn2.steamgriddb.com/hero/bba64e6137c253f4ae556a97869e31b1.png",
       "https://cdn2.steamgriddb.com/hero/ce78d1da254c0843eb23951ae077ff5f.png",
-      "https://cdn2.steamgriddb.com/hero/e94e5b12366081b7bf9b371f9b94ebb7.png",
-      "https://cdn2.steamgriddb.com/hero/fb87582825f9d28a8d42c5e5e5e8b23d.png"
+      "https://cdn2.steamgriddb.com/hero/1fd38a1c4411dcda2fc2e38ae6ffb79a.jpg",
+      "https://cdn2.steamgriddb.com/hero/e94e5b12366081b7bf9b371f9b94ebb7.png"
     ],
     "releaseYear": 2023,
     "rating": 92,
@@ -5493,10 +5493,10 @@
       "https://cdn2.steamgriddb.com/hero/d0cefa43d15f7e4b74ae21595155ec91.png",
       "https://cdn2.steamgriddb.com/hero/1a95a20ee480d3c53bd76874aaf30773.png",
       "https://cdn2.steamgriddb.com/hero/3ac1ebdc2f397eca8228042ec9c52c2f.png",
+      "https://cdn2.steamgriddb.com/hero/de673d31baeae5f044e0e13816fd6646.png",
       "https://cdn2.steamgriddb.com/hero/92a69ed33c2cf792dc965b0b6b12300d.png",
       "https://cdn2.steamgriddb.com/hero/ab5b1583bea4ebb1f7e976e1f4d70515.png",
-      "https://cdn2.steamgriddb.com/hero/cb82127db0399cbeaca2988d3ad8e000.jpg",
-      "https://cdn2.steamgriddb.com/hero/de673d31baeae5f044e0e13816fd6646.png"
+      "https://cdn2.steamgriddb.com/hero/cb82127db0399cbeaca2988d3ad8e000.jpg"
     ],
     "releaseYear": 2020,
     "rating": 88,
@@ -6098,12 +6098,12 @@
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/d38b254cb20fd15d4bab546f6d4dd959.jpg",
       "https://cdn2.steamgriddb.com/hero/7d6f45e3fa9d8273cc53f15b18b78cf4.jpg",
+      "https://cdn2.steamgriddb.com/hero/338b5878e682cc64c0756deb09e695fd.jpg",
       "https://cdn2.steamgriddb.com/hero/ec554ba4356d497669326d0f332e0d6f.png",
       "https://cdn2.steamgriddb.com/hero/11af2e35fe0228ff4a349714f3dde3d3.png",
       "https://cdn2.steamgriddb.com/hero/cb51090e9c10cda176f81a7fa92c3dfc.jpg",
-      "https://cdn2.steamgriddb.com/hero/f0e3b2070332363c62650c7332911a80.png",
-      "https://cdn2.steamgriddb.com/hero/9bc88dfc094e4ab62c23c6bcc74ae41d.jpg",
-      "https://cdn2.steamgriddb.com/hero/338b5878e682cc64c0756deb09e695fd.jpg"
+      "https://cdn2.steamgriddb.com/hero/78ca5163231fa70e74334166e0c43836.png",
+      "https://cdn2.steamgriddb.com/hero/264e30dabdd74a811b94cd575eaf839c.png"
     ],
     "releaseYear": 2026,
     "rating": 87,
@@ -6986,6 +6986,25 @@
     ]
   },
   {
+    "id": 228527,
+    "name": "Judas",
+    "posters": [
+      "data/covers/228527.jpg"
+    ],
+    "heroes": [],
+    "releaseYear": 0,
+    "rating": 0,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Shooter",
+      "Adventure"
+    ]
+  },
+  {
     "id": 404673,
     "name": "Resident Evil Veronica",
     "posters": [
@@ -7012,25 +7031,6 @@
     "genres": [
       "Shooter",
       "Puzzle",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 228527,
-    "name": "Judas",
-    "posters": [
-      "data/covers/228527.jpg"
-    ],
-    "heroes": [],
-    "releaseYear": 0,
-    "rating": 0,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Shooter",
       "Adventure"
     ]
   },
