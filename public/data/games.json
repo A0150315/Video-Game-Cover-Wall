@@ -693,8 +693,8 @@
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/e2ccf95a7f2e1878fcafc8376649b6e8.png",
       "https://cdn2.steamgriddb.com/hero/8fc019d475d2d5220014dd496524b7d0.png",
-      "https://cdn2.steamgriddb.com/hero/7e806cac30fa898ea5f94dd6224f49c8.png",
       "https://cdn2.steamgriddb.com/hero/55c11616b1aeb14d5166f02b07e17eb7.png",
+      "https://cdn2.steamgriddb.com/hero/7e806cac30fa898ea5f94dd6224f49c8.png",
       "https://cdn2.steamgriddb.com/hero/00841c11a439c66f349544070b8ae045.png",
       "https://cdn2.steamgriddb.com/hero/6a45c2b39692eedbfd0b378c47a5a693.jpg",
       "https://cdn2.steamgriddb.com/hero/8a146f1a3da4700cbf03cdc55e2daae6.png",
@@ -1293,10 +1293,10 @@
       "https://cdn2.steamgriddb.com/hero/4682ba60cfd9bdbc779fa633fa3218d5.jpg",
       "https://cdn2.steamgriddb.com/hero/94a6cfcd986195c6d7dedc65b53dd94e.png",
       "https://cdn2.steamgriddb.com/hero/1f376f49e57d4d7787a5b5b4489edd25.jpg",
+      "https://cdn2.steamgriddb.com/hero/721c04795ba96812802d181d81c81110.png",
       "https://cdn2.steamgriddb.com/hero/dc90813a647acaa3364382af42d03009.png",
       "https://cdn2.steamgriddb.com/hero/e8933c950c082b83f8e22b700c0a9015.png",
-      "https://cdn2.steamgriddb.com/hero/1572896563ee3d0d1269c8f7c9fe34cb.jpg",
-      "https://cdn2.steamgriddb.com/hero/a5ff1a4d4bc44f3834181a6ca58b91c8.jpg"
+      "https://cdn2.steamgriddb.com/hero/1572896563ee3d0d1269c8f7c9fe34cb.jpg"
     ],
     "releaseYear": 2011,
     "rating": 91,
@@ -1523,9 +1523,9 @@
       "https://cdn2.steamgriddb.com/hero/656e31d4a787cf904869becc332033bd.jpg",
       "https://cdn2.steamgriddb.com/hero/23a9b2b315a8fbb183976356da9a9762.jpg",
       "https://cdn2.steamgriddb.com/hero/3918b7b381a91ea1cfadfb3052881ba4.png",
+      "https://cdn2.steamgriddb.com/hero/49c364d3e66b2c2b84eff8bfcc897792.png",
       "https://cdn2.steamgriddb.com/hero/82a63f5df8ac03fe2d5f6e2a0bc52fb9.jpg",
-      "https://cdn2.steamgriddb.com/hero/621a33518e2ff34bdfc40993e2334d79.jpg",
-      "https://cdn2.steamgriddb.com/hero/554609dec6a274c4e85e186b3599dc9f.jpg"
+      "https://cdn2.steamgriddb.com/hero/621a33518e2ff34bdfc40993e2334d79.jpg"
     ],
     "releaseYear": 1999,
     "rating": 91,
@@ -5577,11 +5577,11 @@
       "https://cdn2.steamgriddb.com/hero/0496f9b544243ec5dff64344d1477858.png",
       "https://cdn2.steamgriddb.com/hero/c2cb5756ab726e065755c4743ef4cb87.png",
       "https://cdn2.steamgriddb.com/hero/16228c0b296eb1e41d6820f27059bf40.png",
+      "https://cdn2.steamgriddb.com/hero/66dcd06dc5ad523aaeae95e64187e4ca.png",
       "https://cdn2.steamgriddb.com/hero/daf3a8509903b9dc5c719d644505bd4e.png",
       "https://cdn2.steamgriddb.com/hero/23ca2bc6358b97b675c4c10d2cc58761.png",
       "https://cdn2.steamgriddb.com/hero/7f4c930feecc8cf0591498c3ccfdba1e.png",
-      "https://cdn2.steamgriddb.com/hero/aab6ed1b64428873672ae553aac1efe7.png",
-      "https://cdn2.steamgriddb.com/hero/3778f23c520d750708cec1c8c3118688.png"
+      "https://cdn2.steamgriddb.com/hero/aab6ed1b64428873672ae553aac1efe7.png"
     ],
     "releaseYear": 2024,
     "rating": 88,
@@ -5959,41 +5959,6 @@
     ]
   },
   {
-    "id": 203722,
-    "name": "Dave the Diver",
-    "posters": [
-      "data/covers/203722.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/75d77479813538a916b1eda17e06a551.jpg",
-      "https://cdn2.steamgriddb.com/hero/d3c371e8bcff5911665e1cd569522973.png",
-      "https://cdn2.steamgriddb.com/hero/9135d68826af2d0802c03554d508446e.png",
-      "https://cdn2.steamgriddb.com/hero/44d21d4798f1f11195763debdaeba60b.png",
-      "https://cdn2.steamgriddb.com/hero/40ab5635391fe4ae6b3211682dd4178c.png",
-      "https://cdn2.steamgriddb.com/hero/feadb715e3aa62d1cf5b7bffd46d63c0.png",
-      "https://cdn2.steamgriddb.com/hero/638ac49074f855c235e5f70dd3c1f9fd.png",
-      "https://cdn2.steamgriddb.com/hero/53ab50eafebbfa3920c5521d09e88d31.png"
-    ],
-    "releaseYear": 2023,
-    "rating": 87,
-    "platforms": [
-      "Xbox Series X|S",
-      "PlayStation 4",
-      "Nintendo Switch 2",
-      "Android",
-      "PC (Microsoft Windows)",
-      "iOS",
-      "PlayStation 5",
-      "Mac",
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Simulator",
-      "Adventure"
-    ]
-  },
-  {
     "id": 23733,
     "name": "Tunic",
     "posters": [
@@ -6026,6 +5991,41 @@
       "Role-playing (RPG)",
       "Adventure",
       "Indie"
+    ]
+  },
+  {
+    "id": 203722,
+    "name": "Dave the Diver",
+    "posters": [
+      "data/covers/203722.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/75d77479813538a916b1eda17e06a551.jpg",
+      "https://cdn2.steamgriddb.com/hero/d3c371e8bcff5911665e1cd569522973.png",
+      "https://cdn2.steamgriddb.com/hero/9135d68826af2d0802c03554d508446e.png",
+      "https://cdn2.steamgriddb.com/hero/44d21d4798f1f11195763debdaeba60b.png",
+      "https://cdn2.steamgriddb.com/hero/40ab5635391fe4ae6b3211682dd4178c.png",
+      "https://cdn2.steamgriddb.com/hero/feadb715e3aa62d1cf5b7bffd46d63c0.png",
+      "https://cdn2.steamgriddb.com/hero/638ac49074f855c235e5f70dd3c1f9fd.png",
+      "https://cdn2.steamgriddb.com/hero/53ab50eafebbfa3920c5521d09e88d31.png"
+    ],
+    "releaseYear": 2023,
+    "rating": 87,
+    "platforms": [
+      "Xbox Series X|S",
+      "PlayStation 4",
+      "Nintendo Switch 2",
+      "Android",
+      "PC (Microsoft Windows)",
+      "iOS",
+      "PlayStation 5",
+      "Mac",
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Simulator",
+      "Adventure"
     ]
   },
   {
