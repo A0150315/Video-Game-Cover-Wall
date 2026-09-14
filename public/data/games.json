@@ -244,8 +244,8 @@
       "https://cdn2.steamgriddb.com/hero/4bcdf75a7049c15e19797d1e5b559be3.png",
       "https://cdn2.steamgriddb.com/hero/68c81a145181a6b3092221895a3fd1a9.jpg",
       "https://cdn2.steamgriddb.com/hero/e8ffddd620808f7dc21eaffe35c77bcc.png",
-      "https://cdn2.steamgriddb.com/hero/87c57e0d95785f18e5cc69c32ad1e873.png",
-      "https://cdn2.steamgriddb.com/hero/f6027eaa23d8c01cf1717ad410d1d657.png"
+      "https://cdn2.steamgriddb.com/hero/a57780d6eb618a327f29684e6bcaf0e5.png",
+      "https://cdn2.steamgriddb.com/hero/bc22979eefd93466731822f165718745.png"
     ],
     "releaseYear": 2023,
     "rating": 95,
@@ -2848,8 +2848,8 @@
       "https://cdn2.steamgriddb.com/hero/68a83eeb494a308fe5295da69428a507.png",
       "https://cdn2.steamgriddb.com/hero/a0bfd9e2a5529c21836fd99454a390bb.png",
       "https://cdn2.steamgriddb.com/hero/3925d313c95e874b3e75a4b6d2067d2a.png",
-      "https://cdn2.steamgriddb.com/hero/481f0dd7ae83e18513be0b4e400a9535.png",
-      "https://cdn2.steamgriddb.com/hero/58ba92bb04654cbc4b114b345536efbf.png"
+      "https://cdn2.steamgriddb.com/hero/b37702dda7c58db954b3a56c71412c51.png",
+      "https://cdn2.steamgriddb.com/hero/481f0dd7ae83e18513be0b4e400a9535.png"
     ],
     "releaseYear": 2000,
     "rating": 88,
@@ -3833,34 +3833,6 @@
     ]
   },
   {
-    "id": 3035,
-    "name": "The Stanley Parable",
-    "posters": [
-      "data/covers/3035.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/f3bb06607732c34aecec5683f27d2fcd.jpg",
-      "https://cdn2.steamgriddb.com/hero/141aa4fef48df77f954d60a373a3c322.jpg",
-      "https://cdn2.steamgriddb.com/hero/a1a3e1728ecc9bfe4ca64599f0e661df.jpg",
-      "https://cdn2.steamgriddb.com/hero/c027effd536eff7b0336fea943804650.jpg",
-      "https://cdn2.steamgriddb.com/hero/d5fabce49f5adecb609da8982139cf89.png",
-      "https://cdn2.steamgriddb.com/hero/7fb77bdd5b2593ea8e2235e4e5df03fe.png",
-      "https://cdn2.steamgriddb.com/hero/12f2b19fb872d854ceffd60459a20dee.jpg",
-      "https://cdn2.steamgriddb.com/hero/0b8d15b9be67bfc4e5e70f75220a12f3.png"
-    ],
-    "releaseYear": 2013,
-    "rating": 86,
-    "platforms": [
-      "Linux",
-      "PC (Microsoft Windows)",
-      "Mac"
-    ],
-    "genres": [
-      "Adventure",
-      "Indie"
-    ]
-  },
-  {
     "id": 425,
     "name": "Final Fantasy VIII",
     "posters": [
@@ -3915,6 +3887,34 @@
     "genres": [
       "Role-playing (RPG)",
       "Adventure"
+    ]
+  },
+  {
+    "id": 3035,
+    "name": "The Stanley Parable",
+    "posters": [
+      "data/covers/3035.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/f3bb06607732c34aecec5683f27d2fcd.jpg",
+      "https://cdn2.steamgriddb.com/hero/141aa4fef48df77f954d60a373a3c322.jpg",
+      "https://cdn2.steamgriddb.com/hero/a1a3e1728ecc9bfe4ca64599f0e661df.jpg",
+      "https://cdn2.steamgriddb.com/hero/c027effd536eff7b0336fea943804650.jpg",
+      "https://cdn2.steamgriddb.com/hero/d5fabce49f5adecb609da8982139cf89.png",
+      "https://cdn2.steamgriddb.com/hero/7fb77bdd5b2593ea8e2235e4e5df03fe.png",
+      "https://cdn2.steamgriddb.com/hero/12f2b19fb872d854ceffd60459a20dee.jpg",
+      "https://cdn2.steamgriddb.com/hero/0b8d15b9be67bfc4e5e70f75220a12f3.png"
+    ],
+    "releaseYear": 2013,
+    "rating": 86,
+    "platforms": [
+      "Linux",
+      "PC (Microsoft Windows)",
+      "Mac"
+    ],
+    "genres": [
+      "Adventure",
+      "Indie"
     ]
   },
   {
@@ -5865,6 +5865,35 @@
     ]
   },
   {
+    "id": 134612,
+    "name": "Pragmata",
+    "posters": [
+      "data/covers/134612.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/1593937e2099ea418f9c25f83e5425aa.png",
+      "https://cdn2.steamgriddb.com/hero/0b9f166f1f75217d3a28dc96e53eecfb.png",
+      "https://cdn2.steamgriddb.com/hero/b5a62c52a3558ae63099a7b1f21a46e1.png",
+      "https://cdn2.steamgriddb.com/hero/646d2f7cc11dd365e6f0aaa39831a7cc.png",
+      "https://cdn2.steamgriddb.com/hero/16b42e3bdfb5aa64c9519c72fb9fd613.png",
+      "https://cdn2.steamgriddb.com/hero/2e951e37ba37f327f064614bc8d63378.png",
+      "https://cdn2.steamgriddb.com/hero/c941029b040ed6e0da88249464283423.png",
+      "https://cdn2.steamgriddb.com/hero/7e2967e9f0dfe8106faf21d564639308.jpg"
+    ],
+    "releaseYear": 2026,
+    "rating": 87,
+    "platforms": [
+      "Xbox Series X|S",
+      "Nintendo Switch 2",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Shooter",
+      "Adventure"
+    ]
+  },
+  {
     "id": 124954,
     "name": "Crusader Kings III",
     "posters": [
@@ -5893,35 +5922,6 @@
       "Role-playing (RPG)",
       "Simulator",
       "Strategy"
-    ]
-  },
-  {
-    "id": 134612,
-    "name": "Pragmata",
-    "posters": [
-      "data/covers/134612.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/1593937e2099ea418f9c25f83e5425aa.png",
-      "https://cdn2.steamgriddb.com/hero/0b9f166f1f75217d3a28dc96e53eecfb.png",
-      "https://cdn2.steamgriddb.com/hero/b5a62c52a3558ae63099a7b1f21a46e1.png",
-      "https://cdn2.steamgriddb.com/hero/646d2f7cc11dd365e6f0aaa39831a7cc.png",
-      "https://cdn2.steamgriddb.com/hero/16b42e3bdfb5aa64c9519c72fb9fd613.png",
-      "https://cdn2.steamgriddb.com/hero/2e951e37ba37f327f064614bc8d63378.png",
-      "https://cdn2.steamgriddb.com/hero/c941029b040ed6e0da88249464283423.png",
-      "https://cdn2.steamgriddb.com/hero/7e2967e9f0dfe8106faf21d564639308.jpg"
-    ],
-    "releaseYear": 2026,
-    "rating": 87,
-    "platforms": [
-      "Xbox Series X|S",
-      "Nintendo Switch 2",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Shooter",
-      "Adventure"
     ]
   },
   {
