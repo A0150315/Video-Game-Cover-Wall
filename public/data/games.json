@@ -321,6 +321,32 @@
     ]
   },
   {
+    "id": 119388,
+    "name": "The Legend of Zelda: Tears of the Kingdom",
+    "posters": [
+      "data/covers/119388.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/7048d1540fa99464f489f1d11db688b1.png",
+      "https://cdn2.steamgriddb.com/hero/419133b57ea628b183f73a28c5ad7a8c.png",
+      "https://cdn2.steamgriddb.com/hero/6d6c5b7c73b3a57198402741c1e92df5.png",
+      "https://cdn2.steamgriddb.com/hero/aa23a647b581371fb0c5803263da1345.png",
+      "https://cdn2.steamgriddb.com/hero/c2780f04a3434b942146ae546828a32c.jpg",
+      "https://cdn2.steamgriddb.com/hero/b61248fcbcb76b463231d88a39b5d4cb.jpg",
+      "https://cdn2.steamgriddb.com/hero/8646c48a45fc958d20550a893b2e835d.jpg",
+      "https://cdn2.steamgriddb.com/hero/1874a0fe55d64ee5de2cc447b7edc17d.png"
+    ],
+    "releaseYear": 2023,
+    "rating": 94,
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Puzzle",
+      "Adventure"
+    ]
+  },
+  {
     "id": 19560,
     "name": "God of War",
     "posters": [
@@ -346,32 +372,6 @@
     "genres": [
       "Role-playing (RPG)",
       "Hack and slash/Beat 'em up",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 119388,
-    "name": "The Legend of Zelda: Tears of the Kingdom",
-    "posters": [
-      "data/covers/119388.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/7048d1540fa99464f489f1d11db688b1.png",
-      "https://cdn2.steamgriddb.com/hero/419133b57ea628b183f73a28c5ad7a8c.png",
-      "https://cdn2.steamgriddb.com/hero/6d6c5b7c73b3a57198402741c1e92df5.png",
-      "https://cdn2.steamgriddb.com/hero/aa23a647b581371fb0c5803263da1345.png",
-      "https://cdn2.steamgriddb.com/hero/c2780f04a3434b942146ae546828a32c.jpg",
-      "https://cdn2.steamgriddb.com/hero/b61248fcbcb76b463231d88a39b5d4cb.jpg",
-      "https://cdn2.steamgriddb.com/hero/8646c48a45fc958d20550a893b2e835d.jpg",
-      "https://cdn2.steamgriddb.com/hero/1874a0fe55d64ee5de2cc447b7edc17d.png"
-    ],
-    "releaseYear": 2023,
-    "rating": 94,
-    "platforms": [
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Puzzle",
       "Adventure"
     ]
   },
@@ -958,8 +958,8 @@
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/81ef6cd96ab8d7992d5a291b20897ec4.jpg",
       "https://cdn2.steamgriddb.com/hero/21a38ed2ee0c2c081c31286d29db2acc.png",
-      "https://cdn2.steamgriddb.com/hero/eeb7eebbb38d3cd16f18d4a68f065866.png",
       "https://cdn2.steamgriddb.com/hero/bbf514d16a56cba73809fd0b7e262436.png",
+      "https://cdn2.steamgriddb.com/hero/eeb7eebbb38d3cd16f18d4a68f065866.png",
       "https://cdn2.steamgriddb.com/hero/07a81d45ff030b63fe2a0f375b779f09.png",
       "https://cdn2.steamgriddb.com/hero/df7c2b3c3966426c14e4b3005c931eb1.png",
       "https://cdn2.steamgriddb.com/hero/baef4802848fb2c2e3026a7f26a53315.png",
@@ -1458,8 +1458,8 @@
     ],
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/75291728e2d8458a104b6abd0b062b70.jpg",
-      "https://cdn2.steamgriddb.com/hero/80619c1c78098980825a4e369f44b803.jpg",
       "https://cdn2.steamgriddb.com/hero/5588902a8054f6e22ed3484c140ffc62.jpg",
+      "https://cdn2.steamgriddb.com/hero/80619c1c78098980825a4e369f44b803.jpg",
       "https://cdn2.steamgriddb.com/hero/5bd529d5b07b647a8863cf71e98d651a.jpg",
       "https://cdn2.steamgriddb.com/hero/54d77f5dc6f98d0d68a23cf792c49e57.jpg",
       "https://cdn2.steamgriddb.com/hero/10678b97635e173b084e8f3c681527cb.jpg",
@@ -1783,9 +1783,9 @@
       "data/covers/730.jpg"
     ],
     "heroes": [
+      "https://cdn2.steamgriddb.com/hero/1f12491d99a85c8ea8cd2109b292f47e.png",
       "https://cdn2.steamgriddb.com/hero/00b76fddeaaa7d8c2c43d504b2babd8a.png",
       "https://cdn2.steamgriddb.com/hero/f7ac67a9aa8d255282de7d11391e1b69.png",
-      "https://cdn2.steamgriddb.com/hero/1f12491d99a85c8ea8cd2109b292f47e.png",
       "https://cdn2.steamgriddb.com/hero/82df15728970ad490703dc812123423b.png",
       "https://cdn2.steamgriddb.com/hero/d2cdf047a6674cef251d56544a3cf029.png",
       "https://cdn2.steamgriddb.com/hero/e5b07d83f6cdd1971f8e5dfffdd49e89.png",
@@ -2739,6 +2739,34 @@
     ]
   },
   {
+    "id": 76,
+    "name": "Dragon Age: Origins",
+    "posters": [
+      "data/covers/76.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/ee89223a2b625b5152132ed77abbcc79.png",
+      "https://cdn2.steamgriddb.com/hero/5d2a47cdbbcc3d3af68f7d4003f796b5.png",
+      "https://cdn2.steamgriddb.com/hero/72f67e70f6b7cdc4cc893edaddf0c4c6.jpg",
+      "https://cdn2.steamgriddb.com/hero/fccc64972a9468a11f125cadb090e89e.png",
+      "https://cdn2.steamgriddb.com/hero/1b318124e37af6d74a03501474f44ea1.jpg",
+      "https://cdn2.steamgriddb.com/hero/3847917d67bbb93e39c62d30c288ce37.png",
+      "https://cdn2.steamgriddb.com/hero/02a32ad2669e6fe298e607fe7cc0e1a0.png",
+      "https://cdn2.steamgriddb.com/hero/b1c5390a0134fb5edeb8bef14441045b.png"
+    ],
+    "releaseYear": 2009,
+    "rating": 88,
+    "platforms": [
+      "PlayStation 3",
+      "PC (Microsoft Windows)",
+      "Mac",
+      "Xbox 360"
+    ],
+    "genres": [
+      "Role-playing (RPG)"
+    ]
+  },
+  {
     "id": 17000,
     "name": "Stardew Valley",
     "posters": [
@@ -2775,34 +2803,6 @@
       "Strategy",
       "Adventure",
       "Indie"
-    ]
-  },
-  {
-    "id": 76,
-    "name": "Dragon Age: Origins",
-    "posters": [
-      "data/covers/76.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/ee89223a2b625b5152132ed77abbcc79.png",
-      "https://cdn2.steamgriddb.com/hero/5d2a47cdbbcc3d3af68f7d4003f796b5.png",
-      "https://cdn2.steamgriddb.com/hero/72f67e70f6b7cdc4cc893edaddf0c4c6.jpg",
-      "https://cdn2.steamgriddb.com/hero/fccc64972a9468a11f125cadb090e89e.png",
-      "https://cdn2.steamgriddb.com/hero/1b318124e37af6d74a03501474f44ea1.jpg",
-      "https://cdn2.steamgriddb.com/hero/3847917d67bbb93e39c62d30c288ce37.png",
-      "https://cdn2.steamgriddb.com/hero/02a32ad2669e6fe298e607fe7cc0e1a0.png",
-      "https://cdn2.steamgriddb.com/hero/b1c5390a0134fb5edeb8bef14441045b.png"
-    ],
-    "releaseYear": 2009,
-    "rating": 88,
-    "platforms": [
-      "PlayStation 3",
-      "PC (Microsoft Windows)",
-      "Mac",
-      "Xbox 360"
-    ],
-    "genres": [
-      "Role-playing (RPG)"
     ]
   },
   {
@@ -3153,9 +3153,9 @@
       "https://cdn2.steamgriddb.com/hero/2f37d10131f2a483a8dd005b3d14b0d9.png",
       "https://cdn2.steamgriddb.com/hero/200734077bb5e01fbe9b973d0d50ee6a.jpg",
       "https://cdn2.steamgriddb.com/hero/08040837089cdf46631a10aca5258e16.png",
-      "https://cdn2.steamgriddb.com/hero/1c816b986d0ee906357ffea9737192df.png",
       "https://cdn2.steamgriddb.com/hero/674c8611d610ae2e5c02697a40fa5c11.png",
       "https://cdn2.steamgriddb.com/hero/978309fad5568a22033796586ca10160.jpg",
+      "https://cdn2.steamgriddb.com/hero/1c816b986d0ee906357ffea9737192df.png",
       "https://cdn2.steamgriddb.com/hero/f66dd59b4cf29a1cf5e08daa02aa53d3.png",
       "https://cdn2.steamgriddb.com/hero/6639ae8d530e71980239f7bff60e247c.jpg"
     ],
@@ -3534,41 +3534,6 @@
     ]
   },
   {
-    "id": 6707,
-    "name": "Tales from the Borderlands",
-    "posters": [
-      "data/covers/6707.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/e50e00ffa23135223d986aaf52cbf42c.png",
-      "https://cdn2.steamgriddb.com/hero/a4396f61160d9bfa1ea9114dacd37247.png",
-      "https://cdn2.steamgriddb.com/hero/9b2883d469a786b95c24c82ec8598f9c.jpg",
-      "https://cdn2.steamgriddb.com/hero/ee6db9134a1add4f17b85c426b019a0d.jpg",
-      "https://cdn2.steamgriddb.com/hero/947663d22229f8112f748de091e39a85.jpg",
-      "https://cdn2.steamgriddb.com/hero/2e712385eae2529867775602183f3e14.jpg",
-      "https://cdn2.steamgriddb.com/hero/2740ea70c23933dcf8bde5b2bf8c1fae.jpg",
-      "https://cdn2.steamgriddb.com/hero/2215ee1f325be656917569aa0c4e3307.jpg"
-    ],
-    "releaseYear": 2014,
-    "rating": 87,
-    "platforms": [
-      "PlayStation 3",
-      "PlayStation 4",
-      "Android",
-      "PC (Microsoft Windows)",
-      "iOS",
-      "Mac",
-      "Xbox 360",
-      "Xbox One",
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Point-and-click",
-      "Puzzle",
-      "Adventure"
-    ]
-  },
-  {
     "id": 26855,
     "name": "Dead Cells",
     "posters": [
@@ -3601,6 +3566,41 @@
       "Platform",
       "Adventure",
       "Indie"
+    ]
+  },
+  {
+    "id": 6707,
+    "name": "Tales from the Borderlands",
+    "posters": [
+      "data/covers/6707.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/e50e00ffa23135223d986aaf52cbf42c.png",
+      "https://cdn2.steamgriddb.com/hero/a4396f61160d9bfa1ea9114dacd37247.png",
+      "https://cdn2.steamgriddb.com/hero/9b2883d469a786b95c24c82ec8598f9c.jpg",
+      "https://cdn2.steamgriddb.com/hero/ee6db9134a1add4f17b85c426b019a0d.jpg",
+      "https://cdn2.steamgriddb.com/hero/947663d22229f8112f748de091e39a85.jpg",
+      "https://cdn2.steamgriddb.com/hero/2e712385eae2529867775602183f3e14.jpg",
+      "https://cdn2.steamgriddb.com/hero/2740ea70c23933dcf8bde5b2bf8c1fae.jpg",
+      "https://cdn2.steamgriddb.com/hero/2215ee1f325be656917569aa0c4e3307.jpg"
+    ],
+    "releaseYear": 2014,
+    "rating": 86,
+    "platforms": [
+      "PlayStation 3",
+      "PlayStation 4",
+      "Android",
+      "PC (Microsoft Windows)",
+      "iOS",
+      "Mac",
+      "Xbox 360",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Point-and-click",
+      "Puzzle",
+      "Adventure"
     ]
   },
   {
@@ -3745,31 +3745,6 @@
     ]
   },
   {
-    "id": 109462,
-    "name": "Animal Crossing: New Horizons",
-    "posters": [
-      "data/covers/109462.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/3649a6a2557a26ada5a5751518e711f7.png",
-      "https://cdn2.steamgriddb.com/hero/7e2674f6f4343ce9f635b86d124851ce.png",
-      "https://cdn2.steamgriddb.com/hero/10eb6500bd1e4a3704818012a1593cc3.png",
-      "https://cdn2.steamgriddb.com/hero/08780eb9b58091a2d4b81a1af602b617.png",
-      "https://cdn2.steamgriddb.com/hero/f51338d736f95dd42427296047067694.png",
-      "https://cdn2.steamgriddb.com/hero/d4d8d1ac7e00e9105775a6b660dd3cbb.jpg",
-      "https://cdn2.steamgriddb.com/hero/0ff3ff9a2e7015c82f41ce154a0444fd.jpg",
-      "https://cdn2.steamgriddb.com/hero/bae658a9f152ba67e51fe9fff2f3346a.jpg"
-    ],
-    "releaseYear": 2020,
-    "rating": 86,
-    "platforms": [
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Simulator"
-    ]
-  },
-  {
     "id": 118,
     "name": "Star Wars: Knights of the Old Republic II - The Sith Lords",
     "posters": [
@@ -3886,6 +3861,31 @@
     "genres": [
       "Role-playing (RPG)",
       "Adventure"
+    ]
+  },
+  {
+    "id": 109462,
+    "name": "Animal Crossing: New Horizons",
+    "posters": [
+      "data/covers/109462.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/3649a6a2557a26ada5a5751518e711f7.png",
+      "https://cdn2.steamgriddb.com/hero/7e2674f6f4343ce9f635b86d124851ce.png",
+      "https://cdn2.steamgriddb.com/hero/10eb6500bd1e4a3704818012a1593cc3.png",
+      "https://cdn2.steamgriddb.com/hero/08780eb9b58091a2d4b81a1af602b617.png",
+      "https://cdn2.steamgriddb.com/hero/f51338d736f95dd42427296047067694.png",
+      "https://cdn2.steamgriddb.com/hero/d4d8d1ac7e00e9105775a6b660dd3cbb.jpg",
+      "https://cdn2.steamgriddb.com/hero/0ff3ff9a2e7015c82f41ce154a0444fd.jpg",
+      "https://cdn2.steamgriddb.com/hero/bae658a9f152ba67e51fe9fff2f3346a.jpg"
+    ],
+    "releaseYear": 2020,
+    "rating": 86,
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Simulator"
     ]
   },
   {
@@ -5576,11 +5576,11 @@
       "https://cdn2.steamgriddb.com/hero/0496f9b544243ec5dff64344d1477858.png",
       "https://cdn2.steamgriddb.com/hero/c2cb5756ab726e065755c4743ef4cb87.png",
       "https://cdn2.steamgriddb.com/hero/16228c0b296eb1e41d6820f27059bf40.png",
-      "https://cdn2.steamgriddb.com/hero/66dcd06dc5ad523aaeae95e64187e4ca.png",
       "https://cdn2.steamgriddb.com/hero/daf3a8509903b9dc5c719d644505bd4e.png",
       "https://cdn2.steamgriddb.com/hero/23ca2bc6358b97b675c4c10d2cc58761.png",
       "https://cdn2.steamgriddb.com/hero/7f4c930feecc8cf0591498c3ccfdba1e.png",
-      "https://cdn2.steamgriddb.com/hero/aab6ed1b64428873672ae553aac1efe7.png"
+      "https://cdn2.steamgriddb.com/hero/aab6ed1b64428873672ae553aac1efe7.png",
+      "https://cdn2.steamgriddb.com/hero/3778f23c520d750708cec1c8c3118688.png"
     ],
     "releaseYear": 2024,
     "rating": 88,
@@ -5876,8 +5876,8 @@
       "https://cdn2.steamgriddb.com/hero/646d2f7cc11dd365e6f0aaa39831a7cc.png",
       "https://cdn2.steamgriddb.com/hero/16b42e3bdfb5aa64c9519c72fb9fd613.png",
       "https://cdn2.steamgriddb.com/hero/2e951e37ba37f327f064614bc8d63378.png",
-      "https://cdn2.steamgriddb.com/hero/c941029b040ed6e0da88249464283423.png",
-      "https://cdn2.steamgriddb.com/hero/7e2967e9f0dfe8106faf21d564639308.jpg"
+      "https://cdn2.steamgriddb.com/hero/fa1f0a1de120b6ac2951552b14f64b16.png",
+      "https://cdn2.steamgriddb.com/hero/c941029b040ed6e0da88249464283423.png"
     ],
     "releaseYear": 2026,
     "rating": 87,
@@ -6628,7 +6628,7 @@
       "https://cdn2.steamgriddb.com/hero/96681ebcc11afbcc7613b688e37af4b8.png",
       "https://cdn2.steamgriddb.com/hero/6a480dde4a529565d473063cc43cb551.png",
       "https://cdn2.steamgriddb.com/hero/667d22dfde43bafb3f8fada578c96c25.png",
-      "https://cdn2.steamgriddb.com/hero/61c233952f8cd96aa723141c7efe952b.png"
+      "https://cdn2.steamgriddb.com/hero/c7dd2ce0ca178866b08dbeae47618f43.png"
     ],
     "releaseYear": 2026,
     "rating": 0,
@@ -7016,8 +7016,8 @@
       "https://cdn2.steamgriddb.com/hero/eb0253c35827f401e0aac5f3f48b6a58.jpg",
       "https://cdn2.steamgriddb.com/hero/94625d037558adf014570dcdfe244fc6.png",
       "https://cdn2.steamgriddb.com/hero/424f9d23d732242cec0fbb9aa83ca44e.jpg",
-      "https://cdn2.steamgriddb.com/hero/5e472cbc2f2a3cecd16a94e75fcdd845.jpg",
-      "https://cdn2.steamgriddb.com/hero/4816cb4d96184822d377c8adecc10260.jpg"
+      "https://cdn2.steamgriddb.com/hero/8a3aa2d305b76ca83cd69b83ec5f6265.jpg",
+      "https://cdn2.steamgriddb.com/hero/5e472cbc2f2a3cecd16a94e75fcdd845.jpg"
     ],
     "releaseYear": 2027,
     "rating": 0,
