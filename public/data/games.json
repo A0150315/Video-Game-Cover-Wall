@@ -321,32 +321,6 @@
     ]
   },
   {
-    "id": 119388,
-    "name": "The Legend of Zelda: Tears of the Kingdom",
-    "posters": [
-      "data/covers/119388.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/7048d1540fa99464f489f1d11db688b1.png",
-      "https://cdn2.steamgriddb.com/hero/419133b57ea628b183f73a28c5ad7a8c.png",
-      "https://cdn2.steamgriddb.com/hero/6d6c5b7c73b3a57198402741c1e92df5.png",
-      "https://cdn2.steamgriddb.com/hero/aa23a647b581371fb0c5803263da1345.png",
-      "https://cdn2.steamgriddb.com/hero/c2780f04a3434b942146ae546828a32c.jpg",
-      "https://cdn2.steamgriddb.com/hero/b61248fcbcb76b463231d88a39b5d4cb.jpg",
-      "https://cdn2.steamgriddb.com/hero/8646c48a45fc958d20550a893b2e835d.jpg",
-      "https://cdn2.steamgriddb.com/hero/1874a0fe55d64ee5de2cc447b7edc17d.png"
-    ],
-    "releaseYear": 2023,
-    "rating": 94,
-    "platforms": [
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Puzzle",
-      "Adventure"
-    ]
-  },
-  {
     "id": 19560,
     "name": "God of War",
     "posters": [
@@ -372,6 +346,32 @@
     "genres": [
       "Role-playing (RPG)",
       "Hack and slash/Beat 'em up",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 119388,
+    "name": "The Legend of Zelda: Tears of the Kingdom",
+    "posters": [
+      "data/covers/119388.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/7048d1540fa99464f489f1d11db688b1.png",
+      "https://cdn2.steamgriddb.com/hero/419133b57ea628b183f73a28c5ad7a8c.png",
+      "https://cdn2.steamgriddb.com/hero/6d6c5b7c73b3a57198402741c1e92df5.png",
+      "https://cdn2.steamgriddb.com/hero/aa23a647b581371fb0c5803263da1345.png",
+      "https://cdn2.steamgriddb.com/hero/c2780f04a3434b942146ae546828a32c.jpg",
+      "https://cdn2.steamgriddb.com/hero/b61248fcbcb76b463231d88a39b5d4cb.jpg",
+      "https://cdn2.steamgriddb.com/hero/8646c48a45fc958d20550a893b2e835d.jpg",
+      "https://cdn2.steamgriddb.com/hero/1874a0fe55d64ee5de2cc447b7edc17d.png"
+    ],
+    "releaseYear": 2023,
+    "rating": 94,
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Puzzle",
       "Adventure"
     ]
   },
@@ -581,9 +581,9 @@
       "https://cdn2.steamgriddb.com/hero/63c27708f9cf591e878c155f23c25b5a.jpg",
       "https://cdn2.steamgriddb.com/hero/e45fdf4ab1f36ece63bba2aa48c5ac29.png",
       "https://cdn2.steamgriddb.com/hero/965bdf833cb20c44b33a6224298bf14f.png",
-      "https://cdn2.steamgriddb.com/hero/b86e8d03fe992d1b0e19656875ee557c.png",
       "https://cdn2.steamgriddb.com/hero/8ec7ff1ac324a4bed44cc51d362e5b94.png",
       "https://cdn2.steamgriddb.com/hero/e9c90b01b593102055ded15b04c396c8.png",
+      "https://cdn2.steamgriddb.com/hero/b86e8d03fe992d1b0e19656875ee557c.png",
       "https://cdn2.steamgriddb.com/hero/33e25ce2b801662e46a7b801301d5b94.jpg"
     ],
     "releaseYear": 2015,
@@ -705,6 +705,7 @@
     "platforms": [
       "Xbox Series X|S",
       "PlayStation 4",
+      "Nintendo Switch 2",
       "PC (Microsoft Windows)",
       "iOS",
       "PlayStation 5",
@@ -901,8 +902,8 @@
       "https://cdn2.steamgriddb.com/hero/642ad51faa492de9795844a2d0c6142f.png",
       "https://cdn2.steamgriddb.com/hero/3e0ce87560cc1e32353de7d1eedb58f9.png",
       "https://cdn2.steamgriddb.com/hero/196ef39dc3c14c0b8aa88d99f31e8710.png",
-      "https://cdn2.steamgriddb.com/hero/f2013aa6b8488641df6c34959d797e15.png",
       "https://cdn2.steamgriddb.com/hero/dc38dc7e4713858d62bd478ea70b4fe9.png",
+      "https://cdn2.steamgriddb.com/hero/f2013aa6b8488641df6c34959d797e15.png",
       "https://cdn2.steamgriddb.com/hero/9ab01348be1ccbf4df5cdf8e4133c39f.png",
       "https://cdn2.steamgriddb.com/hero/a787f02ed34fd886eb6d49e60d9c9120.png"
     ],
@@ -1644,6 +1645,7 @@
     "platforms": [
       "Xbox Series X|S",
       "PlayStation 4",
+      "Nintendo Switch 2",
       "PC (Microsoft Windows)",
       "iOS",
       "PlayStation 5",
@@ -3098,12 +3100,12 @@
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/276598efa3cad81bba327f56cea301ef.jpg",
       "https://cdn2.steamgriddb.com/hero/4d3fd59d5bbacbfca10365d936592965.jpg",
+      "https://cdn2.steamgriddb.com/hero/8283d674a3e149941c5f8f45394cafc4.jpg",
       "https://cdn2.steamgriddb.com/hero/d91f21b6b8cbe6052238e959ef52ffb8.png",
       "https://cdn2.steamgriddb.com/hero/df07a467909d836eec9ca188a259aec0.png",
       "https://cdn2.steamgriddb.com/hero/5c6b2bbb65d235600c127377c571410c.png",
       "https://cdn2.steamgriddb.com/hero/1d075e2fdbc8e2e66a47b39a0652ce31.png",
-      "https://cdn2.steamgriddb.com/hero/b877c34c37d3ab54dcabe110b6a67214.jpg",
-      "https://cdn2.steamgriddb.com/hero/8283d674a3e149941c5f8f45394cafc4.jpg"
+      "https://cdn2.steamgriddb.com/hero/b877c34c37d3ab54dcabe110b6a67214.jpg"
     ],
     "releaseYear": 2007,
     "rating": 88,
@@ -4825,8 +4827,8 @@
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/de646eafb46fad3dd363e893401c2db9.png",
       "https://cdn2.steamgriddb.com/hero/3bb0577e59c2399860bdb9e5b3f6b496.png",
-      "https://cdn2.steamgriddb.com/hero/e583e5b0310acef67b1e3a76982b78dc.png",
       "https://cdn2.steamgriddb.com/hero/37edd41a9636ddca530d5b51baaaf8b0.jpg",
+      "https://cdn2.steamgriddb.com/hero/e583e5b0310acef67b1e3a76982b78dc.png",
       "https://cdn2.steamgriddb.com/hero/539e25fe4a575fa7c365d3ffe748b59a.png",
       "https://cdn2.steamgriddb.com/hero/18f16de5c7012d9ab4e5de2a0dcb829b.jpg",
       "https://cdn2.steamgriddb.com/hero/64d45f5bfcc9ca597b956a7e3a587dca.jpg",
