@@ -384,12 +384,12 @@
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/5e9fb672ee46be628a141b594d7c6f3e.png",
       "https://cdn2.steamgriddb.com/hero/1079c40a81a6fd09ffd6fc8ce10209d1.png",
+      "https://cdn2.steamgriddb.com/hero/26c0cd7b7237b14349971d5de273b014.png",
       "https://cdn2.steamgriddb.com/hero/158885de844ae92913127bddcebfe2e1.png",
       "https://cdn2.steamgriddb.com/hero/8f1839c8cabff58837844b26f05c7a94.png",
       "https://cdn2.steamgriddb.com/hero/c6e2e29049c68d2d97145861756c0f94.png",
-      "https://cdn2.steamgriddb.com/hero/3f8f3ad04447411b79a965e291e63937.png",
-      "https://cdn2.steamgriddb.com/hero/e57f559127236039b05810514072a782.png",
-      "https://cdn2.steamgriddb.com/hero/44ebba2eb0a3de8ebc6f98576cc21dcb.png"
+      "https://cdn2.steamgriddb.com/hero/6504b92a7cdf1f4f4e1737b9eec965ce.png",
+      "https://cdn2.steamgriddb.com/hero/3f8f3ad04447411b79a965e291e63937.png"
     ],
     "releaseYear": 2007,
     "rating": 94,
@@ -1208,10 +1208,10 @@
       "https://cdn2.steamgriddb.com/hero/ba3866600c3540f67c1e9575e213be0a.png",
       "https://cdn2.steamgriddb.com/hero/07c0dec6e97ec77c01aa90902a3fc6b5.png",
       "https://cdn2.steamgriddb.com/hero/b645e524a1512ce68947d3b9c948aa46.png",
-      "https://cdn2.steamgriddb.com/hero/550473c18fb7b4e9ed2f08cecabdbc15.png",
       "https://cdn2.steamgriddb.com/hero/93ba9969f25a0f565622c8688139657c.png",
-      "https://cdn2.steamgriddb.com/hero/902b29421f11bea0bec33126f1c34112.png",
-      "https://cdn2.steamgriddb.com/hero/981ec2327e01401e552164ed7314d4b0.jpg"
+      "https://cdn2.steamgriddb.com/hero/550473c18fb7b4e9ed2f08cecabdbc15.png",
+      "https://cdn2.steamgriddb.com/hero/4ea685678fbab5a72218005bafe255d6.png",
+      "https://cdn2.steamgriddb.com/hero/5697ca5c1f129e1c634c9016cce74e62.png"
     ],
     "releaseYear": 2015,
     "rating": 91,
@@ -1574,8 +1574,8 @@
       "data/covers/1985.jpg"
     ],
     "heroes": [
-      "https://cdn2.steamgriddb.com/hero/f73ff6b435051f83259a5f7b2f542e4b.png",
       "https://cdn2.steamgriddb.com/hero/a47dbfe7e87d38f9ddbf3e5021d44c70.png",
+      "https://cdn2.steamgriddb.com/hero/f73ff6b435051f83259a5f7b2f542e4b.png",
       "https://cdn2.steamgriddb.com/hero/7cc2794f14963ceaedb29d19875c950c.png",
       "https://cdn2.steamgriddb.com/hero/fd00d3474e495e7b6d5f9f575b2d7ec4.png",
       "https://cdn2.steamgriddb.com/hero/07e99f116b916656b3fd4f7dd58a3cbe.png",
@@ -2175,10 +2175,10 @@
       "https://cdn2.steamgriddb.com/hero/be1fe5a4cbad9fd763db5aaedf0ec611.png",
       "https://cdn2.steamgriddb.com/hero/39d352b0395ba768e18f042c6e2a8621.png",
       "https://cdn2.steamgriddb.com/hero/3fc90b8360ec984bca9ef733dc3cb612.jpg",
+      "https://cdn2.steamgriddb.com/hero/10fdc3428966dcc8e424546287c6e308.png",
       "https://cdn2.steamgriddb.com/hero/330093c4c80196eaada85031c9d7f6c6.png",
       "https://cdn2.steamgriddb.com/hero/eb49f4e3e81ec417bf45ee3df7ddf8f9.png",
-      "https://cdn2.steamgriddb.com/hero/79e670a39dee6895d723518816d67495.png",
-      "https://cdn2.steamgriddb.com/hero/5b8b8d26e29416bc39aec1a96ada2576.png"
+      "https://cdn2.steamgriddb.com/hero/79e670a39dee6895d723518816d67495.png"
     ],
     "releaseYear": 2005,
     "rating": 89,
@@ -2380,12 +2380,12 @@
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/2b423dc1a327648b419922ee8980e8dd.jpg",
       "https://cdn2.steamgriddb.com/hero/bbcb0a179f5728cd615974a511d38bd4.png",
-      "https://cdn2.steamgriddb.com/hero/c6bff625bdb0393992c9d4db0c6bbe45.png",
-      "https://cdn2.steamgriddb.com/hero/1ee8c137bb71a4bec258c2faf3cd31a7.png",
-      "https://cdn2.steamgriddb.com/hero/8ee7730e97c67473a424ccfeff49ab20.png",
       "https://cdn2.steamgriddb.com/hero/66b8d6392a59b5ce703c28340d8b3565.png",
+      "https://cdn2.steamgriddb.com/hero/c6bff625bdb0393992c9d4db0c6bbe45.png",
+      "https://cdn2.steamgriddb.com/hero/8ee7730e97c67473a424ccfeff49ab20.png",
       "https://cdn2.steamgriddb.com/hero/4204dc3a11678c6b1d0be57cfe0a21b0.png",
-      "https://cdn2.steamgriddb.com/hero/59490e21e9c64b7ef8aa6eb5cdfbec82.png"
+      "https://cdn2.steamgriddb.com/hero/59490e21e9c64b7ef8aa6eb5cdfbec82.png",
+      "https://cdn2.steamgriddb.com/hero/91665c93b72f55b2e4f1048fc8289d04.png"
     ],
     "releaseYear": 1996,
     "rating": 89,
@@ -3663,6 +3663,35 @@
     ]
   },
   {
+    "id": 2136,
+    "name": "Bayonetta",
+    "posters": [
+      "data/covers/2136.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/4d2fe2e8601f7a8018594d98f28706f2.png",
+      "https://cdn2.steamgriddb.com/hero/c8ad39b9579b4816dc8f6f805c190308.jpg",
+      "https://cdn2.steamgriddb.com/hero/30351c0def80d8e4aa969904ad8cd614.png",
+      "https://cdn2.steamgriddb.com/hero/8f63b73373003ffea6758a58b79a010f.png",
+      "https://cdn2.steamgriddb.com/hero/4736c662fb27a953e23fb1a88c0bd24a.jpg",
+      "https://cdn2.steamgriddb.com/hero/90a968fc0f70ab11c67b304474027f73.jpg",
+      "https://cdn2.steamgriddb.com/hero/7789bd65cf5a7e9161503f7bbb780d65.png",
+      "https://cdn2.steamgriddb.com/hero/976c8e62c5c92ea735d75c19875b128f.png"
+    ],
+    "releaseYear": 2009,
+    "rating": 86,
+    "platforms": [
+      "PlayStation 3",
+      "PC (Microsoft Windows)",
+      "Xbox 360"
+    ],
+    "genres": [
+      "Shooter",
+      "Hack and slash/Beat 'em up",
+      "Adventure"
+    ]
+  },
+  {
     "id": 1983,
     "name": "Bastion",
     "posters": [
@@ -3695,35 +3724,6 @@
       "Role-playing (RPG)",
       "Adventure",
       "Indie"
-    ]
-  },
-  {
-    "id": 2136,
-    "name": "Bayonetta",
-    "posters": [
-      "data/covers/2136.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/4d2fe2e8601f7a8018594d98f28706f2.png",
-      "https://cdn2.steamgriddb.com/hero/c8ad39b9579b4816dc8f6f805c190308.jpg",
-      "https://cdn2.steamgriddb.com/hero/30351c0def80d8e4aa969904ad8cd614.png",
-      "https://cdn2.steamgriddb.com/hero/8f63b73373003ffea6758a58b79a010f.png",
-      "https://cdn2.steamgriddb.com/hero/4736c662fb27a953e23fb1a88c0bd24a.jpg",
-      "https://cdn2.steamgriddb.com/hero/90a968fc0f70ab11c67b304474027f73.jpg",
-      "https://cdn2.steamgriddb.com/hero/7789bd65cf5a7e9161503f7bbb780d65.png",
-      "https://cdn2.steamgriddb.com/hero/976c8e62c5c92ea735d75c19875b128f.png"
-    ],
-    "releaseYear": 2009,
-    "rating": 86,
-    "platforms": [
-      "PlayStation 3",
-      "PC (Microsoft Windows)",
-      "Xbox 360"
-    ],
-    "genres": [
-      "Shooter",
-      "Hack and slash/Beat 'em up",
-      "Adventure"
     ]
   },
   {
@@ -4363,11 +4363,11 @@
       "https://cdn2.steamgriddb.com/hero/0a93cd1fbeb45dc6553052c91c8a42d6.png",
       "https://cdn2.steamgriddb.com/hero/cb1f93de0aadd74c64d1004781056f5e.png",
       "https://cdn2.steamgriddb.com/hero/71269e0156cbe8b079f3ddf441fcb59f.jpg",
+      "https://cdn2.steamgriddb.com/hero/d147702bbe61279b97f50856337b767c.png",
       "https://cdn2.steamgriddb.com/hero/e97f11c1f83bcd4d3416bdfe4a356f2d.png",
       "https://cdn2.steamgriddb.com/hero/e32a175729f0f51628aff181dfe83055.png",
       "https://cdn2.steamgriddb.com/hero/060c7cb35d024b35db67f04bf310e3d0.png",
-      "https://cdn2.steamgriddb.com/hero/01d29a8f751be8b8190c5f07d56e8602.png",
-      "https://cdn2.steamgriddb.com/hero/056c0ba9e4fd3ceff63ebc92f84e2a32.jpg"
+      "https://cdn2.steamgriddb.com/hero/01d29a8f751be8b8190c5f07d56e8602.png"
     ],
     "releaseYear": 2025,
     "rating": 93,
@@ -4535,8 +4535,8 @@
     ],
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/e1d25dd75bd7a2083c12ec1e53f450ce.png",
-      "https://cdn2.steamgriddb.com/hero/6f99be860d58f3411dc03da94a6db955.png",
       "https://cdn2.steamgriddb.com/hero/a267198d6d211583c9933a68b30d8ac4.png",
+      "https://cdn2.steamgriddb.com/hero/6f99be860d58f3411dc03da94a6db955.png",
       "https://cdn2.steamgriddb.com/hero/e19473609605730c4b284dd913e822f9.png",
       "https://cdn2.steamgriddb.com/hero/50cad8b124bde64d87002f0df798a23a.png",
       "https://cdn2.steamgriddb.com/hero/e5040d230c0d9d7bad6bd9894ab3e6e3.png",
