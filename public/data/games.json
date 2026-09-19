@@ -1734,11 +1734,11 @@
       "https://cdn2.steamgriddb.com/hero/2ee2b71a912ddc28699435eca8bd6486.png",
       "https://cdn2.steamgriddb.com/hero/5636cbbbf9d5624b172862ee276bec73.jpg",
       "https://cdn2.steamgriddb.com/hero/0df5627695c1aaf2a2be5c738a80f0c3.png",
-      "https://cdn2.steamgriddb.com/hero/2750dc2828e8f769ede73fd216f19b62.png",
       "https://cdn2.steamgriddb.com/hero/8b2ced7428b64f653036b4a67d32302b.jpg",
       "https://cdn2.steamgriddb.com/hero/94c8e4495d11846b18dd44998eed4968.png",
-      "https://cdn2.steamgriddb.com/hero/65f5a24d2b690cf3819e992cc20173e6.png",
-      "https://cdn2.steamgriddb.com/hero/93aaa29263d4040a9099001cc887d333.png"
+      "https://cdn2.steamgriddb.com/hero/2750dc2828e8f769ede73fd216f19b62.png",
+      "https://cdn2.steamgriddb.com/hero/93aaa29263d4040a9099001cc887d333.png",
+      "https://cdn2.steamgriddb.com/hero/1134ac57b5b1d38b7d70c1b6feaa28cf.png"
     ],
     "releaseYear": 2019,
     "rating": 90,
@@ -3339,6 +3339,35 @@
     ]
   },
   {
+    "id": 81085,
+    "name": "Dark Souls: Remastered",
+    "posters": [
+      "data/covers/81085.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/395af6444dfab37005c07b8264090296.jpg",
+      "https://cdn2.steamgriddb.com/hero/d645920e395fedad7bbbed0eca3fe2e0.png",
+      "https://cdn2.steamgriddb.com/hero/2f998dda8f0ba06965f745c6b4b39a28.jpg",
+      "https://cdn2.steamgriddb.com/hero/e1b97c787a5677efa5eba575c41e8688.png",
+      "https://cdn2.steamgriddb.com/hero/2546ca898e28f10ef2ef41f08b17d2c1.jpg",
+      "https://cdn2.steamgriddb.com/hero/fd0844cddec522c72993e744add7ed20.png",
+      "https://cdn2.steamgriddb.com/hero/9493b40d57ad7be6c0da24d381015694.png",
+      "https://cdn2.steamgriddb.com/hero/1fdfc94e6fbe9ad0ae591127861939b9.jpg"
+    ],
+    "releaseYear": 2018,
+    "rating": 87,
+    "platforms": [
+      "PlayStation 4",
+      "PC (Microsoft Windows)",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Adventure"
+    ]
+  },
+  {
     "id": 11737,
     "name": "Outer Wilds",
     "posters": [
@@ -3369,35 +3398,6 @@
       "Simulator",
       "Adventure",
       "Indie"
-    ]
-  },
-  {
-    "id": 81085,
-    "name": "Dark Souls: Remastered",
-    "posters": [
-      "data/covers/81085.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/395af6444dfab37005c07b8264090296.jpg",
-      "https://cdn2.steamgriddb.com/hero/d645920e395fedad7bbbed0eca3fe2e0.png",
-      "https://cdn2.steamgriddb.com/hero/2f998dda8f0ba06965f745c6b4b39a28.jpg",
-      "https://cdn2.steamgriddb.com/hero/e1b97c787a5677efa5eba575c41e8688.png",
-      "https://cdn2.steamgriddb.com/hero/2546ca898e28f10ef2ef41f08b17d2c1.jpg",
-      "https://cdn2.steamgriddb.com/hero/fd0844cddec522c72993e744add7ed20.png",
-      "https://cdn2.steamgriddb.com/hero/9493b40d57ad7be6c0da24d381015694.png",
-      "https://cdn2.steamgriddb.com/hero/1fdfc94e6fbe9ad0ae591127861939b9.jpg"
-    ],
-    "releaseYear": 2018,
-    "rating": 87,
-    "platforms": [
-      "PlayStation 4",
-      "PC (Microsoft Windows)",
-      "Xbox One",
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Adventure"
     ]
   },
   {
@@ -3571,6 +3571,35 @@
     ]
   },
   {
+    "id": 76253,
+    "name": "Devil May Cry 5",
+    "posters": [
+      "data/covers/76253.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/4f513f68a7732df8db6b106ba6565073.png",
+      "https://cdn2.steamgriddb.com/hero/b92894e4589f652dc3116cb3a8c48c08.png",
+      "https://cdn2.steamgriddb.com/hero/4a50099e4b1e3d4376fa30b80a5d604f.png",
+      "https://cdn2.steamgriddb.com/hero/779ce0602e357694977a3a40c4e50121.png",
+      "https://cdn2.steamgriddb.com/hero/d79199b86238c86baa35733a3a1ce4a5.jpg",
+      "https://cdn2.steamgriddb.com/hero/72dfa10de34751253a094e8db24a0567.jpg",
+      "https://cdn2.steamgriddb.com/hero/89885ff2c83a10305ee08bd507c1049c.png",
+      "https://cdn2.steamgriddb.com/hero/1df58e63816ec9ab895d8f14640a5f47.png"
+    ],
+    "releaseYear": 2019,
+    "rating": 86,
+    "platforms": [
+      "PlayStation 4",
+      "Nintendo Switch 2",
+      "PC (Microsoft Windows)",
+      "Xbox One"
+    ],
+    "genres": [
+      "Hack and slash/Beat 'em up",
+      "Adventure"
+    ]
+  },
+  {
     "id": 6707,
     "name": "Tales from the Borderlands",
     "posters": [
@@ -3630,35 +3659,6 @@
     ],
     "genres": [
       "Shooter",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 76253,
-    "name": "Devil May Cry 5",
-    "posters": [
-      "data/covers/76253.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/4f513f68a7732df8db6b106ba6565073.png",
-      "https://cdn2.steamgriddb.com/hero/b92894e4589f652dc3116cb3a8c48c08.png",
-      "https://cdn2.steamgriddb.com/hero/4a50099e4b1e3d4376fa30b80a5d604f.png",
-      "https://cdn2.steamgriddb.com/hero/779ce0602e357694977a3a40c4e50121.png",
-      "https://cdn2.steamgriddb.com/hero/d79199b86238c86baa35733a3a1ce4a5.jpg",
-      "https://cdn2.steamgriddb.com/hero/72dfa10de34751253a094e8db24a0567.jpg",
-      "https://cdn2.steamgriddb.com/hero/89885ff2c83a10305ee08bd507c1049c.png",
-      "https://cdn2.steamgriddb.com/hero/1df58e63816ec9ab895d8f14640a5f47.png"
-    ],
-    "releaseYear": 2019,
-    "rating": 86,
-    "platforms": [
-      "PlayStation 4",
-      "Nintendo Switch 2",
-      "PC (Microsoft Windows)",
-      "Xbox One"
-    ],
-    "genres": [
-      "Hack and slash/Beat 'em up",
       "Adventure"
     ]
   },
@@ -5866,35 +5866,6 @@
     ]
   },
   {
-    "id": 134612,
-    "name": "Pragmata",
-    "posters": [
-      "data/covers/134612.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/1593937e2099ea418f9c25f83e5425aa.png",
-      "https://cdn2.steamgriddb.com/hero/0b9f166f1f75217d3a28dc96e53eecfb.png",
-      "https://cdn2.steamgriddb.com/hero/b5a62c52a3558ae63099a7b1f21a46e1.png",
-      "https://cdn2.steamgriddb.com/hero/646d2f7cc11dd365e6f0aaa39831a7cc.png",
-      "https://cdn2.steamgriddb.com/hero/16b42e3bdfb5aa64c9519c72fb9fd613.png",
-      "https://cdn2.steamgriddb.com/hero/2e951e37ba37f327f064614bc8d63378.png",
-      "https://cdn2.steamgriddb.com/hero/fa1f0a1de120b6ac2951552b14f64b16.png",
-      "https://cdn2.steamgriddb.com/hero/c941029b040ed6e0da88249464283423.png"
-    ],
-    "releaseYear": 2026,
-    "rating": 87,
-    "platforms": [
-      "Xbox Series X|S",
-      "Nintendo Switch 2",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Shooter",
-      "Adventure"
-    ]
-  },
-  {
     "id": 124954,
     "name": "Crusader Kings III",
     "posters": [
@@ -5923,6 +5894,35 @@
       "Role-playing (RPG)",
       "Simulator",
       "Strategy"
+    ]
+  },
+  {
+    "id": 134612,
+    "name": "Pragmata",
+    "posters": [
+      "data/covers/134612.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/1593937e2099ea418f9c25f83e5425aa.png",
+      "https://cdn2.steamgriddb.com/hero/0b9f166f1f75217d3a28dc96e53eecfb.png",
+      "https://cdn2.steamgriddb.com/hero/b5a62c52a3558ae63099a7b1f21a46e1.png",
+      "https://cdn2.steamgriddb.com/hero/646d2f7cc11dd365e6f0aaa39831a7cc.png",
+      "https://cdn2.steamgriddb.com/hero/16b42e3bdfb5aa64c9519c72fb9fd613.png",
+      "https://cdn2.steamgriddb.com/hero/2e951e37ba37f327f064614bc8d63378.png",
+      "https://cdn2.steamgriddb.com/hero/fa1f0a1de120b6ac2951552b14f64b16.png",
+      "https://cdn2.steamgriddb.com/hero/c941029b040ed6e0da88249464283423.png"
+    ],
+    "releaseYear": 2026,
+    "rating": 87,
+    "platforms": [
+      "Xbox Series X|S",
+      "Nintendo Switch 2",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Shooter",
+      "Adventure"
     ]
   },
   {
@@ -6126,8 +6126,8 @@
     ],
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/54a64b2e4c5969a0449a82b1ef1ecf70.png",
-      "https://cdn2.steamgriddb.com/hero/2ad39eeb55ea4d05c6930ccab04667e9.png",
       "https://cdn2.steamgriddb.com/hero/574e04d3b783927e028982e71467bf13.png",
+      "https://cdn2.steamgriddb.com/hero/2ad39eeb55ea4d05c6930ccab04667e9.png",
       "https://cdn2.steamgriddb.com/hero/a97d5355c6c278e9cec289921a5e3f2a.png",
       "https://cdn2.steamgriddb.com/hero/0b9092dbc5e3a91d6df24256675003d8.png",
       "https://cdn2.steamgriddb.com/hero/0d75e0a43dc1b44c71b7323b402d2c7c.png",
@@ -6617,36 +6617,6 @@
     ]
   },
   {
-    "id": 225582,
-    "name": "Control Resonant",
-    "posters": [
-      "data/covers/225582.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/240e23eebf039a0dc1ec15529a3c2ecc.png",
-      "https://cdn2.steamgriddb.com/hero/bd40e4bd7c3fd394cfe926660335b391.png",
-      "https://cdn2.steamgriddb.com/hero/c9e171b812992625c75344234c09e92a.png",
-      "https://cdn2.steamgriddb.com/hero/abb7e54b51ba50dc6954a512d1a132fa.jpg",
-      "https://cdn2.steamgriddb.com/hero/96681ebcc11afbcc7613b688e37af4b8.png",
-      "https://cdn2.steamgriddb.com/hero/6a480dde4a529565d473063cc43cb551.png",
-      "https://cdn2.steamgriddb.com/hero/667d22dfde43bafb3f8fada578c96c25.png",
-      "https://cdn2.steamgriddb.com/hero/c7dd2ce0ca178866b08dbeae47618f43.png"
-    ],
-    "releaseYear": 2026,
-    "rating": 0,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5",
-      "Mac"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Hack and slash/Beat 'em up",
-      "Adventure"
-    ]
-  },
-  {
     "id": 250618,
     "name": "Phantom Blade 0",
     "posters": [
@@ -7014,10 +6984,10 @@
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/194c94665fa33ae403336e561eaa240c.png",
       "https://cdn2.steamgriddb.com/hero/658307bbe534e9e2b6f8bbf64d7ba745.png",
-      "https://cdn2.steamgriddb.com/hero/f6419e6a01404140b64d5b6e372cc9d7.png",
-      "https://cdn2.steamgriddb.com/hero/eb0253c35827f401e0aac5f3f48b6a58.jpg",
       "https://cdn2.steamgriddb.com/hero/94625d037558adf014570dcdfe244fc6.png",
       "https://cdn2.steamgriddb.com/hero/424f9d23d732242cec0fbb9aa83ca44e.jpg",
+      "https://cdn2.steamgriddb.com/hero/f6419e6a01404140b64d5b6e372cc9d7.png",
+      "https://cdn2.steamgriddb.com/hero/eb0253c35827f401e0aac5f3f48b6a58.jpg",
       "https://cdn2.steamgriddb.com/hero/8a3aa2d305b76ca83cd69b83ec5f6265.jpg",
       "https://cdn2.steamgriddb.com/hero/5e472cbc2f2a3cecd16a94e75fcdd845.jpg"
     ],
