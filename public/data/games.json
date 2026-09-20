@@ -1411,8 +1411,8 @@
       "https://cdn2.steamgriddb.com/hero/3cb7e8f622724be0f4007bab0102e831.png",
       "https://cdn2.steamgriddb.com/hero/cc9657884708170e160c8372d92f3535.png",
       "https://cdn2.steamgriddb.com/hero/09c039292630f588a0528fb457d63c7e.png",
-      "https://cdn2.steamgriddb.com/hero/4db94ea189e1ac28f8ad039749e7c8b7.png",
-      "https://cdn2.steamgriddb.com/hero/247f0c5804188fbcbed0e6a140aabd45.png"
+      "https://cdn2.steamgriddb.com/hero/60e438426cd42e2ad67ad09ef1fd5bbb.png",
+      "https://cdn2.steamgriddb.com/hero/4db94ea189e1ac28f8ad039749e7c8b7.png"
     ],
     "releaseYear": 2006,
     "rating": 91,
@@ -3791,10 +3791,10 @@
       "https://cdn2.steamgriddb.com/hero/effbb64ff6c9b38c6fcb05185cd22fc3.png",
       "https://cdn2.steamgriddb.com/hero/dcd452092643b695257a74108459b8f3.png",
       "https://cdn2.steamgriddb.com/hero/419af05350a960dc3b7a2c33be433f77.png",
+      "https://cdn2.steamgriddb.com/hero/045723a2e194ae8b07890dace311b402.png",
       "https://cdn2.steamgriddb.com/hero/06a8fa39df8824ef3790040b57f6313a.png",
-      "https://cdn2.steamgriddb.com/hero/d6e051bf653f19c95b4418047625027a.jpg",
-      "https://cdn2.steamgriddb.com/hero/874d7bddeba3960d1ee93c0154751b54.jpg",
-      "https://cdn2.steamgriddb.com/hero/718da73708da06365c77c1ea9569c1d3.jpg"
+      "https://cdn2.steamgriddb.com/hero/e5f8b398ee10d01e54ac6eded1976343.jpg",
+      "https://cdn2.steamgriddb.com/hero/d6e051bf653f19c95b4418047625027a.jpg"
     ],
     "releaseYear": 2008,
     "rating": 86,
@@ -4195,8 +4195,8 @@
       "https://cdn2.steamgriddb.com/hero/07563a3fe3bbe7e3ba84431ad9d055af.jpg",
       "https://cdn2.steamgriddb.com/hero/fad6bd9df466928854884d9f8bed0486.png",
       "https://cdn2.steamgriddb.com/hero/3e15cc11f979ed25912dff5b0669f2cd.png",
-      "https://cdn2.steamgriddb.com/hero/da9278fb741a9aba56bd8e184933871d.jpg",
-      "https://cdn2.steamgriddb.com/hero/ab233b682ec355648e7891e66c54191b.png"
+      "https://cdn2.steamgriddb.com/hero/ab233b682ec355648e7891e66c54191b.png",
+      "https://cdn2.steamgriddb.com/hero/da9278fb741a9aba56bd8e184933871d.jpg"
     ],
     "releaseYear": 2011,
     "rating": 86,
@@ -5833,6 +5833,35 @@
     ]
   },
   {
+    "id": 134612,
+    "name": "Pragmata",
+    "posters": [
+      "data/covers/134612.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/1593937e2099ea418f9c25f83e5425aa.png",
+      "https://cdn2.steamgriddb.com/hero/0b9f166f1f75217d3a28dc96e53eecfb.png",
+      "https://cdn2.steamgriddb.com/hero/b5a62c52a3558ae63099a7b1f21a46e1.png",
+      "https://cdn2.steamgriddb.com/hero/646d2f7cc11dd365e6f0aaa39831a7cc.png",
+      "https://cdn2.steamgriddb.com/hero/16b42e3bdfb5aa64c9519c72fb9fd613.png",
+      "https://cdn2.steamgriddb.com/hero/2e951e37ba37f327f064614bc8d63378.png",
+      "https://cdn2.steamgriddb.com/hero/fa1f0a1de120b6ac2951552b14f64b16.png",
+      "https://cdn2.steamgriddb.com/hero/c941029b040ed6e0da88249464283423.png"
+    ],
+    "releaseYear": 2026,
+    "rating": 87,
+    "platforms": [
+      "Xbox Series X|S",
+      "Nintendo Switch 2",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Shooter",
+      "Adventure"
+    ]
+  },
+  {
     "id": 104967,
     "name": "Valheim",
     "posters": [
@@ -5894,35 +5923,6 @@
       "Role-playing (RPG)",
       "Simulator",
       "Strategy"
-    ]
-  },
-  {
-    "id": 134612,
-    "name": "Pragmata",
-    "posters": [
-      "data/covers/134612.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/1593937e2099ea418f9c25f83e5425aa.png",
-      "https://cdn2.steamgriddb.com/hero/0b9f166f1f75217d3a28dc96e53eecfb.png",
-      "https://cdn2.steamgriddb.com/hero/b5a62c52a3558ae63099a7b1f21a46e1.png",
-      "https://cdn2.steamgriddb.com/hero/646d2f7cc11dd365e6f0aaa39831a7cc.png",
-      "https://cdn2.steamgriddb.com/hero/16b42e3bdfb5aa64c9519c72fb9fd613.png",
-      "https://cdn2.steamgriddb.com/hero/2e951e37ba37f327f064614bc8d63378.png",
-      "https://cdn2.steamgriddb.com/hero/fa1f0a1de120b6ac2951552b14f64b16.png",
-      "https://cdn2.steamgriddb.com/hero/c941029b040ed6e0da88249464283423.png"
-    ],
-    "releaseYear": 2026,
-    "rating": 87,
-    "platforms": [
-      "Xbox Series X|S",
-      "Nintendo Switch 2",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Shooter",
-      "Adventure"
     ]
   },
   {
@@ -6119,34 +6119,6 @@
     ]
   },
   {
-    "id": 135818,
-    "name": "Pizza Tower",
-    "posters": [
-      "data/covers/135818.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/54a64b2e4c5969a0449a82b1ef1ecf70.png",
-      "https://cdn2.steamgriddb.com/hero/574e04d3b783927e028982e71467bf13.png",
-      "https://cdn2.steamgriddb.com/hero/2ad39eeb55ea4d05c6930ccab04667e9.png",
-      "https://cdn2.steamgriddb.com/hero/a97d5355c6c278e9cec289921a5e3f2a.png",
-      "https://cdn2.steamgriddb.com/hero/0b9092dbc5e3a91d6df24256675003d8.png",
-      "https://cdn2.steamgriddb.com/hero/0d75e0a43dc1b44c71b7323b402d2c7c.png",
-      "https://cdn2.steamgriddb.com/hero/93ae0d44b350540f196d8bcde3ddeca3.png",
-      "https://cdn2.steamgriddb.com/hero/8523109c9a85dbfc46eb1f46955b5449.png"
-    ],
-    "releaseYear": 2023,
-    "rating": 87,
-    "platforms": [
-      "PC (Microsoft Windows)",
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Platform",
-      "Adventure",
-      "Indie"
-    ]
-  },
-  {
     "id": 165390,
     "name": "Blasphemous II",
     "posters": [
@@ -6176,6 +6148,34 @@
       "Platform",
       "Role-playing (RPG)",
       "Hack and slash/Beat 'em up",
+      "Adventure",
+      "Indie"
+    ]
+  },
+  {
+    "id": 135818,
+    "name": "Pizza Tower",
+    "posters": [
+      "data/covers/135818.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/54a64b2e4c5969a0449a82b1ef1ecf70.png",
+      "https://cdn2.steamgriddb.com/hero/574e04d3b783927e028982e71467bf13.png",
+      "https://cdn2.steamgriddb.com/hero/2ad39eeb55ea4d05c6930ccab04667e9.png",
+      "https://cdn2.steamgriddb.com/hero/a97d5355c6c278e9cec289921a5e3f2a.png",
+      "https://cdn2.steamgriddb.com/hero/0b9092dbc5e3a91d6df24256675003d8.png",
+      "https://cdn2.steamgriddb.com/hero/0d75e0a43dc1b44c71b7323b402d2c7c.png",
+      "https://cdn2.steamgriddb.com/hero/93ae0d44b350540f196d8bcde3ddeca3.png",
+      "https://cdn2.steamgriddb.com/hero/8523109c9a85dbfc46eb1f46955b5449.png"
+    ],
+    "releaseYear": 2023,
+    "rating": 87,
+    "platforms": [
+      "PC (Microsoft Windows)",
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Platform",
       "Adventure",
       "Indie"
     ]
@@ -7006,25 +7006,6 @@
     ]
   },
   {
-    "id": 252840,
-    "name": "Clockwork Revolution",
-    "posters": [
-      "data/covers/252840.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/fc42f2114057ed36c8a40034814c8d93.jpg"
-    ],
-    "releaseYear": 2027,
-    "rating": 0,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)"
-    ],
-    "genres": [
-      "Role-playing (RPG)"
-    ]
-  },
-  {
     "id": 398225,
     "name": "Metro 2039",
     "posters": [
@@ -7050,6 +7031,25 @@
     "genres": [
       "Shooter",
       "Adventure"
+    ]
+  },
+  {
+    "id": 252840,
+    "name": "Clockwork Revolution",
+    "posters": [
+      "data/covers/252840.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/fc42f2114057ed36c8a40034814c8d93.jpg"
+    ],
+    "releaseYear": 2027,
+    "rating": 0,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)"
+    ],
+    "genres": [
+      "Role-playing (RPG)"
     ]
   },
   {
