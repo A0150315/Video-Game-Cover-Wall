@@ -4555,6 +4555,33 @@
     ]
   },
   {
+    "id": 228530,
+    "name": "Death Stranding 2: On the Beach",
+    "posters": [
+      "data/covers/228530.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/be0a03c512e81c809b9b9f359e8f0883.jpg",
+      "https://cdn2.steamgriddb.com/hero/02fc8aad99f83dd975d77b7aa954754d.png",
+      "https://cdn2.steamgriddb.com/hero/bd6039f5e2457fc18f5c4559b3487666.jpg",
+      "https://cdn2.steamgriddb.com/hero/2b00e20bf615db411d9bac7819b6e003.jpg",
+      "https://cdn2.steamgriddb.com/hero/a48ea3f98067cb5bbd6eb863a7b40f38.png",
+      "https://cdn2.steamgriddb.com/hero/682a64a4fba9f39d954eaf28531e55a0.png",
+      "https://cdn2.steamgriddb.com/hero/08142446d0ba78b8f9091f52df384fcd.png",
+      "https://cdn2.steamgriddb.com/hero/a283f6b30fc942119e90f406e7b75aa6.png"
+    ],
+    "releaseYear": 2025,
+    "rating": 91,
+    "platforms": [
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Shooter",
+      "Adventure"
+    ]
+  },
+  {
     "id": 228525,
     "name": "Hades II",
     "posters": [
@@ -4585,33 +4612,6 @@
       "Hack and slash/Beat 'em up",
       "Adventure",
       "Indie"
-    ]
-  },
-  {
-    "id": 228530,
-    "name": "Death Stranding 2: On the Beach",
-    "posters": [
-      "data/covers/228530.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/be0a03c512e81c809b9b9f359e8f0883.jpg",
-      "https://cdn2.steamgriddb.com/hero/02fc8aad99f83dd975d77b7aa954754d.png",
-      "https://cdn2.steamgriddb.com/hero/bd6039f5e2457fc18f5c4559b3487666.jpg",
-      "https://cdn2.steamgriddb.com/hero/2b00e20bf615db411d9bac7819b6e003.jpg",
-      "https://cdn2.steamgriddb.com/hero/a48ea3f98067cb5bbd6eb863a7b40f38.png",
-      "https://cdn2.steamgriddb.com/hero/682a64a4fba9f39d954eaf28531e55a0.png",
-      "https://cdn2.steamgriddb.com/hero/08142446d0ba78b8f9091f52df384fcd.png",
-      "https://cdn2.steamgriddb.com/hero/a283f6b30fc942119e90f406e7b75aa6.png"
-    ],
-    "releaseYear": 2025,
-    "rating": 91,
-    "platforms": [
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Shooter",
-      "Adventure"
     ]
   },
   {
@@ -6160,7 +6160,7 @@
       "https://cdn2.steamgriddb.com/hero/0c143ec6bc106159fc0acc52039c237e.jpg",
       "https://cdn2.steamgriddb.com/hero/f54c84f16e91ac2c1137a8f504ba1db0.jpg",
       "https://cdn2.steamgriddb.com/hero/53a4f226172df01c30f90975ee5eea7b.jpg",
-      "https://cdn2.steamgriddb.com/hero/9e3a40b7eee0f51ee4632e6951a8d05e.png",
+      "https://cdn2.steamgriddb.com/hero/c79a41be3ea73012acd816d5e2bf130d.png",
       "https://cdn2.steamgriddb.com/hero/f06e7e3c7a40c772b2d68918431d0e24.png",
       "https://cdn2.steamgriddb.com/hero/ceb342b7175b60f565d8d19972d6922f.png"
     ],
@@ -6247,10 +6247,10 @@
       "https://cdn2.steamgriddb.com/hero/c44b034dab0ecc0d163f3c01e388f8aa.png",
       "https://cdn2.steamgriddb.com/hero/cef2465985311c2d8aa8cc9e89a0b17a.jpg",
       "https://cdn2.steamgriddb.com/hero/05d4d1064a3f35425953bef00657d133.jpg",
-      "https://cdn2.steamgriddb.com/hero/13487cb401d0113ada148b8262c499a5.png",
       "https://cdn2.steamgriddb.com/hero/3e8bd7e8026b87e3f4b8c92203516000.png",
       "https://cdn2.steamgriddb.com/hero/a530344ef42250d0dd3371bd31245f27.png",
-      "https://cdn2.steamgriddb.com/hero/38c0bb6153a37c4f42fbe27a45e3b51f.jpg"
+      "https://cdn2.steamgriddb.com/hero/38c0bb6153a37c4f42fbe27a45e3b51f.jpg",
+      "https://cdn2.steamgriddb.com/hero/ae0638ba4db0d2b0c0d5c75785034e8c.jpg"
     ],
     "releaseYear": 2024,
     "rating": 87,
@@ -6911,6 +6911,33 @@
     ]
   },
   {
+    "id": 325599,
+    "name": "Stranger Than Heaven",
+    "posters": [
+      "data/covers/325599.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/aa63cb5db66c1e8ef5028857ff1de37a.png",
+      "https://cdn2.steamgriddb.com/hero/07d87a49fed03cc7d85a6f919f781c24.jpg",
+      "https://cdn2.steamgriddb.com/hero/f1cab1954b1fc4ff1914fc819d30f3c1.jpg",
+      "https://cdn2.steamgriddb.com/hero/cd09fe0d3b309221c157a07513d8eceb.jpg",
+      "https://cdn2.steamgriddb.com/hero/e971c298d7fba28722b4c69b3fad1129.jpg"
+    ],
+    "releaseYear": 2027,
+    "rating": 0,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Fighting",
+      "Puzzle",
+      "Role-playing (RPG)",
+      "Adventure"
+    ]
+  },
+  {
     "id": 347869,
     "name": "The Expanse: Osiris Reborn",
     "posters": [
@@ -6933,32 +6960,6 @@
     ]
   },
   {
-    "id": 325599,
-    "name": "Stranger Than Heaven",
-    "posters": [
-      "data/covers/325599.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/aa63cb5db66c1e8ef5028857ff1de37a.png",
-      "https://cdn2.steamgriddb.com/hero/f1cab1954b1fc4ff1914fc819d30f3c1.jpg",
-      "https://cdn2.steamgriddb.com/hero/cd09fe0d3b309221c157a07513d8eceb.jpg",
-      "https://cdn2.steamgriddb.com/hero/e971c298d7fba28722b4c69b3fad1129.jpg"
-    ],
-    "releaseYear": 2027,
-    "rating": 0,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Fighting",
-      "Puzzle",
-      "Role-playing (RPG)",
-      "Adventure"
-    ]
-  },
-  {
     "id": 305160,
     "name": "Gears of War: E-Day",
     "posters": [
@@ -6975,6 +6976,34 @@
       "https://cdn2.steamgriddb.com/hero/b6f0f53b7491b52746b63c8c7039d6b2.png"
     ],
     "releaseYear": 2026,
+    "rating": 0,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Shooter",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 398225,
+    "name": "Metro 2039",
+    "posters": [
+      "data/covers/398225.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/a5ffb371628660680f9ee0baf043fb3c.jpg",
+      "https://cdn2.steamgriddb.com/hero/192443305db254afb8e532d00a34b4aa.jpg",
+      "https://cdn2.steamgriddb.com/hero/ea1f8e148cd9d42ec4ba0753f2e76b5f.png",
+      "https://cdn2.steamgriddb.com/hero/5505b04b0f722168f8ecda7712e8c2a8.png",
+      "https://cdn2.steamgriddb.com/hero/d029fb44c1e45326c0c011d48722fa68.jpg",
+      "https://cdn2.steamgriddb.com/hero/1ecb86c96dd62c982d40d0699fc5a156.jpg",
+      "https://cdn2.steamgriddb.com/hero/bcf01df2c389168594cb4f646c51e3bf.png",
+      "https://cdn2.steamgriddb.com/hero/9b60ae21f922beabfd5713248f3802d0.png"
+    ],
+    "releaseYear": 2027,
     "rating": 0,
     "platforms": [
       "Xbox Series X|S",
@@ -7036,34 +7065,6 @@
     ]
   },
   {
-    "id": 398225,
-    "name": "Metro 2039",
-    "posters": [
-      "data/covers/398225.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/a5ffb371628660680f9ee0baf043fb3c.jpg",
-      "https://cdn2.steamgriddb.com/hero/192443305db254afb8e532d00a34b4aa.jpg",
-      "https://cdn2.steamgriddb.com/hero/ea1f8e148cd9d42ec4ba0753f2e76b5f.png",
-      "https://cdn2.steamgriddb.com/hero/5505b04b0f722168f8ecda7712e8c2a8.png",
-      "https://cdn2.steamgriddb.com/hero/d029fb44c1e45326c0c011d48722fa68.jpg",
-      "https://cdn2.steamgriddb.com/hero/1ecb86c96dd62c982d40d0699fc5a156.jpg",
-      "https://cdn2.steamgriddb.com/hero/bcf01df2c389168594cb4f646c51e3bf.png",
-      "https://cdn2.steamgriddb.com/hero/9b60ae21f922beabfd5713248f3802d0.png"
-    ],
-    "releaseYear": 2027,
-    "rating": 0,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Shooter",
-      "Adventure"
-    ]
-  },
-  {
     "id": 252840,
     "name": "Clockwork Revolution",
     "posters": [
@@ -7106,33 +7107,6 @@
       "Tactical",
       "Adventure",
       "MOBA"
-    ]
-  },
-  {
-    "id": 222342,
-    "name": "Silent Hill: Townfall",
-    "posters": [
-      "data/covers/222342.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/84e9033503492d6951ee2c3631ed0915.png",
-      "https://cdn2.steamgriddb.com/hero/5b5c38887510f00d3b8aca60899b4697.png",
-      "https://cdn2.steamgriddb.com/hero/d4a880ffcab96141d7a3538bf17255de.png",
-      "https://cdn2.steamgriddb.com/hero/81c7173784184c0d6645038922981051.png",
-      "https://cdn2.steamgriddb.com/hero/c61078a05ca3c56140a6d2bf06b49c6f.png",
-      "https://cdn2.steamgriddb.com/hero/9aab82b20887ca284964bc2474fe1f83.png",
-      "https://cdn2.steamgriddb.com/hero/337653b3c9942b9ee76db0becfd3022c.png",
-      "https://cdn2.steamgriddb.com/hero/64705d03e4205626b7f625c843242794.png"
-    ],
-    "releaseYear": 2026,
-    "rating": 0,
-    "platforms": [
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Puzzle",
-      "Adventure"
     ]
   },
   {
@@ -7248,6 +7222,28 @@
       "PlayStation 5"
     ],
     "genres": [
+      "Adventure"
+    ]
+  },
+  {
+    "id": 262712,
+    "name": "Ananta",
+    "posters": [
+      "data/covers/262712.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/75c649d237b5987a08b050cc34c96108.png"
+    ],
+    "releaseYear": 2027,
+    "rating": 0,
+    "platforms": [
+      "Android",
+      "PC (Microsoft Windows)",
+      "iOS",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
       "Adventure"
     ]
   }
