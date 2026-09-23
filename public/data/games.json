@@ -572,6 +572,35 @@
     ]
   },
   {
+    "id": 112875,
+    "name": "God of War Ragnarök",
+    "posters": [
+      "data/covers/112875.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/768e9810f221e93905d462c8d601936e.jpg",
+      "https://cdn2.steamgriddb.com/hero/6c73e29b5c799f2bd212a97678a3a197.jpg",
+      "https://cdn2.steamgriddb.com/hero/41a9bc427ade9d587aa7762c1e9350f6.jpg",
+      "https://cdn2.steamgriddb.com/hero/1dc7b3e7df9feca6fdce1b575b11ae8a.png",
+      "https://cdn2.steamgriddb.com/hero/a1fffd8b6b0fe8cd5bb2b1efb059fbe9.png",
+      "https://cdn2.steamgriddb.com/hero/13c04f6e6956dbd1041dbae015834feb.jpg",
+      "https://cdn2.steamgriddb.com/hero/699310cd936d2b1bd0e773f5f614532a.jpg",
+      "https://cdn2.steamgriddb.com/hero/0141e0ce1502d3c13b4a0e518b6b7a1e.jpg"
+    ],
+    "releaseYear": 2022,
+    "rating": 93,
+    "platforms": [
+      "PlayStation 4",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Hack and slash/Beat 'em up",
+      "Adventure"
+    ]
+  },
+  {
     "id": 1942,
     "name": "The Witcher 3: Wild Hunt",
     "posters": [
@@ -599,35 +628,6 @@
     ],
     "genres": [
       "Role-playing (RPG)",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 112875,
-    "name": "God of War Ragnarök",
-    "posters": [
-      "data/covers/112875.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/768e9810f221e93905d462c8d601936e.jpg",
-      "https://cdn2.steamgriddb.com/hero/6c73e29b5c799f2bd212a97678a3a197.jpg",
-      "https://cdn2.steamgriddb.com/hero/41a9bc427ade9d587aa7762c1e9350f6.jpg",
-      "https://cdn2.steamgriddb.com/hero/1dc7b3e7df9feca6fdce1b575b11ae8a.png",
-      "https://cdn2.steamgriddb.com/hero/a1fffd8b6b0fe8cd5bb2b1efb059fbe9.png",
-      "https://cdn2.steamgriddb.com/hero/13c04f6e6956dbd1041dbae015834feb.jpg",
-      "https://cdn2.steamgriddb.com/hero/699310cd936d2b1bd0e773f5f614532a.jpg",
-      "https://cdn2.steamgriddb.com/hero/0141e0ce1502d3c13b4a0e518b6b7a1e.jpg"
-    ],
-    "releaseYear": 2022,
-    "rating": 93,
-    "platforms": [
-      "PlayStation 4",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Hack and slash/Beat 'em up",
       "Adventure"
     ]
   },
@@ -1911,14 +1911,14 @@
       "data/covers/538.jpg"
     ],
     "heroes": [
+      "https://cdn2.steamgriddb.com/hero/51a93b1b7421fc7ca001d7793eadb53b.png",
       "https://cdn2.steamgriddb.com/hero/1f36c15d6a3d18d52e8d493bc8187cb9.jpg",
       "https://cdn2.steamgriddb.com/hero/8e2cfdc275761edc592f73a076197c33.jpg",
-      "https://cdn2.steamgriddb.com/hero/51a93b1b7421fc7ca001d7793eadb53b.png",
-      "https://cdn2.steamgriddb.com/hero/ae714b2895215ee6c844a04374bde7fb.jpg",
       "https://cdn2.steamgriddb.com/hero/7ea25c95b0792ca4ce01ea18bbda2d44.png",
-      "https://cdn2.steamgriddb.com/hero/bfaadb09eb2d1eb21b7b5f1eac3ea902.png",
       "https://cdn2.steamgriddb.com/hero/233ff9b78f1fe49605dccf78bd9f42d6.png",
-      "https://cdn2.steamgriddb.com/hero/766f5dee4fe81aba12de2750d0c30ac1.png"
+      "https://cdn2.steamgriddb.com/hero/ae714b2895215ee6c844a04374bde7fb.jpg",
+      "https://cdn2.steamgriddb.com/hero/022deef5f842e7b026e57398f3964a7d.png",
+      "https://cdn2.steamgriddb.com/hero/83715fd4755b33f9c3958e1a9ee221e1.png"
     ],
     "releaseYear": 2013,
     "rating": 89,
@@ -2551,8 +2551,8 @@
       "https://cdn2.steamgriddb.com/hero/17d318553212d07475b484909ba74aaa.png",
       "https://cdn2.steamgriddb.com/hero/3383ecc5c97cc5ce4a9c95f7b55d1530.png",
       "https://cdn2.steamgriddb.com/hero/cdf46b717a85b9a78ef149178f943fd8.png",
-      "https://cdn2.steamgriddb.com/hero/154293234dcf93e1a988ff00a234ba11.png",
       "https://cdn2.steamgriddb.com/hero/85e1b8bbda1bd1ec3465c9728f7d7d2e.png",
+      "https://cdn2.steamgriddb.com/hero/154293234dcf93e1a988ff00a234ba11.png",
       "https://cdn2.steamgriddb.com/hero/19f3cd308f1455b3fa09a282e0d496f4.png",
       "https://cdn2.steamgriddb.com/hero/731a312e7a9b59e5870695e0f3cfa037.png"
     ],
@@ -2565,34 +2565,6 @@
     "genres": [
       "Racing",
       "Arcade"
-    ]
-  },
-  {
-    "id": 36926,
-    "name": "Monster Hunter: World",
-    "posters": [
-      "data/covers/36926.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/daa28096f9e8879ab3a02b90aa0e2f83.png",
-      "https://cdn2.steamgriddb.com/hero/9da3bbc7c90afeae7fe153b1ff238c35.png",
-      "https://cdn2.steamgriddb.com/hero/de2126a9b990548c1c93f5de4f8bc640.png",
-      "https://cdn2.steamgriddb.com/hero/44228097f45b64cf24f6a533803743e1.png",
-      "https://cdn2.steamgriddb.com/hero/f26e9d8b1065c3dc872995dda5a9ea6c.png",
-      "https://cdn2.steamgriddb.com/hero/4fd2055007a6c4e3ddcf335738d972b6.png",
-      "https://cdn2.steamgriddb.com/hero/2ebcdae9bbf2c2dbc0228d7bccc805a4.jpg",
-      "https://cdn2.steamgriddb.com/hero/169557952c3a937230c3c8880146f494.jpg"
-    ],
-    "releaseYear": 2018,
-    "rating": 89,
-    "platforms": [
-      "PlayStation 4",
-      "PC (Microsoft Windows)",
-      "Xbox One"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Adventure"
     ]
   },
   {
@@ -2651,6 +2623,34 @@
     ]
   },
   {
+    "id": 36926,
+    "name": "Monster Hunter: World",
+    "posters": [
+      "data/covers/36926.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/daa28096f9e8879ab3a02b90aa0e2f83.png",
+      "https://cdn2.steamgriddb.com/hero/9da3bbc7c90afeae7fe153b1ff238c35.png",
+      "https://cdn2.steamgriddb.com/hero/de2126a9b990548c1c93f5de4f8bc640.png",
+      "https://cdn2.steamgriddb.com/hero/44228097f45b64cf24f6a533803743e1.png",
+      "https://cdn2.steamgriddb.com/hero/f26e9d8b1065c3dc872995dda5a9ea6c.png",
+      "https://cdn2.steamgriddb.com/hero/4fd2055007a6c4e3ddcf335738d972b6.png",
+      "https://cdn2.steamgriddb.com/hero/2ebcdae9bbf2c2dbc0228d7bccc805a4.jpg",
+      "https://cdn2.steamgriddb.com/hero/169557952c3a937230c3c8880146f494.jpg"
+    ],
+    "releaseYear": 2018,
+    "rating": 88,
+    "platforms": [
+      "PlayStation 4",
+      "PC (Microsoft Windows)",
+      "Xbox One"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Adventure"
+    ]
+  },
+  {
     "id": 40477,
     "name": "Slay the Spire",
     "posters": [
@@ -2697,8 +2697,8 @@
       "https://cdn2.steamgriddb.com/hero/6c8dba7d0df1c4a79dd07646be9a26c8.jpg",
       "https://cdn2.steamgriddb.com/hero/479eaa8e93a42b42d12992f086cfa14f.jpg",
       "https://cdn2.steamgriddb.com/hero/5b5abc705cc52b743cc9d6ad5fffdfa4.png",
-      "https://cdn2.steamgriddb.com/hero/a2802cade04644083dcde1c8c483ed9a.png",
       "https://cdn2.steamgriddb.com/hero/e8257cae02495b31c4e89a4ae812499c.jpg",
+      "https://cdn2.steamgriddb.com/hero/a2802cade04644083dcde1c8c483ed9a.png",
       "https://cdn2.steamgriddb.com/hero/0fe500898e3183422bebc8325bfc9515.png",
       "https://cdn2.steamgriddb.com/hero/bc85fc1467a30e358710e800e644fec8.jpg",
       "https://cdn2.steamgriddb.com/hero/b323c8edba96b335f0761d1dd004b26c.jpg"
@@ -4308,8 +4308,8 @@
       "https://cdn2.steamgriddb.com/hero/27a2204eccce28480215e5e8c6d11be7.png",
       "https://cdn2.steamgriddb.com/hero/42bf85e14dc95c0ad727255443108b73.png",
       "https://cdn2.steamgriddb.com/hero/37db66c660124c61c9516cf488344005.png",
-      "https://cdn2.steamgriddb.com/hero/3ddc599c5a532de6c4823d06dc79b395.png",
-      "https://cdn2.steamgriddb.com/hero/322593b2f9bfdbbbd5e76248c4a4f0a9.jpg"
+      "https://cdn2.steamgriddb.com/hero/6e4ef5c5800f3e02f08c4ca8a617c6ce.png",
+      "https://cdn2.steamgriddb.com/hero/a48325ba6c4b65b5d59ffed07796cbb3.png"
     ],
     "releaseYear": 2021,
     "rating": 94,
