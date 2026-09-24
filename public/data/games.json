@@ -1168,6 +1168,32 @@
     ]
   },
   {
+    "id": 7334,
+    "name": "Bloodborne",
+    "posters": [
+      "data/covers/7334.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/f20fd1e8deb34b1bc57a3146f2511eb2.png",
+      "https://cdn2.steamgriddb.com/hero/7500f543d4d00b34abc82287370d1b5d.jpg",
+      "https://cdn2.steamgriddb.com/hero/9b063c87efaca632b17a2a59a522f988.png",
+      "https://cdn2.steamgriddb.com/hero/cd8587e572c5d818e46ae458508f8462.png",
+      "https://cdn2.steamgriddb.com/hero/8138a8468133863b08806cde29342a09.png",
+      "https://cdn2.steamgriddb.com/hero/e76d88aeab47da20d61b1b489af1a281.png",
+      "https://cdn2.steamgriddb.com/hero/8a1276c25f5efe85f0fc4020fbf5b4f8.png",
+      "https://cdn2.steamgriddb.com/hero/19bcaf989e32ed60b579f6a4e950176a.jpg"
+    ],
+    "releaseYear": 2015,
+    "rating": 91,
+    "platforms": [
+      "PlayStation 4"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Adventure"
+    ]
+  },
+  {
     "id": 2899,
     "name": "EarthBound",
     "posters": [
@@ -1230,32 +1256,6 @@
       "Role-playing (RPG)",
       "Adventure",
       "Indie"
-    ]
-  },
-  {
-    "id": 7334,
-    "name": "Bloodborne",
-    "posters": [
-      "data/covers/7334.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/f20fd1e8deb34b1bc57a3146f2511eb2.png",
-      "https://cdn2.steamgriddb.com/hero/7500f543d4d00b34abc82287370d1b5d.jpg",
-      "https://cdn2.steamgriddb.com/hero/9b063c87efaca632b17a2a59a522f988.png",
-      "https://cdn2.steamgriddb.com/hero/cd8587e572c5d818e46ae458508f8462.png",
-      "https://cdn2.steamgriddb.com/hero/8138a8468133863b08806cde29342a09.png",
-      "https://cdn2.steamgriddb.com/hero/e76d88aeab47da20d61b1b489af1a281.png",
-      "https://cdn2.steamgriddb.com/hero/8a1276c25f5efe85f0fc4020fbf5b4f8.png",
-      "https://cdn2.steamgriddb.com/hero/19bcaf989e32ed60b579f6a4e950176a.jpg"
-    ],
-    "releaseYear": 2015,
-    "rating": 91,
-    "platforms": [
-      "PlayStation 4"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Adventure"
     ]
   },
   {
@@ -6122,7 +6122,7 @@
   },
   {
     "id": 125633,
-    "name": "Crimson Desert",
+    "name": "Crimson Desert Enhanced",
     "posters": [
       "data/covers/125633.jpg"
     ],
