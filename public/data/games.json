@@ -1964,33 +1964,6 @@
     ]
   },
   {
-    "id": 6,
-    "name": "Baldur's Gate II: Shadows of Amn",
-    "posters": [
-      "data/covers/6.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/007ad58edbc2780f6bf6cf14e12c063f.jpg",
-      "https://cdn2.steamgriddb.com/hero/dc1ac4cef27c6a26c8e60656341c209b.jpg",
-      "https://cdn2.steamgriddb.com/hero/60f2af4652da10f8a4918a64350c92ba.jpg",
-      "https://cdn2.steamgriddb.com/hero/365cbca5056e775d18c3707c87654fc3.jpg",
-      "https://cdn2.steamgriddb.com/hero/48b02d6fbfb23c6011d5e88834a5ef45.png",
-      "https://cdn2.steamgriddb.com/hero/d978feca237e502810bbe54a398e1dac.jpg",
-      "https://cdn2.steamgriddb.com/hero/751d51528afe5e6f7fe95dece4ed32ba.png",
-      "https://cdn2.steamgriddb.com/hero/a43fc3d27915b373b163da088684d4a9.png"
-    ],
-    "releaseYear": 2000,
-    "rating": 89,
-    "platforms": [
-      "Linux",
-      "PC (Microsoft Windows)",
-      "Mac"
-    ],
-    "genres": [
-      "Role-playing (RPG)"
-    ]
-  },
-  {
     "id": 501,
     "name": "Batman: Arkham City",
     "posters": [
@@ -2018,6 +1991,33 @@
     "genres": [
       "Hack and slash/Beat 'em up",
       "Adventure"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Baldur's Gate II: Shadows of Amn",
+    "posters": [
+      "data/covers/6.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/007ad58edbc2780f6bf6cf14e12c063f.jpg",
+      "https://cdn2.steamgriddb.com/hero/dc1ac4cef27c6a26c8e60656341c209b.jpg",
+      "https://cdn2.steamgriddb.com/hero/60f2af4652da10f8a4918a64350c92ba.jpg",
+      "https://cdn2.steamgriddb.com/hero/365cbca5056e775d18c3707c87654fc3.jpg",
+      "https://cdn2.steamgriddb.com/hero/48b02d6fbfb23c6011d5e88834a5ef45.png",
+      "https://cdn2.steamgriddb.com/hero/d978feca237e502810bbe54a398e1dac.jpg",
+      "https://cdn2.steamgriddb.com/hero/751d51528afe5e6f7fe95dece4ed32ba.png",
+      "https://cdn2.steamgriddb.com/hero/a43fc3d27915b373b163da088684d4a9.png"
+    ],
+    "releaseYear": 2000,
+    "rating": 89,
+    "platforms": [
+      "Linux",
+      "PC (Microsoft Windows)",
+      "Mac"
+    ],
+    "genres": [
+      "Role-playing (RPG)"
     ]
   },
   {
@@ -2651,6 +2651,35 @@
     ]
   },
   {
+    "id": 5503,
+    "name": "Batman: Arkham Knight",
+    "posters": [
+      "data/covers/5503.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/6c8dba7d0df1c4a79dd07646be9a26c8.jpg",
+      "https://cdn2.steamgriddb.com/hero/479eaa8e93a42b42d12992f086cfa14f.jpg",
+      "https://cdn2.steamgriddb.com/hero/5b5abc705cc52b743cc9d6ad5fffdfa4.png",
+      "https://cdn2.steamgriddb.com/hero/e8257cae02495b31c4e89a4ae812499c.jpg",
+      "https://cdn2.steamgriddb.com/hero/a2802cade04644083dcde1c8c483ed9a.png",
+      "https://cdn2.steamgriddb.com/hero/0fe500898e3183422bebc8325bfc9515.png",
+      "https://cdn2.steamgriddb.com/hero/bc85fc1467a30e358710e800e644fec8.jpg",
+      "https://cdn2.steamgriddb.com/hero/b323c8edba96b335f0761d1dd004b26c.jpg"
+    ],
+    "releaseYear": 2015,
+    "rating": 88,
+    "platforms": [
+      "PlayStation 4",
+      "PC (Microsoft Windows)",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Hack and slash/Beat 'em up",
+      "Adventure"
+    ]
+  },
+  {
     "id": 40477,
     "name": "Slay the Spire",
     "posters": [
@@ -2685,35 +2714,6 @@
       "Adventure",
       "Indie",
       "Card & Board Game"
-    ]
-  },
-  {
-    "id": 5503,
-    "name": "Batman: Arkham Knight",
-    "posters": [
-      "data/covers/5503.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/6c8dba7d0df1c4a79dd07646be9a26c8.jpg",
-      "https://cdn2.steamgriddb.com/hero/479eaa8e93a42b42d12992f086cfa14f.jpg",
-      "https://cdn2.steamgriddb.com/hero/5b5abc705cc52b743cc9d6ad5fffdfa4.png",
-      "https://cdn2.steamgriddb.com/hero/e8257cae02495b31c4e89a4ae812499c.jpg",
-      "https://cdn2.steamgriddb.com/hero/a2802cade04644083dcde1c8c483ed9a.png",
-      "https://cdn2.steamgriddb.com/hero/0fe500898e3183422bebc8325bfc9515.png",
-      "https://cdn2.steamgriddb.com/hero/bc85fc1467a30e358710e800e644fec8.jpg",
-      "https://cdn2.steamgriddb.com/hero/b323c8edba96b335f0761d1dd004b26c.jpg"
-    ],
-    "releaseYear": 2015,
-    "rating": 88,
-    "platforms": [
-      "PlayStation 4",
-      "PC (Microsoft Windows)",
-      "Xbox One",
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Hack and slash/Beat 'em up",
-      "Adventure"
     ]
   },
   {
@@ -3700,8 +3700,8 @@
       "data/covers/1983.jpg"
     ],
     "heroes": [
-      "https://cdn2.steamgriddb.com/hero/4c219c46862037687b97c645d0eee717.png",
       "https://cdn2.steamgriddb.com/hero/4f87316aad8152983ec104de3351aba9.png",
+      "https://cdn2.steamgriddb.com/hero/4c219c46862037687b97c645d0eee717.png",
       "https://cdn2.steamgriddb.com/hero/fadba6db839c36f9c6876396e55083df.png",
       "https://cdn2.steamgriddb.com/hero/39ec84a99221f244f1eb7e01c2231d38.png",
       "https://cdn2.steamgriddb.com/hero/38faae069a1371784081ea9ad9b279d0.png",
@@ -3823,8 +3823,8 @@
       "https://cdn2.steamgriddb.com/hero/3caea4d9bcdd5cde2b1a1f338a06a086.png",
       "https://cdn2.steamgriddb.com/hero/ed8a8a99fd79417dd5ee86e141fc2233.png",
       "https://cdn2.steamgriddb.com/hero/4ab1a2235d0eb9bd34cb84c0bc59cf6c.png",
-      "https://cdn2.steamgriddb.com/hero/85b8309c3b1ad28e141945a9cd355099.png",
-      "https://cdn2.steamgriddb.com/hero/73cb3907eb1dd5924282ac37dfa008fb.jpg"
+      "https://cdn2.steamgriddb.com/hero/d81f7cb31e1303ec1a0125dc42571837.png",
+      "https://cdn2.steamgriddb.com/hero/85b8309c3b1ad28e141945a9cd355099.png"
     ],
     "releaseYear": 1999,
     "rating": 86,
@@ -4802,11 +4802,11 @@
       "https://cdn2.steamgriddb.com/hero/e13147c18aa5e4aa4cf75185d01cf826.png",
       "https://cdn2.steamgriddb.com/hero/d60f2d5d05b4c46d470d5cbd5d1fb252.jpg",
       "https://cdn2.steamgriddb.com/hero/991e430c00831fcaec1087462d3223fa.png",
-      "https://cdn2.steamgriddb.com/hero/97cdaade24d073d4f1f8861514054790.jpg",
-      "https://cdn2.steamgriddb.com/hero/d53a683ae5daa34edb84c7607c92d6a1.jpg",
       "https://cdn2.steamgriddb.com/hero/dd1ea9382335816da0932d10b0503922.jpg",
-      "https://cdn2.steamgriddb.com/hero/901c666c69aca342b19513555d62ff9c.jpg",
-      "https://cdn2.steamgriddb.com/hero/6826c4f845e5bd308ba0d771369ed647.jpg"
+      "https://cdn2.steamgriddb.com/hero/d53a683ae5daa34edb84c7607c92d6a1.jpg",
+      "https://cdn2.steamgriddb.com/hero/2b61040f0e5261b463059d8827acf1fa.png",
+      "https://cdn2.steamgriddb.com/hero/09ea8690a859084c80f1fbbbf38766e8.jpg",
+      "https://cdn2.steamgriddb.com/hero/2a19cad46feca9eab2214e58bbf3c02e.png"
     ],
     "releaseYear": 2023,
     "rating": 90,
