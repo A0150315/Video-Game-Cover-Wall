@@ -1534,7 +1534,8 @@
     "platforms": [
       "Linux",
       "PC (Microsoft Windows)",
-      "Mac"
+      "Mac",
+      "Dreamcast"
     ],
     "genres": [
       "Role-playing (RPG)",
@@ -2770,6 +2771,35 @@
     ]
   },
   {
+    "id": 1030,
+    "name": "The Legend of Zelda: Majora's Mask",
+    "posters": [
+      "data/covers/1030.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/25fa2d39a0143f1f30c36eece145a526.png",
+      "https://cdn2.steamgriddb.com/hero/6962448d565dc65ce98caf5e51e1dfec.png",
+      "https://cdn2.steamgriddb.com/hero/08d98638c6fcd194a4b1e6992063e944.png",
+      "https://cdn2.steamgriddb.com/hero/68a83eeb494a308fe5295da69428a507.png",
+      "https://cdn2.steamgriddb.com/hero/a0bfd9e2a5529c21836fd99454a390bb.png",
+      "https://cdn2.steamgriddb.com/hero/3925d313c95e874b3e75a4b6d2067d2a.png",
+      "https://cdn2.steamgriddb.com/hero/b37702dda7c58db954b3a56c71412c51.png",
+      "https://cdn2.steamgriddb.com/hero/481f0dd7ae83e18513be0b4e400a9535.png"
+    ],
+    "releaseYear": 2000,
+    "rating": 88,
+    "platforms": [
+      "Wii",
+      "Nintendo 64",
+      "64DD",
+      "Wii U"
+    ],
+    "genres": [
+      "Puzzle",
+      "Adventure"
+    ]
+  },
+  {
     "id": 17000,
     "name": "Stardew Valley",
     "posters": [
@@ -2834,35 +2864,6 @@
     "genres": [
       "Shooter",
       "Role-playing (RPG)",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 1030,
-    "name": "The Legend of Zelda: Majora's Mask",
-    "posters": [
-      "data/covers/1030.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/25fa2d39a0143f1f30c36eece145a526.png",
-      "https://cdn2.steamgriddb.com/hero/6962448d565dc65ce98caf5e51e1dfec.png",
-      "https://cdn2.steamgriddb.com/hero/08d98638c6fcd194a4b1e6992063e944.png",
-      "https://cdn2.steamgriddb.com/hero/68a83eeb494a308fe5295da69428a507.png",
-      "https://cdn2.steamgriddb.com/hero/a0bfd9e2a5529c21836fd99454a390bb.png",
-      "https://cdn2.steamgriddb.com/hero/3925d313c95e874b3e75a4b6d2067d2a.png",
-      "https://cdn2.steamgriddb.com/hero/b37702dda7c58db954b3a56c71412c51.png",
-      "https://cdn2.steamgriddb.com/hero/481f0dd7ae83e18513be0b4e400a9535.png"
-    ],
-    "releaseYear": 2000,
-    "rating": 88,
-    "platforms": [
-      "Wii",
-      "Nintendo 64",
-      "64DD",
-      "Wii U"
-    ],
-    "genres": [
-      "Puzzle",
       "Adventure"
     ]
   },
@@ -3431,6 +3432,32 @@
     ]
   },
   {
+    "id": 90101,
+    "name": "Super Smash Bros. Ultimate",
+    "posters": [
+      "data/covers/90101.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/d9db2bba49b1f97833bd51b102e9a790.jpg",
+      "https://cdn2.steamgriddb.com/hero/984597eaac5a8f8021c11225693a27aa.png",
+      "https://cdn2.steamgriddb.com/hero/2a960e2c4cf05b146eadfb3fc72b6665.png",
+      "https://cdn2.steamgriddb.com/hero/82b8a3434904411a9fdc43ca87cee70c.jpg",
+      "https://cdn2.steamgriddb.com/hero/3f98e3391365916c44c062a3f90d3a70.jpg",
+      "https://cdn2.steamgriddb.com/hero/157d9f8e3592c76c244fa8f0327a04c0.png",
+      "https://cdn2.steamgriddb.com/hero/93dc3da88ca1fdc08bd44748ce7b1da1.png",
+      "https://cdn2.steamgriddb.com/hero/56440f1f4118e270e5e6cee92ed220c3.png"
+    ],
+    "releaseYear": 2018,
+    "rating": 87,
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Fighting",
+      "Platform"
+    ]
+  },
+  {
     "id": 11133,
     "name": "Dark Souls III",
     "posters": [
@@ -3456,32 +3483,6 @@
     "genres": [
       "Role-playing (RPG)",
       "Adventure"
-    ]
-  },
-  {
-    "id": 90101,
-    "name": "Super Smash Bros. Ultimate",
-    "posters": [
-      "data/covers/90101.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/d9db2bba49b1f97833bd51b102e9a790.jpg",
-      "https://cdn2.steamgriddb.com/hero/984597eaac5a8f8021c11225693a27aa.png",
-      "https://cdn2.steamgriddb.com/hero/2a960e2c4cf05b146eadfb3fc72b6665.png",
-      "https://cdn2.steamgriddb.com/hero/82b8a3434904411a9fdc43ca87cee70c.jpg",
-      "https://cdn2.steamgriddb.com/hero/3f98e3391365916c44c062a3f90d3a70.jpg",
-      "https://cdn2.steamgriddb.com/hero/157d9f8e3592c76c244fa8f0327a04c0.png",
-      "https://cdn2.steamgriddb.com/hero/93dc3da88ca1fdc08bd44748ce7b1da1.png",
-      "https://cdn2.steamgriddb.com/hero/56440f1f4118e270e5e6cee92ed220c3.png"
-    ],
-    "releaseYear": 2018,
-    "rating": 87,
-    "platforms": [
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Fighting",
-      "Platform"
     ]
   },
   {
@@ -3823,8 +3824,8 @@
       "https://cdn2.steamgriddb.com/hero/3caea4d9bcdd5cde2b1a1f338a06a086.png",
       "https://cdn2.steamgriddb.com/hero/ed8a8a99fd79417dd5ee86e141fc2233.png",
       "https://cdn2.steamgriddb.com/hero/4ab1a2235d0eb9bd34cb84c0bc59cf6c.png",
-      "https://cdn2.steamgriddb.com/hero/d81f7cb31e1303ec1a0125dc42571837.png",
-      "https://cdn2.steamgriddb.com/hero/85b8309c3b1ad28e141945a9cd355099.png"
+      "https://cdn2.steamgriddb.com/hero/3c32103bd6f75a724b25cdd1c9621d8f.png",
+      "https://cdn2.steamgriddb.com/hero/d81f7cb31e1303ec1a0125dc42571837.png"
     ],
     "releaseYear": 1999,
     "rating": 86,
@@ -5409,11 +5410,11 @@
       "https://cdn2.steamgriddb.com/hero/69c465a79781ae900005cebddfb758d8.png",
       "https://cdn2.steamgriddb.com/hero/0b4a7b183837c441dbe027acf7fbc1d1.png",
       "https://cdn2.steamgriddb.com/hero/d2d28361fabf5051fcc29fb17dbbe4ae.png",
-      "https://cdn2.steamgriddb.com/hero/587872ea3b21c03ffd4e2a03450c5665.jpg",
-      "https://cdn2.steamgriddb.com/hero/eee9bf07b136cc4ec40360746f31304d.png",
+      "https://cdn2.steamgriddb.com/hero/516b4673af711400934054d48d63fcdb.png",
+      "https://cdn2.steamgriddb.com/hero/72dbe04264e9414d25bdd9a0d4392eb3.png",
       "https://cdn2.steamgriddb.com/hero/8563d695f4ad96aea93248344366604d.jpg",
-      "https://cdn2.steamgriddb.com/hero/6a517f8cc0559a504160465295430293.png",
-      "https://cdn2.steamgriddb.com/hero/3f08b75c527c165fd7172efecb7b65ea.png"
+      "https://cdn2.steamgriddb.com/hero/eee9bf07b136cc4ec40360746f31304d.png",
+      "https://cdn2.steamgriddb.com/hero/6a517f8cc0559a504160465295430293.png"
     ],
     "releaseYear": 2024,
     "rating": 89,
@@ -5669,10 +5670,10 @@
     ],
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/2970aa3d325be49e7b01c34fe9b22f81.png",
+      "https://cdn2.steamgriddb.com/hero/03a7c983dc2f6588d35a5db0fc93dcdd.png",
       "https://cdn2.steamgriddb.com/hero/2edad989553573af7807ad0803d6f712.png",
       "https://cdn2.steamgriddb.com/hero/1572e6df6cc099653c6abcfcd65ba478.png",
       "https://cdn2.steamgriddb.com/hero/377580ab7301d99e3ce5cab6e55190ba.png",
-      "https://cdn2.steamgriddb.com/hero/03a7c983dc2f6588d35a5db0fc93dcdd.png",
       "https://cdn2.steamgriddb.com/hero/e1a3a6f38219e9a9689dc1d029efa285.png",
       "https://cdn2.steamgriddb.com/hero/ef484451acd5c10ff84797b4a5e5cb27.png",
       "https://cdn2.steamgriddb.com/hero/fd1f8b44640c1dfa191c74b7836be8ee.png"
@@ -5811,8 +5812,8 @@
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/11c4eaf332318a326620d07e0b8e0a53.png",
       "https://cdn2.steamgriddb.com/hero/870f3f1adb7cb46dddf927ab002ffb82.png",
-      "https://cdn2.steamgriddb.com/hero/f299e71856551d3c643e516f6d2f295d.png",
       "https://cdn2.steamgriddb.com/hero/d7d741735f9cf9b5fa4cf6c182eb174b.jpg",
+      "https://cdn2.steamgriddb.com/hero/f299e71856551d3c643e516f6d2f295d.png",
       "https://cdn2.steamgriddb.com/hero/1aa319435b5b34929d312529896c8066.png",
       "https://cdn2.steamgriddb.com/hero/36b3d2f1755bb2eefb004b1b8f13f072.jpg",
       "https://cdn2.steamgriddb.com/hero/246ebb189a4bbddec7176ef4227a139b.jpg",
@@ -6988,6 +6989,36 @@
     ]
   },
   {
+    "id": 404673,
+    "name": "Resident Evil Veronica",
+    "posters": [
+      "data/covers/404673.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/194c94665fa33ae403336e561eaa240c.png",
+      "https://cdn2.steamgriddb.com/hero/658307bbe534e9e2b6f8bbf64d7ba745.png",
+      "https://cdn2.steamgriddb.com/hero/94625d037558adf014570dcdfe244fc6.png",
+      "https://cdn2.steamgriddb.com/hero/424f9d23d732242cec0fbb9aa83ca44e.jpg",
+      "https://cdn2.steamgriddb.com/hero/f6419e6a01404140b64d5b6e372cc9d7.png",
+      "https://cdn2.steamgriddb.com/hero/eb0253c35827f401e0aac5f3f48b6a58.jpg",
+      "https://cdn2.steamgriddb.com/hero/8a3aa2d305b76ca83cd69b83ec5f6265.jpg",
+      "https://cdn2.steamgriddb.com/hero/5e472cbc2f2a3cecd16a94e75fcdd845.jpg"
+    ],
+    "releaseYear": 2027,
+    "rating": 0,
+    "platforms": [
+      "Xbox Series X|S",
+      "Nintendo Switch 2",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Shooter",
+      "Puzzle",
+      "Adventure"
+    ]
+  },
+  {
     "id": 398225,
     "name": "Metro 2039",
     "posters": [
@@ -7031,36 +7062,6 @@
     ],
     "genres": [
       "Shooter",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 404673,
-    "name": "Resident Evil Veronica",
-    "posters": [
-      "data/covers/404673.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/194c94665fa33ae403336e561eaa240c.png",
-      "https://cdn2.steamgriddb.com/hero/658307bbe534e9e2b6f8bbf64d7ba745.png",
-      "https://cdn2.steamgriddb.com/hero/94625d037558adf014570dcdfe244fc6.png",
-      "https://cdn2.steamgriddb.com/hero/424f9d23d732242cec0fbb9aa83ca44e.jpg",
-      "https://cdn2.steamgriddb.com/hero/f6419e6a01404140b64d5b6e372cc9d7.png",
-      "https://cdn2.steamgriddb.com/hero/eb0253c35827f401e0aac5f3f48b6a58.jpg",
-      "https://cdn2.steamgriddb.com/hero/8a3aa2d305b76ca83cd69b83ec5f6265.jpg",
-      "https://cdn2.steamgriddb.com/hero/5e472cbc2f2a3cecd16a94e75fcdd845.jpg"
-    ],
-    "releaseYear": 2027,
-    "rating": 0,
-    "platforms": [
-      "Xbox Series X|S",
-      "Nintendo Switch 2",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Shooter",
-      "Puzzle",
       "Adventure"
     ]
   },
