@@ -1464,8 +1464,8 @@
       "https://cdn2.steamgriddb.com/hero/80619c1c78098980825a4e369f44b803.jpg",
       "https://cdn2.steamgriddb.com/hero/5bd529d5b07b647a8863cf71e98d651a.jpg",
       "https://cdn2.steamgriddb.com/hero/54d77f5dc6f98d0d68a23cf792c49e57.jpg",
-      "https://cdn2.steamgriddb.com/hero/10678b97635e173b084e8f3c681527cb.jpg",
       "https://cdn2.steamgriddb.com/hero/1a07bcc79f21590b3ed2622d5807bdd0.jpg",
+      "https://cdn2.steamgriddb.com/hero/10678b97635e173b084e8f3c681527cb.jpg",
       "https://cdn2.steamgriddb.com/hero/6ebb69ffbebe9fd95d160ffc29e0fe5d.jpg"
     ],
     "releaseYear": 2002,
@@ -2259,12 +2259,12 @@
     ],
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/c66e591693fd6e7b26fc5a60efb68817.png",
-      "https://cdn2.steamgriddb.com/hero/0a552abf945aad2831a917bd58bbdc70.png",
-      "https://cdn2.steamgriddb.com/hero/8b9b3436fc4466e9d5432fb4296d23fd.png",
-      "https://cdn2.steamgriddb.com/hero/894a9b94bcc5969b60bd18e8ea9c0ddc.png",
       "https://cdn2.steamgriddb.com/hero/262e7707a161061c2b75c75215c2c4a9.png",
+      "https://cdn2.steamgriddb.com/hero/0a552abf945aad2831a917bd58bbdc70.png",
       "https://cdn2.steamgriddb.com/hero/9b3a07fc75f89cd8eeca533e11947204.png",
+      "https://cdn2.steamgriddb.com/hero/8b9b3436fc4466e9d5432fb4296d23fd.png",
       "https://cdn2.steamgriddb.com/hero/d33174c464c877fb03e77efdab4ae804.png",
+      "https://cdn2.steamgriddb.com/hero/894a9b94bcc5969b60bd18e8ea9c0ddc.png",
       "https://cdn2.steamgriddb.com/hero/69c7e73fea7ad35e9000ce41e1622036.png"
     ],
     "releaseYear": 2018,
@@ -4986,8 +4986,8 @@
       "https://cdn2.steamgriddb.com/hero/88a9401beac028d192ea33b2e3d081ef.png",
       "https://cdn2.steamgriddb.com/hero/7d66788d9bbbdc992995a492075269a5.jpg",
       "https://cdn2.steamgriddb.com/hero/99665b901ab21d09dab51ca2f581d777.jpg",
-      "https://cdn2.steamgriddb.com/hero/9398f589012c416aefc7eeb6384bfef1.jpg",
       "https://cdn2.steamgriddb.com/hero/dad7e851012c3d9c094e3c0702b089d6.png",
+      "https://cdn2.steamgriddb.com/hero/9398f589012c416aefc7eeb6384bfef1.jpg",
       "https://cdn2.steamgriddb.com/hero/8dbc97d9720940c30d0c7ffec4ba41c7.jpg",
       "https://cdn2.steamgriddb.com/hero/f4e633b10673114696d47aec0fb50c2f.jpg"
     ],
@@ -5516,34 +5516,6 @@
     ]
   },
   {
-    "id": 134582,
-    "name": "Ratchet & Clank: Rift Apart",
-    "posters": [
-      "data/covers/134582.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/9e0aaeef6b914a9091beaaec19cc2e34.jpg",
-      "https://cdn2.steamgriddb.com/hero/90d7348fce3c310aa923fc635bf7170f.png",
-      "https://cdn2.steamgriddb.com/hero/1b87389d1050794664a5c16d23de6824.jpg",
-      "https://cdn2.steamgriddb.com/hero/9fb39fd910a6708e156d228c541bb278.png",
-      "https://cdn2.steamgriddb.com/hero/220ddf008416e895e6e649a2bba33484.jpg",
-      "https://cdn2.steamgriddb.com/hero/f761efa8e6a59d222cd4b70a0accfd87.png",
-      "https://cdn2.steamgriddb.com/hero/09f602377056c50b49f87b668eae739f.png",
-      "https://cdn2.steamgriddb.com/hero/fb3336fca8851437f980e83045e75749.png"
-    ],
-    "releaseYear": 2021,
-    "rating": 88,
-    "platforms": [
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Shooter",
-      "Platform",
-      "Adventure"
-    ]
-  },
-  {
     "id": 136879,
     "name": "Black Myth: Wukong",
     "posters": [
@@ -5569,6 +5541,34 @@
     "genres": [
       "Role-playing (RPG)",
       "Hack and slash/Beat 'em up",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 134582,
+    "name": "Ratchet & Clank: Rift Apart",
+    "posters": [
+      "data/covers/134582.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/9e0aaeef6b914a9091beaaec19cc2e34.jpg",
+      "https://cdn2.steamgriddb.com/hero/90d7348fce3c310aa923fc635bf7170f.png",
+      "https://cdn2.steamgriddb.com/hero/1b87389d1050794664a5c16d23de6824.jpg",
+      "https://cdn2.steamgriddb.com/hero/9fb39fd910a6708e156d228c541bb278.png",
+      "https://cdn2.steamgriddb.com/hero/220ddf008416e895e6e649a2bba33484.jpg",
+      "https://cdn2.steamgriddb.com/hero/f761efa8e6a59d222cd4b70a0accfd87.png",
+      "https://cdn2.steamgriddb.com/hero/09f602377056c50b49f87b668eae739f.png",
+      "https://cdn2.steamgriddb.com/hero/fb3336fca8851437f980e83045e75749.png"
+    ],
+    "releaseYear": 2021,
+    "rating": 88,
+    "platforms": [
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Shooter",
+      "Platform",
       "Adventure"
     ]
   },
@@ -6334,13 +6334,13 @@
     ],
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/8d0584dafa9462a7c48608451dd3ea87.jpg",
-      "https://cdn2.steamgriddb.com/hero/da195267d14e69aff6c92be320fee1fc.jpg",
       "https://cdn2.steamgriddb.com/hero/25697adb5e654129822d037add6e0809.jpg",
-      "https://cdn2.steamgriddb.com/hero/66ec9e6680c63a892714f4880ecc1ec5.jpg",
+      "https://cdn2.steamgriddb.com/hero/da195267d14e69aff6c92be320fee1fc.jpg",
       "https://cdn2.steamgriddb.com/hero/ca4966a567dfbc60cf214dbae7e711f6.jpg",
       "https://cdn2.steamgriddb.com/hero/e5f1672a5bdebb43f17d5e192427961e.png",
-      "https://cdn2.steamgriddb.com/hero/3af97a7fc720141ec63f76b62d57c1e8.png",
-      "https://cdn2.steamgriddb.com/hero/5ebf027336320d7a33dc6e46c2cf1df7.png"
+      "https://cdn2.steamgriddb.com/hero/5ebf027336320d7a33dc6e46c2cf1df7.png",
+      "https://cdn2.steamgriddb.com/hero/9f8cba2513573e4c936cc29dd7f8edb2.png",
+      "https://cdn2.steamgriddb.com/hero/4af105e0d4e08beda60f60a4ea2d78e1.png"
     ],
     "releaseYear": 2023,
     "rating": 86,
@@ -6939,28 +6939,6 @@
     ]
   },
   {
-    "id": 347869,
-    "name": "The Expanse: Osiris Reborn",
-    "posters": [
-      "data/covers/347869.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/2f2eb9099a6cfbba208113179bce672e.jpg"
-    ],
-    "releaseYear": 2027,
-    "rating": 0,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Shooter",
-      "Role-playing (RPG)",
-      "Adventure"
-    ]
-  },
-  {
     "id": 305160,
     "name": "Gears of War: E-Day",
     "posters": [
@@ -6985,6 +6963,28 @@
     ],
     "genres": [
       "Shooter",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 347869,
+    "name": "The Expanse: Osiris Reborn",
+    "posters": [
+      "data/covers/347869.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/2f2eb9099a6cfbba208113179bce672e.jpg"
+    ],
+    "releaseYear": 2027,
+    "rating": 0,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Shooter",
+      "Role-playing (RPG)",
       "Adventure"
     ]
   },
