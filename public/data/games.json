@@ -183,9 +183,9 @@
     ],
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/71d1c0c06e1ab5049644acb5cc69a090.png",
+      "https://cdn2.steamgriddb.com/hero/3463afdcb438dc833d95f8d1814e4b36.png",
       "https://cdn2.steamgriddb.com/hero/e089b3b5750148e7f7fcc282635fb2d4.png",
       "https://cdn2.steamgriddb.com/hero/253103347b0d4d622443c8e47c8a8152.png",
-      "https://cdn2.steamgriddb.com/hero/3463afdcb438dc833d95f8d1814e4b36.png",
       "https://cdn2.steamgriddb.com/hero/ea1bd5bceddc3fe7c6f9723e81a6345f.png",
       "https://cdn2.steamgriddb.com/hero/990ae135628790d80170f759700f5840.png",
       "https://cdn2.steamgriddb.com/hero/267f59186dfc4b9259759c51d3e15bf3.png",
@@ -303,8 +303,8 @@
       "https://cdn2.steamgriddb.com/hero/4833619731d4a86772c81c174f427df8.jpg",
       "https://cdn2.steamgriddb.com/hero/919b869daf543abcb52b85bc439d8fa3.png",
       "https://cdn2.steamgriddb.com/hero/28f36aa85fbadc0663c2df15a5af35db.jpg",
-      "https://cdn2.steamgriddb.com/hero/a248316fb518936eeae7161fd0a823f5.jpg",
-      "https://cdn2.steamgriddb.com/hero/59c6a53eb887ec8d82d84ecfc153a803.png"
+      "https://cdn2.steamgriddb.com/hero/6cec40d9f14ccf05af9d76ff696e184d.jpg",
+      "https://cdn2.steamgriddb.com/hero/a248316fb518936eeae7161fd0a823f5.jpg"
     ],
     "releaseYear": 2019,
     "rating": 94,
@@ -360,11 +360,11 @@
       "https://cdn2.steamgriddb.com/hero/7048d1540fa99464f489f1d11db688b1.png",
       "https://cdn2.steamgriddb.com/hero/419133b57ea628b183f73a28c5ad7a8c.png",
       "https://cdn2.steamgriddb.com/hero/6d6c5b7c73b3a57198402741c1e92df5.png",
+      "https://cdn2.steamgriddb.com/hero/892a01fa3246d61bc3cd6d16f01b9d22.png",
       "https://cdn2.steamgriddb.com/hero/aa23a647b581371fb0c5803263da1345.png",
       "https://cdn2.steamgriddb.com/hero/c2780f04a3434b942146ae546828a32c.jpg",
       "https://cdn2.steamgriddb.com/hero/b61248fcbcb76b463231d88a39b5d4cb.jpg",
-      "https://cdn2.steamgriddb.com/hero/8646c48a45fc958d20550a893b2e835d.jpg",
-      "https://cdn2.steamgriddb.com/hero/1874a0fe55d64ee5de2cc447b7edc17d.png"
+      "https://cdn2.steamgriddb.com/hero/8646c48a45fc958d20550a893b2e835d.jpg"
     ],
     "releaseYear": 2023,
     "rating": 94,
@@ -386,11 +386,11 @@
       "https://cdn2.steamgriddb.com/hero/5e9fb672ee46be628a141b594d7c6f3e.png",
       "https://cdn2.steamgriddb.com/hero/1079c40a81a6fd09ffd6fc8ce10209d1.png",
       "https://cdn2.steamgriddb.com/hero/26c0cd7b7237b14349971d5de273b014.png",
+      "https://cdn2.steamgriddb.com/hero/e57f559127236039b05810514072a782.png",
       "https://cdn2.steamgriddb.com/hero/158885de844ae92913127bddcebfe2e1.png",
       "https://cdn2.steamgriddb.com/hero/8f1839c8cabff58837844b26f05c7a94.png",
       "https://cdn2.steamgriddb.com/hero/c6e2e29049c68d2d97145861756c0f94.png",
-      "https://cdn2.steamgriddb.com/hero/6504b92a7cdf1f4f4e1737b9eec965ce.png",
-      "https://cdn2.steamgriddb.com/hero/3f8f3ad04447411b79a965e291e63937.png"
+      "https://cdn2.steamgriddb.com/hero/6504b92a7cdf1f4f4e1737b9eec965ce.png"
     ],
     "releaseYear": 2007,
     "rating": 94,
@@ -607,8 +607,8 @@
       "data/covers/1942.jpg"
     ],
     "heroes": [
-      "https://cdn2.steamgriddb.com/hero/4d19b37a2c399deace9082d464930022.png",
       "https://cdn2.steamgriddb.com/hero/63c27708f9cf591e878c155f23c25b5a.jpg",
+      "https://cdn2.steamgriddb.com/hero/4d19b37a2c399deace9082d464930022.png",
       "https://cdn2.steamgriddb.com/hero/e45fdf4ab1f36ece63bba2aa48c5ac29.png",
       "https://cdn2.steamgriddb.com/hero/965bdf833cb20c44b33a6224298bf14f.png",
       "https://cdn2.steamgriddb.com/hero/8ec7ff1ac324a4bed44cc51d362e5b94.png",
@@ -2028,8 +2028,8 @@
       "data/covers/135243.jpg"
     ],
     "heroes": [
-      "https://cdn2.steamgriddb.com/hero/4eef81afcca65a2bec89409a35bc237d.png",
       "https://cdn2.steamgriddb.com/hero/54430319f44a3febe74012d9ced38a1d.jpg",
+      "https://cdn2.steamgriddb.com/hero/4eef81afcca65a2bec89409a35bc237d.png",
       "https://cdn2.steamgriddb.com/hero/642229884370cc6d55a12c69b0b1c2fa.png",
       "https://cdn2.steamgriddb.com/hero/1b5a5a165128b8eaaf1440224f3edde7.png",
       "https://cdn2.steamgriddb.com/hero/4ddd456026832dbe602ad461304e3077.png",
@@ -4363,11 +4363,11 @@
       "data/covers/298526.jpg"
     ],
     "heroes": [
-      "https://cdn2.steamgriddb.com/hero/0a93cd1fbeb45dc6553052c91c8a42d6.png",
       "https://cdn2.steamgriddb.com/hero/cb1f93de0aadd74c64d1004781056f5e.png",
+      "https://cdn2.steamgriddb.com/hero/e97f11c1f83bcd4d3416bdfe4a356f2d.png",
+      "https://cdn2.steamgriddb.com/hero/0a93cd1fbeb45dc6553052c91c8a42d6.png",
       "https://cdn2.steamgriddb.com/hero/71269e0156cbe8b079f3ddf441fcb59f.jpg",
       "https://cdn2.steamgriddb.com/hero/d147702bbe61279b97f50856337b767c.png",
-      "https://cdn2.steamgriddb.com/hero/e97f11c1f83bcd4d3416bdfe4a356f2d.png",
       "https://cdn2.steamgriddb.com/hero/e32a175729f0f51628aff181dfe83055.png",
       "https://cdn2.steamgriddb.com/hero/060c7cb35d024b35db67f04bf310e3d0.png",
       "https://cdn2.steamgriddb.com/hero/01d29a8f751be8b8190c5f07d56e8602.png"
@@ -5254,9 +5254,9 @@
     ],
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/a06e8bb7a2ead602f451978b63ba79ec.png",
+      "https://cdn2.steamgriddb.com/hero/a0c578b3cb73ce7573bba15523d770ad.jpg",
       "https://cdn2.steamgriddb.com/hero/7464daee9d49796baa345f68e4e845ba.png",
-      "https://cdn2.steamgriddb.com/hero/fe351d25fb94473e60319cbba72c7e57.png",
-      "https://cdn2.steamgriddb.com/hero/a0c578b3cb73ce7573bba15523d770ad.jpg"
+      "https://cdn2.steamgriddb.com/hero/fe351d25fb94473e60319cbba72c7e57.png"
     ],
     "releaseYear": 2025,
     "rating": 89,
@@ -5397,6 +5397,34 @@
       "Shooter",
       "Role-playing (RPG)",
       "Strategy",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 222341,
+    "name": "Silent Hill 2",
+    "posters": [
+      "data/covers/222341.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/1819932ff5cf474f4f19e7c7024640c2.jpg",
+      "https://cdn2.steamgriddb.com/hero/ef5227a0abc70a78d69cd241071992e6.png",
+      "https://cdn2.steamgriddb.com/hero/fecc3a370a23d13b1cf91ac3c1e1ca92.png",
+      "https://cdn2.steamgriddb.com/hero/3ecf70058911d495069ec09c0c8c9190.png",
+      "https://cdn2.steamgriddb.com/hero/414f7d4cf68fce9015532f85372d58da.png",
+      "https://cdn2.steamgriddb.com/hero/a45e648e2cc4f7c64ffa18955e3a1363.png",
+      "https://cdn2.steamgriddb.com/hero/1cb5e7535b5e4aa0bbb501f43c5bd910.png",
+      "https://cdn2.steamgriddb.com/hero/b0fae80dbb4cabab2a00827fd7389f21.png"
+    ],
+    "releaseYear": 2024,
+    "rating": 89,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Puzzle",
       "Adventure"
     ]
   },
@@ -6967,6 +6995,34 @@
     ]
   },
   {
+    "id": 398225,
+    "name": "Metro 2039",
+    "posters": [
+      "data/covers/398225.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/a5ffb371628660680f9ee0baf043fb3c.jpg",
+      "https://cdn2.steamgriddb.com/hero/192443305db254afb8e532d00a34b4aa.jpg",
+      "https://cdn2.steamgriddb.com/hero/ea1f8e148cd9d42ec4ba0753f2e76b5f.png",
+      "https://cdn2.steamgriddb.com/hero/5505b04b0f722168f8ecda7712e8c2a8.png",
+      "https://cdn2.steamgriddb.com/hero/d029fb44c1e45326c0c011d48722fa68.jpg",
+      "https://cdn2.steamgriddb.com/hero/1ecb86c96dd62c982d40d0699fc5a156.jpg",
+      "https://cdn2.steamgriddb.com/hero/bcf01df2c389168594cb4f646c51e3bf.png",
+      "https://cdn2.steamgriddb.com/hero/9b60ae21f922beabfd5713248f3802d0.png"
+    ],
+    "releaseYear": 2027,
+    "rating": 0,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Shooter",
+      "Adventure"
+    ]
+  },
+  {
     "id": 347869,
     "name": "The Expanse: Osiris Reborn",
     "posters": [
@@ -7015,34 +7071,6 @@
     "genres": [
       "Shooter",
       "Puzzle",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 398225,
-    "name": "Metro 2039",
-    "posters": [
-      "data/covers/398225.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/a5ffb371628660680f9ee0baf043fb3c.jpg",
-      "https://cdn2.steamgriddb.com/hero/192443305db254afb8e532d00a34b4aa.jpg",
-      "https://cdn2.steamgriddb.com/hero/ea1f8e148cd9d42ec4ba0753f2e76b5f.png",
-      "https://cdn2.steamgriddb.com/hero/5505b04b0f722168f8ecda7712e8c2a8.png",
-      "https://cdn2.steamgriddb.com/hero/d029fb44c1e45326c0c011d48722fa68.jpg",
-      "https://cdn2.steamgriddb.com/hero/1ecb86c96dd62c982d40d0699fc5a156.jpg",
-      "https://cdn2.steamgriddb.com/hero/bcf01df2c389168594cb4f646c51e3bf.png",
-      "https://cdn2.steamgriddb.com/hero/9b60ae21f922beabfd5713248f3802d0.png"
-    ],
-    "releaseYear": 2027,
-    "rating": 0,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Shooter",
       "Adventure"
     ]
   },
@@ -7177,30 +7205,6 @@
     ]
   },
   {
-    "id": 216315,
-    "name": "Marvel 1943: Rise of Hydra",
-    "posters": [
-      "data/covers/216315.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/1ab60b5e8bd4eac8a7537abb5936aadc.jpg",
-      "https://cdn2.steamgriddb.com/hero/708d7246fd34ae11f2eeca41d4e698bd.png",
-      "https://cdn2.steamgriddb.com/hero/7da9fd85999f583e3906f99a3ee58911.jpg",
-      "https://cdn2.steamgriddb.com/hero/c632445303b629972c5cfb37e873df9c.jpg",
-      "https://cdn2.steamgriddb.com/hero/13e2a99ea53e73d8a2c2437f612362fa.jpg"
-    ],
-    "releaseYear": 2027,
-    "rating": 0,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Adventure"
-    ]
-  },
-  {
     "id": 350503,
     "name": "Blood Message",
     "posters": [
@@ -7219,6 +7223,30 @@
     "releaseYear": 0,
     "rating": 0,
     "platforms": [
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  {
+    "id": 216315,
+    "name": "Marvel 1943: Rise of Hydra",
+    "posters": [
+      "data/covers/216315.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/1ab60b5e8bd4eac8a7537abb5936aadc.jpg",
+      "https://cdn2.steamgriddb.com/hero/708d7246fd34ae11f2eeca41d4e698bd.png",
+      "https://cdn2.steamgriddb.com/hero/7da9fd85999f583e3906f99a3ee58911.jpg",
+      "https://cdn2.steamgriddb.com/hero/c632445303b629972c5cfb37e873df9c.jpg",
+      "https://cdn2.steamgriddb.com/hero/13e2a99ea53e73d8a2c2437f612362fa.jpg"
+    ],
+    "releaseYear": 2027,
+    "rating": 0,
+    "platforms": [
+      "Xbox Series X|S",
       "PC (Microsoft Windows)",
       "PlayStation 5"
     ],
