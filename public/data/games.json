@@ -785,11 +785,11 @@
       "https://cdn2.steamgriddb.com/hero/3b036b877a6a074d7dbfc706fe868c1d.png",
       "https://cdn2.steamgriddb.com/hero/4bb948d5b21472509627f7f4c2a44784.png",
       "https://cdn2.steamgriddb.com/hero/d45959550312221e15fde04690b18acd.jpg",
+      "https://cdn2.steamgriddb.com/hero/837e868ffbb3a67451e480e1864e071d.png",
       "https://cdn2.steamgriddb.com/hero/ec5205928d905ea263a69ab15c89e4c6.png",
       "https://cdn2.steamgriddb.com/hero/1ac99dea0436b51962ec492c48c5e0b3.png",
-      "https://cdn2.steamgriddb.com/hero/837e868ffbb3a67451e480e1864e071d.png",
-      "https://cdn2.steamgriddb.com/hero/f306269688e3f58d59edecbc68feba60.png",
-      "https://cdn2.steamgriddb.com/hero/eb926f4de043c626b935656be04d59f4.png"
+      "https://cdn2.steamgriddb.com/hero/2c12328aab48072aee9c07cf4442b238.png",
+      "https://cdn2.steamgriddb.com/hero/55b631a083678b1748313493a183a42b.png"
     ],
     "releaseYear": 1997,
     "rating": 92,
@@ -2292,11 +2292,11 @@
     ],
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/7f9b98141b2a0a95dcb5fc8a3dd4deae.jpg",
-      "https://cdn2.steamgriddb.com/hero/35e344582d88186ca877ce9c598a9ee8.jpg",
       "https://cdn2.steamgriddb.com/hero/0bdd128ea21d481cddf93a54815802dc.png",
       "https://cdn2.steamgriddb.com/hero/d47555e2d193e214c2904138a501e059.png",
       "https://cdn2.steamgriddb.com/hero/236522d75c8164f90a85448456e1d1aa.png",
       "https://cdn2.steamgriddb.com/hero/1472f37867541225419a24d7f795a70a.png",
+      "https://cdn2.steamgriddb.com/hero/35e344582d88186ca877ce9c598a9ee8.jpg",
       "https://cdn2.steamgriddb.com/hero/8b7496b0d4f85eb60f8c70fc494c9983.png",
       "https://cdn2.steamgriddb.com/hero/7803206146f2314fd827531963806fe9.jpg"
     ],
@@ -2578,8 +2578,8 @@
       "https://cdn2.steamgriddb.com/hero/0415740eaa4d9decbc8da001d3fd805f.png",
       "https://cdn2.steamgriddb.com/hero/97275a23ca44226c9964043c8462be96.jpg",
       "https://cdn2.steamgriddb.com/hero/af523c5d4c1038a5f074c4320af0ce78.png",
-      "https://cdn2.steamgriddb.com/hero/09e7bb8e71d5cf0750cf485e9929a50e.png",
       "https://cdn2.steamgriddb.com/hero/dfd7468ac613286cdbb40872c8ef3b06.png",
+      "https://cdn2.steamgriddb.com/hero/09e7bb8e71d5cf0750cf485e9929a50e.png",
       "https://cdn2.steamgriddb.com/hero/570ad34b315e6329f1d12872ecb9a7ea.png",
       "https://cdn2.steamgriddb.com/hero/e651fdc0316d0d16c6af304d2023ca3f.jpg",
       "https://cdn2.steamgriddb.com/hero/cf1c92539a270ed7a08f3eaeb5ad722e.png"
@@ -5573,34 +5573,6 @@
     ]
   },
   {
-    "id": 134582,
-    "name": "Ratchet & Clank: Rift Apart",
-    "posters": [
-      "data/covers/134582.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/9e0aaeef6b914a9091beaaec19cc2e34.jpg",
-      "https://cdn2.steamgriddb.com/hero/90d7348fce3c310aa923fc635bf7170f.png",
-      "https://cdn2.steamgriddb.com/hero/1b87389d1050794664a5c16d23de6824.jpg",
-      "https://cdn2.steamgriddb.com/hero/9fb39fd910a6708e156d228c541bb278.png",
-      "https://cdn2.steamgriddb.com/hero/220ddf008416e895e6e649a2bba33484.jpg",
-      "https://cdn2.steamgriddb.com/hero/f761efa8e6a59d222cd4b70a0accfd87.png",
-      "https://cdn2.steamgriddb.com/hero/09f602377056c50b49f87b668eae739f.png",
-      "https://cdn2.steamgriddb.com/hero/fb3336fca8851437f980e83045e75749.png"
-    ],
-    "releaseYear": 2021,
-    "rating": 88,
-    "platforms": [
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Shooter",
-      "Platform",
-      "Adventure"
-    ]
-  },
-  {
     "id": 168668,
     "name": "Uncharted 4: A Thief's End - Remastered",
     "posters": [
@@ -5654,6 +5626,34 @@
     "genres": [
       "Role-playing (RPG)",
       "Hack and slash/Beat 'em up",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 134582,
+    "name": "Ratchet & Clank: Rift Apart",
+    "posters": [
+      "data/covers/134582.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/9e0aaeef6b914a9091beaaec19cc2e34.jpg",
+      "https://cdn2.steamgriddb.com/hero/90d7348fce3c310aa923fc635bf7170f.png",
+      "https://cdn2.steamgriddb.com/hero/1b87389d1050794664a5c16d23de6824.jpg",
+      "https://cdn2.steamgriddb.com/hero/9fb39fd910a6708e156d228c541bb278.png",
+      "https://cdn2.steamgriddb.com/hero/220ddf008416e895e6e649a2bba33484.jpg",
+      "https://cdn2.steamgriddb.com/hero/f761efa8e6a59d222cd4b70a0accfd87.png",
+      "https://cdn2.steamgriddb.com/hero/09f602377056c50b49f87b668eae739f.png",
+      "https://cdn2.steamgriddb.com/hero/fb3336fca8851437f980e83045e75749.png"
+    ],
+    "releaseYear": 2021,
+    "rating": 88,
+    "platforms": [
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Shooter",
+      "Platform",
       "Adventure"
     ]
   },
@@ -6940,33 +6940,6 @@
     ]
   },
   {
-    "id": 325599,
-    "name": "Stranger Than Heaven",
-    "posters": [
-      "data/covers/325599.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/aa63cb5db66c1e8ef5028857ff1de37a.png",
-      "https://cdn2.steamgriddb.com/hero/07d87a49fed03cc7d85a6f919f781c24.jpg",
-      "https://cdn2.steamgriddb.com/hero/f1cab1954b1fc4ff1914fc819d30f3c1.jpg",
-      "https://cdn2.steamgriddb.com/hero/cd09fe0d3b309221c157a07513d8eceb.jpg",
-      "https://cdn2.steamgriddb.com/hero/e971c298d7fba28722b4c69b3fad1129.jpg"
-    ],
-    "releaseYear": 2027,
-    "rating": 0,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Fighting",
-      "Puzzle",
-      "Role-playing (RPG)",
-      "Adventure"
-    ]
-  },
-  {
     "id": 305160,
     "name": "Gears of War: E-Day",
     "posters": [
@@ -6995,6 +6968,55 @@
     ]
   },
   {
+    "id": 325599,
+    "name": "Stranger Than Heaven",
+    "posters": [
+      "data/covers/325599.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/aa63cb5db66c1e8ef5028857ff1de37a.png",
+      "https://cdn2.steamgriddb.com/hero/07d87a49fed03cc7d85a6f919f781c24.jpg",
+      "https://cdn2.steamgriddb.com/hero/f1cab1954b1fc4ff1914fc819d30f3c1.jpg",
+      "https://cdn2.steamgriddb.com/hero/cd09fe0d3b309221c157a07513d8eceb.jpg",
+      "https://cdn2.steamgriddb.com/hero/e971c298d7fba28722b4c69b3fad1129.jpg"
+    ],
+    "releaseYear": 2027,
+    "rating": 0,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Fighting",
+      "Puzzle",
+      "Role-playing (RPG)",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 347869,
+    "name": "The Expanse: Osiris Reborn",
+    "posters": [
+      "data/covers/347869.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/2f2eb9099a6cfbba208113179bce672e.jpg"
+    ],
+    "releaseYear": 2027,
+    "rating": 0,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Shooter",
+      "Role-playing (RPG)",
+      "Adventure"
+    ]
+  },
+  {
     "id": 398225,
     "name": "Metro 2039",
     "posters": [
@@ -7019,28 +7041,6 @@
     ],
     "genres": [
       "Shooter",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 347869,
-    "name": "The Expanse: Osiris Reborn",
-    "posters": [
-      "data/covers/347869.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/2f2eb9099a6cfbba208113179bce672e.jpg"
-    ],
-    "releaseYear": 2027,
-    "rating": 0,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Shooter",
-      "Role-playing (RPG)",
       "Adventure"
     ]
   },
