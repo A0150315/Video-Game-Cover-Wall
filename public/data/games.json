@@ -1053,9 +1053,9 @@
       "https://cdn2.steamgriddb.com/hero/6597e35504c82e2f89f20837fb631376.png",
       "https://cdn2.steamgriddb.com/hero/f4655a2b707853f1b118e0dadc52f9ba.png",
       "https://cdn2.steamgriddb.com/hero/4da04049a062f5adfe81b67dd755cecc.png",
+      "https://cdn2.steamgriddb.com/hero/c39082397ba4e81d4c9525ee3c56ffc7.png",
       "https://cdn2.steamgriddb.com/hero/299024cfe2cd92197e0ab02d2421285c.png",
-      "https://cdn2.steamgriddb.com/hero/6e92962008491b24a803ff3b7d61734b.png",
-      "https://cdn2.steamgriddb.com/hero/dbb795db64c6ab685cc819262a4c36fc.png"
+      "https://cdn2.steamgriddb.com/hero/6e92962008491b24a803ff3b7d61734b.png"
     ],
     "releaseYear": 1998,
     "rating": 92,
@@ -1576,8 +1576,8 @@
       "data/covers/1985.jpg"
     ],
     "heroes": [
-      "https://cdn2.steamgriddb.com/hero/a47dbfe7e87d38f9ddbf3e5021d44c70.png",
       "https://cdn2.steamgriddb.com/hero/f73ff6b435051f83259a5f7b2f542e4b.png",
+      "https://cdn2.steamgriddb.com/hero/a47dbfe7e87d38f9ddbf3e5021d44c70.png",
       "https://cdn2.steamgriddb.com/hero/7cc2794f14963ceaedb29d19875c950c.png",
       "https://cdn2.steamgriddb.com/hero/fd00d3474e495e7b6d5f9f575b2d7ec4.png",
       "https://cdn2.steamgriddb.com/hero/07e99f116b916656b3fd4f7dd58a3cbe.png",
@@ -1938,6 +1938,36 @@
     ]
   },
   {
+    "id": 501,
+    "name": "Batman: Arkham City",
+    "posters": [
+      "data/covers/501.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/9cbe38ee91368cef7c0f22de9c3461e3.png",
+      "https://cdn2.steamgriddb.com/hero/a0715b3d3eeed8446fc3bf227c1e4b83.png",
+      "https://cdn2.steamgriddb.com/hero/388814209b675f2845e8737658701033.png",
+      "https://cdn2.steamgriddb.com/hero/14d203158e5c5fd54555ecd1bd9ed8e3.png",
+      "https://cdn2.steamgriddb.com/hero/4cba8b40e26654975d5ed2256eeba2e2.png",
+      "https://cdn2.steamgriddb.com/hero/7556224206e7d2a665dc14caa39ee31d.jpg",
+      "https://cdn2.steamgriddb.com/hero/1087ef240a4fa531a4cec93d41621ca8.png",
+      "https://cdn2.steamgriddb.com/hero/7273e671a40fa9f0d3867d1098d5ac6e.png"
+    ],
+    "releaseYear": 2011,
+    "rating": 89,
+    "platforms": [
+      "OnLive Game System",
+      "PlayStation 3",
+      "PC (Microsoft Windows)",
+      "Xbox 360",
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Hack and slash/Beat 'em up",
+      "Adventure"
+    ]
+  },
+  {
     "id": 376,
     "name": "Metal Gear Solid 2: Sons of Liberty",
     "posters": [
@@ -1992,36 +2022,6 @@
     ]
   },
   {
-    "id": 501,
-    "name": "Batman: Arkham City",
-    "posters": [
-      "data/covers/501.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/9cbe38ee91368cef7c0f22de9c3461e3.png",
-      "https://cdn2.steamgriddb.com/hero/a0715b3d3eeed8446fc3bf227c1e4b83.png",
-      "https://cdn2.steamgriddb.com/hero/388814209b675f2845e8737658701033.png",
-      "https://cdn2.steamgriddb.com/hero/14d203158e5c5fd54555ecd1bd9ed8e3.png",
-      "https://cdn2.steamgriddb.com/hero/4cba8b40e26654975d5ed2256eeba2e2.png",
-      "https://cdn2.steamgriddb.com/hero/7556224206e7d2a665dc14caa39ee31d.jpg",
-      "https://cdn2.steamgriddb.com/hero/1087ef240a4fa531a4cec93d41621ca8.png",
-      "https://cdn2.steamgriddb.com/hero/7273e671a40fa9f0d3867d1098d5ac6e.png"
-    ],
-    "releaseYear": 2011,
-    "rating": 89,
-    "platforms": [
-      "OnLive Game System",
-      "PlayStation 3",
-      "PC (Microsoft Windows)",
-      "Xbox 360",
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Hack and slash/Beat 'em up",
-      "Adventure"
-    ]
-  },
-  {
     "id": 135243,
     "name": "It Takes Two",
     "posters": [
@@ -2032,10 +2032,10 @@
       "https://cdn2.steamgriddb.com/hero/4eef81afcca65a2bec89409a35bc237d.png",
       "https://cdn2.steamgriddb.com/hero/642229884370cc6d55a12c69b0b1c2fa.png",
       "https://cdn2.steamgriddb.com/hero/1b5a5a165128b8eaaf1440224f3edde7.png",
+      "https://cdn2.steamgriddb.com/hero/1c34790dc216b192e2c31080c0c7e1ea.png",
       "https://cdn2.steamgriddb.com/hero/4ddd456026832dbe602ad461304e3077.png",
       "https://cdn2.steamgriddb.com/hero/3c986ecb63ca91188fbd4ceeb263a793.png",
-      "https://cdn2.steamgriddb.com/hero/2d828e02b09603683f0e967403e7da91.png",
-      "https://cdn2.steamgriddb.com/hero/1741542df8086e1873676cf25ce91578.jpg"
+      "https://cdn2.steamgriddb.com/hero/2d828e02b09603683f0e967403e7da91.png"
     ],
     "releaseYear": 2021,
     "rating": 89,
@@ -2580,9 +2580,9 @@
       "https://cdn2.steamgriddb.com/hero/af523c5d4c1038a5f074c4320af0ce78.png",
       "https://cdn2.steamgriddb.com/hero/dfd7468ac613286cdbb40872c8ef3b06.png",
       "https://cdn2.steamgriddb.com/hero/09e7bb8e71d5cf0750cf485e9929a50e.png",
+      "https://cdn2.steamgriddb.com/hero/cf1c92539a270ed7a08f3eaeb5ad722e.png",
       "https://cdn2.steamgriddb.com/hero/570ad34b315e6329f1d12872ecb9a7ea.png",
-      "https://cdn2.steamgriddb.com/hero/e651fdc0316d0d16c6af304d2023ca3f.jpg",
-      "https://cdn2.steamgriddb.com/hero/cf1c92539a270ed7a08f3eaeb5ad722e.png"
+      "https://cdn2.steamgriddb.com/hero/e651fdc0316d0d16c6af304d2023ca3f.jpg"
     ],
     "releaseYear": 2009,
     "rating": 88,
@@ -3351,11 +3351,11 @@
       "https://cdn2.steamgriddb.com/hero/395af6444dfab37005c07b8264090296.jpg",
       "https://cdn2.steamgriddb.com/hero/d645920e395fedad7bbbed0eca3fe2e0.png",
       "https://cdn2.steamgriddb.com/hero/2f998dda8f0ba06965f745c6b4b39a28.jpg",
+      "https://cdn2.steamgriddb.com/hero/1fdfc94e6fbe9ad0ae591127861939b9.jpg",
       "https://cdn2.steamgriddb.com/hero/e1b97c787a5677efa5eba575c41e8688.png",
       "https://cdn2.steamgriddb.com/hero/2546ca898e28f10ef2ef41f08b17d2c1.jpg",
       "https://cdn2.steamgriddb.com/hero/fd0844cddec522c72993e744add7ed20.png",
-      "https://cdn2.steamgriddb.com/hero/9493b40d57ad7be6c0da24d381015694.png",
-      "https://cdn2.steamgriddb.com/hero/1fdfc94e6fbe9ad0ae591127861939b9.jpg"
+      "https://cdn2.steamgriddb.com/hero/9493b40d57ad7be6c0da24d381015694.png"
     ],
     "releaseYear": 2018,
     "rating": 87,
@@ -3651,7 +3651,7 @@
       "https://cdn2.steamgriddb.com/hero/d5e714549e9937f437d4fc2edf35b8fb.jpg",
       "https://cdn2.steamgriddb.com/hero/a3e76dbd0758435d572478d9df74f409.png",
       "https://cdn2.steamgriddb.com/hero/c4539e880b908ad22a401caf9046d152.jpg",
-      "https://cdn2.steamgriddb.com/hero/7f01c939761597f9b832694d4c381512.jpg"
+      "https://cdn2.steamgriddb.com/hero/721e7285b298cde5b3d0c973ed8d7b63.jpg"
     ],
     "releaseYear": 2012,
     "rating": 86,
@@ -4897,9 +4897,9 @@
       "data/covers/138227.jpg"
     ],
     "heroes": [
+      "https://cdn2.steamgriddb.com/hero/df31e2d6234f39d2e4b6c1c9d4529db7.png",
       "https://cdn2.steamgriddb.com/hero/18ec4f4f0048ec6a1bf139cf16504288.png",
       "https://cdn2.steamgriddb.com/hero/e42b1e4904b310d8ab63c415729d7c36.png",
-      "https://cdn2.steamgriddb.com/hero/df31e2d6234f39d2e4b6c1c9d4529db7.png",
       "https://cdn2.steamgriddb.com/hero/728b013dbecd822eb8e9efaee1006e70.png",
       "https://cdn2.steamgriddb.com/hero/88f5117f17105532ce02ca3f132c6628.png",
       "https://cdn2.steamgriddb.com/hero/0c70494ccfae10f45d03c4576721dfe6.png",
@@ -5286,9 +5286,9 @@
       "https://cdn2.steamgriddb.com/hero/c1d1d15dcd62a49c318eaa9b5e4008f3.png",
       "https://cdn2.steamgriddb.com/hero/2195d1bcffa0604371aad817c13f7a66.png",
       "https://cdn2.steamgriddb.com/hero/615a6a8f386b274b69c9339513ece38a.png",
+      "https://cdn2.steamgriddb.com/hero/21360b4c9e333b571081441d12333934.png",
       "https://cdn2.steamgriddb.com/hero/93b4640c3b752d7a2d97ee339d1ac7fd.png",
-      "https://cdn2.steamgriddb.com/hero/e14552ac77dafb1e4279a2c68898353e.png",
-      "https://cdn2.steamgriddb.com/hero/837eaecb351a661867996759fdefc5a4.png"
+      "https://cdn2.steamgriddb.com/hero/e14552ac77dafb1e4279a2c68898353e.png"
     ],
     "releaseYear": 2023,
     "rating": 89,
@@ -5528,8 +5528,8 @@
       "https://cdn2.steamgriddb.com/hero/3ac1ebdc2f397eca8228042ec9c52c2f.png",
       "https://cdn2.steamgriddb.com/hero/de673d31baeae5f044e0e13816fd6646.png",
       "https://cdn2.steamgriddb.com/hero/92a69ed33c2cf792dc965b0b6b12300d.png",
-      "https://cdn2.steamgriddb.com/hero/ab5b1583bea4ebb1f7e976e1f4d70515.png",
-      "https://cdn2.steamgriddb.com/hero/cb82127db0399cbeaca2988d3ad8e000.jpg"
+      "https://cdn2.steamgriddb.com/hero/4826267c9e5d5a80830f140a7396917f.png",
+      "https://cdn2.steamgriddb.com/hero/ab5b1583bea4ebb1f7e976e1f4d70515.png"
     ],
     "releaseYear": 2020,
     "rating": 88,
@@ -6150,34 +6150,6 @@
     ]
   },
   {
-    "id": 125633,
-    "name": "Crimson Desert Enhanced",
-    "posters": [
-      "data/covers/125633.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/d38b254cb20fd15d4bab546f6d4dd959.jpg",
-      "https://cdn2.steamgriddb.com/hero/7d6f45e3fa9d8273cc53f15b18b78cf4.jpg",
-      "https://cdn2.steamgriddb.com/hero/338b5878e682cc64c0756deb09e695fd.jpg",
-      "https://cdn2.steamgriddb.com/hero/ec554ba4356d497669326d0f332e0d6f.png",
-      "https://cdn2.steamgriddb.com/hero/11af2e35fe0228ff4a349714f3dde3d3.png",
-      "https://cdn2.steamgriddb.com/hero/cb51090e9c10cda176f81a7fa92c3dfc.jpg",
-      "https://cdn2.steamgriddb.com/hero/78ca5163231fa70e74334166e0c43836.png",
-      "https://cdn2.steamgriddb.com/hero/264e30dabdd74a811b94cd575eaf839c.png"
-    ],
-    "releaseYear": 2026,
-    "rating": 87,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5",
-      "Mac"
-    ],
-    "genres": [
-      "Adventure"
-    ]
-  },
-  {
     "id": 165390,
     "name": "Blasphemous II",
     "posters": [
@@ -6603,6 +6575,41 @@
     ]
   },
   {
+    "id": 131890,
+    "name": "Sea of Stars",
+    "posters": [
+      "data/covers/131890.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/0dc76f2b5c3bada7c8bf8a8cbf02a968.png",
+      "https://cdn2.steamgriddb.com/hero/e5b81416d033fd7e1dbfd8ebd0f354f1.png",
+      "https://cdn2.steamgriddb.com/hero/81a7f320c97037905c1e74ed4fba57b4.png",
+      "https://cdn2.steamgriddb.com/hero/de2326cf69d9b51067dc2253aaf8c883.png",
+      "https://cdn2.steamgriddb.com/hero/585e8d6e108d44ee0303463ba7fb023e.jpg",
+      "https://cdn2.steamgriddb.com/hero/54bf847d6e3908dc5277af42fbf566db.png",
+      "https://cdn2.steamgriddb.com/hero/1ccfd90b5d5a5504eeceea9404433515.jpg",
+      "https://cdn2.steamgriddb.com/hero/c33eb6109cb5509165ec855ca28e060d.png"
+    ],
+    "releaseYear": 2023,
+    "rating": 86,
+    "platforms": [
+      "Xbox Series X|S",
+      "PlayStation 4",
+      "Nintendo Switch 2",
+      "Android",
+      "PC (Microsoft Windows)",
+      "iOS",
+      "PlayStation 5",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Adventure",
+      "Indie"
+    ]
+  },
+  {
     "id": 52189,
     "name": "Grand Theft Auto VI",
     "posters": [
@@ -6940,22 +6947,15 @@
     ]
   },
   {
-    "id": 305160,
-    "name": "Gears of War: E-Day",
+    "id": 347869,
+    "name": "The Expanse: Osiris Reborn",
     "posters": [
-      "data/covers/305160.jpg"
+      "data/covers/347869.jpg"
     ],
     "heroes": [
-      "https://cdn2.steamgriddb.com/hero/25f9777d56ab959676a73e317c491e1a.png",
-      "https://cdn2.steamgriddb.com/hero/5125381e68c1ac901e9b4612e6797a1b.png",
-      "https://cdn2.steamgriddb.com/hero/07f2e0a88631dab56b6762b5d0267e4b.png",
-      "https://cdn2.steamgriddb.com/hero/8540838cbd094a70c6fc1686c80f5947.png",
-      "https://cdn2.steamgriddb.com/hero/92b5e71e9794efb2a6e0e2df8936e012.jpg",
-      "https://cdn2.steamgriddb.com/hero/1db7a1c9ef6838f83d9f6dafab946e17.jpg",
-      "https://cdn2.steamgriddb.com/hero/2b67ef2570ea954d5b8faf76e224cf48.jpg",
-      "https://cdn2.steamgriddb.com/hero/b6f0f53b7491b52746b63c8c7039d6b2.png"
+      "https://cdn2.steamgriddb.com/hero/2f2eb9099a6cfbba208113179bce672e.jpg"
     ],
-    "releaseYear": 2026,
+    "releaseYear": 2027,
     "rating": 0,
     "platforms": [
       "Xbox Series X|S",
@@ -6964,6 +6964,7 @@
     ],
     "genres": [
       "Shooter",
+      "Role-playing (RPG)",
       "Adventure"
     ]
   },
@@ -6990,28 +6991,6 @@
     "genres": [
       "Fighting",
       "Puzzle",
-      "Role-playing (RPG)",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 347869,
-    "name": "The Expanse: Osiris Reborn",
-    "posters": [
-      "data/covers/347869.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/2f2eb9099a6cfbba208113179bce672e.jpg"
-    ],
-    "releaseYear": 2027,
-    "rating": 0,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Shooter",
       "Role-playing (RPG)",
       "Adventure"
     ]
@@ -7274,6 +7253,28 @@
     "genres": [
       "Role-playing (RPG)",
       "Adventure"
+    ]
+  },
+  {
+    "id": 194659,
+    "name": "Faul!",
+    "posters": [
+      "data/covers/194659.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/061412e4a03c02f9902576ec55ebbe77.jpg",
+      "https://cdn2.steamgriddb.com/hero/1551cdfa10908c237b03cf467485932d.png",
+      "https://cdn2.steamgriddb.com/hero/29fbecd18a69f85f31ef339bba740400.png",
+      "https://cdn2.steamgriddb.com/hero/8a5d2991e172411411ac1317e67bb88d.png",
+      "https://cdn2.steamgriddb.com/hero/7894fb70687d7d6ed620d74d67420eb5.png"
+    ],
+    "releaseYear": 2025,
+    "rating": 0,
+    "platforms": [
+      "PC (Microsoft Windows)"
+    ],
+    "genres": [
+      "Card & Board Game"
     ]
   }
 ]
