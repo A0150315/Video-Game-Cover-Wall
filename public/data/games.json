@@ -1945,8 +1945,8 @@
     ],
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/9cbe38ee91368cef7c0f22de9c3461e3.png",
-      "https://cdn2.steamgriddb.com/hero/a0715b3d3eeed8446fc3bf227c1e4b83.png",
       "https://cdn2.steamgriddb.com/hero/388814209b675f2845e8737658701033.png",
+      "https://cdn2.steamgriddb.com/hero/a0715b3d3eeed8446fc3bf227c1e4b83.png",
       "https://cdn2.steamgriddb.com/hero/14d203158e5c5fd54555ecd1bd9ed8e3.png",
       "https://cdn2.steamgriddb.com/hero/4cba8b40e26654975d5ed2256eeba2e2.png",
       "https://cdn2.steamgriddb.com/hero/7556224206e7d2a665dc14caa39ee31d.jpg",
@@ -3762,8 +3762,8 @@
       "https://cdn2.steamgriddb.com/hero/bd368b0c08f20e87fe463f6b0dd60835.png",
       "https://cdn2.steamgriddb.com/hero/751fc51937a2e0d0e80feb7092dff4c3.jpg",
       "https://cdn2.steamgriddb.com/hero/9657c1fffd38824e5ab0472e022e577e.jpg",
-      "https://cdn2.steamgriddb.com/hero/61d084d8e03e1012a86b3635549fe59d.png",
-      "https://cdn2.steamgriddb.com/hero/7f8b4252d922cf4bbb8100ff6cc4bf7d.png"
+      "https://cdn2.steamgriddb.com/hero/7f8b4252d922cf4bbb8100ff6cc4bf7d.png",
+      "https://cdn2.steamgriddb.com/hero/0ceec66c0a5cce97620b5917dcc49798.png"
     ],
     "releaseYear": 2004,
     "rating": 86,
@@ -5437,8 +5437,8 @@
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/69c465a79781ae900005cebddfb758d8.png",
       "https://cdn2.steamgriddb.com/hero/0b4a7b183837c441dbe027acf7fbc1d1.png",
-      "https://cdn2.steamgriddb.com/hero/d2d28361fabf5051fcc29fb17dbbe4ae.png",
       "https://cdn2.steamgriddb.com/hero/516b4673af711400934054d48d63fcdb.png",
+      "https://cdn2.steamgriddb.com/hero/d2d28361fabf5051fcc29fb17dbbe4ae.png",
       "https://cdn2.steamgriddb.com/hero/72dbe04264e9414d25bdd9a0d4392eb3.png",
       "https://cdn2.steamgriddb.com/hero/8563d695f4ad96aea93248344366604d.jpg",
       "https://cdn2.steamgriddb.com/hero/eee9bf07b136cc4ec40360746f31304d.png",
@@ -6848,28 +6848,6 @@
     ]
   },
   {
-    "id": 343335,
-    "name": "Silver Palace",
-    "posters": [
-      "data/covers/343335.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/ea3a48c74a9efb9a08635fe7990347cc.png"
-    ],
-    "releaseYear": 0,
-    "rating": 0,
-    "platforms": [
-      "Android",
-      "PC (Microsoft Windows)",
-      "iOS",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Adventure"
-    ]
-  },
-  {
     "id": 142520,
     "name": "Ill",
     "posters": [
@@ -6894,6 +6872,28 @@
     ],
     "genres": [
       "Shooter",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 343335,
+    "name": "Silver Palace",
+    "posters": [
+      "data/covers/343335.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/ea3a48c74a9efb9a08635fe7990347cc.png"
+    ],
+    "releaseYear": 0,
+    "rating": 0,
+    "platforms": [
+      "Android",
+      "PC (Microsoft Windows)",
+      "iOS",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
       "Adventure"
     ]
   },
