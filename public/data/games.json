@@ -384,8 +384,8 @@
     ],
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/5e9fb672ee46be628a141b594d7c6f3e.png",
-      "https://cdn2.steamgriddb.com/hero/1079c40a81a6fd09ffd6fc8ce10209d1.png",
       "https://cdn2.steamgriddb.com/hero/26c0cd7b7237b14349971d5de273b014.png",
+      "https://cdn2.steamgriddb.com/hero/1079c40a81a6fd09ffd6fc8ce10209d1.png",
       "https://cdn2.steamgriddb.com/hero/e57f559127236039b05810514072a782.png",
       "https://cdn2.steamgriddb.com/hero/158885de844ae92913127bddcebfe2e1.png",
       "https://cdn2.steamgriddb.com/hero/8f1839c8cabff58837844b26f05c7a94.png",
@@ -1412,8 +1412,8 @@
       "https://cdn2.steamgriddb.com/hero/3cb7e8f622724be0f4007bab0102e831.png",
       "https://cdn2.steamgriddb.com/hero/cc9657884708170e160c8372d92f3535.png",
       "https://cdn2.steamgriddb.com/hero/09c039292630f588a0528fb457d63c7e.png",
-      "https://cdn2.steamgriddb.com/hero/60e438426cd42e2ad67ad09ef1fd5bbb.png",
-      "https://cdn2.steamgriddb.com/hero/4db94ea189e1ac28f8ad039749e7c8b7.png"
+      "https://cdn2.steamgriddb.com/hero/581c81b11afa90b13a0649c5af9ac4bb.jpg",
+      "https://cdn2.steamgriddb.com/hero/60e438426cd42e2ad67ad09ef1fd5bbb.png"
     ],
     "releaseYear": 2006,
     "rating": 91,
@@ -2028,10 +2028,10 @@
       "data/covers/135243.jpg"
     ],
     "heroes": [
-      "https://cdn2.steamgriddb.com/hero/54430319f44a3febe74012d9ced38a1d.jpg",
       "https://cdn2.steamgriddb.com/hero/4eef81afcca65a2bec89409a35bc237d.png",
-      "https://cdn2.steamgriddb.com/hero/642229884370cc6d55a12c69b0b1c2fa.png",
+      "https://cdn2.steamgriddb.com/hero/54430319f44a3febe74012d9ced38a1d.jpg",
       "https://cdn2.steamgriddb.com/hero/1b5a5a165128b8eaaf1440224f3edde7.png",
+      "https://cdn2.steamgriddb.com/hero/642229884370cc6d55a12c69b0b1c2fa.png",
       "https://cdn2.steamgriddb.com/hero/1c34790dc216b192e2c31080c0c7e1ea.png",
       "https://cdn2.steamgriddb.com/hero/4ddd456026832dbe602ad461304e3077.png",
       "https://cdn2.steamgriddb.com/hero/3c986ecb63ca91188fbd4ceeb263a793.png",
@@ -4745,8 +4745,8 @@
       "https://cdn2.steamgriddb.com/hero/aaecbb83e18bf24199bc5b2d3a280054.jpg",
       "https://cdn2.steamgriddb.com/hero/dd6e198d02d6cc5a4b06a9df0f5f1357.jpg",
       "https://cdn2.steamgriddb.com/hero/c09898488dddade675f309cabeca0c4e.png",
-      "https://cdn2.steamgriddb.com/hero/b916ec04ba02300be0d6a6714418977f.png",
-      "https://cdn2.steamgriddb.com/hero/2e3d93592ab110544f0f50c5a4e46339.png"
+      "https://cdn2.steamgriddb.com/hero/e29206f8211fcf78b00039a7f40822c5.png",
+      "https://cdn2.steamgriddb.com/hero/4934a090462355883a4fea22b8f4a85e.png"
     ],
     "releaseYear": 2024,
     "rating": 90,
@@ -4987,9 +4987,9 @@
       "https://cdn2.steamgriddb.com/hero/7d66788d9bbbdc992995a492075269a5.jpg",
       "https://cdn2.steamgriddb.com/hero/99665b901ab21d09dab51ca2f581d777.jpg",
       "https://cdn2.steamgriddb.com/hero/dad7e851012c3d9c094e3c0702b089d6.png",
+      "https://cdn2.steamgriddb.com/hero/5037910c245dfac3926ca5fa0758ec37.png",
       "https://cdn2.steamgriddb.com/hero/9398f589012c416aefc7eeb6384bfef1.jpg",
-      "https://cdn2.steamgriddb.com/hero/8dbc97d9720940c30d0c7ffec4ba41c7.jpg",
-      "https://cdn2.steamgriddb.com/hero/f4e633b10673114696d47aec0fb50c2f.jpg"
+      "https://cdn2.steamgriddb.com/hero/8dbc97d9720940c30d0c7ffec4ba41c7.jpg"
     ],
     "releaseYear": 2022,
     "rating": 90,
@@ -5135,9 +5135,9 @@
       "https://cdn2.steamgriddb.com/hero/a504fbf343c4f3f5fb41e379352651f0.png",
       "https://cdn2.steamgriddb.com/hero/88e728cf57f3e639e24e6df5f1fb3789.png",
       "https://cdn2.steamgriddb.com/hero/2426af4e20a955e5b25da3ae3d881121.jpg",
+      "https://cdn2.steamgriddb.com/hero/622135f78082662413b50aaecc376f11.jpg",
       "https://cdn2.steamgriddb.com/hero/542a2ef216fcbc3348128461e2913137.jpg",
       "https://cdn2.steamgriddb.com/hero/821a89b05f1cae4aef684684a279e66e.png",
-      "https://cdn2.steamgriddb.com/hero/622135f78082662413b50aaecc376f11.jpg",
       "https://cdn2.steamgriddb.com/hero/2aa6e53e962b4586a5e44274092d6451.jpg"
     ],
     "releaseYear": 2024,
@@ -5313,11 +5313,11 @@
       "https://cdn2.steamgriddb.com/hero/9665b286a4a05bb2824586886b982bd6.jpg",
       "https://cdn2.steamgriddb.com/hero/e1905b9f09c4eab1ba6fffef3651c0bb.png",
       "https://cdn2.steamgriddb.com/hero/8ad3fac6c6b3528499d347d924443abb.png",
+      "https://cdn2.steamgriddb.com/hero/357621b91880a03a684b1cd67e22b59b.jpg",
       "https://cdn2.steamgriddb.com/hero/4437166da63e60a4cd184816b11caf05.png",
       "https://cdn2.steamgriddb.com/hero/1bd89c2aa2b19b9a1f4c0f5a0aaaab41.jpg",
       "https://cdn2.steamgriddb.com/hero/e25c8f3b6421b1795ba83b623d1d82c0.jpg",
-      "https://cdn2.steamgriddb.com/hero/1009e23157087d494be8567cc8ba7f8f.jpg",
-      "https://cdn2.steamgriddb.com/hero/357621b91880a03a684b1cd67e22b59b.jpg"
+      "https://cdn2.steamgriddb.com/hero/1009e23157087d494be8567cc8ba7f8f.jpg"
     ],
     "releaseYear": 2024,
     "rating": 89,
@@ -7256,25 +7256,27 @@
     ]
   },
   {
-    "id": 194659,
-    "name": "Faul!",
+    "id": 361833,
+    "name": "Valor Mortis",
     "posters": [
-      "data/covers/194659.jpg"
+      "data/covers/361833.jpg"
     ],
     "heroes": [
-      "https://cdn2.steamgriddb.com/hero/061412e4a03c02f9902576ec55ebbe77.jpg",
-      "https://cdn2.steamgriddb.com/hero/1551cdfa10908c237b03cf467485932d.png",
-      "https://cdn2.steamgriddb.com/hero/29fbecd18a69f85f31ef339bba740400.png",
-      "https://cdn2.steamgriddb.com/hero/8a5d2991e172411411ac1317e67bb88d.png",
-      "https://cdn2.steamgriddb.com/hero/7894fb70687d7d6ed620d74d67420eb5.png"
+      "https://cdn2.steamgriddb.com/hero/c0086a2d59642def31185968e7198850.jpg",
+      "https://cdn2.steamgriddb.com/hero/460d885de2ae8b358c2b36f768916ba5.png",
+      "https://cdn2.steamgriddb.com/hero/95dd4646b5208bfcdfdbdb1114344f44.png"
     ],
-    "releaseYear": 2025,
+    "releaseYear": 2026,
     "rating": 0,
     "platforms": [
-      "PC (Microsoft Windows)"
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
     ],
     "genres": [
-      "Card & Board Game"
+      "Shooter",
+      "Role-playing (RPG)",
+      "Adventure"
     ]
   }
 ]
