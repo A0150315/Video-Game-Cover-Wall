@@ -1884,8 +1884,8 @@
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/905372ea814051dfb31429fe44e18cab.png",
       "https://cdn2.steamgriddb.com/hero/42aae50b505bb0adbedb1f8f8bbd6378.jpg",
-      "https://cdn2.steamgriddb.com/hero/3bfe11904d16672c7c87e30d58894339.png",
       "https://cdn2.steamgriddb.com/hero/d2d195657240f493374e95e2b75cc8cf.png",
+      "https://cdn2.steamgriddb.com/hero/3bfe11904d16672c7c87e30d58894339.png",
       "https://cdn2.steamgriddb.com/hero/90deff4b32c134f32e3f0d7e8a2aad92.png",
       "https://cdn2.steamgriddb.com/hero/143f8d687ce439ff0e5dce08c4c92c89.png",
       "https://cdn2.steamgriddb.com/hero/351264651d762713a247d997f6eae551.png",
@@ -4764,6 +4764,34 @@
     ]
   },
   {
+    "id": 185246,
+    "name": "Alan Wake II",
+    "posters": [
+      "data/covers/185246.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/e13147c18aa5e4aa4cf75185d01cf826.png",
+      "https://cdn2.steamgriddb.com/hero/d60f2d5d05b4c46d470d5cbd5d1fb252.jpg",
+      "https://cdn2.steamgriddb.com/hero/991e430c00831fcaec1087462d3223fa.png",
+      "https://cdn2.steamgriddb.com/hero/dd1ea9382335816da0932d10b0503922.jpg",
+      "https://cdn2.steamgriddb.com/hero/d53a683ae5daa34edb84c7607c92d6a1.jpg",
+      "https://cdn2.steamgriddb.com/hero/2b61040f0e5261b463059d8827acf1fa.png",
+      "https://cdn2.steamgriddb.com/hero/09ea8690a859084c80f1fbbbf38766e8.jpg",
+      "https://cdn2.steamgriddb.com/hero/2a19cad46feca9eab2214e58bbf3c02e.png"
+    ],
+    "releaseYear": 2023,
+    "rating": 90,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Shooter",
+      "Adventure"
+    ]
+  },
+  {
     "id": 347668,
     "name": "Resident Evil Requiem",
     "posters": [
@@ -4790,34 +4818,6 @@
     "genres": [
       "Shooter",
       "Puzzle",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 185246,
-    "name": "Alan Wake II",
-    "posters": [
-      "data/covers/185246.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/e13147c18aa5e4aa4cf75185d01cf826.png",
-      "https://cdn2.steamgriddb.com/hero/d60f2d5d05b4c46d470d5cbd5d1fb252.jpg",
-      "https://cdn2.steamgriddb.com/hero/991e430c00831fcaec1087462d3223fa.png",
-      "https://cdn2.steamgriddb.com/hero/dd1ea9382335816da0932d10b0503922.jpg",
-      "https://cdn2.steamgriddb.com/hero/d53a683ae5daa34edb84c7607c92d6a1.jpg",
-      "https://cdn2.steamgriddb.com/hero/2b61040f0e5261b463059d8827acf1fa.png",
-      "https://cdn2.steamgriddb.com/hero/09ea8690a859084c80f1fbbbf38766e8.jpg",
-      "https://cdn2.steamgriddb.com/hero/2a19cad46feca9eab2214e58bbf3c02e.png"
-    ],
-    "releaseYear": 2023,
-    "rating": 90,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Shooter",
       "Adventure"
     ]
   },
@@ -6445,43 +6445,6 @@
     ]
   },
   {
-    "id": 186725,
-    "name": "Vampire Survivors",
-    "posters": [
-      "data/covers/186725.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/d55c063e665cf55517a9f186af1b48e4.png",
-      "https://cdn2.steamgriddb.com/hero/b026f93439176b320722ea7d2591a6f4.png",
-      "https://cdn2.steamgriddb.com/hero/0e8c5c04107d38331fdd921015823de6.png",
-      "https://cdn2.steamgriddb.com/hero/64ef8c7578a256855335bf9993dd7e4a.jpg",
-      "https://cdn2.steamgriddb.com/hero/bddf21dd98f310024ac650b1ea613cdf.jpg",
-      "https://cdn2.steamgriddb.com/hero/ee56b945da4167b78cf475c48ae0539b.png",
-      "https://cdn2.steamgriddb.com/hero/bfa066944d23a6776caa67066d1f7b57.png",
-      "https://cdn2.steamgriddb.com/hero/d194f08d5baaab2893ca7626a2415c8a.png"
-    ],
-    "releaseYear": 2022,
-    "rating": 86,
-    "platforms": [
-      "Xbox Series X|S",
-      "PlayStation 4",
-      "Linux",
-      "Android",
-      "PC (Microsoft Windows)",
-      "iOS",
-      "PlayStation 5",
-      "Mac",
-      "Xbox One",
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Adventure",
-      "Indie",
-      "Arcade"
-    ]
-  },
-  {
     "id": 204627,
     "name": "Cocoon",
     "posters": [
@@ -6607,6 +6570,43 @@
       "Role-playing (RPG)",
       "Adventure",
       "Indie"
+    ]
+  },
+  {
+    "id": 186725,
+    "name": "Vampire Survivors",
+    "posters": [
+      "data/covers/186725.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/d55c063e665cf55517a9f186af1b48e4.png",
+      "https://cdn2.steamgriddb.com/hero/b026f93439176b320722ea7d2591a6f4.png",
+      "https://cdn2.steamgriddb.com/hero/0e8c5c04107d38331fdd921015823de6.png",
+      "https://cdn2.steamgriddb.com/hero/64ef8c7578a256855335bf9993dd7e4a.jpg",
+      "https://cdn2.steamgriddb.com/hero/bddf21dd98f310024ac650b1ea613cdf.jpg",
+      "https://cdn2.steamgriddb.com/hero/ee56b945da4167b78cf475c48ae0539b.png",
+      "https://cdn2.steamgriddb.com/hero/bfa066944d23a6776caa67066d1f7b57.png",
+      "https://cdn2.steamgriddb.com/hero/d194f08d5baaab2893ca7626a2415c8a.png"
+    ],
+    "releaseYear": 2022,
+    "rating": 86,
+    "platforms": [
+      "Xbox Series X|S",
+      "PlayStation 4",
+      "Linux",
+      "Android",
+      "PC (Microsoft Windows)",
+      "iOS",
+      "PlayStation 5",
+      "Mac",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Adventure",
+      "Indie",
+      "Arcade"
     ]
   },
   {
