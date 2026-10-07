@@ -157,8 +157,8 @@
       "https://cdn2.steamgriddb.com/hero/840aa06493f6efae8a912df6bd5ba889.jpg",
       "https://cdn2.steamgriddb.com/hero/fa36ce3924dac70defd1e81ffebfc71c.jpg",
       "https://cdn2.steamgriddb.com/hero/79daceb948005dea8a61bd189cb4d468.png",
-      "https://cdn2.steamgriddb.com/hero/0c239762d3a80dad4458be9d4540ba95.png",
-      "https://cdn2.steamgriddb.com/hero/5b359e020d0c4726dd6876f6e6500648.png"
+      "https://cdn2.steamgriddb.com/hero/5b359e020d0c4726dd6876f6e6500648.png",
+      "https://cdn2.steamgriddb.com/hero/0c239762d3a80dad4458be9d4540ba95.png"
     ],
     "releaseYear": 2022,
     "rating": 95,
@@ -621,6 +621,7 @@
     "platforms": [
       "Xbox Series X|S",
       "PlayStation 4",
+      "Nintendo Switch 2",
       "PC (Microsoft Windows)",
       "PlayStation 5",
       "Xbox One",
@@ -1696,8 +1697,8 @@
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/723dadb8c699bf14f74503dbcb6e09c1.png",
       "https://cdn2.steamgriddb.com/hero/ad093f971fbb27b426aa2aa17b89e100.png",
-      "https://cdn2.steamgriddb.com/hero/a1677f67c9e0342b5dd4dd69762a0c43.png",
       "https://cdn2.steamgriddb.com/hero/fbf5a0f7b2ac2ffd30e433d6c394eb8f.png",
+      "https://cdn2.steamgriddb.com/hero/a1677f67c9e0342b5dd4dd69762a0c43.png",
       "https://cdn2.steamgriddb.com/hero/4c562a922dda29172f86955ed505472e.png",
       "https://cdn2.steamgriddb.com/hero/aca4bc50f57f2a211fde11758160a688.png",
       "https://cdn2.steamgriddb.com/hero/530c64ce47e128820c350b8d62023927.png",
@@ -3213,8 +3214,8 @@
       "https://cdn2.steamgriddb.com/hero/386bb25138d5c75aaf86b0a6d4d8f772.jpg",
       "https://cdn2.steamgriddb.com/hero/b258cda7f6762de012fddbb6477f5190.png",
       "https://cdn2.steamgriddb.com/hero/1164caada87d881437173e9a15f78aa5.png",
-      "https://cdn2.steamgriddb.com/hero/5d599fc8f46d75efc30d93e0c500bf6f.png",
       "https://cdn2.steamgriddb.com/hero/9c51041127bc0f99dd1c98e72dd11d01.jpg",
+      "https://cdn2.steamgriddb.com/hero/5d599fc8f46d75efc30d93e0c500bf6f.png",
       "https://cdn2.steamgriddb.com/hero/2cbca44843a864533ec05b321ae1f9d1.jpg",
       "https://cdn2.steamgriddb.com/hero/b3af4b6d7507eccf16f77dacfb4b4492.png",
       "https://cdn2.steamgriddb.com/hero/23755d10e2fe7c7a11342f80352a8e9d.png"
@@ -3352,8 +3353,8 @@
       "https://cdn2.steamgriddb.com/hero/d645920e395fedad7bbbed0eca3fe2e0.png",
       "https://cdn2.steamgriddb.com/hero/2f998dda8f0ba06965f745c6b4b39a28.jpg",
       "https://cdn2.steamgriddb.com/hero/1fdfc94e6fbe9ad0ae591127861939b9.jpg",
-      "https://cdn2.steamgriddb.com/hero/e1b97c787a5677efa5eba575c41e8688.png",
       "https://cdn2.steamgriddb.com/hero/2546ca898e28f10ef2ef41f08b17d2c1.jpg",
+      "https://cdn2.steamgriddb.com/hero/e1b97c787a5677efa5eba575c41e8688.png",
       "https://cdn2.steamgriddb.com/hero/fd0844cddec522c72993e744add7ed20.png",
       "https://cdn2.steamgriddb.com/hero/9493b40d57ad7be6c0da24d381015694.png"
     ],
@@ -4076,9 +4077,9 @@
       "https://cdn2.steamgriddb.com/hero/16755a59feefe5a2e038fa89eb54278d.png",
       "https://cdn2.steamgriddb.com/hero/34ba06658770b411acc56aaf592070f5.png",
       "https://cdn2.steamgriddb.com/hero/23ce88322d3298cbfac813448612a1c9.png",
+      "https://cdn2.steamgriddb.com/hero/333a55a4dd50a0fafb33f7e2e5b0df03.png",
       "https://cdn2.steamgriddb.com/hero/9f03eab8a6dd1a59a90dd758769f4bb3.png",
       "https://cdn2.steamgriddb.com/hero/1e273c3efad61af89a37f8403b84efd4.png",
-      "https://cdn2.steamgriddb.com/hero/333a55a4dd50a0fafb33f7e2e5b0df03.png",
       "https://cdn2.steamgriddb.com/hero/1690bccd010b308cd33989d3819ed96a.png"
     ],
     "releaseYear": 2017,
@@ -4154,6 +4155,35 @@
     ]
   },
   {
+    "id": 109,
+    "name": "L.A. Noire",
+    "posters": [
+      "data/covers/109.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/0c9ebb2ded806d7ffda75cd0b95eb70c.png",
+      "https://cdn2.steamgriddb.com/hero/9625fdcfdf80c49a86c36dcc39ff7e92.jpg",
+      "https://cdn2.steamgriddb.com/hero/0e9c14002f9268601c57837930261014.jpg",
+      "https://cdn2.steamgriddb.com/hero/07563a3fe3bbe7e3ba84431ad9d055af.jpg",
+      "https://cdn2.steamgriddb.com/hero/fad6bd9df466928854884d9f8bed0486.png",
+      "https://cdn2.steamgriddb.com/hero/3e15cc11f979ed25912dff5b0669f2cd.png",
+      "https://cdn2.steamgriddb.com/hero/ab233b682ec355648e7891e66c54191b.png",
+      "https://cdn2.steamgriddb.com/hero/da9278fb741a9aba56bd8e184933871d.jpg"
+    ],
+    "releaseYear": 2011,
+    "rating": 86,
+    "platforms": [
+      "PlayStation 3",
+      "PC (Microsoft Windows)",
+      "SteamVR",
+      "Xbox 360"
+    ],
+    "genres": [
+      "Strategy",
+      "Adventure"
+    ]
+  },
+  {
     "id": 2853,
     "name": "Braid",
     "posters": [
@@ -4183,35 +4213,6 @@
       "Strategy",
       "Adventure",
       "Indie"
-    ]
-  },
-  {
-    "id": 109,
-    "name": "L.A. Noire",
-    "posters": [
-      "data/covers/109.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/0c9ebb2ded806d7ffda75cd0b95eb70c.png",
-      "https://cdn2.steamgriddb.com/hero/9625fdcfdf80c49a86c36dcc39ff7e92.jpg",
-      "https://cdn2.steamgriddb.com/hero/0e9c14002f9268601c57837930261014.jpg",
-      "https://cdn2.steamgriddb.com/hero/07563a3fe3bbe7e3ba84431ad9d055af.jpg",
-      "https://cdn2.steamgriddb.com/hero/fad6bd9df466928854884d9f8bed0486.png",
-      "https://cdn2.steamgriddb.com/hero/3e15cc11f979ed25912dff5b0669f2cd.png",
-      "https://cdn2.steamgriddb.com/hero/ab233b682ec355648e7891e66c54191b.png",
-      "https://cdn2.steamgriddb.com/hero/da9278fb741a9aba56bd8e184933871d.jpg"
-    ],
-    "releaseYear": 2011,
-    "rating": 86,
-    "platforms": [
-      "PlayStation 3",
-      "PC (Microsoft Windows)",
-      "SteamVR",
-      "Xbox 360"
-    ],
-    "genres": [
-      "Strategy",
-      "Adventure"
     ]
   },
   {
@@ -4556,6 +4557,33 @@
     ]
   },
   {
+    "id": 228530,
+    "name": "Death Stranding 2: On the Beach",
+    "posters": [
+      "data/covers/228530.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/be0a03c512e81c809b9b9f359e8f0883.jpg",
+      "https://cdn2.steamgriddb.com/hero/02fc8aad99f83dd975d77b7aa954754d.png",
+      "https://cdn2.steamgriddb.com/hero/bd6039f5e2457fc18f5c4559b3487666.jpg",
+      "https://cdn2.steamgriddb.com/hero/2b00e20bf615db411d9bac7819b6e003.jpg",
+      "https://cdn2.steamgriddb.com/hero/a48ea3f98067cb5bbd6eb863a7b40f38.png",
+      "https://cdn2.steamgriddb.com/hero/682a64a4fba9f39d954eaf28531e55a0.png",
+      "https://cdn2.steamgriddb.com/hero/08142446d0ba78b8f9091f52df384fcd.png",
+      "https://cdn2.steamgriddb.com/hero/a283f6b30fc942119e90f406e7b75aa6.png"
+    ],
+    "releaseYear": 2025,
+    "rating": 91,
+    "platforms": [
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Shooter",
+      "Adventure"
+    ]
+  },
+  {
     "id": 228525,
     "name": "Hades II",
     "posters": [
@@ -4586,33 +4614,6 @@
       "Hack and slash/Beat 'em up",
       "Adventure",
       "Indie"
-    ]
-  },
-  {
-    "id": 228530,
-    "name": "Death Stranding 2: On the Beach",
-    "posters": [
-      "data/covers/228530.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/be0a03c512e81c809b9b9f359e8f0883.jpg",
-      "https://cdn2.steamgriddb.com/hero/02fc8aad99f83dd975d77b7aa954754d.png",
-      "https://cdn2.steamgriddb.com/hero/bd6039f5e2457fc18f5c4559b3487666.jpg",
-      "https://cdn2.steamgriddb.com/hero/2b00e20bf615db411d9bac7819b6e003.jpg",
-      "https://cdn2.steamgriddb.com/hero/a48ea3f98067cb5bbd6eb863a7b40f38.png",
-      "https://cdn2.steamgriddb.com/hero/682a64a4fba9f39d954eaf28531e55a0.png",
-      "https://cdn2.steamgriddb.com/hero/08142446d0ba78b8f9091f52df384fcd.png",
-      "https://cdn2.steamgriddb.com/hero/a283f6b30fc942119e90f406e7b75aa6.png"
-    ],
-    "releaseYear": 2025,
-    "rating": 91,
-    "platforms": [
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Shooter",
-      "Adventure"
     ]
   },
   {
@@ -5608,12 +5609,12 @@
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/0496f9b544243ec5dff64344d1477858.png",
       "https://cdn2.steamgriddb.com/hero/c2cb5756ab726e065755c4743ef4cb87.png",
-      "https://cdn2.steamgriddb.com/hero/16228c0b296eb1e41d6820f27059bf40.png",
+      "https://cdn2.steamgriddb.com/hero/7f4c930feecc8cf0591498c3ccfdba1e.png",
       "https://cdn2.steamgriddb.com/hero/daf3a8509903b9dc5c719d644505bd4e.png",
       "https://cdn2.steamgriddb.com/hero/23ca2bc6358b97b675c4c10d2cc58761.png",
-      "https://cdn2.steamgriddb.com/hero/7f4c930feecc8cf0591498c3ccfdba1e.png",
       "https://cdn2.steamgriddb.com/hero/aab6ed1b64428873672ae553aac1efe7.png",
-      "https://cdn2.steamgriddb.com/hero/3778f23c520d750708cec1c8c3118688.png"
+      "https://cdn2.steamgriddb.com/hero/3778f23c520d750708cec1c8c3118688.png",
+      "https://cdn2.steamgriddb.com/hero/40de84e699744fef58c5e51b1d28b8dc.png"
     ],
     "releaseYear": 2024,
     "rating": 88,
@@ -5845,7 +5846,7 @@
       "https://cdn2.steamgriddb.com/hero/1aa319435b5b34929d312529896c8066.png",
       "https://cdn2.steamgriddb.com/hero/36b3d2f1755bb2eefb004b1b8f13f072.jpg",
       "https://cdn2.steamgriddb.com/hero/246ebb189a4bbddec7176ef4227a139b.jpg",
-      "https://cdn2.steamgriddb.com/hero/cfe520531eb6e0c121da7753dd7bf1c0.jpg"
+      "https://cdn2.steamgriddb.com/hero/362b043be5e5b6fdd7300f794407e2ea.jpg"
     ],
     "releaseYear": 2021,
     "rating": 87,
@@ -5904,8 +5905,8 @@
       "https://cdn2.steamgriddb.com/hero/646d2f7cc11dd365e6f0aaa39831a7cc.png",
       "https://cdn2.steamgriddb.com/hero/16b42e3bdfb5aa64c9519c72fb9fd613.png",
       "https://cdn2.steamgriddb.com/hero/2e951e37ba37f327f064614bc8d63378.png",
-      "https://cdn2.steamgriddb.com/hero/fa1f0a1de120b6ac2951552b14f64b16.png",
-      "https://cdn2.steamgriddb.com/hero/c941029b040ed6e0da88249464283423.png"
+      "https://cdn2.steamgriddb.com/hero/c941029b040ed6e0da88249464283423.png",
+      "https://cdn2.steamgriddb.com/hero/7e2967e9f0dfe8106faf21d564639308.jpg"
     ],
     "releaseYear": 2026,
     "rating": 87,
@@ -5985,40 +5986,6 @@
     ]
   },
   {
-    "id": 194821,
-    "name": "Nine Sols",
-    "posters": [
-      "data/covers/194821.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/d692ac7798fc83dfbd340003112084f7.png",
-      "https://cdn2.steamgriddb.com/hero/0218a173ca02d7c2036ab4ba42911b8e.png",
-      "https://cdn2.steamgriddb.com/hero/cff6ebf011d28a7adbdbe34fed74881f.png",
-      "https://cdn2.steamgriddb.com/hero/98d097683939501582a4f9ce1253851a.jpg",
-      "https://cdn2.steamgriddb.com/hero/9d1ee8cad78f6062a99c870394d35bae.png",
-      "https://cdn2.steamgriddb.com/hero/716ceafa7f37de96996b0154686fdcf2.png",
-      "https://cdn2.steamgriddb.com/hero/7a5efbe8db5b7092566da85315df3ee8.png",
-      "https://cdn2.steamgriddb.com/hero/7ead969cd27b943111faf6651224f092.png"
-    ],
-    "releaseYear": 2024,
-    "rating": 87,
-    "platforms": [
-      "Xbox Series X|S",
-      "PlayStation 4",
-      "PC (Microsoft Windows)",
-      "PlayStation 5",
-      "Mac",
-      "Xbox One",
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Platform",
-      "Hack and slash/Beat 'em up",
-      "Adventure",
-      "Indie"
-    ]
-  },
-  {
     "id": 23733,
     "name": "Tunic",
     "posters": [
@@ -6049,6 +6016,40 @@
     "genres": [
       "Puzzle",
       "Role-playing (RPG)",
+      "Adventure",
+      "Indie"
+    ]
+  },
+  {
+    "id": 194821,
+    "name": "Nine Sols",
+    "posters": [
+      "data/covers/194821.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/d692ac7798fc83dfbd340003112084f7.png",
+      "https://cdn2.steamgriddb.com/hero/0218a173ca02d7c2036ab4ba42911b8e.png",
+      "https://cdn2.steamgriddb.com/hero/cff6ebf011d28a7adbdbe34fed74881f.png",
+      "https://cdn2.steamgriddb.com/hero/98d097683939501582a4f9ce1253851a.jpg",
+      "https://cdn2.steamgriddb.com/hero/9d1ee8cad78f6062a99c870394d35bae.png",
+      "https://cdn2.steamgriddb.com/hero/716ceafa7f37de96996b0154686fdcf2.png",
+      "https://cdn2.steamgriddb.com/hero/7a5efbe8db5b7092566da85315df3ee8.png",
+      "https://cdn2.steamgriddb.com/hero/7ead969cd27b943111faf6651224f092.png"
+    ],
+    "releaseYear": 2024,
+    "rating": 87,
+    "platforms": [
+      "Xbox Series X|S",
+      "PlayStation 4",
+      "PC (Microsoft Windows)",
+      "PlayStation 5",
+      "Mac",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Platform",
+      "Hack and slash/Beat 'em up",
       "Adventure",
       "Indie"
     ]
@@ -6691,10 +6692,10 @@
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/cd172dd5af50902d4a1c43c4dfc3d6c7.png",
       "https://cdn2.steamgriddb.com/hero/f4a93b647ca764286d8f7a7e9fa49417.png",
+      "https://cdn2.steamgriddb.com/hero/f9b0ca38d146ee5cab4a82e7dfa4b60c.jpg",
       "https://cdn2.steamgriddb.com/hero/e05498f86deb26764f32d02d6e6a675f.jpg",
       "https://cdn2.steamgriddb.com/hero/93d80e2b713d157fabf0cb9f9e0c95d7.jpg",
       "https://cdn2.steamgriddb.com/hero/e915736d70772f7352374c3f0a2d5e4e.jpg",
-      "https://cdn2.steamgriddb.com/hero/f9b0ca38d146ee5cab4a82e7dfa4b60c.jpg",
       "https://cdn2.steamgriddb.com/hero/33fcf5910d5fd8e24eb442b5b822d639.jpg",
       "https://cdn2.steamgriddb.com/hero/77cbbbb2592d76e212f6d65ad0fba2c2.jpg"
     ],
