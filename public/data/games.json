@@ -475,7 +475,7 @@
       "https://cdn2.steamgriddb.com/hero/11ae7bbc40d97d9fdf8f375606198ebb.png",
       "https://cdn2.steamgriddb.com/hero/0a97e4f47718632c556e9ac591d5f3c2.png",
       "https://cdn2.steamgriddb.com/hero/29e11ea8ec6c7804a7f939e8e78e9c18.jpg",
-      "https://cdn2.steamgriddb.com/hero/a6e4f250fb5c56aaf215a236c64e5b0a.png"
+      "https://cdn2.steamgriddb.com/hero/bab82e00570d17a1fe3dcad7dabff3eb.png"
     ],
     "releaseYear": 2010,
     "rating": 93,
@@ -729,8 +729,8 @@
       "https://cdn2.steamgriddb.com/hero/83f075354ac93f60d1c1ac9a15399196.png",
       "https://cdn2.steamgriddb.com/hero/3a900dc34f5f470bc5b734222f657d7f.png",
       "https://cdn2.steamgriddb.com/hero/93c6c0bd09a280606df12f66752d7b76.png",
-      "https://cdn2.steamgriddb.com/hero/766ebcd59621e305170616ba3d3dac32.jpg",
       "https://cdn2.steamgriddb.com/hero/e8c1bdc555e17fd06b44ea4d3b4adbda.png",
+      "https://cdn2.steamgriddb.com/hero/766ebcd59621e305170616ba3d3dac32.jpg",
       "https://cdn2.steamgriddb.com/hero/6aaba9a124857622930ca4e50f5afed2.png",
       "https://cdn2.steamgriddb.com/hero/68aa2710db021ce351467da417b912d8.png",
       "https://cdn2.steamgriddb.com/hero/049671e28a386427e432b3370a22aae4.jpg"
@@ -1493,8 +1493,8 @@
     ],
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/234a44317716c5c8d0ee1b2ea49a8960.png",
-      "https://cdn2.steamgriddb.com/hero/7f2b2f3993942d8fffe0959b532816ea.png",
       "https://cdn2.steamgriddb.com/hero/e074a2975740cdf3948cfc063892260e.png",
+      "https://cdn2.steamgriddb.com/hero/7f2b2f3993942d8fffe0959b532816ea.png",
       "https://cdn2.steamgriddb.com/hero/cf8d01ec24a6c47b5790cba5d83aa8c0.jpg",
       "https://cdn2.steamgriddb.com/hero/12e1b435e5e53888e787d22c1e8d262d.jpg",
       "https://cdn2.steamgriddb.com/hero/c04049647770b1cd061ebf1194b9b969.png",
@@ -2023,6 +2023,37 @@
     ]
   },
   {
+    "id": 1068,
+    "name": "Super Mario Bros. 3",
+    "posters": [
+      "data/covers/1068.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/07e1cd7dca89a1678042477183b7ac3f.png",
+      "https://cdn2.steamgriddb.com/hero/986b701d5b9bb1e34b79d0266dc18c7d.png",
+      "https://cdn2.steamgriddb.com/hero/d15e02b2d502871eba5f71999008e026.jpg",
+      "https://cdn2.steamgriddb.com/hero/54bcdb63fab2b188f3205d909fac27ac.png",
+      "https://cdn2.steamgriddb.com/hero/c8c91941c44ee273af84ef092c01a0b1.jpg",
+      "https://cdn2.steamgriddb.com/hero/a70ef651f1086ff9a0a988e4ed93069a.png",
+      "https://cdn2.steamgriddb.com/hero/ae3957e98c48990c5f6448c1db3a0627.png",
+      "https://cdn2.steamgriddb.com/hero/e21c3b94456b475b40cd245bd090ebc8.png"
+    ],
+    "releaseYear": 1988,
+    "rating": 89,
+    "platforms": [
+      "Arcade",
+      "Nintendo 3DS",
+      "Wii",
+      "Family Computer",
+      "Wii U",
+      "Nintendo Entertainment System"
+    ],
+    "genres": [
+      "Platform",
+      "Adventure"
+    ]
+  },
+  {
     "id": 135243,
     "name": "It Takes Two",
     "posters": [
@@ -2052,37 +2083,6 @@
     "genres": [
       "Platform",
       "Puzzle",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 1068,
-    "name": "Super Mario Bros. 3",
-    "posters": [
-      "data/covers/1068.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/07e1cd7dca89a1678042477183b7ac3f.png",
-      "https://cdn2.steamgriddb.com/hero/986b701d5b9bb1e34b79d0266dc18c7d.png",
-      "https://cdn2.steamgriddb.com/hero/d15e02b2d502871eba5f71999008e026.jpg",
-      "https://cdn2.steamgriddb.com/hero/54bcdb63fab2b188f3205d909fac27ac.png",
-      "https://cdn2.steamgriddb.com/hero/c8c91941c44ee273af84ef092c01a0b1.jpg",
-      "https://cdn2.steamgriddb.com/hero/a70ef651f1086ff9a0a988e4ed93069a.png",
-      "https://cdn2.steamgriddb.com/hero/ae3957e98c48990c5f6448c1db3a0627.png",
-      "https://cdn2.steamgriddb.com/hero/e21c3b94456b475b40cd245bd090ebc8.png"
-    ],
-    "releaseYear": 1988,
-    "rating": 89,
-    "platforms": [
-      "Arcade",
-      "Nintendo 3DS",
-      "Wii",
-      "Family Computer",
-      "Wii U",
-      "Nintendo Entertainment System"
-    ],
-    "genres": [
-      "Platform",
       "Adventure"
     ]
   },
@@ -2375,6 +2375,33 @@
     ]
   },
   {
+    "id": 2207,
+    "name": "Shadow of the Colossus",
+    "posters": [
+      "data/covers/2207.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/4c27cea8526af8cfee3be5e183ac9605.png",
+      "https://cdn2.steamgriddb.com/hero/52c7db6d13b39481b134729cf341a3db.png",
+      "https://cdn2.steamgriddb.com/hero/24c301e049a2077855d3e37ba719b09d.png",
+      "https://cdn2.steamgriddb.com/hero/f7ba5748e6bc21c3df7d9aa0a40168df.png",
+      "https://cdn2.steamgriddb.com/hero/3cfdef4f1447147029268a257d131552.png",
+      "https://cdn2.steamgriddb.com/hero/8fe4779ca30f6436a2fb4596e16b38fa.png",
+      "https://cdn2.steamgriddb.com/hero/21cf1e2c7605ae77ececeed18a7e2c96.png",
+      "https://cdn2.steamgriddb.com/hero/f9d7a3db99e0ce3becd216c9e776b691.jpg"
+    ],
+    "releaseYear": 2005,
+    "rating": 89,
+    "platforms": [
+      "PlayStation 2"
+    ],
+    "genres": [
+      "Platform",
+      "Puzzle",
+      "Adventure"
+    ]
+  },
+  {
     "id": 1074,
     "name": "Super Mario 64",
     "posters": [
@@ -2399,33 +2426,6 @@
     ],
     "genres": [
       "Platform",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 2207,
-    "name": "Shadow of the Colossus",
-    "posters": [
-      "data/covers/2207.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/4c27cea8526af8cfee3be5e183ac9605.png",
-      "https://cdn2.steamgriddb.com/hero/52c7db6d13b39481b134729cf341a3db.png",
-      "https://cdn2.steamgriddb.com/hero/24c301e049a2077855d3e37ba719b09d.png",
-      "https://cdn2.steamgriddb.com/hero/f7ba5748e6bc21c3df7d9aa0a40168df.png",
-      "https://cdn2.steamgriddb.com/hero/3cfdef4f1447147029268a257d131552.png",
-      "https://cdn2.steamgriddb.com/hero/8fe4779ca30f6436a2fb4596e16b38fa.png",
-      "https://cdn2.steamgriddb.com/hero/21cf1e2c7605ae77ececeed18a7e2c96.png",
-      "https://cdn2.steamgriddb.com/hero/f9d7a3db99e0ce3becd216c9e776b691.jpg"
-    ],
-    "releaseYear": 2005,
-    "rating": 89,
-    "platforms": [
-      "PlayStation 2"
-    ],
-    "genres": [
-      "Platform",
-      "Puzzle",
       "Adventure"
     ]
   },
@@ -3077,8 +3077,8 @@
       "https://cdn2.steamgriddb.com/hero/88340338e0a0cdc54350c05cf056dca8.jpg",
       "https://cdn2.steamgriddb.com/hero/828c3938b662961ed8f775ed638b97f2.jpg",
       "https://cdn2.steamgriddb.com/hero/36452e720502e4da486d2f9f6b48a7bb.png",
-      "https://cdn2.steamgriddb.com/hero/b240fb15f8b659382a50a073c1debe7e.png",
-      "https://cdn2.steamgriddb.com/hero/cd4b50ab49625f1d0772ed8ae94ae321.png"
+      "https://cdn2.steamgriddb.com/hero/93d3d9ce82833d79305f60a97d2f7183.png",
+      "https://cdn2.steamgriddb.com/hero/b5a3bfc11dc90c5f5ba71d0355fc7da2.png"
     ],
     "releaseYear": 2012,
     "rating": 88,
@@ -3854,8 +3854,8 @@
       "https://cdn2.steamgriddb.com/hero/0f96613235062963ccde717b18f97592.png",
       "https://cdn2.steamgriddb.com/hero/569f41bcad1ac690cf4663f39a853256.png",
       "https://cdn2.steamgriddb.com/hero/b7892fb3c2f009c65f686f6355c895b5.png",
-      "https://cdn2.steamgriddb.com/hero/5951577169c158f8f40a9fed2df41afe.png",
-      "https://cdn2.steamgriddb.com/hero/34cca4d1625d4c1a28a22e96a0ca95fd.png"
+      "https://cdn2.steamgriddb.com/hero/53382bd6140b80a0b1a06cf99d71c372.png",
+      "https://cdn2.steamgriddb.com/hero/5951577169c158f8f40a9fed2df41afe.png"
     ],
     "releaseYear": 2000,
     "rating": 86,
@@ -6066,9 +6066,9 @@
       "https://cdn2.steamgriddb.com/hero/9135d68826af2d0802c03554d508446e.png",
       "https://cdn2.steamgriddb.com/hero/44d21d4798f1f11195763debdaeba60b.png",
       "https://cdn2.steamgriddb.com/hero/40ab5635391fe4ae6b3211682dd4178c.png",
-      "https://cdn2.steamgriddb.com/hero/feadb715e3aa62d1cf5b7bffd46d63c0.png",
-      "https://cdn2.steamgriddb.com/hero/638ac49074f855c235e5f70dd3c1f9fd.png",
-      "https://cdn2.steamgriddb.com/hero/53ab50eafebbfa3920c5521d09e88d31.png"
+      "https://cdn2.steamgriddb.com/hero/5f37798989e5b4aa64159baed7080e70.jpg",
+      "https://cdn2.steamgriddb.com/hero/ad5db9981241fe83f12c5d3e7f29e2f3.jpg",
+      "https://cdn2.steamgriddb.com/hero/2dce9cf5e2608c6d1df1ccbf7d180a19.jpg"
     ],
     "releaseYear": 2023,
     "rating": 87,
@@ -6905,28 +6905,20 @@
     ]
   },
   {
-    "id": 331212,
-    "name": "Tides of Annihilation",
+    "id": 25905,
+    "name": "Winds of Revenge",
     "posters": [
-      "data/covers/331212.jpg"
+      "data/covers/25905.jpg"
     ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/8a2d814c49d0f4a6a7b8cc84769944d3.png",
-      "https://cdn2.steamgriddb.com/hero/c3242232f2f02854bfa78c9a65786b76.png",
-      "https://cdn2.steamgriddb.com/hero/9dc4995116b45bc9d97bafbe2a533a14.png",
-      "https://cdn2.steamgriddb.com/hero/6aecc5688439e968309784eb983bad6e.png"
-    ],
-    "releaseYear": 0,
+    "heroes": [],
+    "releaseYear": 2016,
     "rating": 0,
     "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
+      "PC (Microsoft Windows)"
     ],
     "genres": [
-      "Role-playing (RPG)",
-      "Hack and slash/Beat 'em up",
-      "Adventure"
+      "Puzzle",
+      "Arcade"
     ]
   },
   {
@@ -6950,6 +6942,31 @@
     "genres": [
       "Platform",
       "Puzzle",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 331212,
+    "name": "Tides of Annihilation",
+    "posters": [
+      "data/covers/331212.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/8a2d814c49d0f4a6a7b8cc84769944d3.png",
+      "https://cdn2.steamgriddb.com/hero/c3242232f2f02854bfa78c9a65786b76.png",
+      "https://cdn2.steamgriddb.com/hero/9dc4995116b45bc9d97bafbe2a533a14.png",
+      "https://cdn2.steamgriddb.com/hero/6aecc5688439e968309784eb983bad6e.png"
+    ],
+    "releaseYear": 0,
+    "rating": 0,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Hack and slash/Beat 'em up",
       "Adventure"
     ]
   },
@@ -7170,6 +7187,30 @@
     ]
   },
   {
+    "id": 216315,
+    "name": "Marvel 1943: Rise of Hydra",
+    "posters": [
+      "data/covers/216315.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/1ab60b5e8bd4eac8a7537abb5936aadc.jpg",
+      "https://cdn2.steamgriddb.com/hero/708d7246fd34ae11f2eeca41d4e698bd.png",
+      "https://cdn2.steamgriddb.com/hero/7da9fd85999f583e3906f99a3ee58911.jpg",
+      "https://cdn2.steamgriddb.com/hero/c632445303b629972c5cfb37e873df9c.jpg",
+      "https://cdn2.steamgriddb.com/hero/13e2a99ea53e73d8a2c2437f612362fa.jpg"
+    ],
+    "releaseYear": 2027,
+    "rating": 0,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  {
     "id": 28029,
     "name": "Half-Life 3",
     "posters": [
@@ -7209,30 +7250,6 @@
     "releaseYear": 0,
     "rating": 0,
     "platforms": [
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Adventure"
-    ]
-  },
-  {
-    "id": 216315,
-    "name": "Marvel 1943: Rise of Hydra",
-    "posters": [
-      "data/covers/216315.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/1ab60b5e8bd4eac8a7537abb5936aadc.jpg",
-      "https://cdn2.steamgriddb.com/hero/708d7246fd34ae11f2eeca41d4e698bd.png",
-      "https://cdn2.steamgriddb.com/hero/7da9fd85999f583e3906f99a3ee58911.jpg",
-      "https://cdn2.steamgriddb.com/hero/c632445303b629972c5cfb37e873df9c.jpg",
-      "https://cdn2.steamgriddb.com/hero/13e2a99ea53e73d8a2c2437f612362fa.jpg"
-    ],
-    "releaseYear": 2027,
-    "rating": 0,
-    "platforms": [
-      "Xbox Series X|S",
       "PC (Microsoft Windows)",
       "PlayStation 5"
     ],
