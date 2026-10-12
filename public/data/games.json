@@ -3647,9 +3647,9 @@
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/163f02c08eeb3462cf1be9be349d02df.png",
       "https://cdn2.steamgriddb.com/hero/3b796bac4dc055a7358cd28ae118eb09.jpg",
+      "https://cdn2.steamgriddb.com/hero/b98ee86215125aa5b01966e7891a4cf7.png",
       "https://cdn2.steamgriddb.com/hero/e8258e5140317ff36c7f8225a3bf9590.png",
       "https://cdn2.steamgriddb.com/hero/b1553ff2787f1055807a8058fe1f8d99.png",
-      "https://cdn2.steamgriddb.com/hero/b98ee86215125aa5b01966e7891a4cf7.png",
       "https://cdn2.steamgriddb.com/hero/d5e714549e9937f437d4fc2edf35b8fb.jpg",
       "https://cdn2.steamgriddb.com/hero/c4539e880b908ad22a401caf9046d152.jpg",
       "https://cdn2.steamgriddb.com/hero/6151caaabf80ba5d7dc9e9e774175ab7.png"
@@ -4774,10 +4774,10 @@
       "https://cdn2.steamgriddb.com/hero/e13147c18aa5e4aa4cf75185d01cf826.png",
       "https://cdn2.steamgriddb.com/hero/d60f2d5d05b4c46d470d5cbd5d1fb252.jpg",
       "https://cdn2.steamgriddb.com/hero/991e430c00831fcaec1087462d3223fa.png",
+      "https://cdn2.steamgriddb.com/hero/09ea8690a859084c80f1fbbbf38766e8.jpg",
       "https://cdn2.steamgriddb.com/hero/dd1ea9382335816da0932d10b0503922.jpg",
       "https://cdn2.steamgriddb.com/hero/d53a683ae5daa34edb84c7607c92d6a1.jpg",
       "https://cdn2.steamgriddb.com/hero/2b61040f0e5261b463059d8827acf1fa.png",
-      "https://cdn2.steamgriddb.com/hero/09ea8690a859084c80f1fbbbf38766e8.jpg",
       "https://cdn2.steamgriddb.com/hero/2a19cad46feca9eab2214e58bbf3c02e.png"
     ],
     "releaseYear": 2023,
@@ -4963,7 +4963,7 @@
       "https://cdn2.steamgriddb.com/hero/48b35669cef82355751604740a9211de.png",
       "https://cdn2.steamgriddb.com/hero/a6efdcdac561cf7cac3eb26913604236.jpg",
       "https://cdn2.steamgriddb.com/hero/024837d0351c168899a8474e4a899114.jpg",
-      "https://cdn2.steamgriddb.com/hero/3248de86531b86b0c34ca89a7c461b7f.jpg"
+      "https://cdn2.steamgriddb.com/hero/cf5810dc724a17fc6040a2b1b903bbe6.jpg"
     ],
     "releaseYear": 2024,
     "rating": 90,
@@ -5095,6 +5095,36 @@
     ]
   },
   {
+    "id": 133236,
+    "name": "Final Fantasy VII Rebirth",
+    "posters": [
+      "data/covers/133236.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/9b52e28bd18879106a0cf881d6eabafc.png",
+      "https://cdn2.steamgriddb.com/hero/a504fbf343c4f3f5fb41e379352651f0.png",
+      "https://cdn2.steamgriddb.com/hero/88e728cf57f3e639e24e6df5f1fb3789.png",
+      "https://cdn2.steamgriddb.com/hero/2426af4e20a955e5b25da3ae3d881121.jpg",
+      "https://cdn2.steamgriddb.com/hero/622135f78082662413b50aaecc376f11.jpg",
+      "https://cdn2.steamgriddb.com/hero/542a2ef216fcbc3348128461e2913137.jpg",
+      "https://cdn2.steamgriddb.com/hero/f3f0ada920b52da74bd97f8facc674eb.png",
+      "https://cdn2.steamgriddb.com/hero/821a89b05f1cae4aef684684a279e66e.png"
+    ],
+    "releaseYear": 2024,
+    "rating": 89,
+    "platforms": [
+      "Xbox Series X|S",
+      "Nintendo Switch 2",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Strategy",
+      "Adventure"
+    ]
+  },
+  {
     "id": 235846,
     "name": "Halls of Torment",
     "posters": [
@@ -5123,36 +5153,6 @@
     "genres": [
       "Role-playing (RPG)",
       "Indie"
-    ]
-  },
-  {
-    "id": 133236,
-    "name": "Final Fantasy VII Rebirth",
-    "posters": [
-      "data/covers/133236.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/9b52e28bd18879106a0cf881d6eabafc.png",
-      "https://cdn2.steamgriddb.com/hero/a504fbf343c4f3f5fb41e379352651f0.png",
-      "https://cdn2.steamgriddb.com/hero/88e728cf57f3e639e24e6df5f1fb3789.png",
-      "https://cdn2.steamgriddb.com/hero/2426af4e20a955e5b25da3ae3d881121.jpg",
-      "https://cdn2.steamgriddb.com/hero/622135f78082662413b50aaecc376f11.jpg",
-      "https://cdn2.steamgriddb.com/hero/542a2ef216fcbc3348128461e2913137.jpg",
-      "https://cdn2.steamgriddb.com/hero/f3f0ada920b52da74bd97f8facc674eb.png",
-      "https://cdn2.steamgriddb.com/hero/821a89b05f1cae4aef684684a279e66e.png"
-    ],
-    "releaseYear": 2024,
-    "rating": 89,
-    "platforms": [
-      "Xbox Series X|S",
-      "Nintendo Switch 2",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Strategy",
-      "Adventure"
     ]
   },
   {
@@ -6391,36 +6391,6 @@
     ]
   },
   {
-    "id": 348330,
-    "name": "Forza Horizon 6",
-    "posters": [
-      "data/covers/348330.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/d6b3a54d189bc6cd921f6581a7d41b17.png",
-      "https://cdn2.steamgriddb.com/hero/56540abcdb375502c6c871b8f141a40b.jpg",
-      "https://cdn2.steamgriddb.com/hero/07561478adc8ca51c9646960a5508186.png",
-      "https://cdn2.steamgriddb.com/hero/35b0b52c6892699f86129ef791ed11c2.png",
-      "https://cdn2.steamgriddb.com/hero/bcb39d95c667faa134415186c0e8fbdf.png",
-      "https://cdn2.steamgriddb.com/hero/2adccb7d8f9e85dfbf1d53f00e96d522.png",
-      "https://cdn2.steamgriddb.com/hero/5fc13b57f3008aa88d051d65f1b0f429.png",
-      "https://cdn2.steamgriddb.com/hero/34ed4d3dbc2ed9136932b8d350382dab.png"
-    ],
-    "releaseYear": 2026,
-    "rating": 86,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Racing",
-      "Simulator",
-      "Sport",
-      "Arcade"
-    ]
-  },
-  {
     "id": 122238,
     "name": "Xenoblade Chronicles: Definitive Edition",
     "posters": [
@@ -6474,6 +6444,36 @@
       "Puzzle",
       "Adventure",
       "Indie"
+    ]
+  },
+  {
+    "id": 348330,
+    "name": "Forza Horizon 6",
+    "posters": [
+      "data/covers/348330.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/d6b3a54d189bc6cd921f6581a7d41b17.png",
+      "https://cdn2.steamgriddb.com/hero/56540abcdb375502c6c871b8f141a40b.jpg",
+      "https://cdn2.steamgriddb.com/hero/07561478adc8ca51c9646960a5508186.png",
+      "https://cdn2.steamgriddb.com/hero/35b0b52c6892699f86129ef791ed11c2.png",
+      "https://cdn2.steamgriddb.com/hero/bcb39d95c667faa134415186c0e8fbdf.png",
+      "https://cdn2.steamgriddb.com/hero/2adccb7d8f9e85dfbf1d53f00e96d522.png",
+      "https://cdn2.steamgriddb.com/hero/5fc13b57f3008aa88d051d65f1b0f429.png",
+      "https://cdn2.steamgriddb.com/hero/34ed4d3dbc2ed9136932b8d350382dab.png"
+    ],
+    "releaseYear": 2026,
+    "rating": 86,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Racing",
+      "Simulator",
+      "Sport",
+      "Arcade"
     ]
   },
   {
@@ -6735,6 +6735,26 @@
     "genres": [
       "Role-playing (RPG)",
       "Adventure"
+    ]
+  },
+  {
+    "id": 301298,
+    "name": "Deadlock",
+    "posters": [
+      "data/covers/301298.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/090961bf55e2f704a3ffe99fd0ad209b.jpg"
+    ],
+    "releaseYear": 0,
+    "rating": 0,
+    "platforms": [
+      "PC (Microsoft Windows)"
+    ],
+    "genres": [
+      "Shooter",
+      "Strategy",
+      "MOBA"
     ]
   },
   {
@@ -7078,25 +7098,6 @@
     ]
   },
   {
-    "id": 228527,
-    "name": "Judas",
-    "posters": [
-      "data/covers/228527.jpg"
-    ],
-    "heroes": [],
-    "releaseYear": 0,
-    "rating": 0,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Shooter",
-      "Adventure"
-    ]
-  },
-  {
     "id": 252840,
     "name": "Clockwork Revolution",
     "posters": [
@@ -7113,6 +7114,25 @@
     ],
     "genres": [
       "Role-playing (RPG)"
+    ]
+  },
+  {
+    "id": 228527,
+    "name": "Judas",
+    "posters": [
+      "data/covers/228527.jpg"
+    ],
+    "heroes": [],
+    "releaseYear": 0,
+    "rating": 0,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Shooter",
+      "Adventure"
     ]
   },
   {
