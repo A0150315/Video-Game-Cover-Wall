@@ -358,8 +358,8 @@
     ],
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/7048d1540fa99464f489f1d11db688b1.png",
-      "https://cdn2.steamgriddb.com/hero/419133b57ea628b183f73a28c5ad7a8c.png",
       "https://cdn2.steamgriddb.com/hero/6d6c5b7c73b3a57198402741c1e92df5.png",
+      "https://cdn2.steamgriddb.com/hero/419133b57ea628b183f73a28c5ad7a8c.png",
       "https://cdn2.steamgriddb.com/hero/892a01fa3246d61bc3cd6d16f01b9d22.png",
       "https://cdn2.steamgriddb.com/hero/aa23a647b581371fb0c5803263da1345.png",
       "https://cdn2.steamgriddb.com/hero/c2780f04a3434b942146ae546828a32c.jpg",
@@ -1375,32 +1375,6 @@
     ]
   },
   {
-    "id": 3349,
-    "name": "Paper Mario: The Thousand-Year Door",
-    "posters": [
-      "data/covers/3349.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/3e159a2c6c50b5f1da0b308352b8c616.png",
-      "https://cdn2.steamgriddb.com/hero/918317b57931b6b7a7d29490fe5ec9f9.png",
-      "https://cdn2.steamgriddb.com/hero/4a90df0803c61aab5c319444f910371b.png",
-      "https://cdn2.steamgriddb.com/hero/68aea522760347926520bfa959f15240.png",
-      "https://cdn2.steamgriddb.com/hero/d403137434343677b98efc88cbd5493d.png",
-      "https://cdn2.steamgriddb.com/hero/8ca2ddca9fd5b429152341f9c56cde20.png",
-      "https://cdn2.steamgriddb.com/hero/39b34dd98de3412549f7fb1572ff23d5.png",
-      "https://cdn2.steamgriddb.com/hero/e687877627a117258885a5231ea3cc58.png"
-    ],
-    "releaseYear": 2004,
-    "rating": 91,
-    "platforms": [
-      "Nintendo GameCube"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Adventure"
-    ]
-  },
-  {
     "id": 1036,
     "name": "The Legend of Zelda: Twilight Princess",
     "posters": [
@@ -1423,6 +1397,32 @@
     ],
     "genres": [
       "Puzzle",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 3349,
+    "name": "Paper Mario: The Thousand-Year Door",
+    "posters": [
+      "data/covers/3349.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/3e159a2c6c50b5f1da0b308352b8c616.png",
+      "https://cdn2.steamgriddb.com/hero/918317b57931b6b7a7d29490fe5ec9f9.png",
+      "https://cdn2.steamgriddb.com/hero/4a90df0803c61aab5c319444f910371b.png",
+      "https://cdn2.steamgriddb.com/hero/68aea522760347926520bfa959f15240.png",
+      "https://cdn2.steamgriddb.com/hero/d403137434343677b98efc88cbd5493d.png",
+      "https://cdn2.steamgriddb.com/hero/8ca2ddca9fd5b429152341f9c56cde20.png",
+      "https://cdn2.steamgriddb.com/hero/39b34dd98de3412549f7fb1572ff23d5.png",
+      "https://cdn2.steamgriddb.com/hero/e687877627a117258885a5231ea3cc58.png"
+    ],
+    "releaseYear": 2004,
+    "rating": 91,
+    "platforms": [
+      "Nintendo GameCube"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
       "Adventure"
     ]
   },
@@ -1486,35 +1486,6 @@
     ]
   },
   {
-    "id": 434,
-    "name": "Red Dead Redemption",
-    "posters": [
-      "data/covers/434.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/234a44317716c5c8d0ee1b2ea49a8960.png",
-      "https://cdn2.steamgriddb.com/hero/e074a2975740cdf3948cfc063892260e.png",
-      "https://cdn2.steamgriddb.com/hero/7f2b2f3993942d8fffe0959b532816ea.png",
-      "https://cdn2.steamgriddb.com/hero/cf8d01ec24a6c47b5790cba5d83aa8c0.jpg",
-      "https://cdn2.steamgriddb.com/hero/12e1b435e5e53888e787d22c1e8d262d.jpg",
-      "https://cdn2.steamgriddb.com/hero/c04049647770b1cd061ebf1194b9b969.png",
-      "https://cdn2.steamgriddb.com/hero/8aa903e40952a84bd7177ad2daeb5962.jpg",
-      "https://cdn2.steamgriddb.com/hero/36a232a97f692e7f32ad5e8d2acad007.png"
-    ],
-    "releaseYear": 2010,
-    "rating": 91,
-    "platforms": [
-      "PlayStation 3",
-      "PC (Microsoft Windows)",
-      "Xbox 360"
-    ],
-    "genres": [
-      "Shooter",
-      "Role-playing (RPG)",
-      "Adventure"
-    ]
-  },
-  {
     "id": 364,
     "name": "Heroes of Might and Magic III: The Restoration of Erathia",
     "posters": [
@@ -1567,6 +1538,35 @@
     ],
     "genres": [
       "Puzzle",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 434,
+    "name": "Red Dead Redemption",
+    "posters": [
+      "data/covers/434.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/234a44317716c5c8d0ee1b2ea49a8960.png",
+      "https://cdn2.steamgriddb.com/hero/e074a2975740cdf3948cfc063892260e.png",
+      "https://cdn2.steamgriddb.com/hero/7f2b2f3993942d8fffe0959b532816ea.png",
+      "https://cdn2.steamgriddb.com/hero/cf8d01ec24a6c47b5790cba5d83aa8c0.jpg",
+      "https://cdn2.steamgriddb.com/hero/12e1b435e5e53888e787d22c1e8d262d.jpg",
+      "https://cdn2.steamgriddb.com/hero/c04049647770b1cd061ebf1194b9b969.png",
+      "https://cdn2.steamgriddb.com/hero/8aa903e40952a84bd7177ad2daeb5962.jpg",
+      "https://cdn2.steamgriddb.com/hero/36a232a97f692e7f32ad5e8d2acad007.png"
+    ],
+    "releaseYear": 2010,
+    "rating": 90,
+    "platforms": [
+      "PlayStation 3",
+      "PC (Microsoft Windows)",
+      "Xbox 360"
+    ],
+    "genres": [
+      "Shooter",
+      "Role-playing (RPG)",
       "Adventure"
     ]
   },
