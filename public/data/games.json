@@ -261,7 +261,8 @@
     "genres": [
       "Role-playing (RPG)",
       "Strategy",
-      "Turn-based strategy (TBS)"
+      "Turn-based strategy (TBS)",
+      "Adventure"
     ]
   },
   {
@@ -322,6 +323,32 @@
     ]
   },
   {
+    "id": 119388,
+    "name": "The Legend of Zelda: Tears of the Kingdom",
+    "posters": [
+      "data/covers/119388.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/7048d1540fa99464f489f1d11db688b1.png",
+      "https://cdn2.steamgriddb.com/hero/6d6c5b7c73b3a57198402741c1e92df5.png",
+      "https://cdn2.steamgriddb.com/hero/419133b57ea628b183f73a28c5ad7a8c.png",
+      "https://cdn2.steamgriddb.com/hero/892a01fa3246d61bc3cd6d16f01b9d22.png",
+      "https://cdn2.steamgriddb.com/hero/aa23a647b581371fb0c5803263da1345.png",
+      "https://cdn2.steamgriddb.com/hero/c2780f04a3434b942146ae546828a32c.jpg",
+      "https://cdn2.steamgriddb.com/hero/b61248fcbcb76b463231d88a39b5d4cb.jpg",
+      "https://cdn2.steamgriddb.com/hero/8646c48a45fc958d20550a893b2e835d.jpg"
+    ],
+    "releaseYear": 2023,
+    "rating": 94,
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Puzzle",
+      "Adventure"
+    ]
+  },
+  {
     "id": 19560,
     "name": "God of War",
     "posters": [
@@ -347,32 +374,6 @@
     "genres": [
       "Role-playing (RPG)",
       "Hack and slash/Beat 'em up",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 119388,
-    "name": "The Legend of Zelda: Tears of the Kingdom",
-    "posters": [
-      "data/covers/119388.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/7048d1540fa99464f489f1d11db688b1.png",
-      "https://cdn2.steamgriddb.com/hero/6d6c5b7c73b3a57198402741c1e92df5.png",
-      "https://cdn2.steamgriddb.com/hero/419133b57ea628b183f73a28c5ad7a8c.png",
-      "https://cdn2.steamgriddb.com/hero/892a01fa3246d61bc3cd6d16f01b9d22.png",
-      "https://cdn2.steamgriddb.com/hero/aa23a647b581371fb0c5803263da1345.png",
-      "https://cdn2.steamgriddb.com/hero/c2780f04a3434b942146ae546828a32c.jpg",
-      "https://cdn2.steamgriddb.com/hero/b61248fcbcb76b463231d88a39b5d4cb.jpg",
-      "https://cdn2.steamgriddb.com/hero/8646c48a45fc958d20550a893b2e835d.jpg"
-    ],
-    "releaseYear": 2023,
-    "rating": 94,
-    "platforms": [
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Puzzle",
       "Adventure"
     ]
   },
@@ -545,6 +546,33 @@
     ]
   },
   {
+    "id": 26192,
+    "name": "The Last of Us Part II",
+    "posters": [
+      "data/covers/26192.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/43b2dd1c93748297cfbbea4d31247641.png",
+      "https://cdn2.steamgriddb.com/hero/a23156abfd4a114c35b930b836064e8b.png",
+      "https://cdn2.steamgriddb.com/hero/5737cbbf29e7e1bde4520253e920cc26.png",
+      "https://cdn2.steamgriddb.com/hero/481d462e46c2ab976294271a175b8929.png",
+      "https://cdn2.steamgriddb.com/hero/0e2c2cfc6030399c82c70cad3c81c290.png",
+      "https://cdn2.steamgriddb.com/hero/77772713a7d7e02b10ca9bd90e4f6a31.png",
+      "https://cdn2.steamgriddb.com/hero/9877c66299c5b98d81fed12827d87e4b.png",
+      "https://cdn2.steamgriddb.com/hero/5b465c13fd8cac3b9baf4af74bc0069a.png"
+    ],
+    "releaseYear": 2020,
+    "rating": 93,
+    "platforms": [
+      "PlayStation 4",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Shooter",
+      "Adventure"
+    ]
+  },
+  {
     "id": 26758,
     "name": "Super Mario Odyssey",
     "posters": [
@@ -629,33 +657,6 @@
     ],
     "genres": [
       "Role-playing (RPG)",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 26192,
-    "name": "The Last of Us Part II",
-    "posters": [
-      "data/covers/26192.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/43b2dd1c93748297cfbbea4d31247641.png",
-      "https://cdn2.steamgriddb.com/hero/a23156abfd4a114c35b930b836064e8b.png",
-      "https://cdn2.steamgriddb.com/hero/5737cbbf29e7e1bde4520253e920cc26.png",
-      "https://cdn2.steamgriddb.com/hero/481d462e46c2ab976294271a175b8929.png",
-      "https://cdn2.steamgriddb.com/hero/0e2c2cfc6030399c82c70cad3c81c290.png",
-      "https://cdn2.steamgriddb.com/hero/77772713a7d7e02b10ca9bd90e4f6a31.png",
-      "https://cdn2.steamgriddb.com/hero/9877c66299c5b98d81fed12827d87e4b.png",
-      "https://cdn2.steamgriddb.com/hero/5b465c13fd8cac3b9baf4af74bc0069a.png"
-    ],
-    "releaseYear": 2020,
-    "rating": 93,
-    "platforms": [
-      "PlayStation 4",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Shooter",
       "Adventure"
     ]
   },
@@ -1877,36 +1878,6 @@
     ]
   },
   {
-    "id": 305152,
-    "name": "Clair Obscur: Expedition 33",
-    "posters": [
-      "data/covers/305152.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/905372ea814051dfb31429fe44e18cab.png",
-      "https://cdn2.steamgriddb.com/hero/42aae50b505bb0adbedb1f8f8bbd6378.jpg",
-      "https://cdn2.steamgriddb.com/hero/d2d195657240f493374e95e2b75cc8cf.png",
-      "https://cdn2.steamgriddb.com/hero/3bfe11904d16672c7c87e30d58894339.png",
-      "https://cdn2.steamgriddb.com/hero/90deff4b32c134f32e3f0d7e8a2aad92.png",
-      "https://cdn2.steamgriddb.com/hero/143f8d687ce439ff0e5dce08c4c92c89.png",
-      "https://cdn2.steamgriddb.com/hero/351264651d762713a247d997f6eae551.png",
-      "https://cdn2.steamgriddb.com/hero/f4fcdae47e9d745ec7b03083870361f1.png"
-    ],
-    "releaseYear": 2025,
-    "rating": 89,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Turn-based strategy (TBS)",
-      "Adventure",
-      "Indie"
-    ]
-  },
-  {
     "id": 538,
     "name": "BioShock Infinite",
     "posters": [
@@ -2020,6 +1991,36 @@
     ],
     "genres": [
       "Role-playing (RPG)"
+    ]
+  },
+  {
+    "id": 305152,
+    "name": "Clair Obscur: Expedition 33",
+    "posters": [
+      "data/covers/305152.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/905372ea814051dfb31429fe44e18cab.png",
+      "https://cdn2.steamgriddb.com/hero/42aae50b505bb0adbedb1f8f8bbd6378.jpg",
+      "https://cdn2.steamgriddb.com/hero/d2d195657240f493374e95e2b75cc8cf.png",
+      "https://cdn2.steamgriddb.com/hero/3bfe11904d16672c7c87e30d58894339.png",
+      "https://cdn2.steamgriddb.com/hero/90deff4b32c134f32e3f0d7e8a2aad92.png",
+      "https://cdn2.steamgriddb.com/hero/143f8d687ce439ff0e5dce08c4c92c89.png",
+      "https://cdn2.steamgriddb.com/hero/351264651d762713a247d997f6eae551.png",
+      "https://cdn2.steamgriddb.com/hero/f4fcdae47e9d745ec7b03083870361f1.png"
+    ],
+    "releaseYear": 2025,
+    "rating": 89,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Turn-based strategy (TBS)",
+      "Adventure",
+      "Indie"
     ]
   },
   {
@@ -2599,32 +2600,6 @@
     ]
   },
   {
-    "id": 19565,
-    "name": "Marvel's Spider-Man",
-    "posters": [
-      "data/covers/19565.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/729b05a43b36330ad8c0d7d5216247c0.png",
-      "https://cdn2.steamgriddb.com/hero/e72d760a8952d3ae95a15f40cf8f56d3.jpg",
-      "https://cdn2.steamgriddb.com/hero/cc0e1713aa0e2bcba6f5edf1436b81ef.png",
-      "https://cdn2.steamgriddb.com/hero/a7a450dcea5ea8c5782e00d67838c441.png",
-      "https://cdn2.steamgriddb.com/hero/9dd89c0343aeef155fbe39b0b956d64f.jpg",
-      "https://cdn2.steamgriddb.com/hero/6072cd1424d62d9c33c6a7a82cacd40e.png",
-      "https://cdn2.steamgriddb.com/hero/fd512441a1a791770a6fa573d688bff5.png",
-      "https://cdn2.steamgriddb.com/hero/7d6c7d95a1e5e861c54d20002585a809.jpg"
-    ],
-    "releaseYear": 2018,
-    "rating": 88,
-    "platforms": [
-      "PlayStation 4"
-    ],
-    "genres": [
-      "Hack and slash/Beat 'em up",
-      "Adventure"
-    ]
-  },
-  {
     "id": 36926,
     "name": "Monster Hunter: World",
     "posters": [
@@ -2649,6 +2624,32 @@
     ],
     "genres": [
       "Role-playing (RPG)",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 19565,
+    "name": "Marvel's Spider-Man",
+    "posters": [
+      "data/covers/19565.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/729b05a43b36330ad8c0d7d5216247c0.png",
+      "https://cdn2.steamgriddb.com/hero/e72d760a8952d3ae95a15f40cf8f56d3.jpg",
+      "https://cdn2.steamgriddb.com/hero/cc0e1713aa0e2bcba6f5edf1436b81ef.png",
+      "https://cdn2.steamgriddb.com/hero/a7a450dcea5ea8c5782e00d67838c441.png",
+      "https://cdn2.steamgriddb.com/hero/9dd89c0343aeef155fbe39b0b956d64f.jpg",
+      "https://cdn2.steamgriddb.com/hero/6072cd1424d62d9c33c6a7a82cacd40e.png",
+      "https://cdn2.steamgriddb.com/hero/fd512441a1a791770a6fa573d688bff5.png",
+      "https://cdn2.steamgriddb.com/hero/7d6c7d95a1e5e861c54d20002585a809.jpg"
+    ],
+    "releaseYear": 2018,
+    "rating": 88,
+    "platforms": [
+      "PlayStation 4"
+    ],
+    "genres": [
+      "Hack and slash/Beat 'em up",
       "Adventure"
     ]
   },
@@ -3763,8 +3764,8 @@
       "https://cdn2.steamgriddb.com/hero/bd368b0c08f20e87fe463f6b0dd60835.png",
       "https://cdn2.steamgriddb.com/hero/751fc51937a2e0d0e80feb7092dff4c3.jpg",
       "https://cdn2.steamgriddb.com/hero/9657c1fffd38824e5ab0472e022e577e.jpg",
-      "https://cdn2.steamgriddb.com/hero/7f8b4252d922cf4bbb8100ff6cc4bf7d.png",
-      "https://cdn2.steamgriddb.com/hero/0ceec66c0a5cce97620b5917dcc49798.png"
+      "https://cdn2.steamgriddb.com/hero/a977835ce83c3ad285aebef5309a4ac6.png",
+      "https://cdn2.steamgriddb.com/hero/7f8b4252d922cf4bbb8100ff6cc4bf7d.png"
     ],
     "releaseYear": 2004,
     "rating": 86,
@@ -3952,6 +3953,33 @@
     ]
   },
   {
+    "id": 7351,
+    "name": "Doom",
+    "posters": [
+      "data/covers/7351.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/442465f5282183631234848d916ce365.png",
+      "https://cdn2.steamgriddb.com/hero/4f1730a9b124eea813b992edebc06840.png",
+      "https://cdn2.steamgriddb.com/hero/64c26b2a2dcf068c49894bd07e0e6389.png",
+      "https://cdn2.steamgriddb.com/hero/93dd84d3f9b0cc34957a3d9166d2d75e.png",
+      "https://cdn2.steamgriddb.com/hero/adfb844d79ef55ba2b15584770a1c6f8.png",
+      "https://cdn2.steamgriddb.com/hero/3886c03149f77913ca3142ef7f40f1ce.png",
+      "https://cdn2.steamgriddb.com/hero/a32d7eeaae19821fd9ce317f3ce952a7.jpg",
+      "https://cdn2.steamgriddb.com/hero/08b90c2ebcce5d7f46176eb7c05af0ea.png"
+    ],
+    "releaseYear": 2016,
+    "rating": 86,
+    "platforms": [
+      "PlayStation 4",
+      "PC (Microsoft Windows)",
+      "Xbox One"
+    ],
+    "genres": [
+      "Shooter"
+    ]
+  },
+  {
     "id": 17447,
     "name": "Titanfall 2",
     "posters": [
@@ -3977,33 +4005,6 @@
     "genres": [
       "Shooter",
       "Adventure"
-    ]
-  },
-  {
-    "id": 7351,
-    "name": "Doom",
-    "posters": [
-      "data/covers/7351.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/442465f5282183631234848d916ce365.png",
-      "https://cdn2.steamgriddb.com/hero/4f1730a9b124eea813b992edebc06840.png",
-      "https://cdn2.steamgriddb.com/hero/64c26b2a2dcf068c49894bd07e0e6389.png",
-      "https://cdn2.steamgriddb.com/hero/93dd84d3f9b0cc34957a3d9166d2d75e.png",
-      "https://cdn2.steamgriddb.com/hero/adfb844d79ef55ba2b15584770a1c6f8.png",
-      "https://cdn2.steamgriddb.com/hero/3886c03149f77913ca3142ef7f40f1ce.png",
-      "https://cdn2.steamgriddb.com/hero/a32d7eeaae19821fd9ce317f3ce952a7.jpg",
-      "https://cdn2.steamgriddb.com/hero/08b90c2ebcce5d7f46176eb7c05af0ea.png"
-    ],
-    "releaseYear": 2016,
-    "rating": 86,
-    "platforms": [
-      "PlayStation 4",
-      "PC (Microsoft Windows)",
-      "Xbox One"
-    ],
-    "genres": [
-      "Shooter"
     ]
   },
   {
@@ -4793,36 +4794,6 @@
     ]
   },
   {
-    "id": 347668,
-    "name": "Resident Evil Requiem",
-    "posters": [
-      "data/covers/347668.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/2908a94a0c74238e4af35e845b0e28b0.png",
-      "https://cdn2.steamgriddb.com/hero/3ff84500afe8620c3bb534674503e049.jpg",
-      "https://cdn2.steamgriddb.com/hero/535d1ec83aa5a4aa7c2bfe6b407e2ad5.jpg",
-      "https://cdn2.steamgriddb.com/hero/e2c5a7c8f6dfff70b087d86eaeae1254.jpg",
-      "https://cdn2.steamgriddb.com/hero/dc23640934cc23782aba6c6058d6aca3.png",
-      "https://cdn2.steamgriddb.com/hero/adac3ab52816548eaad12812ffe86574.jpg",
-      "https://cdn2.steamgriddb.com/hero/1258e7898e0d685adf6b58d762e21ca4.png",
-      "https://cdn2.steamgriddb.com/hero/ca75cfd1b6c503a8c1bcfcf06dde7c54.png"
-    ],
-    "releaseYear": 2026,
-    "rating": 90,
-    "platforms": [
-      "Xbox Series X|S",
-      "Nintendo Switch 2",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Shooter",
-      "Puzzle",
-      "Adventure"
-    ]
-  },
-  {
     "id": 233571,
     "name": "Hitman World of Assassination",
     "posters": [
@@ -4855,6 +4826,36 @@
     "genres": [
       "Shooter",
       "Tactical",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 347668,
+    "name": "Resident Evil Requiem",
+    "posters": [
+      "data/covers/347668.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/2908a94a0c74238e4af35e845b0e28b0.png",
+      "https://cdn2.steamgriddb.com/hero/3ff84500afe8620c3bb534674503e049.jpg",
+      "https://cdn2.steamgriddb.com/hero/535d1ec83aa5a4aa7c2bfe6b407e2ad5.jpg",
+      "https://cdn2.steamgriddb.com/hero/e2c5a7c8f6dfff70b087d86eaeae1254.jpg",
+      "https://cdn2.steamgriddb.com/hero/dc23640934cc23782aba6c6058d6aca3.png",
+      "https://cdn2.steamgriddb.com/hero/adac3ab52816548eaad12812ffe86574.jpg",
+      "https://cdn2.steamgriddb.com/hero/1258e7898e0d685adf6b58d762e21ca4.png",
+      "https://cdn2.steamgriddb.com/hero/ca75cfd1b6c503a8c1bcfcf06dde7c54.png"
+    ],
+    "releaseYear": 2026,
+    "rating": 90,
+    "platforms": [
+      "Xbox Series X|S",
+      "Nintendo Switch 2",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Shooter",
+      "Puzzle",
       "Adventure"
     ]
   },
@@ -6454,13 +6455,13 @@
     ],
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/d6b3a54d189bc6cd921f6581a7d41b17.png",
+      "https://cdn2.steamgriddb.com/hero/35b0b52c6892699f86129ef791ed11c2.png",
       "https://cdn2.steamgriddb.com/hero/56540abcdb375502c6c871b8f141a40b.jpg",
       "https://cdn2.steamgriddb.com/hero/07561478adc8ca51c9646960a5508186.png",
-      "https://cdn2.steamgriddb.com/hero/35b0b52c6892699f86129ef791ed11c2.png",
       "https://cdn2.steamgriddb.com/hero/bcb39d95c667faa134415186c0e8fbdf.png",
       "https://cdn2.steamgriddb.com/hero/2adccb7d8f9e85dfbf1d53f00e96d522.png",
       "https://cdn2.steamgriddb.com/hero/5fc13b57f3008aa88d051d65f1b0f429.png",
-      "https://cdn2.steamgriddb.com/hero/34ed4d3dbc2ed9136932b8d350382dab.png"
+      "https://cdn2.steamgriddb.com/hero/84c1ccfc8030f684f5de59ae439bf272.png"
     ],
     "releaseYear": 2026,
     "rating": 86,
@@ -6795,32 +6796,6 @@
     ]
   },
   {
-    "id": 51523,
-    "name": "The Wolf Among Us 2",
-    "posters": [
-      "data/covers/51523.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/2c0f53dee17ccd6ed509706d91591dce.png",
-      "https://cdn2.steamgriddb.com/hero/13da0028fd08c72a6ebd05a1a740fa99.jpg",
-      "https://cdn2.steamgriddb.com/hero/2a74ea5a5751d05390c13e79109ae192.png"
-    ],
-    "releaseYear": 2027,
-    "rating": 0,
-    "platforms": [
-      "Xbox Series X|S",
-      "Nintendo Switch 2",
-      "PC (Microsoft Windows)",
-      "PlayStation 5",
-      "Xbox One",
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Point-and-click",
-      "Adventure"
-    ]
-  },
-  {
     "id": 381235,
     "name": "Tomb Raider: Legacy of Atlantis",
     "posters": [
@@ -6847,6 +6822,32 @@
     "genres": [
       "Platform",
       "Puzzle",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 51523,
+    "name": "The Wolf Among Us 2",
+    "posters": [
+      "data/covers/51523.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/2c0f53dee17ccd6ed509706d91591dce.png",
+      "https://cdn2.steamgriddb.com/hero/13da0028fd08c72a6ebd05a1a740fa99.jpg",
+      "https://cdn2.steamgriddb.com/hero/2a74ea5a5751d05390c13e79109ae192.png"
+    ],
+    "releaseYear": 2027,
+    "rating": 0,
+    "platforms": [
+      "Xbox Series X|S",
+      "Nintendo Switch 2",
+      "PC (Microsoft Windows)",
+      "PlayStation 5",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Point-and-click",
       "Adventure"
     ]
   },
@@ -7047,12 +7048,12 @@
     ],
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/194c94665fa33ae403336e561eaa240c.png",
-      "https://cdn2.steamgriddb.com/hero/94625d037558adf014570dcdfe244fc6.png",
       "https://cdn2.steamgriddb.com/hero/658307bbe534e9e2b6f8bbf64d7ba745.png",
+      "https://cdn2.steamgriddb.com/hero/94625d037558adf014570dcdfe244fc6.png",
+      "https://cdn2.steamgriddb.com/hero/8a3aa2d305b76ca83cd69b83ec5f6265.jpg",
+      "https://cdn2.steamgriddb.com/hero/eb0253c35827f401e0aac5f3f48b6a58.jpg",
       "https://cdn2.steamgriddb.com/hero/424f9d23d732242cec0fbb9aa83ca44e.jpg",
       "https://cdn2.steamgriddb.com/hero/f6419e6a01404140b64d5b6e372cc9d7.png",
-      "https://cdn2.steamgriddb.com/hero/eb0253c35827f401e0aac5f3f48b6a58.jpg",
-      "https://cdn2.steamgriddb.com/hero/8a3aa2d305b76ca83cd69b83ec5f6265.jpg",
       "https://cdn2.steamgriddb.com/hero/5e472cbc2f2a3cecd16a94e75fcdd845.jpg"
     ],
     "releaseYear": 2027,
@@ -7162,22 +7163,6 @@
     ]
   },
   {
-    "id": 330379,
-    "name": "Fellowship",
-    "posters": [
-      "data/covers/330379.jpg"
-    ],
-    "heroes": [],
-    "releaseYear": 2025,
-    "rating": 0,
-    "platforms": [
-      "PC (Microsoft Windows)"
-    ],
-    "genres": [
-      "Role-playing (RPG)"
-    ]
-  },
-  {
     "id": 381205,
     "name": "No Law",
     "posters": [
@@ -7204,6 +7189,22 @@
       "Shooter",
       "Role-playing (RPG)",
       "Adventure"
+    ]
+  },
+  {
+    "id": 330379,
+    "name": "Fellowship",
+    "posters": [
+      "data/covers/330379.jpg"
+    ],
+    "heroes": [],
+    "releaseYear": 2025,
+    "rating": 0,
+    "platforms": [
+      "PC (Microsoft Windows)"
+    ],
+    "genres": [
+      "Role-playing (RPG)"
     ]
   },
   {
@@ -7300,27 +7301,25 @@
     ]
   },
   {
-    "id": 361833,
-    "name": "Valor Mortis",
+    "id": 194659,
+    "name": "Faul!",
     "posters": [
-      "data/covers/361833.jpg"
+      "data/covers/194659.jpg"
     ],
     "heroes": [
-      "https://cdn2.steamgriddb.com/hero/c0086a2d59642def31185968e7198850.jpg",
-      "https://cdn2.steamgriddb.com/hero/460d885de2ae8b358c2b36f768916ba5.png",
-      "https://cdn2.steamgriddb.com/hero/95dd4646b5208bfcdfdbdb1114344f44.png"
+      "https://cdn2.steamgriddb.com/hero/061412e4a03c02f9902576ec55ebbe77.jpg",
+      "https://cdn2.steamgriddb.com/hero/1551cdfa10908c237b03cf467485932d.png",
+      "https://cdn2.steamgriddb.com/hero/29fbecd18a69f85f31ef339bba740400.png",
+      "https://cdn2.steamgriddb.com/hero/8a5d2991e172411411ac1317e67bb88d.png",
+      "https://cdn2.steamgriddb.com/hero/7894fb70687d7d6ed620d74d67420eb5.png"
     ],
-    "releaseYear": 2026,
+    "releaseYear": 2025,
     "rating": 0,
     "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
+      "PC (Microsoft Windows)"
     ],
     "genres": [
-      "Shooter",
-      "Role-playing (RPG)",
-      "Adventure"
+      "Card & Board Game"
     ]
   }
 ]
