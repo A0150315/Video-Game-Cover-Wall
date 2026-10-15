@@ -37,11 +37,11 @@
       "https://cdn2.steamgriddb.com/hero/2dec8d122fa3447e2baa42fbe4fe7918.png",
       "https://cdn2.steamgriddb.com/hero/818cdcf067c824a4e34f9293de3b15a9.png",
       "https://cdn2.steamgriddb.com/hero/f54b2770a52782948d825faaecd2c438.png",
+      "https://cdn2.steamgriddb.com/hero/c4107f9ce8356ce74b5c65ac6665c485.jpg",
       "https://cdn2.steamgriddb.com/hero/dd23490768a67ebc2fc92804d875f292.png",
       "https://cdn2.steamgriddb.com/hero/2444fb11f56795030f2a634a56e19042.png",
       "https://cdn2.steamgriddb.com/hero/cc34f605458c15226bb56a2d79f3d62c.png",
-      "https://cdn2.steamgriddb.com/hero/41bfd20a38bb1b0bec75acf0845530a7.jpg",
-      "https://cdn2.steamgriddb.com/hero/27f850ce7e93ab7a6d5a60ce96090094.png"
+      "https://cdn2.steamgriddb.com/hero/41bfd20a38bb1b0bec75acf0845530a7.jpg"
     ],
     "releaseYear": 1994,
     "rating": 96,
@@ -688,6 +688,35 @@
     ]
   },
   {
+    "id": 45181,
+    "name": "Mass Effect Trilogy",
+    "posters": [
+      "data/covers/45181.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/83f075354ac93f60d1c1ac9a15399196.png",
+      "https://cdn2.steamgriddb.com/hero/3a900dc34f5f470bc5b734222f657d7f.png",
+      "https://cdn2.steamgriddb.com/hero/93c6c0bd09a280606df12f66752d7b76.png",
+      "https://cdn2.steamgriddb.com/hero/e8c1bdc555e17fd06b44ea4d3b4adbda.png",
+      "https://cdn2.steamgriddb.com/hero/766ebcd59621e305170616ba3d3dac32.jpg",
+      "https://cdn2.steamgriddb.com/hero/6aaba9a124857622930ca4e50f5afed2.png",
+      "https://cdn2.steamgriddb.com/hero/68aa2710db021ce351467da417b912d8.png",
+      "https://cdn2.steamgriddb.com/hero/049671e28a386427e432b3370a22aae4.jpg"
+    ],
+    "releaseYear": 2012,
+    "rating": 92,
+    "platforms": [
+      "PlayStation 3",
+      "PC (Microsoft Windows)",
+      "Xbox 360"
+    ],
+    "genres": [
+      "Shooter",
+      "Role-playing (RPG)",
+      "Adventure"
+    ]
+  },
+  {
     "id": 132181,
     "name": "Resident Evil 4",
     "posters": [
@@ -717,35 +746,6 @@
     "genres": [
       "Shooter",
       "Puzzle",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 45181,
-    "name": "Mass Effect Trilogy",
-    "posters": [
-      "data/covers/45181.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/83f075354ac93f60d1c1ac9a15399196.png",
-      "https://cdn2.steamgriddb.com/hero/3a900dc34f5f470bc5b734222f657d7f.png",
-      "https://cdn2.steamgriddb.com/hero/93c6c0bd09a280606df12f66752d7b76.png",
-      "https://cdn2.steamgriddb.com/hero/e8c1bdc555e17fd06b44ea4d3b4adbda.png",
-      "https://cdn2.steamgriddb.com/hero/766ebcd59621e305170616ba3d3dac32.jpg",
-      "https://cdn2.steamgriddb.com/hero/6aaba9a124857622930ca4e50f5afed2.png",
-      "https://cdn2.steamgriddb.com/hero/68aa2710db021ce351467da417b912d8.png",
-      "https://cdn2.steamgriddb.com/hero/049671e28a386427e432b3370a22aae4.jpg"
-    ],
-    "releaseYear": 2012,
-    "rating": 92,
-    "platforms": [
-      "PlayStation 3",
-      "PC (Microsoft Windows)",
-      "Xbox 360"
-    ],
-    "genres": [
-      "Shooter",
-      "Role-playing (RPG)",
       "Adventure"
     ]
   },
@@ -1641,8 +1641,8 @@
       "https://cdn2.steamgriddb.com/hero/17fafe5f6ce2f1904eb09d2e80a4cbf6.png",
       "https://cdn2.steamgriddb.com/hero/48844d599ebe54c8802b137e7fd804c3.png",
       "https://cdn2.steamgriddb.com/hero/2387337ba1e0b0249ba90f55b2ba2521.jpg",
-      "https://cdn2.steamgriddb.com/hero/3a2f185a5a2b91d12b41ef439e99bc4d.jpg",
-      "https://cdn2.steamgriddb.com/hero/f0c71c1df02b6a3ff844aad4a3710df9.png"
+      "https://cdn2.steamgriddb.com/hero/f0c71c1df02b6a3ff844aad4a3710df9.png",
+      "https://cdn2.steamgriddb.com/hero/a82f0f2a60495609a5ee457f8978ef07.jpg"
     ],
     "releaseYear": 2019,
     "rating": 90,
@@ -1910,36 +1910,6 @@
     ]
   },
   {
-    "id": 501,
-    "name": "Batman: Arkham City",
-    "posters": [
-      "data/covers/501.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/9cbe38ee91368cef7c0f22de9c3461e3.png",
-      "https://cdn2.steamgriddb.com/hero/a0715b3d3eeed8446fc3bf227c1e4b83.png",
-      "https://cdn2.steamgriddb.com/hero/388814209b675f2845e8737658701033.png",
-      "https://cdn2.steamgriddb.com/hero/14d203158e5c5fd54555ecd1bd9ed8e3.png",
-      "https://cdn2.steamgriddb.com/hero/4cba8b40e26654975d5ed2256eeba2e2.png",
-      "https://cdn2.steamgriddb.com/hero/7556224206e7d2a665dc14caa39ee31d.jpg",
-      "https://cdn2.steamgriddb.com/hero/1087ef240a4fa531a4cec93d41621ca8.png",
-      "https://cdn2.steamgriddb.com/hero/7273e671a40fa9f0d3867d1098d5ac6e.png"
-    ],
-    "releaseYear": 2011,
-    "rating": 89,
-    "platforms": [
-      "OnLive Game System",
-      "PlayStation 3",
-      "PC (Microsoft Windows)",
-      "Xbox 360",
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Hack and slash/Beat 'em up",
-      "Adventure"
-    ]
-  },
-  {
     "id": 376,
     "name": "Metal Gear Solid 2: Sons of Liberty",
     "posters": [
@@ -2021,6 +1991,36 @@
       "Turn-based strategy (TBS)",
       "Adventure",
       "Indie"
+    ]
+  },
+  {
+    "id": 501,
+    "name": "Batman: Arkham City",
+    "posters": [
+      "data/covers/501.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/9cbe38ee91368cef7c0f22de9c3461e3.png",
+      "https://cdn2.steamgriddb.com/hero/a0715b3d3eeed8446fc3bf227c1e4b83.png",
+      "https://cdn2.steamgriddb.com/hero/388814209b675f2845e8737658701033.png",
+      "https://cdn2.steamgriddb.com/hero/14d203158e5c5fd54555ecd1bd9ed8e3.png",
+      "https://cdn2.steamgriddb.com/hero/4cba8b40e26654975d5ed2256eeba2e2.png",
+      "https://cdn2.steamgriddb.com/hero/7556224206e7d2a665dc14caa39ee31d.jpg",
+      "https://cdn2.steamgriddb.com/hero/1087ef240a4fa531a4cec93d41621ca8.png",
+      "https://cdn2.steamgriddb.com/hero/7273e671a40fa9f0d3867d1098d5ac6e.png"
+    ],
+    "releaseYear": 2011,
+    "rating": 89,
+    "platforms": [
+      "OnLive Game System",
+      "PlayStation 3",
+      "PC (Microsoft Windows)",
+      "Xbox 360",
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Hack and slash/Beat 'em up",
+      "Adventure"
     ]
   },
   {
@@ -2624,6 +2624,7 @@
     ],
     "genres": [
       "Role-playing (RPG)",
+      "Hack and slash/Beat 'em up",
       "Adventure"
     ]
   },
@@ -2647,35 +2648,6 @@
     "rating": 88,
     "platforms": [
       "PlayStation 4"
-    ],
-    "genres": [
-      "Hack and slash/Beat 'em up",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 5503,
-    "name": "Batman: Arkham Knight",
-    "posters": [
-      "data/covers/5503.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/6c8dba7d0df1c4a79dd07646be9a26c8.jpg",
-      "https://cdn2.steamgriddb.com/hero/479eaa8e93a42b42d12992f086cfa14f.jpg",
-      "https://cdn2.steamgriddb.com/hero/5b5abc705cc52b743cc9d6ad5fffdfa4.png",
-      "https://cdn2.steamgriddb.com/hero/e8257cae02495b31c4e89a4ae812499c.jpg",
-      "https://cdn2.steamgriddb.com/hero/a2802cade04644083dcde1c8c483ed9a.png",
-      "https://cdn2.steamgriddb.com/hero/0fe500898e3183422bebc8325bfc9515.png",
-      "https://cdn2.steamgriddb.com/hero/bc85fc1467a30e358710e800e644fec8.jpg",
-      "https://cdn2.steamgriddb.com/hero/b323c8edba96b335f0761d1dd004b26c.jpg"
-    ],
-    "releaseYear": 2015,
-    "rating": 88,
-    "platforms": [
-      "PlayStation 4",
-      "PC (Microsoft Windows)",
-      "Xbox One",
-      "Nintendo Switch"
     ],
     "genres": [
       "Hack and slash/Beat 'em up",
@@ -2717,6 +2689,35 @@
       "Adventure",
       "Indie",
       "Card & Board Game"
+    ]
+  },
+  {
+    "id": 5503,
+    "name": "Batman: Arkham Knight",
+    "posters": [
+      "data/covers/5503.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/6c8dba7d0df1c4a79dd07646be9a26c8.jpg",
+      "https://cdn2.steamgriddb.com/hero/479eaa8e93a42b42d12992f086cfa14f.jpg",
+      "https://cdn2.steamgriddb.com/hero/5b5abc705cc52b743cc9d6ad5fffdfa4.png",
+      "https://cdn2.steamgriddb.com/hero/e8257cae02495b31c4e89a4ae812499c.jpg",
+      "https://cdn2.steamgriddb.com/hero/a2802cade04644083dcde1c8c483ed9a.png",
+      "https://cdn2.steamgriddb.com/hero/0fe500898e3183422bebc8325bfc9515.png",
+      "https://cdn2.steamgriddb.com/hero/bc85fc1467a30e358710e800e644fec8.jpg",
+      "https://cdn2.steamgriddb.com/hero/b323c8edba96b335f0761d1dd004b26c.jpg"
+    ],
+    "releaseYear": 2015,
+    "rating": 88,
+    "platforms": [
+      "PlayStation 4",
+      "PC (Microsoft Windows)",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Hack and slash/Beat 'em up",
+      "Adventure"
     ]
   },
   {
@@ -3251,7 +3252,7 @@
       "https://cdn2.steamgriddb.com/hero/9d2987177c832d835ca5dd1291dae360.png"
     ],
     "releaseYear": 2009,
-    "rating": 88,
+    "rating": 87,
     "platforms": [
       "PlayStation 3",
       "Ouya",
@@ -5555,11 +5556,11 @@
       "https://cdn2.steamgriddb.com/hero/55ffbc6f00eda5781c6a4f5d91a17a2a.jpg",
       "https://cdn2.steamgriddb.com/hero/23021cdcfb38fe29dcea064ebe1ecce4.png",
       "https://cdn2.steamgriddb.com/hero/538bb178cf73205573bf842c265f1a69.png",
+      "https://cdn2.steamgriddb.com/hero/af684eddd9a3d8690fedbc30ef26d3b8.png",
       "https://cdn2.steamgriddb.com/hero/f952877d70eceb554578bc0a0826d4a9.png",
       "https://cdn2.steamgriddb.com/hero/5d899028f3260a25f037f37db9aeeb5b.jpg",
       "https://cdn2.steamgriddb.com/hero/d2c6571c425b36af3cc01ffe48c2364a.png",
-      "https://cdn2.steamgriddb.com/hero/13d423c869d1f12c22c6544d405f891b.jpg",
-      "https://cdn2.steamgriddb.com/hero/fe48f38a38a0de03e490fbab36a94304.jpg"
+      "https://cdn2.steamgriddb.com/hero/13d423c869d1f12c22c6544d405f891b.jpg"
     ],
     "releaseYear": 2024,
     "rating": 88,
@@ -5997,10 +5998,10 @@
       "https://cdn2.steamgriddb.com/hero/4a3c2ae696886d64c626492209df7e3f.jpg",
       "https://cdn2.steamgriddb.com/hero/4c47d46d8531966732133a9952d88db4.jpg",
       "https://cdn2.steamgriddb.com/hero/fdea9749826be5f0c03903e972a540e1.png",
+      "https://cdn2.steamgriddb.com/hero/d2344edc5d1dd0a996e3fab1fcb1ecb5.png",
+      "https://cdn2.steamgriddb.com/hero/1db9f8be129d68b7a1b436c24e77e8a7.png",
       "https://cdn2.steamgriddb.com/hero/02f21448d70319fddf6a6e4409675e5f.png",
-      "https://cdn2.steamgriddb.com/hero/a4b822f1ed6eb046fa5aafcf1859aa91.png",
-      "https://cdn2.steamgriddb.com/hero/ec222198040692f276c7128d6a361b8b.jpg",
-      "https://cdn2.steamgriddb.com/hero/433d460282ed37209bd94316a2a7cebd.png"
+      "https://cdn2.steamgriddb.com/hero/a4b822f1ed6eb046fa5aafcf1859aa91.png"
     ],
     "releaseYear": 2022,
     "rating": 87,
@@ -6992,28 +6993,6 @@
     ]
   },
   {
-    "id": 347869,
-    "name": "The Expanse: Osiris Reborn",
-    "posters": [
-      "data/covers/347869.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/2f2eb9099a6cfbba208113179bce672e.jpg"
-    ],
-    "releaseYear": 2027,
-    "rating": 0,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Shooter",
-      "Role-playing (RPG)",
-      "Adventure"
-    ]
-  },
-  {
     "id": 325599,
     "name": "Stranger Than Heaven",
     "posters": [
@@ -7036,6 +7015,28 @@
     "genres": [
       "Fighting",
       "Puzzle",
+      "Role-playing (RPG)",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 347869,
+    "name": "The Expanse: Osiris Reborn",
+    "posters": [
+      "data/covers/347869.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/2f2eb9099a6cfbba208113179bce672e.jpg"
+    ],
+    "releaseYear": 2027,
+    "rating": 0,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Shooter",
       "Role-playing (RPG)",
       "Adventure"
     ]
