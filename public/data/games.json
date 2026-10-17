@@ -2582,8 +2582,8 @@
       "https://cdn2.steamgriddb.com/hero/af523c5d4c1038a5f074c4320af0ce78.png",
       "https://cdn2.steamgriddb.com/hero/dfd7468ac613286cdbb40872c8ef3b06.png",
       "https://cdn2.steamgriddb.com/hero/09e7bb8e71d5cf0750cf485e9929a50e.png",
-      "https://cdn2.steamgriddb.com/hero/e651fdc0316d0d16c6af304d2023ca3f.jpg",
       "https://cdn2.steamgriddb.com/hero/cf1c92539a270ed7a08f3eaeb5ad722e.png",
+      "https://cdn2.steamgriddb.com/hero/e651fdc0316d0d16c6af304d2023ca3f.jpg",
       "https://cdn2.steamgriddb.com/hero/570ad34b315e6329f1d12872ecb9a7ea.png"
     ],
     "releaseYear": 2009,
@@ -3215,11 +3215,11 @@
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/386bb25138d5c75aaf86b0a6d4d8f772.jpg",
       "https://cdn2.steamgriddb.com/hero/b258cda7f6762de012fddbb6477f5190.png",
+      "https://cdn2.steamgriddb.com/hero/5d599fc8f46d75efc30d93e0c500bf6f.png",
       "https://cdn2.steamgriddb.com/hero/1164caada87d881437173e9a15f78aa5.png",
       "https://cdn2.steamgriddb.com/hero/9c51041127bc0f99dd1c98e72dd11d01.jpg",
-      "https://cdn2.steamgriddb.com/hero/5d599fc8f46d75efc30d93e0c500bf6f.png",
-      "https://cdn2.steamgriddb.com/hero/2cbca44843a864533ec05b321ae1f9d1.jpg",
       "https://cdn2.steamgriddb.com/hero/b3af4b6d7507eccf16f77dacfb4b4492.png",
+      "https://cdn2.steamgriddb.com/hero/2cbca44843a864533ec05b321ae1f9d1.jpg",
       "https://cdn2.steamgriddb.com/hero/23755d10e2fe7c7a11342f80352a8e9d.png"
     ],
     "releaseYear": 2020,
@@ -3577,35 +3577,6 @@
     ]
   },
   {
-    "id": 76253,
-    "name": "Devil May Cry 5",
-    "posters": [
-      "data/covers/76253.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/4f513f68a7732df8db6b106ba6565073.png",
-      "https://cdn2.steamgriddb.com/hero/b92894e4589f652dc3116cb3a8c48c08.png",
-      "https://cdn2.steamgriddb.com/hero/779ce0602e357694977a3a40c4e50121.png",
-      "https://cdn2.steamgriddb.com/hero/d79199b86238c86baa35733a3a1ce4a5.jpg",
-      "https://cdn2.steamgriddb.com/hero/4a50099e4b1e3d4376fa30b80a5d604f.png",
-      "https://cdn2.steamgriddb.com/hero/72dfa10de34751253a094e8db24a0567.jpg",
-      "https://cdn2.steamgriddb.com/hero/89885ff2c83a10305ee08bd507c1049c.png",
-      "https://cdn2.steamgriddb.com/hero/1df58e63816ec9ab895d8f14640a5f47.png"
-    ],
-    "releaseYear": 2019,
-    "rating": 86,
-    "platforms": [
-      "PlayStation 4",
-      "Nintendo Switch 2",
-      "PC (Microsoft Windows)",
-      "Xbox One"
-    ],
-    "genres": [
-      "Hack and slash/Beat 'em up",
-      "Adventure"
-    ]
-  },
-  {
     "id": 6707,
     "name": "Tales from the Borderlands",
     "posters": [
@@ -3665,6 +3636,35 @@
     ],
     "genres": [
       "Shooter",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 76253,
+    "name": "Devil May Cry 5",
+    "posters": [
+      "data/covers/76253.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/4f513f68a7732df8db6b106ba6565073.png",
+      "https://cdn2.steamgriddb.com/hero/b92894e4589f652dc3116cb3a8c48c08.png",
+      "https://cdn2.steamgriddb.com/hero/779ce0602e357694977a3a40c4e50121.png",
+      "https://cdn2.steamgriddb.com/hero/d79199b86238c86baa35733a3a1ce4a5.jpg",
+      "https://cdn2.steamgriddb.com/hero/4a50099e4b1e3d4376fa30b80a5d604f.png",
+      "https://cdn2.steamgriddb.com/hero/72dfa10de34751253a094e8db24a0567.jpg",
+      "https://cdn2.steamgriddb.com/hero/89885ff2c83a10305ee08bd507c1049c.png",
+      "https://cdn2.steamgriddb.com/hero/1df58e63816ec9ab895d8f14640a5f47.png"
+    ],
+    "releaseYear": 2019,
+    "rating": 86,
+    "platforms": [
+      "PlayStation 4",
+      "Nintendo Switch 2",
+      "PC (Microsoft Windows)",
+      "Xbox One"
+    ],
+    "genres": [
+      "Hack and slash/Beat 'em up",
       "Adventure"
     ]
   },
@@ -5012,10 +5012,10 @@
       "data/covers/135999.jpg"
     ],
     "heroes": [
+      "https://cdn2.steamgriddb.com/hero/159083ad411011cfad29d3b1bf5b4359.jpg",
       "https://cdn2.steamgriddb.com/hero/dbb500b2959b76223815fa8c62550516.png",
       "https://cdn2.steamgriddb.com/hero/75733aa82b562a1b5b6d08d6c52fbfc6.jpg",
       "https://cdn2.steamgriddb.com/hero/b8f88236cd0be638862eb71b23d41809.png",
-      "https://cdn2.steamgriddb.com/hero/159083ad411011cfad29d3b1bf5b4359.jpg",
       "https://cdn2.steamgriddb.com/hero/6f6db048645298245cb176e88fa0f1b0.png",
       "https://cdn2.steamgriddb.com/hero/2feb2a7d3f2db05779809b65e2ba1475.jpg",
       "https://cdn2.steamgriddb.com/hero/4da6c481037585b860ba642df71c5072.png",
@@ -6541,6 +6541,41 @@
     ]
   },
   {
+    "id": 131890,
+    "name": "Sea of Stars",
+    "posters": [
+      "data/covers/131890.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/0dc76f2b5c3bada7c8bf8a8cbf02a968.png",
+      "https://cdn2.steamgriddb.com/hero/e5b81416d033fd7e1dbfd8ebd0f354f1.png",
+      "https://cdn2.steamgriddb.com/hero/81a7f320c97037905c1e74ed4fba57b4.png",
+      "https://cdn2.steamgriddb.com/hero/de2326cf69d9b51067dc2253aaf8c883.png",
+      "https://cdn2.steamgriddb.com/hero/585e8d6e108d44ee0303463ba7fb023e.jpg",
+      "https://cdn2.steamgriddb.com/hero/54bf847d6e3908dc5277af42fbf566db.png",
+      "https://cdn2.steamgriddb.com/hero/1ccfd90b5d5a5504eeceea9404433515.jpg",
+      "https://cdn2.steamgriddb.com/hero/c33eb6109cb5509165ec855ca28e060d.png"
+    ],
+    "releaseYear": 2023,
+    "rating": 86,
+    "platforms": [
+      "Xbox Series X|S",
+      "PlayStation 4",
+      "Nintendo Switch 2",
+      "Android",
+      "PC (Microsoft Windows)",
+      "iOS",
+      "PlayStation 5",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Adventure",
+      "Indie"
+    ]
+  },
+  {
     "id": 186725,
     "name": "Vampire Survivors",
     "posters": [
@@ -6575,41 +6610,6 @@
       "Adventure",
       "Indie",
       "Arcade"
-    ]
-  },
-  {
-    "id": 131890,
-    "name": "Sea of Stars",
-    "posters": [
-      "data/covers/131890.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/0dc76f2b5c3bada7c8bf8a8cbf02a968.png",
-      "https://cdn2.steamgriddb.com/hero/e5b81416d033fd7e1dbfd8ebd0f354f1.png",
-      "https://cdn2.steamgriddb.com/hero/81a7f320c97037905c1e74ed4fba57b4.png",
-      "https://cdn2.steamgriddb.com/hero/de2326cf69d9b51067dc2253aaf8c883.png",
-      "https://cdn2.steamgriddb.com/hero/585e8d6e108d44ee0303463ba7fb023e.jpg",
-      "https://cdn2.steamgriddb.com/hero/54bf847d6e3908dc5277af42fbf566db.png",
-      "https://cdn2.steamgriddb.com/hero/1ccfd90b5d5a5504eeceea9404433515.jpg",
-      "https://cdn2.steamgriddb.com/hero/c33eb6109cb5509165ec855ca28e060d.png"
-    ],
-    "releaseYear": 2023,
-    "rating": 86,
-    "platforms": [
-      "Xbox Series X|S",
-      "PlayStation 4",
-      "Nintendo Switch 2",
-      "Android",
-      "PC (Microsoft Windows)",
-      "iOS",
-      "PlayStation 5",
-      "Xbox One",
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Adventure",
-      "Indie"
     ]
   },
   {
@@ -7233,6 +7233,28 @@
     ]
   },
   {
+    "id": 262712,
+    "name": "Ananta",
+    "posters": [
+      "data/covers/262712.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/75c649d237b5987a08b050cc34c96108.png"
+    ],
+    "releaseYear": 2027,
+    "rating": 0,
+    "platforms": [
+      "Android",
+      "PC (Microsoft Windows)",
+      "iOS",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Adventure"
+    ]
+  },
+  {
     "id": 28029,
     "name": "Half-Life 3",
     "posters": [
@@ -7276,28 +7298,6 @@
       "PlayStation 5"
     ],
     "genres": [
-      "Adventure"
-    ]
-  },
-  {
-    "id": 262712,
-    "name": "Ananta",
-    "posters": [
-      "data/covers/262712.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/75c649d237b5987a08b050cc34c96108.png"
-    ],
-    "releaseYear": 2027,
-    "rating": 0,
-    "platforms": [
-      "Android",
-      "PC (Microsoft Windows)",
-      "iOS",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
       "Adventure"
     ]
   },
