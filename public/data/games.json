@@ -1181,9 +1181,9 @@
       "https://cdn2.steamgriddb.com/hero/8138a8468133863b08806cde29342a09.png",
       "https://cdn2.steamgriddb.com/hero/cd8587e572c5d818e46ae458508f8462.png",
       "https://cdn2.steamgriddb.com/hero/9b063c87efaca632b17a2a59a522f988.png",
+      "https://cdn2.steamgriddb.com/hero/7180ee78abc8c4401d89f708582062e4.png",
       "https://cdn2.steamgriddb.com/hero/e76d88aeab47da20d61b1b489af1a281.png",
-      "https://cdn2.steamgriddb.com/hero/8a1276c25f5efe85f0fc4020fbf5b4f8.png",
-      "https://cdn2.steamgriddb.com/hero/19bcaf989e32ed60b579f6a4e950176a.jpg"
+      "https://cdn2.steamgriddb.com/hero/8a1276c25f5efe85f0fc4020fbf5b4f8.png"
     ],
     "releaseYear": 2015,
     "rating": 91,
@@ -1261,32 +1261,6 @@
     ]
   },
   {
-    "id": 499,
-    "name": "God of War III",
-    "posters": [
-      "data/covers/499.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/75397798de3928330feff52e286c9812.jpg",
-      "https://cdn2.steamgriddb.com/hero/48c2ee2c786575b557a38360c8afd6cb.jpg",
-      "https://cdn2.steamgriddb.com/hero/4cb9b6afe97b8c5fffb19af9227f8a36.jpg",
-      "https://cdn2.steamgriddb.com/hero/ffc7ad29e9362b828655bba4a3fe60dc.jpg",
-      "https://cdn2.steamgriddb.com/hero/341b5fdeac5832d96cc659b4a76ce3cd.jpg",
-      "https://cdn2.steamgriddb.com/hero/31a262d6247f3513b19d1149102e116d.png",
-      "https://cdn2.steamgriddb.com/hero/44804468c997c52d9d4f841dc9658350.png",
-      "https://cdn2.steamgriddb.com/hero/b5b1d9ada94bb80609d21eecf7a2ce7a.png"
-    ],
-    "releaseYear": 2010,
-    "rating": 91,
-    "platforms": [
-      "PlayStation 3"
-    ],
-    "genres": [
-      "Hack and slash/Beat 'em up",
-      "Adventure"
-    ]
-  },
-  {
     "id": 1039,
     "name": "The Legend of Zelda: Ocarina of Time 3D",
     "posters": [
@@ -1309,6 +1283,32 @@
     ],
     "genres": [
       "Puzzle",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 499,
+    "name": "God of War III",
+    "posters": [
+      "data/covers/499.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/75397798de3928330feff52e286c9812.jpg",
+      "https://cdn2.steamgriddb.com/hero/48c2ee2c786575b557a38360c8afd6cb.jpg",
+      "https://cdn2.steamgriddb.com/hero/4cb9b6afe97b8c5fffb19af9227f8a36.jpg",
+      "https://cdn2.steamgriddb.com/hero/ffc7ad29e9362b828655bba4a3fe60dc.jpg",
+      "https://cdn2.steamgriddb.com/hero/341b5fdeac5832d96cc659b4a76ce3cd.jpg",
+      "https://cdn2.steamgriddb.com/hero/31a262d6247f3513b19d1149102e116d.png",
+      "https://cdn2.steamgriddb.com/hero/813aadbd6fd4897c79b5b5a1ef8a3bdc.png",
+      "https://cdn2.steamgriddb.com/hero/44804468c997c52d9d4f841dc9658350.png"
+    ],
+    "releaseYear": 2010,
+    "rating": 91,
+    "platforms": [
+      "PlayStation 3"
+    ],
+    "genres": [
+      "Hack and slash/Beat 'em up",
       "Adventure"
     ]
   },
@@ -1389,7 +1389,7 @@
       "https://cdn2.steamgriddb.com/hero/cc9657884708170e160c8372d92f3535.png",
       "https://cdn2.steamgriddb.com/hero/09c039292630f588a0528fb457d63c7e.png",
       "https://cdn2.steamgriddb.com/hero/581c81b11afa90b13a0649c5af9ac4bb.jpg",
-      "https://cdn2.steamgriddb.com/hero/f38a7ee1dd192e5ff219e3334d3c264d.png"
+      "https://cdn2.steamgriddb.com/hero/60e438426cd42e2ad67ad09ef1fd5bbb.png"
     ],
     "releaseYear": 2006,
     "rating": 91,
@@ -1701,9 +1701,9 @@
       "https://cdn2.steamgriddb.com/hero/fbf5a0f7b2ac2ffd30e433d6c394eb8f.png",
       "https://cdn2.steamgriddb.com/hero/a1677f67c9e0342b5dd4dd69762a0c43.png",
       "https://cdn2.steamgriddb.com/hero/4c562a922dda29172f86955ed505472e.png",
+      "https://cdn2.steamgriddb.com/hero/e2a5f13d6b6f916a564810e6fed60730.png",
       "https://cdn2.steamgriddb.com/hero/aca4bc50f57f2a211fde11758160a688.png",
-      "https://cdn2.steamgriddb.com/hero/530c64ce47e128820c350b8d62023927.png",
-      "https://cdn2.steamgriddb.com/hero/e7349182e7fd37666d520a499bcb3762.png"
+      "https://cdn2.steamgriddb.com/hero/530c64ce47e128820c350b8d62023927.png"
     ],
     "releaseYear": 2014,
     "rating": 90,
@@ -1817,36 +1817,6 @@
     ]
   },
   {
-    "id": 1352,
-    "name": "Journey",
-    "posters": [
-      "data/covers/1352.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/772dd0c6c21089d7791becb7a0aeeae8.png",
-      "https://cdn2.steamgriddb.com/hero/6b42fc2011e87c7b873b2bba3bf27a36.jpg",
-      "https://cdn2.steamgriddb.com/hero/c1340d06be419cfe28c625cc8f4cebce.jpg",
-      "https://cdn2.steamgriddb.com/hero/df815c57edc6e02bfcd510d0a5dbc6a2.jpg",
-      "https://cdn2.steamgriddb.com/hero/cb92ee0067e7481c88954b7d8abd8f4a.png",
-      "https://cdn2.steamgriddb.com/hero/34c19f785e19b343fe2f54b3202f632c.png",
-      "https://cdn2.steamgriddb.com/hero/c8651789d418118b810c58696ae5ac18.jpg",
-      "https://cdn2.steamgriddb.com/hero/4e2a6330465c8ffcaa696a5a16639176.png"
-    ],
-    "releaseYear": 2012,
-    "rating": 90,
-    "platforms": [
-      "PlayStation 3",
-      "PlayStation 4",
-      "PC (Microsoft Windows)",
-      "iOS"
-    ],
-    "genres": [
-      "Platform",
-      "Adventure",
-      "Indie"
-    ]
-  },
-  {
     "id": 20,
     "name": "BioShock",
     "posters": [
@@ -1875,6 +1845,36 @@
       "Puzzle",
       "Role-playing (RPG)",
       "Adventure"
+    ]
+  },
+  {
+    "id": 1352,
+    "name": "Journey",
+    "posters": [
+      "data/covers/1352.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/772dd0c6c21089d7791becb7a0aeeae8.png",
+      "https://cdn2.steamgriddb.com/hero/6b42fc2011e87c7b873b2bba3bf27a36.jpg",
+      "https://cdn2.steamgriddb.com/hero/c1340d06be419cfe28c625cc8f4cebce.jpg",
+      "https://cdn2.steamgriddb.com/hero/df815c57edc6e02bfcd510d0a5dbc6a2.jpg",
+      "https://cdn2.steamgriddb.com/hero/cb92ee0067e7481c88954b7d8abd8f4a.png",
+      "https://cdn2.steamgriddb.com/hero/34c19f785e19b343fe2f54b3202f632c.png",
+      "https://cdn2.steamgriddb.com/hero/c8651789d418118b810c58696ae5ac18.jpg",
+      "https://cdn2.steamgriddb.com/hero/4e2a6330465c8ffcaa696a5a16639176.png"
+    ],
+    "releaseYear": 2012,
+    "rating": 90,
+    "platforms": [
+      "PlayStation 3",
+      "PlayStation 4",
+      "PC (Microsoft Windows)",
+      "iOS"
+    ],
+    "genres": [
+      "Platform",
+      "Adventure",
+      "Indie"
     ]
   },
   {
@@ -2580,11 +2580,11 @@
       "https://cdn2.steamgriddb.com/hero/0415740eaa4d9decbc8da001d3fd805f.png",
       "https://cdn2.steamgriddb.com/hero/97275a23ca44226c9964043c8462be96.jpg",
       "https://cdn2.steamgriddb.com/hero/af523c5d4c1038a5f074c4320af0ce78.png",
-      "https://cdn2.steamgriddb.com/hero/dfd7468ac613286cdbb40872c8ef3b06.png",
-      "https://cdn2.steamgriddb.com/hero/09e7bb8e71d5cf0750cf485e9929a50e.png",
       "https://cdn2.steamgriddb.com/hero/cf1c92539a270ed7a08f3eaeb5ad722e.png",
+      "https://cdn2.steamgriddb.com/hero/dfd7468ac613286cdbb40872c8ef3b06.png",
+      "https://cdn2.steamgriddb.com/hero/3585d4a47883fd0497ef6fe0b9015aee.png",
       "https://cdn2.steamgriddb.com/hero/e651fdc0316d0d16c6af304d2023ca3f.jpg",
-      "https://cdn2.steamgriddb.com/hero/570ad34b315e6329f1d12872ecb9a7ea.png"
+      "https://cdn2.steamgriddb.com/hero/09e7bb8e71d5cf0750cf485e9929a50e.png"
     ],
     "releaseYear": 2009,
     "rating": 88,
@@ -2655,6 +2655,35 @@
     ]
   },
   {
+    "id": 5503,
+    "name": "Batman: Arkham Knight",
+    "posters": [
+      "data/covers/5503.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/6c8dba7d0df1c4a79dd07646be9a26c8.jpg",
+      "https://cdn2.steamgriddb.com/hero/479eaa8e93a42b42d12992f086cfa14f.jpg",
+      "https://cdn2.steamgriddb.com/hero/5b5abc705cc52b743cc9d6ad5fffdfa4.png",
+      "https://cdn2.steamgriddb.com/hero/e8257cae02495b31c4e89a4ae812499c.jpg",
+      "https://cdn2.steamgriddb.com/hero/a2802cade04644083dcde1c8c483ed9a.png",
+      "https://cdn2.steamgriddb.com/hero/0fe500898e3183422bebc8325bfc9515.png",
+      "https://cdn2.steamgriddb.com/hero/bc85fc1467a30e358710e800e644fec8.jpg",
+      "https://cdn2.steamgriddb.com/hero/b323c8edba96b335f0761d1dd004b26c.jpg"
+    ],
+    "releaseYear": 2015,
+    "rating": 88,
+    "platforms": [
+      "PlayStation 4",
+      "PC (Microsoft Windows)",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Hack and slash/Beat 'em up",
+      "Adventure"
+    ]
+  },
+  {
     "id": 40477,
     "name": "Slay the Spire",
     "posters": [
@@ -2689,35 +2718,6 @@
       "Adventure",
       "Indie",
       "Card & Board Game"
-    ]
-  },
-  {
-    "id": 5503,
-    "name": "Batman: Arkham Knight",
-    "posters": [
-      "data/covers/5503.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/6c8dba7d0df1c4a79dd07646be9a26c8.jpg",
-      "https://cdn2.steamgriddb.com/hero/479eaa8e93a42b42d12992f086cfa14f.jpg",
-      "https://cdn2.steamgriddb.com/hero/5b5abc705cc52b743cc9d6ad5fffdfa4.png",
-      "https://cdn2.steamgriddb.com/hero/e8257cae02495b31c4e89a4ae812499c.jpg",
-      "https://cdn2.steamgriddb.com/hero/a2802cade04644083dcde1c8c483ed9a.png",
-      "https://cdn2.steamgriddb.com/hero/0fe500898e3183422bebc8325bfc9515.png",
-      "https://cdn2.steamgriddb.com/hero/bc85fc1467a30e358710e800e644fec8.jpg",
-      "https://cdn2.steamgriddb.com/hero/b323c8edba96b335f0761d1dd004b26c.jpg"
-    ],
-    "releaseYear": 2015,
-    "rating": 88,
-    "platforms": [
-      "PlayStation 4",
-      "PC (Microsoft Windows)",
-      "Xbox One",
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Hack and slash/Beat 'em up",
-      "Adventure"
     ]
   },
   {
@@ -4218,34 +4218,6 @@
     ]
   },
   {
-    "id": 960,
-    "name": "Max Payne 3",
-    "posters": [
-      "data/covers/960.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/704afe073992cbe4813cae2f7715336f.jpg",
-      "https://cdn2.steamgriddb.com/hero/170c944978496731ba71f34c25826a34.jpg",
-      "https://cdn2.steamgriddb.com/hero/599174fe53177487d9eae5f9c8c1204e.png",
-      "https://cdn2.steamgriddb.com/hero/019d385eb67632a7e958e23f24bd07d7.jpg",
-      "https://cdn2.steamgriddb.com/hero/0efe32849d230d7f53049ddc4a4b0c60.jpg",
-      "https://cdn2.steamgriddb.com/hero/56893f2d5aa7437c9772c98a23f98701.png",
-      "https://cdn2.steamgriddb.com/hero/8a429d468c3a88fe56def1582538b2f3.png",
-      "https://cdn2.steamgriddb.com/hero/a0540b1e4b0ffb7e424b556e37dd3bd8.png"
-    ],
-    "releaseYear": 2012,
-    "rating": 86,
-    "platforms": [
-      "PlayStation 3",
-      "PC (Microsoft Windows)",
-      "Mac",
-      "Xbox 360"
-    ],
-    "genres": [
-      "Shooter"
-    ]
-  },
-  {
     "id": 13,
     "name": "Fallout: A Post Nuclear Role Playing Game",
     "posters": [
@@ -4272,6 +4244,34 @@
     ],
     "genres": [
       "Role-playing (RPG)"
+    ]
+  },
+  {
+    "id": 960,
+    "name": "Max Payne 3",
+    "posters": [
+      "data/covers/960.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/704afe073992cbe4813cae2f7715336f.jpg",
+      "https://cdn2.steamgriddb.com/hero/170c944978496731ba71f34c25826a34.jpg",
+      "https://cdn2.steamgriddb.com/hero/019d385eb67632a7e958e23f24bd07d7.jpg",
+      "https://cdn2.steamgriddb.com/hero/0efe32849d230d7f53049ddc4a4b0c60.jpg",
+      "https://cdn2.steamgriddb.com/hero/599174fe53177487d9eae5f9c8c1204e.png",
+      "https://cdn2.steamgriddb.com/hero/f8cab1ed24cdf994deb0256388914cee.png",
+      "https://cdn2.steamgriddb.com/hero/56893f2d5aa7437c9772c98a23f98701.png",
+      "https://cdn2.steamgriddb.com/hero/8a429d468c3a88fe56def1582538b2f3.png"
+    ],
+    "releaseYear": 2012,
+    "rating": 86,
+    "platforms": [
+      "PlayStation 3",
+      "PC (Microsoft Windows)",
+      "Mac",
+      "Xbox 360"
+    ],
+    "genres": [
+      "Shooter"
     ]
   },
   {
@@ -5439,8 +5439,8 @@
     ],
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/69c465a79781ae900005cebddfb758d8.png",
-      "https://cdn2.steamgriddb.com/hero/0b4a7b183837c441dbe027acf7fbc1d1.png",
       "https://cdn2.steamgriddb.com/hero/516b4673af711400934054d48d63fcdb.png",
+      "https://cdn2.steamgriddb.com/hero/0b4a7b183837c441dbe027acf7fbc1d1.png",
       "https://cdn2.steamgriddb.com/hero/d2d28361fabf5051fcc29fb17dbbe4ae.png",
       "https://cdn2.steamgriddb.com/hero/72dbe04264e9414d25bdd9a0d4392eb3.png",
       "https://cdn2.steamgriddb.com/hero/8563d695f4ad96aea93248344366604d.jpg",
@@ -5547,35 +5547,6 @@
     ]
   },
   {
-    "id": 136879,
-    "name": "Black Myth: Wukong",
-    "posters": [
-      "data/covers/136879.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/55ffbc6f00eda5781c6a4f5d91a17a2a.jpg",
-      "https://cdn2.steamgriddb.com/hero/23021cdcfb38fe29dcea064ebe1ecce4.png",
-      "https://cdn2.steamgriddb.com/hero/538bb178cf73205573bf842c265f1a69.png",
-      "https://cdn2.steamgriddb.com/hero/af684eddd9a3d8690fedbc30ef26d3b8.png",
-      "https://cdn2.steamgriddb.com/hero/f952877d70eceb554578bc0a0826d4a9.png",
-      "https://cdn2.steamgriddb.com/hero/5d899028f3260a25f037f37db9aeeb5b.jpg",
-      "https://cdn2.steamgriddb.com/hero/d2c6571c425b36af3cc01ffe48c2364a.png",
-      "https://cdn2.steamgriddb.com/hero/13d423c869d1f12c22c6544d405f891b.jpg"
-    ],
-    "releaseYear": 2024,
-    "rating": 88,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Hack and slash/Beat 'em up",
-      "Adventure"
-    ]
-  },
-  {
     "id": 168668,
     "name": "Uncharted 4: A Thief's End - Remastered",
     "posters": [
@@ -5603,28 +5574,27 @@
     ]
   },
   {
-    "id": 125642,
-    "name": "Path of Exile 2",
+    "id": 136879,
+    "name": "Black Myth: Wukong",
     "posters": [
-      "data/covers/125642.jpg"
+      "data/covers/136879.jpg"
     ],
     "heroes": [
-      "https://cdn2.steamgriddb.com/hero/0496f9b544243ec5dff64344d1477858.png",
-      "https://cdn2.steamgriddb.com/hero/c2cb5756ab726e065755c4743ef4cb87.png",
-      "https://cdn2.steamgriddb.com/hero/7f4c930feecc8cf0591498c3ccfdba1e.png",
-      "https://cdn2.steamgriddb.com/hero/daf3a8509903b9dc5c719d644505bd4e.png",
-      "https://cdn2.steamgriddb.com/hero/23ca2bc6358b97b675c4c10d2cc58761.png",
-      "https://cdn2.steamgriddb.com/hero/aab6ed1b64428873672ae553aac1efe7.png",
-      "https://cdn2.steamgriddb.com/hero/3778f23c520d750708cec1c8c3118688.png",
-      "https://cdn2.steamgriddb.com/hero/40de84e699744fef58c5e51b1d28b8dc.png"
+      "https://cdn2.steamgriddb.com/hero/55ffbc6f00eda5781c6a4f5d91a17a2a.jpg",
+      "https://cdn2.steamgriddb.com/hero/23021cdcfb38fe29dcea064ebe1ecce4.png",
+      "https://cdn2.steamgriddb.com/hero/538bb178cf73205573bf842c265f1a69.png",
+      "https://cdn2.steamgriddb.com/hero/af684eddd9a3d8690fedbc30ef26d3b8.png",
+      "https://cdn2.steamgriddb.com/hero/f952877d70eceb554578bc0a0826d4a9.png",
+      "https://cdn2.steamgriddb.com/hero/5d899028f3260a25f037f37db9aeeb5b.jpg",
+      "https://cdn2.steamgriddb.com/hero/d2c6571c425b36af3cc01ffe48c2364a.png",
+      "https://cdn2.steamgriddb.com/hero/13d423c869d1f12c22c6544d405f891b.jpg"
     ],
     "releaseYear": 2024,
     "rating": 88,
     "platforms": [
       "Xbox Series X|S",
       "PC (Microsoft Windows)",
-      "PlayStation 5",
-      "Mac"
+      "PlayStation 5"
     ],
     "genres": [
       "Role-playing (RPG)",
@@ -5661,6 +5631,36 @@
     ]
   },
   {
+    "id": 125642,
+    "name": "Path of Exile 2",
+    "posters": [
+      "data/covers/125642.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/0496f9b544243ec5dff64344d1477858.png",
+      "https://cdn2.steamgriddb.com/hero/c2cb5756ab726e065755c4743ef4cb87.png",
+      "https://cdn2.steamgriddb.com/hero/7f4c930feecc8cf0591498c3ccfdba1e.png",
+      "https://cdn2.steamgriddb.com/hero/daf3a8509903b9dc5c719d644505bd4e.png",
+      "https://cdn2.steamgriddb.com/hero/23ca2bc6358b97b675c4c10d2cc58761.png",
+      "https://cdn2.steamgriddb.com/hero/aab6ed1b64428873672ae553aac1efe7.png",
+      "https://cdn2.steamgriddb.com/hero/3778f23c520d750708cec1c8c3118688.png",
+      "https://cdn2.steamgriddb.com/hero/40de84e699744fef58c5e51b1d28b8dc.png"
+    ],
+    "releaseYear": 2024,
+    "rating": 88,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5",
+      "Mac"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Hack and slash/Beat 'em up",
+      "Adventure"
+    ]
+  },
+  {
     "id": 317627,
     "name": "Ghost of Yotei",
     "posters": [
@@ -5668,10 +5668,10 @@
     ],
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/2970aa3d325be49e7b01c34fe9b22f81.png",
+      "https://cdn2.steamgriddb.com/hero/377580ab7301d99e3ce5cab6e55190ba.png",
       "https://cdn2.steamgriddb.com/hero/03a7c983dc2f6588d35a5db0fc93dcdd.png",
       "https://cdn2.steamgriddb.com/hero/2edad989553573af7807ad0803d6f712.png",
       "https://cdn2.steamgriddb.com/hero/1572e6df6cc099653c6abcfcd65ba478.png",
-      "https://cdn2.steamgriddb.com/hero/377580ab7301d99e3ce5cab6e55190ba.png",
       "https://cdn2.steamgriddb.com/hero/e1a3a6f38219e9a9689dc1d029efa285.png",
       "https://cdn2.steamgriddb.com/hero/ef484451acd5c10ff84797b4a5e5cb27.png",
       "https://cdn2.steamgriddb.com/hero/fd1f8b44640c1dfa191c74b7836be8ee.png"
@@ -6625,8 +6625,8 @@
       "https://cdn2.steamgriddb.com/hero/f8f3e2e64f15fb85c3e630d6c6553e9e.jpg",
       "https://cdn2.steamgriddb.com/hero/2bb2d7cd82fbb47f72d832d9500a3751.png",
       "https://cdn2.steamgriddb.com/hero/b80be7960918982fceea91afaf4d5e27.png",
-      "https://cdn2.steamgriddb.com/hero/dd871b5eebb33dc85e4426904f90a863.png",
-      "https://cdn2.steamgriddb.com/hero/b6d47af3f16e74c77a68d734daeba91d.png"
+      "https://cdn2.steamgriddb.com/hero/f2c1f507217a5990b98b91c495c57692.png",
+      "https://cdn2.steamgriddb.com/hero/dd871b5eebb33dc85e4426904f90a863.png"
     ],
     "releaseYear": 2026,
     "rating": 0,
@@ -6797,6 +6797,32 @@
     ]
   },
   {
+    "id": 51523,
+    "name": "The Wolf Among Us 2",
+    "posters": [
+      "data/covers/51523.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/2c0f53dee17ccd6ed509706d91591dce.png",
+      "https://cdn2.steamgriddb.com/hero/13da0028fd08c72a6ebd05a1a740fa99.jpg",
+      "https://cdn2.steamgriddb.com/hero/2a74ea5a5751d05390c13e79109ae192.png"
+    ],
+    "releaseYear": 2027,
+    "rating": 0,
+    "platforms": [
+      "Xbox Series X|S",
+      "Nintendo Switch 2",
+      "PC (Microsoft Windows)",
+      "PlayStation 5",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Point-and-click",
+      "Adventure"
+    ]
+  },
+  {
     "id": 381235,
     "name": "Tomb Raider: Legacy of Atlantis",
     "posters": [
@@ -6823,32 +6849,6 @@
     "genres": [
       "Platform",
       "Puzzle",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 51523,
-    "name": "The Wolf Among Us 2",
-    "posters": [
-      "data/covers/51523.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/2c0f53dee17ccd6ed509706d91591dce.png",
-      "https://cdn2.steamgriddb.com/hero/13da0028fd08c72a6ebd05a1a740fa99.jpg",
-      "https://cdn2.steamgriddb.com/hero/2a74ea5a5751d05390c13e79109ae192.png"
-    ],
-    "releaseYear": 2027,
-    "rating": 0,
-    "platforms": [
-      "Xbox Series X|S",
-      "Nintendo Switch 2",
-      "PC (Microsoft Windows)",
-      "PlayStation 5",
-      "Xbox One",
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Point-and-click",
       "Adventure"
     ]
   },
