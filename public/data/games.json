@@ -717,6 +717,34 @@
     ]
   },
   {
+    "id": 1802,
+    "name": "Chrono Trigger",
+    "posters": [
+      "data/covers/1802.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/da3c55e3be0a795729261bfd8776a627.png",
+      "https://cdn2.steamgriddb.com/hero/27c2eee02ba24911d6d88b05da1340f2.png",
+      "https://cdn2.steamgriddb.com/hero/976f1ecb676aa1bb3bb86ed84e79cdfa.png",
+      "https://cdn2.steamgriddb.com/hero/40e058330f014c529b23bcb157f7da4a.png",
+      "https://cdn2.steamgriddb.com/hero/7fc7b7979ce9c02bb7a36e5500726053.png",
+      "https://cdn2.steamgriddb.com/hero/5a6ce3e53bbfb06dd5822fe254494010.png",
+      "https://cdn2.steamgriddb.com/hero/58531c85829c056175c3c27c7360e9fd.png",
+      "https://cdn2.steamgriddb.com/hero/d68bb1f0fb85633dd36522959be89149.png"
+    ],
+    "releaseYear": 1995,
+    "rating": 92,
+    "platforms": [
+      "Satellaview",
+      "Super Nintendo Entertainment System",
+      "Wii",
+      "Super Famicom"
+    ],
+    "genres": [
+      "Role-playing (RPG)"
+    ]
+  },
+  {
     "id": 132181,
     "name": "Resident Evil 4",
     "posters": [
@@ -747,34 +775,6 @@
       "Shooter",
       "Puzzle",
       "Adventure"
-    ]
-  },
-  {
-    "id": 1802,
-    "name": "Chrono Trigger",
-    "posters": [
-      "data/covers/1802.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/da3c55e3be0a795729261bfd8776a627.png",
-      "https://cdn2.steamgriddb.com/hero/27c2eee02ba24911d6d88b05da1340f2.png",
-      "https://cdn2.steamgriddb.com/hero/976f1ecb676aa1bb3bb86ed84e79cdfa.png",
-      "https://cdn2.steamgriddb.com/hero/40e058330f014c529b23bcb157f7da4a.png",
-      "https://cdn2.steamgriddb.com/hero/7fc7b7979ce9c02bb7a36e5500726053.png",
-      "https://cdn2.steamgriddb.com/hero/5a6ce3e53bbfb06dd5822fe254494010.png",
-      "https://cdn2.steamgriddb.com/hero/58531c85829c056175c3c27c7360e9fd.png",
-      "https://cdn2.steamgriddb.com/hero/d68bb1f0fb85633dd36522959be89149.png"
-    ],
-    "releaseYear": 1995,
-    "rating": 92,
-    "platforms": [
-      "Satellaview",
-      "Super Nintendo Entertainment System",
-      "Wii",
-      "Super Famicom"
-    ],
-    "genres": [
-      "Role-playing (RPG)"
     ]
   },
   {
@@ -1181,9 +1181,9 @@
       "https://cdn2.steamgriddb.com/hero/8138a8468133863b08806cde29342a09.png",
       "https://cdn2.steamgriddb.com/hero/cd8587e572c5d818e46ae458508f8462.png",
       "https://cdn2.steamgriddb.com/hero/9b063c87efaca632b17a2a59a522f988.png",
+      "https://cdn2.steamgriddb.com/hero/5dcafb0e0ad1847e96c97ab0d4eec074.png",
       "https://cdn2.steamgriddb.com/hero/7180ee78abc8c4401d89f708582062e4.png",
-      "https://cdn2.steamgriddb.com/hero/e76d88aeab47da20d61b1b489af1a281.png",
-      "https://cdn2.steamgriddb.com/hero/8a1276c25f5efe85f0fc4020fbf5b4f8.png"
+      "https://cdn2.steamgriddb.com/hero/e76d88aeab47da20d61b1b489af1a281.png"
     ],
     "releaseYear": 2015,
     "rating": 91,
@@ -1976,8 +1976,8 @@
       "https://cdn2.steamgriddb.com/hero/3bfe11904d16672c7c87e30d58894339.png",
       "https://cdn2.steamgriddb.com/hero/90deff4b32c134f32e3f0d7e8a2aad92.png",
       "https://cdn2.steamgriddb.com/hero/143f8d687ce439ff0e5dce08c4c92c89.png",
-      "https://cdn2.steamgriddb.com/hero/351264651d762713a247d997f6eae551.png",
-      "https://cdn2.steamgriddb.com/hero/f4fcdae47e9d745ec7b03083870361f1.png"
+      "https://cdn2.steamgriddb.com/hero/99ff24f584f13674c97e24730ec9674a.png",
+      "https://cdn2.steamgriddb.com/hero/351264651d762713a247d997f6eae551.png"
     ],
     "releaseYear": 2025,
     "rating": 89,
@@ -5547,33 +5547,6 @@
     ]
   },
   {
-    "id": 168668,
-    "name": "Uncharted 4: A Thief's End - Remastered",
-    "posters": [
-      "data/covers/168668.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/81ef6cd96ab8d7992d5a291b20897ec4.jpg",
-      "https://cdn2.steamgriddb.com/hero/21a38ed2ee0c2c081c31286d29db2acc.png",
-      "https://cdn2.steamgriddb.com/hero/bbf514d16a56cba73809fd0b7e262436.png",
-      "https://cdn2.steamgriddb.com/hero/eeb7eebbb38d3cd16f18d4a68f065866.png",
-      "https://cdn2.steamgriddb.com/hero/07a81d45ff030b63fe2a0f375b779f09.png",
-      "https://cdn2.steamgriddb.com/hero/df7c2b3c3966426c14e4b3005c931eb1.png",
-      "https://cdn2.steamgriddb.com/hero/baef4802848fb2c2e3026a7f26a53315.png",
-      "https://cdn2.steamgriddb.com/hero/f7b6da9dedde15499538bf7e5e23f0ee.png"
-    ],
-    "releaseYear": 2022,
-    "rating": 88,
-    "platforms": [
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Shooter",
-      "Adventure"
-    ]
-  },
-  {
     "id": 136879,
     "name": "Black Myth: Wukong",
     "posters": [
@@ -5599,6 +5572,33 @@
     "genres": [
       "Role-playing (RPG)",
       "Hack and slash/Beat 'em up",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 168668,
+    "name": "Uncharted 4: A Thief's End - Remastered",
+    "posters": [
+      "data/covers/168668.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/81ef6cd96ab8d7992d5a291b20897ec4.jpg",
+      "https://cdn2.steamgriddb.com/hero/21a38ed2ee0c2c081c31286d29db2acc.png",
+      "https://cdn2.steamgriddb.com/hero/bbf514d16a56cba73809fd0b7e262436.png",
+      "https://cdn2.steamgriddb.com/hero/eeb7eebbb38d3cd16f18d4a68f065866.png",
+      "https://cdn2.steamgriddb.com/hero/07a81d45ff030b63fe2a0f375b779f09.png",
+      "https://cdn2.steamgriddb.com/hero/df7c2b3c3966426c14e4b3005c931eb1.png",
+      "https://cdn2.steamgriddb.com/hero/baef4802848fb2c2e3026a7f26a53315.png",
+      "https://cdn2.steamgriddb.com/hero/f7b6da9dedde15499538bf7e5e23f0ee.png"
+    ],
+    "releaseYear": 2022,
+    "rating": 88,
+    "platforms": [
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Shooter",
       "Adventure"
     ]
   },
@@ -6797,6 +6797,32 @@
     ]
   },
   {
+    "id": 51523,
+    "name": "The Wolf Among Us 2",
+    "posters": [
+      "data/covers/51523.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/2c0f53dee17ccd6ed509706d91591dce.png",
+      "https://cdn2.steamgriddb.com/hero/13da0028fd08c72a6ebd05a1a740fa99.jpg",
+      "https://cdn2.steamgriddb.com/hero/2a74ea5a5751d05390c13e79109ae192.png"
+    ],
+    "releaseYear": 2027,
+    "rating": 0,
+    "platforms": [
+      "Xbox Series X|S",
+      "Nintendo Switch 2",
+      "PC (Microsoft Windows)",
+      "PlayStation 5",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Point-and-click",
+      "Adventure"
+    ]
+  },
+  {
     "id": 381235,
     "name": "Tomb Raider: Legacy of Atlantis",
     "posters": [
@@ -6823,32 +6849,6 @@
     "genres": [
       "Platform",
       "Puzzle",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 51523,
-    "name": "The Wolf Among Us 2",
-    "posters": [
-      "data/covers/51523.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/2c0f53dee17ccd6ed509706d91591dce.png",
-      "https://cdn2.steamgriddb.com/hero/13da0028fd08c72a6ebd05a1a740fa99.jpg",
-      "https://cdn2.steamgriddb.com/hero/2a74ea5a5751d05390c13e79109ae192.png"
-    ],
-    "releaseYear": 2027,
-    "rating": 0,
-    "platforms": [
-      "Xbox Series X|S",
-      "Nintendo Switch 2",
-      "PC (Microsoft Windows)",
-      "PlayStation 5",
-      "Xbox One",
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Point-and-click",
       "Adventure"
     ]
   },
