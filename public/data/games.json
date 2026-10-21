@@ -154,10 +154,10 @@
       "https://cdn2.steamgriddb.com/hero/d1fcdf15cb97c47d0ed1e1e10773ae36.png",
       "https://cdn2.steamgriddb.com/hero/4fc7fd6e1cf252fb1a7403a8b1ce0476.png",
       "https://cdn2.steamgriddb.com/hero/b751142d1db64622c665bf40839bba13.png",
+      "https://cdn2.steamgriddb.com/hero/5b359e020d0c4726dd6876f6e6500648.png",
       "https://cdn2.steamgriddb.com/hero/840aa06493f6efae8a912df6bd5ba889.jpg",
       "https://cdn2.steamgriddb.com/hero/fa36ce3924dac70defd1e81ffebfc71c.jpg",
       "https://cdn2.steamgriddb.com/hero/79daceb948005dea8a61bd189cb4d468.png",
-      "https://cdn2.steamgriddb.com/hero/5b359e020d0c4726dd6876f6e6500648.png",
       "https://cdn2.steamgriddb.com/hero/0c239762d3a80dad4458be9d4540ba95.png"
     ],
     "releaseYear": 2022,
@@ -2065,9 +2065,9 @@
       "https://cdn2.steamgriddb.com/hero/54430319f44a3febe74012d9ced38a1d.jpg",
       "https://cdn2.steamgriddb.com/hero/1b5a5a165128b8eaaf1440224f3edde7.png",
       "https://cdn2.steamgriddb.com/hero/642229884370cc6d55a12c69b0b1c2fa.png",
+      "https://cdn2.steamgriddb.com/hero/5a0e64a8feeeb6be1842b61c832c65d1.png",
       "https://cdn2.steamgriddb.com/hero/4ddd456026832dbe602ad461304e3077.png",
       "https://cdn2.steamgriddb.com/hero/3c986ecb63ca91188fbd4ceeb263a793.png",
-      "https://cdn2.steamgriddb.com/hero/5a0e64a8feeeb6be1842b61c832c65d1.png",
       "https://cdn2.steamgriddb.com/hero/1c34790dc216b192e2c31080c0c7e1ea.png"
     ],
     "releaseYear": 2021,
@@ -3612,34 +3612,6 @@
     ]
   },
   {
-    "id": 529,
-    "name": "Far Cry 3",
-    "posters": [
-      "data/covers/529.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/163f02c08eeb3462cf1be9be349d02df.png",
-      "https://cdn2.steamgriddb.com/hero/3b796bac4dc055a7358cd28ae118eb09.jpg",
-      "https://cdn2.steamgriddb.com/hero/b98ee86215125aa5b01966e7891a4cf7.png",
-      "https://cdn2.steamgriddb.com/hero/e8258e5140317ff36c7f8225a3bf9590.png",
-      "https://cdn2.steamgriddb.com/hero/b1553ff2787f1055807a8058fe1f8d99.png",
-      "https://cdn2.steamgriddb.com/hero/d5e714549e9937f437d4fc2edf35b8fb.jpg",
-      "https://cdn2.steamgriddb.com/hero/c4539e880b908ad22a401caf9046d152.jpg",
-      "https://cdn2.steamgriddb.com/hero/6151caaabf80ba5d7dc9e9e774175ab7.png"
-    ],
-    "releaseYear": 2012,
-    "rating": 86,
-    "platforms": [
-      "PlayStation 3",
-      "PC (Microsoft Windows)",
-      "Xbox 360"
-    ],
-    "genres": [
-      "Shooter",
-      "Adventure"
-    ]
-  },
-  {
     "id": 76253,
     "name": "Devil May Cry 5",
     "posters": [
@@ -3665,6 +3637,34 @@
     ],
     "genres": [
       "Hack and slash/Beat 'em up",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 529,
+    "name": "Far Cry 3",
+    "posters": [
+      "data/covers/529.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/163f02c08eeb3462cf1be9be349d02df.png",
+      "https://cdn2.steamgriddb.com/hero/3b796bac4dc055a7358cd28ae118eb09.jpg",
+      "https://cdn2.steamgriddb.com/hero/b98ee86215125aa5b01966e7891a4cf7.png",
+      "https://cdn2.steamgriddb.com/hero/e8258e5140317ff36c7f8225a3bf9590.png",
+      "https://cdn2.steamgriddb.com/hero/b1553ff2787f1055807a8058fe1f8d99.png",
+      "https://cdn2.steamgriddb.com/hero/d5e714549e9937f437d4fc2edf35b8fb.jpg",
+      "https://cdn2.steamgriddb.com/hero/c4539e880b908ad22a401caf9046d152.jpg",
+      "https://cdn2.steamgriddb.com/hero/6151caaabf80ba5d7dc9e9e774175ab7.png"
+    ],
+    "releaseYear": 2012,
+    "rating": 86,
+    "platforms": [
+      "PlayStation 3",
+      "PC (Microsoft Windows)",
+      "Xbox 360"
+    ],
+    "genres": [
+      "Shooter",
       "Adventure"
     ]
   },
@@ -3954,33 +3954,6 @@
     ]
   },
   {
-    "id": 7351,
-    "name": "Doom",
-    "posters": [
-      "data/covers/7351.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/442465f5282183631234848d916ce365.png",
-      "https://cdn2.steamgriddb.com/hero/4f1730a9b124eea813b992edebc06840.png",
-      "https://cdn2.steamgriddb.com/hero/64c26b2a2dcf068c49894bd07e0e6389.png",
-      "https://cdn2.steamgriddb.com/hero/93dd84d3f9b0cc34957a3d9166d2d75e.png",
-      "https://cdn2.steamgriddb.com/hero/adfb844d79ef55ba2b15584770a1c6f8.png",
-      "https://cdn2.steamgriddb.com/hero/3886c03149f77913ca3142ef7f40f1ce.png",
-      "https://cdn2.steamgriddb.com/hero/a32d7eeaae19821fd9ce317f3ce952a7.jpg",
-      "https://cdn2.steamgriddb.com/hero/08b90c2ebcce5d7f46176eb7c05af0ea.png"
-    ],
-    "releaseYear": 2016,
-    "rating": 86,
-    "platforms": [
-      "PlayStation 4",
-      "PC (Microsoft Windows)",
-      "Xbox One"
-    ],
-    "genres": [
-      "Shooter"
-    ]
-  },
-  {
     "id": 17447,
     "name": "Titanfall 2",
     "posters": [
@@ -4006,6 +3979,33 @@
     "genres": [
       "Shooter",
       "Adventure"
+    ]
+  },
+  {
+    "id": 7351,
+    "name": "Doom",
+    "posters": [
+      "data/covers/7351.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/442465f5282183631234848d916ce365.png",
+      "https://cdn2.steamgriddb.com/hero/4f1730a9b124eea813b992edebc06840.png",
+      "https://cdn2.steamgriddb.com/hero/64c26b2a2dcf068c49894bd07e0e6389.png",
+      "https://cdn2.steamgriddb.com/hero/93dd84d3f9b0cc34957a3d9166d2d75e.png",
+      "https://cdn2.steamgriddb.com/hero/adfb844d79ef55ba2b15584770a1c6f8.png",
+      "https://cdn2.steamgriddb.com/hero/3886c03149f77913ca3142ef7f40f1ce.png",
+      "https://cdn2.steamgriddb.com/hero/a32d7eeaae19821fd9ce317f3ce952a7.jpg",
+      "https://cdn2.steamgriddb.com/hero/08b90c2ebcce5d7f46176eb7c05af0ea.png"
+    ],
+    "releaseYear": 2016,
+    "rating": 86,
+    "platforms": [
+      "PlayStation 4",
+      "PC (Microsoft Windows)",
+      "Xbox One"
+    ],
+    "genres": [
+      "Shooter"
     ]
   },
   {
@@ -7042,34 +7042,6 @@
     ]
   },
   {
-    "id": 398225,
-    "name": "Metro 2039",
-    "posters": [
-      "data/covers/398225.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/a5ffb371628660680f9ee0baf043fb3c.jpg",
-      "https://cdn2.steamgriddb.com/hero/192443305db254afb8e532d00a34b4aa.jpg",
-      "https://cdn2.steamgriddb.com/hero/ea1f8e148cd9d42ec4ba0753f2e76b5f.png",
-      "https://cdn2.steamgriddb.com/hero/5505b04b0f722168f8ecda7712e8c2a8.png",
-      "https://cdn2.steamgriddb.com/hero/d029fb44c1e45326c0c011d48722fa68.jpg",
-      "https://cdn2.steamgriddb.com/hero/1ecb86c96dd62c982d40d0699fc5a156.jpg",
-      "https://cdn2.steamgriddb.com/hero/bcf01df2c389168594cb4f646c51e3bf.png",
-      "https://cdn2.steamgriddb.com/hero/9b60ae21f922beabfd5713248f3802d0.png"
-    ],
-    "releaseYear": 2027,
-    "rating": 0,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Shooter",
-      "Adventure"
-    ]
-  },
-  {
     "id": 404673,
     "name": "Resident Evil Veronica",
     "posters": [
@@ -7096,6 +7068,34 @@
     "genres": [
       "Shooter",
       "Puzzle",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 398225,
+    "name": "Metro 2039",
+    "posters": [
+      "data/covers/398225.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/a5ffb371628660680f9ee0baf043fb3c.jpg",
+      "https://cdn2.steamgriddb.com/hero/192443305db254afb8e532d00a34b4aa.jpg",
+      "https://cdn2.steamgriddb.com/hero/ea1f8e148cd9d42ec4ba0753f2e76b5f.png",
+      "https://cdn2.steamgriddb.com/hero/5505b04b0f722168f8ecda7712e8c2a8.png",
+      "https://cdn2.steamgriddb.com/hero/d029fb44c1e45326c0c011d48722fa68.jpg",
+      "https://cdn2.steamgriddb.com/hero/1ecb86c96dd62c982d40d0699fc5a156.jpg",
+      "https://cdn2.steamgriddb.com/hero/bcf01df2c389168594cb4f646c51e3bf.png",
+      "https://cdn2.steamgriddb.com/hero/9b60ae21f922beabfd5713248f3802d0.png"
+    ],
+    "releaseYear": 2027,
+    "rating": 0,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Shooter",
       "Adventure"
     ]
   },
