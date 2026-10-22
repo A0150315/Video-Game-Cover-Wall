@@ -1614,8 +1614,8 @@
       "https://cdn2.steamgriddb.com/hero/5b6197f0d9457592cc439fce42933ebb.png",
       "https://cdn2.steamgriddb.com/hero/66c3fc5cce73d075260679880ee17680.png",
       "https://cdn2.steamgriddb.com/hero/9b48bc0354c5477f2baf720f96cd2e43.jpg",
-      "https://cdn2.steamgriddb.com/hero/380300f2977be97431f05aacf79c59d8.png",
       "https://cdn2.steamgriddb.com/hero/2df41f38afef75d8c599483001daf2e1.jpg",
+      "https://cdn2.steamgriddb.com/hero/380300f2977be97431f05aacf79c59d8.png",
       "https://cdn2.steamgriddb.com/hero/e4287a184ea4fcadd89e90717c88e3f9.png"
     ],
     "releaseYear": 2012,
@@ -2389,7 +2389,7 @@
       "https://cdn2.steamgriddb.com/hero/3cfdef4f1447147029268a257d131552.png",
       "https://cdn2.steamgriddb.com/hero/8fe4779ca30f6436a2fb4596e16b38fa.png",
       "https://cdn2.steamgriddb.com/hero/21cf1e2c7605ae77ececeed18a7e2c96.png",
-      "https://cdn2.steamgriddb.com/hero/f9d7a3db99e0ce3becd216c9e776b691.jpg"
+      "https://cdn2.steamgriddb.com/hero/fb788d161b3567183b3fa590d8faf84e.png"
     ],
     "releaseYear": 2005,
     "rating": 89,
@@ -4257,8 +4257,8 @@
       "https://cdn2.steamgriddb.com/hero/170c944978496731ba71f34c25826a34.jpg",
       "https://cdn2.steamgriddb.com/hero/019d385eb67632a7e958e23f24bd07d7.jpg",
       "https://cdn2.steamgriddb.com/hero/0efe32849d230d7f53049ddc4a4b0c60.jpg",
-      "https://cdn2.steamgriddb.com/hero/599174fe53177487d9eae5f9c8c1204e.png",
       "https://cdn2.steamgriddb.com/hero/f8cab1ed24cdf994deb0256388914cee.png",
+      "https://cdn2.steamgriddb.com/hero/599174fe53177487d9eae5f9c8c1204e.png",
       "https://cdn2.steamgriddb.com/hero/56893f2d5aa7437c9772c98a23f98701.png",
       "https://cdn2.steamgriddb.com/hero/8a429d468c3a88fe56def1582538b2f3.png"
     ],
@@ -4343,10 +4343,10 @@
       "https://cdn2.steamgriddb.com/hero/a73d18446f20a30be28c26ab513da8d8.png",
       "https://cdn2.steamgriddb.com/hero/b0cbd1803daba2f4be6919b9f773f921.png",
       "https://cdn2.steamgriddb.com/hero/33abbac390f933b4d29d1ccae857ea98.jpg",
-      "https://cdn2.steamgriddb.com/hero/816751b23dc0b7f460431c51f0ffd6b2.png",
       "https://cdn2.steamgriddb.com/hero/f03c011dbcfc842f49e035316a45c6fc.jpg",
-      "https://cdn2.steamgriddb.com/hero/235a4b01cca43ead1a2435ec19c04bab.png",
-      "https://cdn2.steamgriddb.com/hero/5179a33ebd7d7380c3cc36d04bc03ba8.jpg"
+      "https://cdn2.steamgriddb.com/hero/5179a33ebd7d7380c3cc36d04bc03ba8.jpg",
+      "https://cdn2.steamgriddb.com/hero/17e26f45b3daec2660dc407d326276cf.png",
+      "https://cdn2.steamgriddb.com/hero/816751b23dc0b7f460431c51f0ffd6b2.png"
     ],
     "releaseYear": 2020,
     "rating": 93,
@@ -6571,6 +6571,7 @@
     ],
     "genres": [
       "Role-playing (RPG)",
+      "Turn-based strategy (TBS)",
       "Adventure",
       "Indie"
     ]
@@ -7042,6 +7043,34 @@
     ]
   },
   {
+    "id": 398225,
+    "name": "Metro 2039",
+    "posters": [
+      "data/covers/398225.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/a5ffb371628660680f9ee0baf043fb3c.jpg",
+      "https://cdn2.steamgriddb.com/hero/192443305db254afb8e532d00a34b4aa.jpg",
+      "https://cdn2.steamgriddb.com/hero/ea1f8e148cd9d42ec4ba0753f2e76b5f.png",
+      "https://cdn2.steamgriddb.com/hero/5505b04b0f722168f8ecda7712e8c2a8.png",
+      "https://cdn2.steamgriddb.com/hero/d029fb44c1e45326c0c011d48722fa68.jpg",
+      "https://cdn2.steamgriddb.com/hero/1ecb86c96dd62c982d40d0699fc5a156.jpg",
+      "https://cdn2.steamgriddb.com/hero/bcf01df2c389168594cb4f646c51e3bf.png",
+      "https://cdn2.steamgriddb.com/hero/9b60ae21f922beabfd5713248f3802d0.png"
+    ],
+    "releaseYear": 2027,
+    "rating": 0,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Shooter",
+      "Adventure"
+    ]
+  },
+  {
     "id": 404673,
     "name": "Resident Evil Veronica",
     "posters": [
@@ -7068,34 +7097,6 @@
     "genres": [
       "Shooter",
       "Puzzle",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 398225,
-    "name": "Metro 2039",
-    "posters": [
-      "data/covers/398225.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/a5ffb371628660680f9ee0baf043fb3c.jpg",
-      "https://cdn2.steamgriddb.com/hero/192443305db254afb8e532d00a34b4aa.jpg",
-      "https://cdn2.steamgriddb.com/hero/ea1f8e148cd9d42ec4ba0753f2e76b5f.png",
-      "https://cdn2.steamgriddb.com/hero/5505b04b0f722168f8ecda7712e8c2a8.png",
-      "https://cdn2.steamgriddb.com/hero/d029fb44c1e45326c0c011d48722fa68.jpg",
-      "https://cdn2.steamgriddb.com/hero/1ecb86c96dd62c982d40d0699fc5a156.jpg",
-      "https://cdn2.steamgriddb.com/hero/bcf01df2c389168594cb4f646c51e3bf.png",
-      "https://cdn2.steamgriddb.com/hero/9b60ae21f922beabfd5713248f3802d0.png"
-    ],
-    "releaseYear": 2027,
-    "rating": 0,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Shooter",
       "Adventure"
     ]
   },
