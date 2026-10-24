@@ -1357,8 +1357,8 @@
       "https://cdn2.steamgriddb.com/hero/7b16a52cf3727c22984590c4f4c36039.png",
       "https://cdn2.steamgriddb.com/hero/0b7361b9b59ab639eb91b016ddb87421.png",
       "https://cdn2.steamgriddb.com/hero/1cc8a8ea51cd0adddf5dab504a285915.jpg",
-      "https://cdn2.steamgriddb.com/hero/af4f00ca48321fb026865c5a1772dafd.png",
       "https://cdn2.steamgriddb.com/hero/3b661d671740495716434a3ba797c6f2.png",
+      "https://cdn2.steamgriddb.com/hero/af4f00ca48321fb026865c5a1772dafd.png",
       "https://cdn2.steamgriddb.com/hero/94ee4384482b574f35c5f25696097364.png",
       "https://cdn2.steamgriddb.com/hero/c205a106a04f42e1714daaa17b031a12.png",
       "https://cdn2.steamgriddb.com/hero/e49e7e599d801ccbd9dd751715ac2f56.png"
@@ -2349,33 +2349,6 @@
     ]
   },
   {
-    "id": 512,
-    "name": "Uncharted 3: Drake's Deception",
-    "posters": [
-      "data/covers/512.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/25397b4aa0a8d579b7f41bb0a4d5e1e3.png",
-      "https://cdn2.steamgriddb.com/hero/1b932eaf9f7c0cb84f471a560097ddb8.png",
-      "https://cdn2.steamgriddb.com/hero/e72f04340ba52eeb59aac43d472d1d31.png",
-      "https://cdn2.steamgriddb.com/hero/cce08058c7bf76a788543e4ff059b574.png",
-      "https://cdn2.steamgriddb.com/hero/c8245970f4b8928346f669bf62dbc288.png",
-      "https://cdn2.steamgriddb.com/hero/ff10bdb362b3ea4aa07fae2dcd78cf79.png",
-      "https://cdn2.steamgriddb.com/hero/6f7ed2665430436edf77b2c6d75740c7.png",
-      "https://cdn2.steamgriddb.com/hero/1fe165377d4907f0ea45a5397520b85c.png"
-    ],
-    "releaseYear": 2011,
-    "rating": 89,
-    "platforms": [
-      "PlayStation 3"
-    ],
-    "genres": [
-      "Shooter",
-      "Platform",
-      "Adventure"
-    ]
-  },
-  {
     "id": 2207,
     "name": "Shadow of the Colossus",
     "posters": [
@@ -2399,6 +2372,33 @@
     "genres": [
       "Platform",
       "Puzzle",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 512,
+    "name": "Uncharted 3: Drake's Deception",
+    "posters": [
+      "data/covers/512.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/25397b4aa0a8d579b7f41bb0a4d5e1e3.png",
+      "https://cdn2.steamgriddb.com/hero/1b932eaf9f7c0cb84f471a560097ddb8.png",
+      "https://cdn2.steamgriddb.com/hero/e72f04340ba52eeb59aac43d472d1d31.png",
+      "https://cdn2.steamgriddb.com/hero/cce08058c7bf76a788543e4ff059b574.png",
+      "https://cdn2.steamgriddb.com/hero/c8245970f4b8928346f669bf62dbc288.png",
+      "https://cdn2.steamgriddb.com/hero/ff10bdb362b3ea4aa07fae2dcd78cf79.png",
+      "https://cdn2.steamgriddb.com/hero/6f7ed2665430436edf77b2c6d75740c7.png",
+      "https://cdn2.steamgriddb.com/hero/1fe165377d4907f0ea45a5397520b85c.png"
+    ],
+    "releaseYear": 2011,
+    "rating": 89,
+    "platforms": [
+      "PlayStation 3"
+    ],
+    "genres": [
+      "Shooter",
+      "Platform",
       "Adventure"
     ]
   },
@@ -4225,8 +4225,8 @@
     ],
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/e94a37c9b33d6a973b40a831d810b0c6.png",
-      "https://cdn2.steamgriddb.com/hero/430a7e19cd27b66c8a4a756b85dbfd85.png",
       "https://cdn2.steamgriddb.com/hero/5ab2d56d52aeb5fa908e3565823c21f2.png",
+      "https://cdn2.steamgriddb.com/hero/430a7e19cd27b66c8a4a756b85dbfd85.png",
       "https://cdn2.steamgriddb.com/hero/282ed79347cfc23fc4a700154d671e05.png",
       "https://cdn2.steamgriddb.com/hero/7eacb532570ff6858afd2723755ff790.jpg",
       "https://cdn2.steamgriddb.com/hero/19f2eaea82caf2f1ad75be78c2f08db4.png",
@@ -5158,6 +5158,34 @@
     ]
   },
   {
+    "id": 149657,
+    "name": "Blue Prince",
+    "posters": [
+      "data/covers/149657.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/a06e8bb7a2ead602f451978b63ba79ec.png",
+      "https://cdn2.steamgriddb.com/hero/a0c578b3cb73ce7573bba15523d770ad.jpg",
+      "https://cdn2.steamgriddb.com/hero/7464daee9d49796baa345f68e4e845ba.png",
+      "https://cdn2.steamgriddb.com/hero/fe351d25fb94473e60319cbba72c7e57.png"
+    ],
+    "releaseYear": 2025,
+    "rating": 89,
+    "platforms": [
+      "Xbox Series X|S",
+      "Nintendo Switch 2",
+      "PC (Microsoft Windows)",
+      "PlayStation 5",
+      "Mac"
+    ],
+    "genres": [
+      "Puzzle",
+      "Strategy",
+      "Adventure",
+      "Indie"
+    ]
+  },
+  {
     "id": 153700,
     "name": "Ghost of Tsushima: Director's Cut",
     "posters": [
@@ -5218,34 +5246,6 @@
     "genres": [
       "Shooter",
       "Adventure"
-    ]
-  },
-  {
-    "id": 149657,
-    "name": "Blue Prince",
-    "posters": [
-      "data/covers/149657.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/a06e8bb7a2ead602f451978b63ba79ec.png",
-      "https://cdn2.steamgriddb.com/hero/a0c578b3cb73ce7573bba15523d770ad.jpg",
-      "https://cdn2.steamgriddb.com/hero/7464daee9d49796baa345f68e4e845ba.png",
-      "https://cdn2.steamgriddb.com/hero/fe351d25fb94473e60319cbba72c7e57.png"
-    ],
-    "releaseYear": 2025,
-    "rating": 89,
-    "platforms": [
-      "Xbox Series X|S",
-      "Nintendo Switch 2",
-      "PC (Microsoft Windows)",
-      "PlayStation 5",
-      "Mac"
-    ],
-    "genres": [
-      "Puzzle",
-      "Strategy",
-      "Adventure",
-      "Indie"
     ]
   },
   {
@@ -5576,33 +5576,6 @@
     ]
   },
   {
-    "id": 168668,
-    "name": "Uncharted 4: A Thief's End - Remastered",
-    "posters": [
-      "data/covers/168668.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/81ef6cd96ab8d7992d5a291b20897ec4.jpg",
-      "https://cdn2.steamgriddb.com/hero/21a38ed2ee0c2c081c31286d29db2acc.png",
-      "https://cdn2.steamgriddb.com/hero/bbf514d16a56cba73809fd0b7e262436.png",
-      "https://cdn2.steamgriddb.com/hero/eeb7eebbb38d3cd16f18d4a68f065866.png",
-      "https://cdn2.steamgriddb.com/hero/07a81d45ff030b63fe2a0f375b779f09.png",
-      "https://cdn2.steamgriddb.com/hero/df7c2b3c3966426c14e4b3005c931eb1.png",
-      "https://cdn2.steamgriddb.com/hero/baef4802848fb2c2e3026a7f26a53315.png",
-      "https://cdn2.steamgriddb.com/hero/f7b6da9dedde15499538bf7e5e23f0ee.png"
-    ],
-    "releaseYear": 2022,
-    "rating": 88,
-    "platforms": [
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Shooter",
-      "Adventure"
-    ]
-  },
-  {
     "id": 134582,
     "name": "Ratchet & Clank: Rift Apart",
     "posters": [
@@ -5627,6 +5600,33 @@
     "genres": [
       "Shooter",
       "Platform",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 168668,
+    "name": "Uncharted 4: A Thief's End - Remastered",
+    "posters": [
+      "data/covers/168668.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/81ef6cd96ab8d7992d5a291b20897ec4.jpg",
+      "https://cdn2.steamgriddb.com/hero/21a38ed2ee0c2c081c31286d29db2acc.png",
+      "https://cdn2.steamgriddb.com/hero/bbf514d16a56cba73809fd0b7e262436.png",
+      "https://cdn2.steamgriddb.com/hero/eeb7eebbb38d3cd16f18d4a68f065866.png",
+      "https://cdn2.steamgriddb.com/hero/07a81d45ff030b63fe2a0f375b779f09.png",
+      "https://cdn2.steamgriddb.com/hero/df7c2b3c3966426c14e4b3005c931eb1.png",
+      "https://cdn2.steamgriddb.com/hero/baef4802848fb2c2e3026a7f26a53315.png",
+      "https://cdn2.steamgriddb.com/hero/f7b6da9dedde15499538bf7e5e23f0ee.png"
+    ],
+    "releaseYear": 2022,
+    "rating": 88,
+    "platforms": [
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Shooter",
       "Adventure"
     ]
   },
@@ -5963,8 +5963,8 @@
       "data/covers/124954.jpg"
     ],
     "heroes": [
-      "https://cdn2.steamgriddb.com/hero/6080b4a414292cce8d1c1b197708fefb.png",
       "https://cdn2.steamgriddb.com/hero/419518fcf025e16dafe3e74e1ba0cf5a.png",
+      "https://cdn2.steamgriddb.com/hero/6080b4a414292cce8d1c1b197708fefb.png",
       "https://cdn2.steamgriddb.com/hero/5e491d66377606ec44c27564123ab511.png",
       "https://cdn2.steamgriddb.com/hero/7f2e5a082324d9d664489b795e7fd83a.jpg",
       "https://cdn2.steamgriddb.com/hero/b6f418874d83c10a76f99ee9499e22e7.png",
@@ -6198,9 +6198,9 @@
       "https://cdn2.steamgriddb.com/hero/2ad39eeb55ea4d05c6930ccab04667e9.png",
       "https://cdn2.steamgriddb.com/hero/a97d5355c6c278e9cec289921a5e3f2a.png",
       "https://cdn2.steamgriddb.com/hero/0b9092dbc5e3a91d6df24256675003d8.png",
-      "https://cdn2.steamgriddb.com/hero/0d75e0a43dc1b44c71b7323b402d2c7c.png",
       "https://cdn2.steamgriddb.com/hero/93ae0d44b350540f196d8bcde3ddeca3.png",
-      "https://cdn2.steamgriddb.com/hero/8523109c9a85dbfc46eb1f46955b5449.png"
+      "https://cdn2.steamgriddb.com/hero/8523109c9a85dbfc46eb1f46955b5449.png",
+      "https://cdn2.steamgriddb.com/hero/0101604c8ed6c3a97116e52564fca3ff.jpg"
     ],
     "releaseYear": 2023,
     "rating": 87,
