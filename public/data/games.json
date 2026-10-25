@@ -2582,8 +2582,8 @@
       "https://cdn2.steamgriddb.com/hero/af523c5d4c1038a5f074c4320af0ce78.png",
       "https://cdn2.steamgriddb.com/hero/cf1c92539a270ed7a08f3eaeb5ad722e.png",
       "https://cdn2.steamgriddb.com/hero/dfd7468ac613286cdbb40872c8ef3b06.png",
-      "https://cdn2.steamgriddb.com/hero/3585d4a47883fd0497ef6fe0b9015aee.png",
       "https://cdn2.steamgriddb.com/hero/e651fdc0316d0d16c6af304d2023ca3f.jpg",
+      "https://cdn2.steamgriddb.com/hero/3585d4a47883fd0497ef6fe0b9015aee.png",
       "https://cdn2.steamgriddb.com/hero/09e7bb8e71d5cf0750cf485e9929a50e.png"
     ],
     "releaseYear": 2009,
@@ -3075,12 +3075,12 @@
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/e920bc273550d472a0c9e84b037f2592.jpg",
       "https://cdn2.steamgriddb.com/hero/08f0efebb1c51aada9430a089a2050cc.jpg",
+      "https://cdn2.steamgriddb.com/hero/b240fb15f8b659382a50a073c1debe7e.png",
       "https://cdn2.steamgriddb.com/hero/e9aa53dfacbc30e3e4a75cffcdcc0755.png",
       "https://cdn2.steamgriddb.com/hero/88340338e0a0cdc54350c05cf056dca8.jpg",
       "https://cdn2.steamgriddb.com/hero/828c3938b662961ed8f775ed638b97f2.jpg",
       "https://cdn2.steamgriddb.com/hero/36452e720502e4da486d2f9f6b48a7bb.png",
-      "https://cdn2.steamgriddb.com/hero/93d3d9ce82833d79305f60a97d2f7183.png",
-      "https://cdn2.steamgriddb.com/hero/b5a3bfc11dc90c5f5ba71d0355fc7da2.png"
+      "https://cdn2.steamgriddb.com/hero/93d3d9ce82833d79305f60a97d2f7183.png"
     ],
     "releaseYear": 2012,
     "rating": 88,
@@ -5835,6 +5835,35 @@
     ]
   },
   {
+    "id": 134612,
+    "name": "Pragmata",
+    "posters": [
+      "data/covers/134612.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/1593937e2099ea418f9c25f83e5425aa.png",
+      "https://cdn2.steamgriddb.com/hero/0b9f166f1f75217d3a28dc96e53eecfb.png",
+      "https://cdn2.steamgriddb.com/hero/b5a62c52a3558ae63099a7b1f21a46e1.png",
+      "https://cdn2.steamgriddb.com/hero/646d2f7cc11dd365e6f0aaa39831a7cc.png",
+      "https://cdn2.steamgriddb.com/hero/16b42e3bdfb5aa64c9519c72fb9fd613.png",
+      "https://cdn2.steamgriddb.com/hero/2e951e37ba37f327f064614bc8d63378.png",
+      "https://cdn2.steamgriddb.com/hero/c941029b040ed6e0da88249464283423.png",
+      "https://cdn2.steamgriddb.com/hero/7e2967e9f0dfe8106faf21d564639308.jpg"
+    ],
+    "releaseYear": 2026,
+    "rating": 87,
+    "platforms": [
+      "Xbox Series X|S",
+      "Nintendo Switch 2",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Shooter",
+      "Adventure"
+    ]
+  },
+  {
     "id": 14741,
     "name": "Psychonauts 2",
     "posters": [
@@ -5891,35 +5920,6 @@
     ],
     "genres": [
       "Role-playing (RPG)",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 134612,
-    "name": "Pragmata",
-    "posters": [
-      "data/covers/134612.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/1593937e2099ea418f9c25f83e5425aa.png",
-      "https://cdn2.steamgriddb.com/hero/0b9f166f1f75217d3a28dc96e53eecfb.png",
-      "https://cdn2.steamgriddb.com/hero/b5a62c52a3558ae63099a7b1f21a46e1.png",
-      "https://cdn2.steamgriddb.com/hero/646d2f7cc11dd365e6f0aaa39831a7cc.png",
-      "https://cdn2.steamgriddb.com/hero/16b42e3bdfb5aa64c9519c72fb9fd613.png",
-      "https://cdn2.steamgriddb.com/hero/2e951e37ba37f327f064614bc8d63378.png",
-      "https://cdn2.steamgriddb.com/hero/c941029b040ed6e0da88249464283423.png",
-      "https://cdn2.steamgriddb.com/hero/7e2967e9f0dfe8106faf21d564639308.jpg"
-    ],
-    "releaseYear": 2026,
-    "rating": 87,
-    "platforms": [
-      "Xbox Series X|S",
-      "Nintendo Switch 2",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Shooter",
       "Adventure"
     ]
   },
@@ -6698,9 +6698,9 @@
       "https://cdn2.steamgriddb.com/hero/93d80e2b713d157fabf0cb9f9e0c95d7.jpg",
       "https://cdn2.steamgriddb.com/hero/f9b0ca38d146ee5cab4a82e7dfa4b60c.jpg",
       "https://cdn2.steamgriddb.com/hero/e05498f86deb26764f32d02d6e6a675f.jpg",
-      "https://cdn2.steamgriddb.com/hero/e915736d70772f7352374c3f0a2d5e4e.jpg",
-      "https://cdn2.steamgriddb.com/hero/33fcf5910d5fd8e24eb442b5b822d639.jpg",
-      "https://cdn2.steamgriddb.com/hero/77cbbbb2592d76e212f6d65ad0fba2c2.jpg"
+      "https://cdn2.steamgriddb.com/hero/472f7e4d06068c7a8f96020972f94a7c.jpg",
+      "https://cdn2.steamgriddb.com/hero/30c2c16fa1a1f66efbcb6a64612bc8f8.jpg",
+      "https://cdn2.steamgriddb.com/hero/1f2f27b77e9da7d9c805f96fca8e2c27.jpg"
     ],
     "releaseYear": 2026,
     "rating": 0,
@@ -7210,6 +7210,28 @@
     ]
   },
   {
+    "id": 262712,
+    "name": "Ananta",
+    "posters": [
+      "data/covers/262712.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/75c649d237b5987a08b050cc34c96108.png"
+    ],
+    "releaseYear": 2027,
+    "rating": 0,
+    "platforms": [
+      "Android",
+      "PC (Microsoft Windows)",
+      "iOS",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Adventure"
+    ]
+  },
+  {
     "id": 216315,
     "name": "Marvel 1943: Rise of Hydra",
     "posters": [
@@ -7230,28 +7252,6 @@
       "PlayStation 5"
     ],
     "genres": [
-      "Adventure"
-    ]
-  },
-  {
-    "id": 262712,
-    "name": "Ananta",
-    "posters": [
-      "data/covers/262712.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/75c649d237b5987a08b050cc34c96108.png"
-    ],
-    "releaseYear": 2027,
-    "rating": 0,
-    "platforms": [
-      "Android",
-      "PC (Microsoft Windows)",
-      "iOS",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
       "Adventure"
     ]
   },
