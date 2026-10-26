@@ -2088,33 +2088,6 @@
     ]
   },
   {
-    "id": 14,
-    "name": "Fallout 2",
-    "posters": [
-      "data/covers/14.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/d479263a1438a8f9e85937a3a2d4f4a8.png",
-      "https://cdn2.steamgriddb.com/hero/10c5b95ddde3ba08fbf895d082f9b5e0.png",
-      "https://cdn2.steamgriddb.com/hero/4d7a236fafc9dbdf27697fadd7ff14cc.png",
-      "https://cdn2.steamgriddb.com/hero/3998f40ab605512d599d8b96550e084d.png",
-      "https://cdn2.steamgriddb.com/hero/63e8e9536fbbf4d06828cb7958a93d58.png",
-      "https://cdn2.steamgriddb.com/hero/917c5ffe030a6f7a0bd034248ac6e645.png",
-      "https://cdn2.steamgriddb.com/hero/3df1d4b96d8976ff5986393e8767f5b2.png",
-      "https://cdn2.steamgriddb.com/hero/517cd23ae4375b47d04ef6363a229b13.png"
-    ],
-    "releaseYear": 1998,
-    "rating": 89,
-    "platforms": [
-      "PC (Microsoft Windows)",
-      "Mac"
-    ],
-    "genres": [
-      "Puzzle",
-      "Role-playing (RPG)"
-    ]
-  },
-  {
     "id": 126,
     "name": "Diablo II",
     "posters": [
@@ -2139,6 +2112,33 @@
     "genres": [
       "Role-playing (RPG)",
       "Hack and slash/Beat 'em up"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Fallout 2",
+    "posters": [
+      "data/covers/14.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/d479263a1438a8f9e85937a3a2d4f4a8.png",
+      "https://cdn2.steamgriddb.com/hero/10c5b95ddde3ba08fbf895d082f9b5e0.png",
+      "https://cdn2.steamgriddb.com/hero/4d7a236fafc9dbdf27697fadd7ff14cc.png",
+      "https://cdn2.steamgriddb.com/hero/3998f40ab605512d599d8b96550e084d.png",
+      "https://cdn2.steamgriddb.com/hero/63e8e9536fbbf4d06828cb7958a93d58.png",
+      "https://cdn2.steamgriddb.com/hero/917c5ffe030a6f7a0bd034248ac6e645.png",
+      "https://cdn2.steamgriddb.com/hero/3df1d4b96d8976ff5986393e8767f5b2.png",
+      "https://cdn2.steamgriddb.com/hero/517cd23ae4375b47d04ef6363a229b13.png"
+    ],
+    "releaseYear": 1998,
+    "rating": 89,
+    "platforms": [
+      "PC (Microsoft Windows)",
+      "Mac"
+    ],
+    "genres": [
+      "Puzzle",
+      "Role-playing (RPG)"
     ]
   },
   {
@@ -4423,12 +4423,12 @@
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/73338368669a521b1fff24d636c6bf7e.png",
       "https://cdn2.steamgriddb.com/hero/09a824a09b7734ea1cfd2f9a34dedbfd.jpg",
-      "https://cdn2.steamgriddb.com/hero/2b3aa41ec493d9908c56dcd665d08d22.jpg",
       "https://cdn2.steamgriddb.com/hero/78ca117852cadc43f9f3d00af3001701.jpg",
+      "https://cdn2.steamgriddb.com/hero/2b3aa41ec493d9908c56dcd665d08d22.jpg",
       "https://cdn2.steamgriddb.com/hero/bba64e6137c253f4ae556a97869e31b1.png",
+      "https://cdn2.steamgriddb.com/hero/e94e5b12366081b7bf9b371f9b94ebb7.png",
       "https://cdn2.steamgriddb.com/hero/ce78d1da254c0843eb23951ae077ff5f.png",
-      "https://cdn2.steamgriddb.com/hero/1fd38a1c4411dcda2fc2e38ae6ffb79a.jpg",
-      "https://cdn2.steamgriddb.com/hero/e94e5b12366081b7bf9b371f9b94ebb7.png"
+      "https://cdn2.steamgriddb.com/hero/1fd38a1c4411dcda2fc2e38ae6ffb79a.jpg"
     ],
     "releaseYear": 2023,
     "rating": 92,
@@ -4568,9 +4568,9 @@
       "https://cdn2.steamgriddb.com/hero/be0a03c512e81c809b9b9f359e8f0883.jpg",
       "https://cdn2.steamgriddb.com/hero/02fc8aad99f83dd975d77b7aa954754d.png",
       "https://cdn2.steamgriddb.com/hero/bd6039f5e2457fc18f5c4559b3487666.jpg",
+      "https://cdn2.steamgriddb.com/hero/682a64a4fba9f39d954eaf28531e55a0.png",
       "https://cdn2.steamgriddb.com/hero/2b00e20bf615db411d9bac7819b6e003.jpg",
       "https://cdn2.steamgriddb.com/hero/a48ea3f98067cb5bbd6eb863a7b40f38.png",
-      "https://cdn2.steamgriddb.com/hero/682a64a4fba9f39d954eaf28531e55a0.png",
       "https://cdn2.steamgriddb.com/hero/08142446d0ba78b8f9091f52df384fcd.png",
       "https://cdn2.steamgriddb.com/hero/a283f6b30fc942119e90f406e7b75aa6.png"
     ],
@@ -5318,8 +5318,8 @@
       "https://cdn2.steamgriddb.com/hero/8ad3fac6c6b3528499d347d924443abb.png",
       "https://cdn2.steamgriddb.com/hero/357621b91880a03a684b1cd67e22b59b.jpg",
       "https://cdn2.steamgriddb.com/hero/4437166da63e60a4cd184816b11caf05.png",
-      "https://cdn2.steamgriddb.com/hero/1bd89c2aa2b19b9a1f4c0f5a0aaaab41.jpg",
       "https://cdn2.steamgriddb.com/hero/e25c8f3b6421b1795ba83b623d1d82c0.jpg",
+      "https://cdn2.steamgriddb.com/hero/1bd89c2aa2b19b9a1f4c0f5a0aaaab41.jpg",
       "https://cdn2.steamgriddb.com/hero/1009e23157087d494be8567cc8ba7f8f.jpg"
     ],
     "releaseYear": 2024,
@@ -5432,36 +5432,6 @@
     ]
   },
   {
-    "id": 142415,
-    "name": "Indiana Jones and the Great Circle",
-    "posters": [
-      "data/covers/142415.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/69c465a79781ae900005cebddfb758d8.png",
-      "https://cdn2.steamgriddb.com/hero/516b4673af711400934054d48d63fcdb.png",
-      "https://cdn2.steamgriddb.com/hero/0b4a7b183837c441dbe027acf7fbc1d1.png",
-      "https://cdn2.steamgriddb.com/hero/d2d28361fabf5051fcc29fb17dbbe4ae.png",
-      "https://cdn2.steamgriddb.com/hero/72dbe04264e9414d25bdd9a0d4392eb3.png",
-      "https://cdn2.steamgriddb.com/hero/8563d695f4ad96aea93248344366604d.jpg",
-      "https://cdn2.steamgriddb.com/hero/eee9bf07b136cc4ec40360746f31304d.png",
-      "https://cdn2.steamgriddb.com/hero/6a517f8cc0559a504160465295430293.png"
-    ],
-    "releaseYear": 2024,
-    "rating": 89,
-    "platforms": [
-      "Xbox Series X|S",
-      "Nintendo Switch 2",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Puzzle",
-      "Role-playing (RPG)",
-      "Adventure"
-    ]
-  },
-  {
     "id": 252647,
     "name": "Persona 3 Reload",
     "posters": [
@@ -5544,6 +5514,36 @@
       "Point-and-click",
       "Adventure",
       "Indie"
+    ]
+  },
+  {
+    "id": 142415,
+    "name": "Indiana Jones and the Great Circle",
+    "posters": [
+      "data/covers/142415.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/69c465a79781ae900005cebddfb758d8.png",
+      "https://cdn2.steamgriddb.com/hero/516b4673af711400934054d48d63fcdb.png",
+      "https://cdn2.steamgriddb.com/hero/0b4a7b183837c441dbe027acf7fbc1d1.png",
+      "https://cdn2.steamgriddb.com/hero/d2d28361fabf5051fcc29fb17dbbe4ae.png",
+      "https://cdn2.steamgriddb.com/hero/72dbe04264e9414d25bdd9a0d4392eb3.png",
+      "https://cdn2.steamgriddb.com/hero/8563d695f4ad96aea93248344366604d.jpg",
+      "https://cdn2.steamgriddb.com/hero/eee9bf07b136cc4ec40360746f31304d.png",
+      "https://cdn2.steamgriddb.com/hero/6a517f8cc0559a504160465295430293.png"
+    ],
+    "releaseYear": 2024,
+    "rating": 88,
+    "platforms": [
+      "Xbox Series X|S",
+      "Nintendo Switch 2",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Puzzle",
+      "Role-playing (RPG)",
+      "Adventure"
     ]
   },
   {
@@ -6428,9 +6428,9 @@
       "https://cdn2.steamgriddb.com/hero/f6865660406ac68ce2cf3aee624ab2a6.png",
       "https://cdn2.steamgriddb.com/hero/87d93f94d5ff7211456d9742e970d861.png",
       "https://cdn2.steamgriddb.com/hero/85870c6bd84c86a1eb59bc1d770c23a9.png",
-      "https://cdn2.steamgriddb.com/hero/70ed2f2d61a4e79a4079049d01d42989.jpg",
       "https://cdn2.steamgriddb.com/hero/f3ff6f500449961c12d5471fcf821cda.png",
-      "https://cdn2.steamgriddb.com/hero/d4e08acc73d2038cc88df1a8a1c8a822.png"
+      "https://cdn2.steamgriddb.com/hero/d4e08acc73d2038cc88df1a8a1c8a822.png",
+      "https://cdn2.steamgriddb.com/hero/70ed2f2d61a4e79a4079049d01d42989.jpg"
     ],
     "releaseYear": 2023,
     "rating": 86,
@@ -6551,10 +6551,10 @@
       "https://cdn2.steamgriddb.com/hero/e5b81416d033fd7e1dbfd8ebd0f354f1.png",
       "https://cdn2.steamgriddb.com/hero/81a7f320c97037905c1e74ed4fba57b4.png",
       "https://cdn2.steamgriddb.com/hero/de2326cf69d9b51067dc2253aaf8c883.png",
+      "https://cdn2.steamgriddb.com/hero/28f9fe37e8e1458b1b46f8fd68fce094.jpg",
       "https://cdn2.steamgriddb.com/hero/585e8d6e108d44ee0303463ba7fb023e.jpg",
       "https://cdn2.steamgriddb.com/hero/54bf847d6e3908dc5277af42fbf566db.png",
-      "https://cdn2.steamgriddb.com/hero/1ccfd90b5d5a5504eeceea9404433515.jpg",
-      "https://cdn2.steamgriddb.com/hero/c33eb6109cb5509165ec855ca28e060d.png"
+      "https://cdn2.steamgriddb.com/hero/1ccfd90b5d5a5504eeceea9404433515.jpg"
     ],
     "releaseYear": 2023,
     "rating": 86,
@@ -6698,9 +6698,9 @@
       "https://cdn2.steamgriddb.com/hero/93d80e2b713d157fabf0cb9f9e0c95d7.jpg",
       "https://cdn2.steamgriddb.com/hero/f9b0ca38d146ee5cab4a82e7dfa4b60c.jpg",
       "https://cdn2.steamgriddb.com/hero/e05498f86deb26764f32d02d6e6a675f.jpg",
-      "https://cdn2.steamgriddb.com/hero/472f7e4d06068c7a8f96020972f94a7c.jpg",
-      "https://cdn2.steamgriddb.com/hero/30c2c16fa1a1f66efbcb6a64612bc8f8.jpg",
-      "https://cdn2.steamgriddb.com/hero/1f2f27b77e9da7d9c805f96fca8e2c27.jpg"
+      "https://cdn2.steamgriddb.com/hero/67111ba17799dbe2a3d3a58657de7060.jpg",
+      "https://cdn2.steamgriddb.com/hero/a6b6136ad6b9019fa31b741ae5cfa0f1.jpg",
+      "https://cdn2.steamgriddb.com/hero/472f7e4d06068c7a8f96020972f94a7c.jpg"
     ],
     "releaseYear": 2026,
     "rating": 0,
@@ -6798,32 +6798,6 @@
     ]
   },
   {
-    "id": 51523,
-    "name": "The Wolf Among Us 2",
-    "posters": [
-      "data/covers/51523.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/2c0f53dee17ccd6ed509706d91591dce.png",
-      "https://cdn2.steamgriddb.com/hero/13da0028fd08c72a6ebd05a1a740fa99.jpg",
-      "https://cdn2.steamgriddb.com/hero/2a74ea5a5751d05390c13e79109ae192.png"
-    ],
-    "releaseYear": 2027,
-    "rating": 0,
-    "platforms": [
-      "Xbox Series X|S",
-      "Nintendo Switch 2",
-      "PC (Microsoft Windows)",
-      "PlayStation 5",
-      "Xbox One",
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Point-and-click",
-      "Adventure"
-    ]
-  },
-  {
     "id": 381235,
     "name": "Tomb Raider: Legacy of Atlantis",
     "posters": [
@@ -6850,6 +6824,32 @@
     "genres": [
       "Platform",
       "Puzzle",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 51523,
+    "name": "The Wolf Among Us 2",
+    "posters": [
+      "data/covers/51523.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/2c0f53dee17ccd6ed509706d91591dce.png",
+      "https://cdn2.steamgriddb.com/hero/13da0028fd08c72a6ebd05a1a740fa99.jpg",
+      "https://cdn2.steamgriddb.com/hero/2a74ea5a5751d05390c13e79109ae192.png"
+    ],
+    "releaseYear": 2027,
+    "rating": 0,
+    "platforms": [
+      "Xbox Series X|S",
+      "Nintendo Switch 2",
+      "PC (Microsoft Windows)",
+      "PlayStation 5",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Point-and-click",
       "Adventure"
     ]
   },
@@ -6969,31 +6969,6 @@
     ]
   },
   {
-    "id": 331212,
-    "name": "Tides of Annihilation",
-    "posters": [
-      "data/covers/331212.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/8a2d814c49d0f4a6a7b8cc84769944d3.png",
-      "https://cdn2.steamgriddb.com/hero/c3242232f2f02854bfa78c9a65786b76.png",
-      "https://cdn2.steamgriddb.com/hero/9dc4995116b45bc9d97bafbe2a533a14.png",
-      "https://cdn2.steamgriddb.com/hero/6aecc5688439e968309784eb983bad6e.png"
-    ],
-    "releaseYear": 0,
-    "rating": 0,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Hack and slash/Beat 'em up",
-      "Adventure"
-    ]
-  },
-  {
     "id": 325599,
     "name": "Stranger Than Heaven",
     "posters": [
@@ -7017,6 +6992,31 @@
       "Fighting",
       "Puzzle",
       "Role-playing (RPG)",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 331212,
+    "name": "Tides of Annihilation",
+    "posters": [
+      "data/covers/331212.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/8a2d814c49d0f4a6a7b8cc84769944d3.png",
+      "https://cdn2.steamgriddb.com/hero/c3242232f2f02854bfa78c9a65786b76.png",
+      "https://cdn2.steamgriddb.com/hero/9dc4995116b45bc9d97bafbe2a533a14.png",
+      "https://cdn2.steamgriddb.com/hero/6aecc5688439e968309784eb983bad6e.png"
+    ],
+    "releaseYear": 0,
+    "rating": 0,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Hack and slash/Beat 'em up",
       "Adventure"
     ]
   },
