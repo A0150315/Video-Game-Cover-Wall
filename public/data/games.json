@@ -2781,11 +2781,11 @@
     ],
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/25fa2d39a0143f1f30c36eece145a526.png",
-      "https://cdn2.steamgriddb.com/hero/6962448d565dc65ce98caf5e51e1dfec.png",
       "https://cdn2.steamgriddb.com/hero/08d98638c6fcd194a4b1e6992063e944.png",
       "https://cdn2.steamgriddb.com/hero/68a83eeb494a308fe5295da69428a507.png",
       "https://cdn2.steamgriddb.com/hero/5192a7fcc1feaf3b1583e155b643d206.png",
       "https://cdn2.steamgriddb.com/hero/a0bfd9e2a5529c21836fd99454a390bb.png",
+      "https://cdn2.steamgriddb.com/hero/6962448d565dc65ce98caf5e51e1dfec.png",
       "https://cdn2.steamgriddb.com/hero/3925d313c95e874b3e75a4b6d2067d2a.png",
       "https://cdn2.steamgriddb.com/hero/b37702dda7c58db954b3a56c71412c51.png"
     ],
@@ -4795,6 +4795,36 @@
     ]
   },
   {
+    "id": 347668,
+    "name": "Resident Evil Requiem",
+    "posters": [
+      "data/covers/347668.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/2908a94a0c74238e4af35e845b0e28b0.png",
+      "https://cdn2.steamgriddb.com/hero/3ff84500afe8620c3bb534674503e049.jpg",
+      "https://cdn2.steamgriddb.com/hero/535d1ec83aa5a4aa7c2bfe6b407e2ad5.jpg",
+      "https://cdn2.steamgriddb.com/hero/e2c5a7c8f6dfff70b087d86eaeae1254.jpg",
+      "https://cdn2.steamgriddb.com/hero/dc23640934cc23782aba6c6058d6aca3.png",
+      "https://cdn2.steamgriddb.com/hero/adac3ab52816548eaad12812ffe86574.jpg",
+      "https://cdn2.steamgriddb.com/hero/1258e7898e0d685adf6b58d762e21ca4.png",
+      "https://cdn2.steamgriddb.com/hero/ca75cfd1b6c503a8c1bcfcf06dde7c54.png"
+    ],
+    "releaseYear": 2026,
+    "rating": 90,
+    "platforms": [
+      "Xbox Series X|S",
+      "Nintendo Switch 2",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Shooter",
+      "Puzzle",
+      "Adventure"
+    ]
+  },
+  {
     "id": 233571,
     "name": "Hitman World of Assassination",
     "posters": [
@@ -4827,36 +4857,6 @@
     "genres": [
       "Shooter",
       "Tactical",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 347668,
-    "name": "Resident Evil Requiem",
-    "posters": [
-      "data/covers/347668.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/2908a94a0c74238e4af35e845b0e28b0.png",
-      "https://cdn2.steamgriddb.com/hero/3ff84500afe8620c3bb534674503e049.jpg",
-      "https://cdn2.steamgriddb.com/hero/535d1ec83aa5a4aa7c2bfe6b407e2ad5.jpg",
-      "https://cdn2.steamgriddb.com/hero/e2c5a7c8f6dfff70b087d86eaeae1254.jpg",
-      "https://cdn2.steamgriddb.com/hero/dc23640934cc23782aba6c6058d6aca3.png",
-      "https://cdn2.steamgriddb.com/hero/adac3ab52816548eaad12812ffe86574.jpg",
-      "https://cdn2.steamgriddb.com/hero/1258e7898e0d685adf6b58d762e21ca4.png",
-      "https://cdn2.steamgriddb.com/hero/ca75cfd1b6c503a8c1bcfcf06dde7c54.png"
-    ],
-    "releaseYear": 2026,
-    "rating": 90,
-    "platforms": [
-      "Xbox Series X|S",
-      "Nintendo Switch 2",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Shooter",
-      "Puzzle",
       "Adventure"
     ]
   },
@@ -5442,10 +5442,10 @@
       "https://cdn2.steamgriddb.com/hero/f5376def264bb8f80e75febe0a36b089.png",
       "https://cdn2.steamgriddb.com/hero/edb932e845b3b816bc39ef91f702042b.png",
       "https://cdn2.steamgriddb.com/hero/f52cb0325088a89af9c48d4e89dd2ce2.png",
+      "https://cdn2.steamgriddb.com/hero/b1248c25e8dd803710143fa7cb1a80ff.png",
       "https://cdn2.steamgriddb.com/hero/7587d3514b0acf05f71217ccedc39a0e.png",
       "https://cdn2.steamgriddb.com/hero/80abda361bbb8e7edb74837d13788f48.png",
-      "https://cdn2.steamgriddb.com/hero/b87dbad34e20b42e70f2ff693ad9537d.png",
-      "https://cdn2.steamgriddb.com/hero/b1248c25e8dd803710143fa7cb1a80ff.png"
+      "https://cdn2.steamgriddb.com/hero/b87dbad34e20b42e70f2ff693ad9537d.png"
     ],
     "releaseYear": 2024,
     "rating": 88,
@@ -5687,36 +5687,6 @@
     ]
   },
   {
-    "id": 132205,
-    "name": "F1 2020",
-    "posters": [
-      "data/covers/132205.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/a9857545e0fa248ba383afdb20b60d16.png",
-      "https://cdn2.steamgriddb.com/hero/a7b344c58979fefcf891b91a8e5abb22.png",
-      "https://cdn2.steamgriddb.com/hero/4de16f0e676519dbecb1a611b0e29cea.png",
-      "https://cdn2.steamgriddb.com/hero/52967a3855319c3e7ac5731091dda96e.jpg",
-      "https://cdn2.steamgriddb.com/hero/9e38b231e32ad1066f81da8e83626957.jpg",
-      "https://cdn2.steamgriddb.com/hero/f93de28d9a9839c043f525890cb2f2fa.jpg",
-      "https://cdn2.steamgriddb.com/hero/e0df2a6236771992a0d39345c4b73f71.png",
-      "https://cdn2.steamgriddb.com/hero/5efb32b1b1baad8af13250b6368062cf.png"
-    ],
-    "releaseYear": 2020,
-    "rating": 88,
-    "platforms": [
-      "Google Stadia",
-      "PlayStation 4",
-      "PC (Microsoft Windows)",
-      "Xbox One"
-    ],
-    "genres": [
-      "Racing",
-      "Simulator",
-      "Sport"
-    ]
-  },
-  {
     "id": 250621,
     "name": "Neva",
     "posters": [
@@ -5747,6 +5717,36 @@
       "Puzzle",
       "Adventure",
       "Indie"
+    ]
+  },
+  {
+    "id": 132205,
+    "name": "F1 2020",
+    "posters": [
+      "data/covers/132205.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/a9857545e0fa248ba383afdb20b60d16.png",
+      "https://cdn2.steamgriddb.com/hero/a7b344c58979fefcf891b91a8e5abb22.png",
+      "https://cdn2.steamgriddb.com/hero/4de16f0e676519dbecb1a611b0e29cea.png",
+      "https://cdn2.steamgriddb.com/hero/52967a3855319c3e7ac5731091dda96e.jpg",
+      "https://cdn2.steamgriddb.com/hero/9e38b231e32ad1066f81da8e83626957.jpg",
+      "https://cdn2.steamgriddb.com/hero/f93de28d9a9839c043f525890cb2f2fa.jpg",
+      "https://cdn2.steamgriddb.com/hero/e0df2a6236771992a0d39345c4b73f71.png",
+      "https://cdn2.steamgriddb.com/hero/5efb32b1b1baad8af13250b6368062cf.png"
+    ],
+    "releaseYear": 2020,
+    "rating": 88,
+    "platforms": [
+      "Google Stadia",
+      "PlayStation 4",
+      "PC (Microsoft Windows)",
+      "Xbox One"
+    ],
+    "genres": [
+      "Racing",
+      "Simulator",
+      "Sport"
     ]
   },
   {
@@ -6023,40 +6023,6 @@
     ]
   },
   {
-    "id": 194821,
-    "name": "Nine Sols",
-    "posters": [
-      "data/covers/194821.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/d692ac7798fc83dfbd340003112084f7.png",
-      "https://cdn2.steamgriddb.com/hero/0218a173ca02d7c2036ab4ba42911b8e.png",
-      "https://cdn2.steamgriddb.com/hero/cff6ebf011d28a7adbdbe34fed74881f.png",
-      "https://cdn2.steamgriddb.com/hero/98d097683939501582a4f9ce1253851a.jpg",
-      "https://cdn2.steamgriddb.com/hero/9d1ee8cad78f6062a99c870394d35bae.png",
-      "https://cdn2.steamgriddb.com/hero/716ceafa7f37de96996b0154686fdcf2.png",
-      "https://cdn2.steamgriddb.com/hero/7a5efbe8db5b7092566da85315df3ee8.png",
-      "https://cdn2.steamgriddb.com/hero/7ead969cd27b943111faf6651224f092.png"
-    ],
-    "releaseYear": 2024,
-    "rating": 87,
-    "platforms": [
-      "Xbox Series X|S",
-      "PlayStation 4",
-      "PC (Microsoft Windows)",
-      "PlayStation 5",
-      "Mac",
-      "Xbox One",
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Platform",
-      "Hack and slash/Beat 'em up",
-      "Adventure",
-      "Indie"
-    ]
-  },
-  {
     "id": 203722,
     "name": "Dave the Diver",
     "posters": [
@@ -6089,6 +6055,40 @@
       "Role-playing (RPG)",
       "Simulator",
       "Adventure"
+    ]
+  },
+  {
+    "id": 194821,
+    "name": "Nine Sols",
+    "posters": [
+      "data/covers/194821.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/d692ac7798fc83dfbd340003112084f7.png",
+      "https://cdn2.steamgriddb.com/hero/0218a173ca02d7c2036ab4ba42911b8e.png",
+      "https://cdn2.steamgriddb.com/hero/cff6ebf011d28a7adbdbe34fed74881f.png",
+      "https://cdn2.steamgriddb.com/hero/98d097683939501582a4f9ce1253851a.jpg",
+      "https://cdn2.steamgriddb.com/hero/9d1ee8cad78f6062a99c870394d35bae.png",
+      "https://cdn2.steamgriddb.com/hero/716ceafa7f37de96996b0154686fdcf2.png",
+      "https://cdn2.steamgriddb.com/hero/7a5efbe8db5b7092566da85315df3ee8.png",
+      "https://cdn2.steamgriddb.com/hero/7ead969cd27b943111faf6651224f092.png"
+    ],
+    "releaseYear": 2024,
+    "rating": 87,
+    "platforms": [
+      "Xbox Series X|S",
+      "PlayStation 4",
+      "PC (Microsoft Windows)",
+      "PlayStation 5",
+      "Mac",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Platform",
+      "Hack and slash/Beat 'em up",
+      "Adventure",
+      "Indie"
     ]
   },
   {
@@ -6698,9 +6698,9 @@
       "https://cdn2.steamgriddb.com/hero/93d80e2b713d157fabf0cb9f9e0c95d7.jpg",
       "https://cdn2.steamgriddb.com/hero/f9b0ca38d146ee5cab4a82e7dfa4b60c.jpg",
       "https://cdn2.steamgriddb.com/hero/e05498f86deb26764f32d02d6e6a675f.jpg",
+      "https://cdn2.steamgriddb.com/hero/2fb8fc698f9c9507e6541cb82f18faf5.jpg",
       "https://cdn2.steamgriddb.com/hero/67111ba17799dbe2a3d3a58657de7060.jpg",
-      "https://cdn2.steamgriddb.com/hero/a6b6136ad6b9019fa31b741ae5cfa0f1.jpg",
-      "https://cdn2.steamgriddb.com/hero/472f7e4d06068c7a8f96020972f94a7c.jpg"
+      "https://cdn2.steamgriddb.com/hero/a6b6136ad6b9019fa31b741ae5cfa0f1.jpg"
     ],
     "releaseYear": 2026,
     "rating": 0,
