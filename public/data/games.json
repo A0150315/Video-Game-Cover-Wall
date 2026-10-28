@@ -3925,6 +3925,34 @@
     ]
   },
   {
+    "id": 17447,
+    "name": "Titanfall 2",
+    "posters": [
+      "data/covers/17447.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/1baff70e2669e8376347efd3a874a341.png",
+      "https://cdn2.steamgriddb.com/hero/204fdcae117b31aa8d74aad10e7e37ce.png",
+      "https://cdn2.steamgriddb.com/hero/90fd26a243f6d14c4b3df082cdc8da66.png",
+      "https://cdn2.steamgriddb.com/hero/1b38cc09ed3fb15e797212489bdb9e48.png",
+      "https://cdn2.steamgriddb.com/hero/97cc775a12dd85b38c4c63bf11e43fef.png",
+      "https://cdn2.steamgriddb.com/hero/89f927c72c9114c5c36b7fdb2d1198a8.jpg",
+      "https://cdn2.steamgriddb.com/hero/3de74f78d82c374f9edd8dc7f3b126ed.png",
+      "https://cdn2.steamgriddb.com/hero/f0e6055aa7c6f509c6385327eb615820.jpg"
+    ],
+    "releaseYear": 2016,
+    "rating": 86,
+    "platforms": [
+      "PlayStation 4",
+      "PC (Microsoft Windows)",
+      "Xbox One"
+    ],
+    "genres": [
+      "Shooter",
+      "Adventure"
+    ]
+  },
+  {
     "id": 623,
     "name": "Call of Duty 4: Modern Warfare",
     "posters": [
@@ -3951,34 +3979,6 @@
     "genres": [
       "Shooter",
       "Simulator"
-    ]
-  },
-  {
-    "id": 17447,
-    "name": "Titanfall 2",
-    "posters": [
-      "data/covers/17447.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/1baff70e2669e8376347efd3a874a341.png",
-      "https://cdn2.steamgriddb.com/hero/204fdcae117b31aa8d74aad10e7e37ce.png",
-      "https://cdn2.steamgriddb.com/hero/90fd26a243f6d14c4b3df082cdc8da66.png",
-      "https://cdn2.steamgriddb.com/hero/1b38cc09ed3fb15e797212489bdb9e48.png",
-      "https://cdn2.steamgriddb.com/hero/97cc775a12dd85b38c4c63bf11e43fef.png",
-      "https://cdn2.steamgriddb.com/hero/89f927c72c9114c5c36b7fdb2d1198a8.jpg",
-      "https://cdn2.steamgriddb.com/hero/3de74f78d82c374f9edd8dc7f3b126ed.png",
-      "https://cdn2.steamgriddb.com/hero/f0e6055aa7c6f509c6385327eb615820.jpg"
-    ],
-    "releaseYear": 2016,
-    "rating": 86,
-    "platforms": [
-      "PlayStation 4",
-      "PC (Microsoft Windows)",
-      "Xbox One"
-    ],
-    "genres": [
-      "Shooter",
-      "Adventure"
     ]
   },
   {
@@ -4795,36 +4795,6 @@
     ]
   },
   {
-    "id": 347668,
-    "name": "Resident Evil Requiem",
-    "posters": [
-      "data/covers/347668.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/2908a94a0c74238e4af35e845b0e28b0.png",
-      "https://cdn2.steamgriddb.com/hero/3ff84500afe8620c3bb534674503e049.jpg",
-      "https://cdn2.steamgriddb.com/hero/535d1ec83aa5a4aa7c2bfe6b407e2ad5.jpg",
-      "https://cdn2.steamgriddb.com/hero/e2c5a7c8f6dfff70b087d86eaeae1254.jpg",
-      "https://cdn2.steamgriddb.com/hero/dc23640934cc23782aba6c6058d6aca3.png",
-      "https://cdn2.steamgriddb.com/hero/adac3ab52816548eaad12812ffe86574.jpg",
-      "https://cdn2.steamgriddb.com/hero/1258e7898e0d685adf6b58d762e21ca4.png",
-      "https://cdn2.steamgriddb.com/hero/ca75cfd1b6c503a8c1bcfcf06dde7c54.png"
-    ],
-    "releaseYear": 2026,
-    "rating": 90,
-    "platforms": [
-      "Xbox Series X|S",
-      "Nintendo Switch 2",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Shooter",
-      "Puzzle",
-      "Adventure"
-    ]
-  },
-  {
     "id": 233571,
     "name": "Hitman World of Assassination",
     "posters": [
@@ -5002,6 +4972,36 @@
     ],
     "genres": [
       "Shooter",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 347668,
+    "name": "Resident Evil Requiem",
+    "posters": [
+      "data/covers/347668.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/2908a94a0c74238e4af35e845b0e28b0.png",
+      "https://cdn2.steamgriddb.com/hero/3ff84500afe8620c3bb534674503e049.jpg",
+      "https://cdn2.steamgriddb.com/hero/535d1ec83aa5a4aa7c2bfe6b407e2ad5.jpg",
+      "https://cdn2.steamgriddb.com/hero/e2c5a7c8f6dfff70b087d86eaeae1254.jpg",
+      "https://cdn2.steamgriddb.com/hero/dc23640934cc23782aba6c6058d6aca3.png",
+      "https://cdn2.steamgriddb.com/hero/adac3ab52816548eaad12812ffe86574.jpg",
+      "https://cdn2.steamgriddb.com/hero/1258e7898e0d685adf6b58d762e21ca4.png",
+      "https://cdn2.steamgriddb.com/hero/ca75cfd1b6c503a8c1bcfcf06dde7c54.png"
+    ],
+    "releaseYear": 2026,
+    "rating": 90,
+    "platforms": [
+      "Xbox Series X|S",
+      "Nintendo Switch 2",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Shooter",
+      "Puzzle",
       "Adventure"
     ]
   },
@@ -6696,11 +6696,11 @@
       "https://cdn2.steamgriddb.com/hero/cd172dd5af50902d4a1c43c4dfc3d6c7.png",
       "https://cdn2.steamgriddb.com/hero/f4a93b647ca764286d8f7a7e9fa49417.png",
       "https://cdn2.steamgriddb.com/hero/93d80e2b713d157fabf0cb9f9e0c95d7.jpg",
+      "https://cdn2.steamgriddb.com/hero/b3a02d3042914b0cb3abc0c49660333f.jpg",
       "https://cdn2.steamgriddb.com/hero/f9b0ca38d146ee5cab4a82e7dfa4b60c.jpg",
       "https://cdn2.steamgriddb.com/hero/e05498f86deb26764f32d02d6e6a675f.jpg",
-      "https://cdn2.steamgriddb.com/hero/2fb8fc698f9c9507e6541cb82f18faf5.jpg",
-      "https://cdn2.steamgriddb.com/hero/67111ba17799dbe2a3d3a58657de7060.jpg",
-      "https://cdn2.steamgriddb.com/hero/a6b6136ad6b9019fa31b741ae5cfa0f1.jpg"
+      "https://cdn2.steamgriddb.com/hero/50c02dd0d30f65bb7394a7e842eacd84.jpg",
+      "https://cdn2.steamgriddb.com/hero/2fb8fc698f9c9507e6541cb82f18faf5.jpg"
     ],
     "releaseYear": 2026,
     "rating": 0,
