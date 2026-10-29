@@ -8,12 +8,12 @@
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/db5a2b11cd60316f5db7a66e657a626a.png",
       "https://cdn2.steamgriddb.com/hero/66680987a9c47ea79d27eed171203481.jpg",
-      "https://cdn2.steamgriddb.com/hero/1397b00c9f187b3a90966db4b1e6504b.jpg",
-      "https://cdn2.steamgriddb.com/hero/187e711b8a14d4a03b93414efe1bd2c5.png",
-      "https://cdn2.steamgriddb.com/hero/68bfff9ddf8cb32865c784df054a1096.png",
       "https://cdn2.steamgriddb.com/hero/19f915a215f6d908b252a52091d05e5f.jpg",
+      "https://cdn2.steamgriddb.com/hero/1397b00c9f187b3a90966db4b1e6504b.jpg",
+      "https://cdn2.steamgriddb.com/hero/68bfff9ddf8cb32865c784df054a1096.png",
       "https://cdn2.steamgriddb.com/hero/54eb3ce0d10cbb683d465a72a0da60aa.png",
-      "https://cdn2.steamgriddb.com/hero/697c39d9a177c0d657e1ff2b258a8094.png"
+      "https://cdn2.steamgriddb.com/hero/697c39d9a177c0d657e1ff2b258a8094.png",
+      "https://cdn2.steamgriddb.com/hero/57a1fa5007f21ec45b7fdb9c032a1685.jpg"
     ],
     "releaseYear": 2016,
     "rating": 98,
@@ -4706,36 +4706,6 @@
     ]
   },
   {
-    "id": 325594,
-    "name": "Split Fiction",
-    "posters": [
-      "data/covers/325594.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/ef41115b8a262573b89017d7fc8f29da.png",
-      "https://cdn2.steamgriddb.com/hero/5a72b144029e9c4366727a0fc01234c5.png",
-      "https://cdn2.steamgriddb.com/hero/638280a8dd1707928685d85dc07953c2.png",
-      "https://cdn2.steamgriddb.com/hero/9adfabf9343cec257a9afbef2feb7c51.png",
-      "https://cdn2.steamgriddb.com/hero/8e9d5963eec66fb4748bbbf180f876bc.png",
-      "https://cdn2.steamgriddb.com/hero/cf5bb59ad1a80b2f93633b746cf3c4ce.png",
-      "https://cdn2.steamgriddb.com/hero/cb0ddc1d9c974da31eab1cfa3ed61ea7.png",
-      "https://cdn2.steamgriddb.com/hero/2c743f2d4e76731333c43e8f5562f687.jpg"
-    ],
-    "releaseYear": 2025,
-    "rating": 90,
-    "platforms": [
-      "Xbox Series X|S",
-      "Nintendo Switch 2",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Platform",
-      "Puzzle",
-      "Adventure"
-    ]
-  },
-  {
     "id": 26602,
     "name": "Metaphor: ReFantazio",
     "posters": [
@@ -4861,6 +4831,36 @@
       "Turn-based strategy (TBS)",
       "Adventure",
       "Indie"
+    ]
+  },
+  {
+    "id": 325594,
+    "name": "Split Fiction",
+    "posters": [
+      "data/covers/325594.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/ef41115b8a262573b89017d7fc8f29da.png",
+      "https://cdn2.steamgriddb.com/hero/5a72b144029e9c4366727a0fc01234c5.png",
+      "https://cdn2.steamgriddb.com/hero/638280a8dd1707928685d85dc07953c2.png",
+      "https://cdn2.steamgriddb.com/hero/9adfabf9343cec257a9afbef2feb7c51.png",
+      "https://cdn2.steamgriddb.com/hero/8e9d5963eec66fb4748bbbf180f876bc.png",
+      "https://cdn2.steamgriddb.com/hero/cf5bb59ad1a80b2f93633b746cf3c4ce.png",
+      "https://cdn2.steamgriddb.com/hero/cb0ddc1d9c974da31eab1cfa3ed61ea7.png",
+      "https://cdn2.steamgriddb.com/hero/2c743f2d4e76731333c43e8f5562f687.jpg"
+    ],
+    "releaseYear": 2025,
+    "rating": 90,
+    "platforms": [
+      "Xbox Series X|S",
+      "Nintendo Switch 2",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Platform",
+      "Puzzle",
+      "Adventure"
     ]
   },
   {
@@ -6697,10 +6697,10 @@
       "https://cdn2.steamgriddb.com/hero/f4a93b647ca764286d8f7a7e9fa49417.png",
       "https://cdn2.steamgriddb.com/hero/93d80e2b713d157fabf0cb9f9e0c95d7.jpg",
       "https://cdn2.steamgriddb.com/hero/b3a02d3042914b0cb3abc0c49660333f.jpg",
+      "https://cdn2.steamgriddb.com/hero/472f7e4d06068c7a8f96020972f94a7c.jpg",
       "https://cdn2.steamgriddb.com/hero/f9b0ca38d146ee5cab4a82e7dfa4b60c.jpg",
       "https://cdn2.steamgriddb.com/hero/e05498f86deb26764f32d02d6e6a675f.jpg",
-      "https://cdn2.steamgriddb.com/hero/50c02dd0d30f65bb7394a7e842eacd84.jpg",
-      "https://cdn2.steamgriddb.com/hero/2fb8fc698f9c9507e6541cb82f18faf5.jpg"
+      "https://cdn2.steamgriddb.com/hero/596e5e37fa96ec5c4ecc662d168692e2.png"
     ],
     "releaseYear": 2026,
     "rating": 0,
@@ -6969,6 +6969,31 @@
     ]
   },
   {
+    "id": 331212,
+    "name": "Tides of Annihilation",
+    "posters": [
+      "data/covers/331212.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/8a2d814c49d0f4a6a7b8cc84769944d3.png",
+      "https://cdn2.steamgriddb.com/hero/c3242232f2f02854bfa78c9a65786b76.png",
+      "https://cdn2.steamgriddb.com/hero/9dc4995116b45bc9d97bafbe2a533a14.png",
+      "https://cdn2.steamgriddb.com/hero/6aecc5688439e968309784eb983bad6e.png"
+    ],
+    "releaseYear": 0,
+    "rating": 0,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Hack and slash/Beat 'em up",
+      "Adventure"
+    ]
+  },
+  {
     "id": 325599,
     "name": "Stranger Than Heaven",
     "posters": [
@@ -6992,31 +7017,6 @@
       "Fighting",
       "Puzzle",
       "Role-playing (RPG)",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 331212,
-    "name": "Tides of Annihilation",
-    "posters": [
-      "data/covers/331212.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/8a2d814c49d0f4a6a7b8cc84769944d3.png",
-      "https://cdn2.steamgriddb.com/hero/c3242232f2f02854bfa78c9a65786b76.png",
-      "https://cdn2.steamgriddb.com/hero/9dc4995116b45bc9d97bafbe2a533a14.png",
-      "https://cdn2.steamgriddb.com/hero/6aecc5688439e968309784eb983bad6e.png"
-    ],
-    "releaseYear": 0,
-    "rating": 0,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Hack and slash/Beat 'em up",
       "Adventure"
     ]
   },
