@@ -1121,8 +1121,8 @@
       "https://cdn2.steamgriddb.com/hero/45402d4ff8981a182dcfc4813600961f.png",
       "https://cdn2.steamgriddb.com/hero/d9ac1fc532da6646901e9b30ba8964dd.png",
       "https://cdn2.steamgriddb.com/hero/800ca5c1483432d248c8104d60a0db71.png",
-      "https://cdn2.steamgriddb.com/hero/cf9dfba593148297d8d8b0abd1c42612.png",
-      "https://cdn2.steamgriddb.com/hero/b96fab78f4c997de5d5fa8621625e8b4.png"
+      "https://cdn2.steamgriddb.com/hero/3b20413fc76c5f432ede85b03e8af0a1.png",
+      "https://cdn2.steamgriddb.com/hero/cf9dfba593148297d8d8b0abd1c42612.png"
     ],
     "releaseYear": 2020,
     "rating": 91,
@@ -2655,35 +2655,6 @@
     ]
   },
   {
-    "id": 5503,
-    "name": "Batman: Arkham Knight",
-    "posters": [
-      "data/covers/5503.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/6c8dba7d0df1c4a79dd07646be9a26c8.jpg",
-      "https://cdn2.steamgriddb.com/hero/479eaa8e93a42b42d12992f086cfa14f.jpg",
-      "https://cdn2.steamgriddb.com/hero/5b5abc705cc52b743cc9d6ad5fffdfa4.png",
-      "https://cdn2.steamgriddb.com/hero/e8257cae02495b31c4e89a4ae812499c.jpg",
-      "https://cdn2.steamgriddb.com/hero/a2802cade04644083dcde1c8c483ed9a.png",
-      "https://cdn2.steamgriddb.com/hero/0fe500898e3183422bebc8325bfc9515.png",
-      "https://cdn2.steamgriddb.com/hero/bc85fc1467a30e358710e800e644fec8.jpg",
-      "https://cdn2.steamgriddb.com/hero/b323c8edba96b335f0761d1dd004b26c.jpg"
-    ],
-    "releaseYear": 2015,
-    "rating": 88,
-    "platforms": [
-      "PlayStation 4",
-      "PC (Microsoft Windows)",
-      "Xbox One",
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Hack and slash/Beat 'em up",
-      "Adventure"
-    ]
-  },
-  {
     "id": 40477,
     "name": "Slay the Spire",
     "posters": [
@@ -2718,6 +2689,35 @@
       "Adventure",
       "Indie",
       "Card & Board Game"
+    ]
+  },
+  {
+    "id": 5503,
+    "name": "Batman: Arkham Knight",
+    "posters": [
+      "data/covers/5503.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/6c8dba7d0df1c4a79dd07646be9a26c8.jpg",
+      "https://cdn2.steamgriddb.com/hero/479eaa8e93a42b42d12992f086cfa14f.jpg",
+      "https://cdn2.steamgriddb.com/hero/5b5abc705cc52b743cc9d6ad5fffdfa4.png",
+      "https://cdn2.steamgriddb.com/hero/e8257cae02495b31c4e89a4ae812499c.jpg",
+      "https://cdn2.steamgriddb.com/hero/a2802cade04644083dcde1c8c483ed9a.png",
+      "https://cdn2.steamgriddb.com/hero/0fe500898e3183422bebc8325bfc9515.png",
+      "https://cdn2.steamgriddb.com/hero/bc85fc1467a30e358710e800e644fec8.jpg",
+      "https://cdn2.steamgriddb.com/hero/b323c8edba96b335f0761d1dd004b26c.jpg"
+    ],
+    "releaseYear": 2015,
+    "rating": 88,
+    "platforms": [
+      "PlayStation 4",
+      "PC (Microsoft Windows)",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Hack and slash/Beat 'em up",
+      "Adventure"
     ]
   },
   {
@@ -5165,6 +5165,8 @@
     ],
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/a06e8bb7a2ead602f451978b63ba79ec.png",
+      "https://cdn2.steamgriddb.com/hero/63ad645b0b82478e2de6083aa0d2c51e.png",
+      "https://cdn2.steamgriddb.com/hero/b8bdd44dee3a05879654edcfb1a4c627.png",
       "https://cdn2.steamgriddb.com/hero/a0c578b3cb73ce7573bba15523d770ad.jpg",
       "https://cdn2.steamgriddb.com/hero/7464daee9d49796baa345f68e4e845ba.png",
       "https://cdn2.steamgriddb.com/hero/fe351d25fb94473e60319cbba72c7e57.png"
@@ -6695,12 +6697,12 @@
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/cd172dd5af50902d4a1c43c4dfc3d6c7.png",
       "https://cdn2.steamgriddb.com/hero/f4a93b647ca764286d8f7a7e9fa49417.png",
+      "https://cdn2.steamgriddb.com/hero/f9b0ca38d146ee5cab4a82e7dfa4b60c.jpg",
       "https://cdn2.steamgriddb.com/hero/93d80e2b713d157fabf0cb9f9e0c95d7.jpg",
       "https://cdn2.steamgriddb.com/hero/b3a02d3042914b0cb3abc0c49660333f.jpg",
       "https://cdn2.steamgriddb.com/hero/472f7e4d06068c7a8f96020972f94a7c.jpg",
-      "https://cdn2.steamgriddb.com/hero/f9b0ca38d146ee5cab4a82e7dfa4b60c.jpg",
-      "https://cdn2.steamgriddb.com/hero/e05498f86deb26764f32d02d6e6a675f.jpg",
-      "https://cdn2.steamgriddb.com/hero/596e5e37fa96ec5c4ecc662d168692e2.png"
+      "https://cdn2.steamgriddb.com/hero/e7d01bb8f0540e1eb3410a99aa8a2475.jpg",
+      "https://cdn2.steamgriddb.com/hero/e05498f86deb26764f32d02d6e6a675f.jpg"
     ],
     "releaseYear": 2026,
     "rating": 0,
@@ -7021,28 +7023,6 @@
     ]
   },
   {
-    "id": 347869,
-    "name": "The Expanse: Osiris Reborn",
-    "posters": [
-      "data/covers/347869.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/2f2eb9099a6cfbba208113179bce672e.jpg"
-    ],
-    "releaseYear": 2027,
-    "rating": 0,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Shooter",
-      "Role-playing (RPG)",
-      "Adventure"
-    ]
-  },
-  {
     "id": 398225,
     "name": "Metro 2039",
     "posters": [
@@ -7067,6 +7047,28 @@
     ],
     "genres": [
       "Shooter",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 347869,
+    "name": "The Expanse: Osiris Reborn",
+    "posters": [
+      "data/covers/347869.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/2f2eb9099a6cfbba208113179bce672e.jpg"
+    ],
+    "releaseYear": 2027,
+    "rating": 0,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Shooter",
+      "Role-playing (RPG)",
       "Adventure"
     ]
   },
