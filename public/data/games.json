@@ -1670,12 +1670,12 @@
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/97fbc7ee9bcb73fe7c08efe8e5d701f0.png",
       "https://cdn2.steamgriddb.com/hero/607e79272c337728322fe13f83866c17.png",
+      "https://cdn2.steamgriddb.com/hero/104f7cbe857799ba883067a174bc01c1.jpg",
       "https://cdn2.steamgriddb.com/hero/c1a7e33ea8abdd49950096fc20f04e86.jpg",
       "https://cdn2.steamgriddb.com/hero/5807fd4cc86d41ab1ffdbcc9b7d4146c.png",
       "https://cdn2.steamgriddb.com/hero/1a1d4f57954c3c7f143cbaf3c9996ac4.png",
       "https://cdn2.steamgriddb.com/hero/8f5d1c52e7545c7072e15113a7d120e2.png",
-      "https://cdn2.steamgriddb.com/hero/5c3507b72dec5e4f097906ccf9df0c88.png",
-      "https://cdn2.steamgriddb.com/hero/3685227c64f66ea8888deca4984ed442.jpg"
+      "https://cdn2.steamgriddb.com/hero/5c3507b72dec5e4f097906ccf9df0c88.png"
     ],
     "releaseYear": 2020,
     "rating": 90,
@@ -4986,8 +4986,8 @@
       "https://cdn2.steamgriddb.com/hero/3ff84500afe8620c3bb534674503e049.jpg",
       "https://cdn2.steamgriddb.com/hero/535d1ec83aa5a4aa7c2bfe6b407e2ad5.jpg",
       "https://cdn2.steamgriddb.com/hero/e2c5a7c8f6dfff70b087d86eaeae1254.jpg",
-      "https://cdn2.steamgriddb.com/hero/dc23640934cc23782aba6c6058d6aca3.png",
       "https://cdn2.steamgriddb.com/hero/adac3ab52816548eaad12812ffe86574.jpg",
+      "https://cdn2.steamgriddb.com/hero/dc23640934cc23782aba6c6058d6aca3.png",
       "https://cdn2.steamgriddb.com/hero/1258e7898e0d685adf6b58d762e21ca4.png",
       "https://cdn2.steamgriddb.com/hero/ca75cfd1b6c503a8c1bcfcf06dde7c54.png"
     ],
@@ -5223,9 +5223,9 @@
     ],
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/4d55de0511aaa18ae946d7527cdebbac.png",
+      "https://cdn2.steamgriddb.com/hero/e0d90dcc491a3323763c77d1dff7248b.png",
       "https://cdn2.steamgriddb.com/hero/5934c1ec0cd31e12bd9084d106bc2e32.png",
       "https://cdn2.steamgriddb.com/hero/fcf1d8d2f36c0cde8eca4b86a8fe1df8.png",
-      "https://cdn2.steamgriddb.com/hero/e0d90dcc491a3323763c77d1dff7248b.png",
       "https://cdn2.steamgriddb.com/hero/57bafb2c2dfeefba931bb03a835b1fa9.jpg",
       "https://cdn2.steamgriddb.com/hero/d9cd172570d87a489155b135f3fee210.png",
       "https://cdn2.steamgriddb.com/hero/d73943a926eda302236e2d51a8f81376.jpg",
@@ -5970,9 +5970,9 @@
       "https://cdn2.steamgriddb.com/hero/5e491d66377606ec44c27564123ab511.png",
       "https://cdn2.steamgriddb.com/hero/7f2e5a082324d9d664489b795e7fd83a.jpg",
       "https://cdn2.steamgriddb.com/hero/b6f418874d83c10a76f99ee9499e22e7.png",
+      "https://cdn2.steamgriddb.com/hero/c48999a486073e77057859060afa6ce8.png",
       "https://cdn2.steamgriddb.com/hero/ab842558180de2e1578442390863f022.png",
-      "https://cdn2.steamgriddb.com/hero/289c71a3a46b3f3ef38d65ff4583a19e.png",
-      "https://cdn2.steamgriddb.com/hero/7cd542b173cf405c73cff9ffcd5ea953.png"
+      "https://cdn2.steamgriddb.com/hero/289c71a3a46b3f3ef38d65ff4583a19e.png"
     ],
     "releaseYear": 2020,
     "rating": 87,
@@ -6521,8 +6521,8 @@
       "https://cdn2.steamgriddb.com/hero/8a6183976635a6f65a96c2a62305c63a.png",
       "https://cdn2.steamgriddb.com/hero/aaab51bf65c6a69f2cf1738b4bcb63b4.png",
       "https://cdn2.steamgriddb.com/hero/092b649487e732e7518908665d81cb07.png",
-      "https://cdn2.steamgriddb.com/hero/32df15b04f45c9942a34c07511dc6251.png",
       "https://cdn2.steamgriddb.com/hero/4b6f74dfb95b77d5c9de5489e67069e4.png",
+      "https://cdn2.steamgriddb.com/hero/32df15b04f45c9942a34c07511dc6251.png",
       "https://cdn2.steamgriddb.com/hero/23214ef2cb717699803844bb75495dd0.png",
       "https://cdn2.steamgriddb.com/hero/099c0495c26e69183fc32946d81ca51d.png"
     ],
@@ -7051,28 +7051,6 @@
     ]
   },
   {
-    "id": 347869,
-    "name": "The Expanse: Osiris Reborn",
-    "posters": [
-      "data/covers/347869.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/2f2eb9099a6cfbba208113179bce672e.jpg"
-    ],
-    "releaseYear": 2027,
-    "rating": 0,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Shooter",
-      "Role-playing (RPG)",
-      "Adventure"
-    ]
-  },
-  {
     "id": 404673,
     "name": "Resident Evil Veronica",
     "posters": [
@@ -7099,6 +7077,28 @@
     "genres": [
       "Shooter",
       "Puzzle",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 347869,
+    "name": "The Expanse: Osiris Reborn",
+    "posters": [
+      "data/covers/347869.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/2f2eb9099a6cfbba208113179bce672e.jpg"
+    ],
+    "releaseYear": 2027,
+    "rating": 0,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Shooter",
+      "Role-playing (RPG)",
       "Adventure"
     ]
   },
