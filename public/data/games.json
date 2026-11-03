@@ -243,10 +243,10 @@
       "https://cdn2.steamgriddb.com/hero/eac419c3f4586033d7f719314a102ea3.jpg",
       "https://cdn2.steamgriddb.com/hero/ce333101743e542711456068ece36399.jpg",
       "https://cdn2.steamgriddb.com/hero/4bcdf75a7049c15e19797d1e5b559be3.png",
-      "https://cdn2.steamgriddb.com/hero/68c81a145181a6b3092221895a3fd1a9.jpg",
       "https://cdn2.steamgriddb.com/hero/e8ffddd620808f7dc21eaffe35c77bcc.png",
       "https://cdn2.steamgriddb.com/hero/a57780d6eb618a327f29684e6bcaf0e5.png",
-      "https://cdn2.steamgriddb.com/hero/bc22979eefd93466731822f165718745.png"
+      "https://cdn2.steamgriddb.com/hero/bc22979eefd93466731822f165718745.png",
+      "https://cdn2.steamgriddb.com/hero/566c07e6b6557b529e6b411d2dc8042c.png"
     ],
     "releaseYear": 2023,
     "rating": 95,
@@ -6339,13 +6339,13 @@
     ],
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/8d0584dafa9462a7c48608451dd3ea87.jpg",
-      "https://cdn2.steamgriddb.com/hero/d6975c061d4c85240dfacc470bb24c9a.png",
+      "https://cdn2.steamgriddb.com/hero/e5f1672a5bdebb43f17d5e192427961e.png",
       "https://cdn2.steamgriddb.com/hero/3d43470e7998bd706394855032940a11.jpg",
       "https://cdn2.steamgriddb.com/hero/da195267d14e69aff6c92be320fee1fc.jpg",
       "https://cdn2.steamgriddb.com/hero/ca4966a567dfbc60cf214dbae7e711f6.jpg",
-      "https://cdn2.steamgriddb.com/hero/e5f1672a5bdebb43f17d5e192427961e.png",
       "https://cdn2.steamgriddb.com/hero/5ebf027336320d7a33dc6e46c2cf1df7.png",
-      "https://cdn2.steamgriddb.com/hero/9f8cba2513573e4c936cc29dd7f8edb2.png"
+      "https://cdn2.steamgriddb.com/hero/9f8cba2513573e4c936cc29dd7f8edb2.png",
+      "https://cdn2.steamgriddb.com/hero/4af105e0d4e08beda60f60a4ea2d78e1.png"
     ],
     "releaseYear": 2023,
     "rating": 86,
@@ -7051,6 +7051,28 @@
     ]
   },
   {
+    "id": 347869,
+    "name": "The Expanse: Osiris Reborn",
+    "posters": [
+      "data/covers/347869.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/2f2eb9099a6cfbba208113179bce672e.jpg"
+    ],
+    "releaseYear": 2027,
+    "rating": 0,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Shooter",
+      "Role-playing (RPG)",
+      "Adventure"
+    ]
+  },
+  {
     "id": 404673,
     "name": "Resident Evil Veronica",
     "posters": [
@@ -7077,28 +7099,6 @@
     "genres": [
       "Shooter",
       "Puzzle",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 347869,
-    "name": "The Expanse: Osiris Reborn",
-    "posters": [
-      "data/covers/347869.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/2f2eb9099a6cfbba208113179bce672e.jpg"
-    ],
-    "releaseYear": 2027,
-    "rating": 0,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Shooter",
-      "Role-playing (RPG)",
       "Adventure"
     ]
   },
