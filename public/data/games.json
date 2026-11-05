@@ -1701,9 +1701,9 @@
       "https://cdn2.steamgriddb.com/hero/fbf5a0f7b2ac2ffd30e433d6c394eb8f.png",
       "https://cdn2.steamgriddb.com/hero/a1677f67c9e0342b5dd4dd69762a0c43.png",
       "https://cdn2.steamgriddb.com/hero/4c562a922dda29172f86955ed505472e.png",
-      "https://cdn2.steamgriddb.com/hero/e2a5f13d6b6f916a564810e6fed60730.png",
       "https://cdn2.steamgriddb.com/hero/aca4bc50f57f2a211fde11758160a688.png",
-      "https://cdn2.steamgriddb.com/hero/530c64ce47e128820c350b8d62023927.png"
+      "https://cdn2.steamgriddb.com/hero/530c64ce47e128820c350b8d62023927.png",
+      "https://cdn2.steamgriddb.com/hero/e7349182e7fd37666d520a499bcb3762.png"
     ],
     "releaseYear": 2014,
     "rating": 90,
@@ -3542,6 +3542,34 @@
     ]
   },
   {
+    "id": 529,
+    "name": "Far Cry 3",
+    "posters": [
+      "data/covers/529.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/163f02c08eeb3462cf1be9be349d02df.png",
+      "https://cdn2.steamgriddb.com/hero/3b796bac4dc055a7358cd28ae118eb09.jpg",
+      "https://cdn2.steamgriddb.com/hero/b98ee86215125aa5b01966e7891a4cf7.png",
+      "https://cdn2.steamgriddb.com/hero/e8258e5140317ff36c7f8225a3bf9590.png",
+      "https://cdn2.steamgriddb.com/hero/b1553ff2787f1055807a8058fe1f8d99.png",
+      "https://cdn2.steamgriddb.com/hero/d5e714549e9937f437d4fc2edf35b8fb.jpg",
+      "https://cdn2.steamgriddb.com/hero/c4539e880b908ad22a401caf9046d152.jpg",
+      "https://cdn2.steamgriddb.com/hero/6151caaabf80ba5d7dc9e9e774175ab7.png"
+    ],
+    "releaseYear": 2012,
+    "rating": 86,
+    "platforms": [
+      "PlayStation 3",
+      "PC (Microsoft Windows)",
+      "Xbox 360"
+    ],
+    "genres": [
+      "Shooter",
+      "Adventure"
+    ]
+  },
+  {
     "id": 26855,
     "name": "Dead Cells",
     "posters": [
@@ -3637,34 +3665,6 @@
     ],
     "genres": [
       "Hack and slash/Beat 'em up",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 529,
-    "name": "Far Cry 3",
-    "posters": [
-      "data/covers/529.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/163f02c08eeb3462cf1be9be349d02df.png",
-      "https://cdn2.steamgriddb.com/hero/3b796bac4dc055a7358cd28ae118eb09.jpg",
-      "https://cdn2.steamgriddb.com/hero/b98ee86215125aa5b01966e7891a4cf7.png",
-      "https://cdn2.steamgriddb.com/hero/e8258e5140317ff36c7f8225a3bf9590.png",
-      "https://cdn2.steamgriddb.com/hero/b1553ff2787f1055807a8058fe1f8d99.png",
-      "https://cdn2.steamgriddb.com/hero/d5e714549e9937f437d4fc2edf35b8fb.jpg",
-      "https://cdn2.steamgriddb.com/hero/c4539e880b908ad22a401caf9046d152.jpg",
-      "https://cdn2.steamgriddb.com/hero/6151caaabf80ba5d7dc9e9e774175ab7.png"
-    ],
-    "releaseYear": 2012,
-    "rating": 86,
-    "platforms": [
-      "PlayStation 3",
-      "PC (Microsoft Windows)",
-      "Xbox 360"
-    ],
-    "genres": [
-      "Shooter",
       "Adventure"
     ]
   },
@@ -4373,7 +4373,7 @@
       "https://cdn2.steamgriddb.com/hero/d147702bbe61279b97f50856337b767c.png",
       "https://cdn2.steamgriddb.com/hero/e32a175729f0f51628aff181dfe83055.png",
       "https://cdn2.steamgriddb.com/hero/060c7cb35d024b35db67f04bf310e3d0.png",
-      "https://cdn2.steamgriddb.com/hero/8f1429af4965d58dc5dfa713dda2c75d.png"
+      "https://cdn2.steamgriddb.com/hero/01d29a8f751be8b8190c5f07d56e8602.png"
     ],
     "releaseYear": 2025,
     "rating": 93,
@@ -4718,8 +4718,8 @@
       "https://cdn2.steamgriddb.com/hero/aaecbb83e18bf24199bc5b2d3a280054.jpg",
       "https://cdn2.steamgriddb.com/hero/dd6e198d02d6cc5a4b06a9df0f5f1357.jpg",
       "https://cdn2.steamgriddb.com/hero/c09898488dddade675f309cabeca0c4e.png",
-      "https://cdn2.steamgriddb.com/hero/7be932c8505aa392c305fafcdac42d2a.png",
-      "https://cdn2.steamgriddb.com/hero/ed56c1e97a866ca805dd00e1a3e079a5.png"
+      "https://cdn2.steamgriddb.com/hero/e29206f8211fcf78b00039a7f40822c5.png",
+      "https://cdn2.steamgriddb.com/hero/4934a090462355883a4fea22b8f4a85e.png"
     ],
     "releaseYear": 2024,
     "rating": 90,
@@ -4733,34 +4733,6 @@
     "genres": [
       "Role-playing (RPG)",
       "Turn-based strategy (TBS)",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 185246,
-    "name": "Alan Wake II",
-    "posters": [
-      "data/covers/185246.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/e13147c18aa5e4aa4cf75185d01cf826.png",
-      "https://cdn2.steamgriddb.com/hero/d60f2d5d05b4c46d470d5cbd5d1fb252.jpg",
-      "https://cdn2.steamgriddb.com/hero/991e430c00831fcaec1087462d3223fa.png",
-      "https://cdn2.steamgriddb.com/hero/09ea8690a859084c80f1fbbbf38766e8.jpg",
-      "https://cdn2.steamgriddb.com/hero/dd1ea9382335816da0932d10b0503922.jpg",
-      "https://cdn2.steamgriddb.com/hero/d53a683ae5daa34edb84c7607c92d6a1.jpg",
-      "https://cdn2.steamgriddb.com/hero/2b61040f0e5261b463059d8827acf1fa.png",
-      "https://cdn2.steamgriddb.com/hero/2a19cad46feca9eab2214e58bbf3c02e.png"
-    ],
-    "releaseYear": 2023,
-    "rating": 90,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Shooter",
       "Adventure"
     ]
   },
@@ -4831,6 +4803,34 @@
       "Turn-based strategy (TBS)",
       "Adventure",
       "Indie"
+    ]
+  },
+  {
+    "id": 185246,
+    "name": "Alan Wake II",
+    "posters": [
+      "data/covers/185246.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/e13147c18aa5e4aa4cf75185d01cf826.png",
+      "https://cdn2.steamgriddb.com/hero/d60f2d5d05b4c46d470d5cbd5d1fb252.jpg",
+      "https://cdn2.steamgriddb.com/hero/991e430c00831fcaec1087462d3223fa.png",
+      "https://cdn2.steamgriddb.com/hero/09ea8690a859084c80f1fbbbf38766e8.jpg",
+      "https://cdn2.steamgriddb.com/hero/dd1ea9382335816da0932d10b0503922.jpg",
+      "https://cdn2.steamgriddb.com/hero/d53a683ae5daa34edb84c7607c92d6a1.jpg",
+      "https://cdn2.steamgriddb.com/hero/2b61040f0e5261b463059d8827acf1fa.png",
+      "https://cdn2.steamgriddb.com/hero/2a19cad46feca9eab2214e58bbf3c02e.png"
+    ],
+    "releaseYear": 2023,
+    "rating": 90,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Shooter",
+      "Adventure"
     ]
   },
   {
@@ -5873,8 +5873,8 @@
     ],
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/11c4eaf332318a326620d07e0b8e0a53.png",
-      "https://cdn2.steamgriddb.com/hero/870f3f1adb7cb46dddf927ab002ffb82.png",
       "https://cdn2.steamgriddb.com/hero/d7d741735f9cf9b5fa4cf6c182eb174b.jpg",
+      "https://cdn2.steamgriddb.com/hero/870f3f1adb7cb46dddf927ab002ffb82.png",
       "https://cdn2.steamgriddb.com/hero/f299e71856551d3c643e516f6d2f295d.png",
       "https://cdn2.steamgriddb.com/hero/1aa319435b5b34929d312529896c8066.png",
       "https://cdn2.steamgriddb.com/hero/36b3d2f1755bb2eefb004b1b8f13f072.jpg",
@@ -6699,10 +6699,10 @@
       "https://cdn2.steamgriddb.com/hero/f4a93b647ca764286d8f7a7e9fa49417.png",
       "https://cdn2.steamgriddb.com/hero/f9b0ca38d146ee5cab4a82e7dfa4b60c.jpg",
       "https://cdn2.steamgriddb.com/hero/93d80e2b713d157fabf0cb9f9e0c95d7.jpg",
+      "https://cdn2.steamgriddb.com/hero/570731361c3bda39704a91d95d7f094b.jpg",
+      "https://cdn2.steamgriddb.com/hero/50c02dd0d30f65bb7394a7e842eacd84.jpg",
       "https://cdn2.steamgriddb.com/hero/b3a02d3042914b0cb3abc0c49660333f.jpg",
-      "https://cdn2.steamgriddb.com/hero/472f7e4d06068c7a8f96020972f94a7c.jpg",
-      "https://cdn2.steamgriddb.com/hero/e7d01bb8f0540e1eb3410a99aa8a2475.jpg",
-      "https://cdn2.steamgriddb.com/hero/e05498f86deb26764f32d02d6e6a675f.jpg"
+      "https://cdn2.steamgriddb.com/hero/472f7e4d06068c7a8f96020972f94a7c.jpg"
     ],
     "releaseYear": 2026,
     "rating": 0,
@@ -6837,7 +6837,6 @@
     ],
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/2c0f53dee17ccd6ed509706d91591dce.png",
-      "https://cdn2.steamgriddb.com/hero/13da0028fd08c72a6ebd05a1a740fa99.jpg",
       "https://cdn2.steamgriddb.com/hero/2a74ea5a5751d05390c13e79109ae192.png"
     ],
     "releaseYear": 2027,
@@ -6916,7 +6915,7 @@
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/ea3a48c74a9efb9a08635fe7990347cc.png"
     ],
-    "releaseYear": 0,
+    "releaseYear": 2026,
     "rating": 0,
     "platforms": [
       "Android",
@@ -6971,31 +6970,6 @@
     ]
   },
   {
-    "id": 331212,
-    "name": "Tides of Annihilation",
-    "posters": [
-      "data/covers/331212.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/8a2d814c49d0f4a6a7b8cc84769944d3.png",
-      "https://cdn2.steamgriddb.com/hero/c3242232f2f02854bfa78c9a65786b76.png",
-      "https://cdn2.steamgriddb.com/hero/9dc4995116b45bc9d97bafbe2a533a14.png",
-      "https://cdn2.steamgriddb.com/hero/6aecc5688439e968309784eb983bad6e.png"
-    ],
-    "releaseYear": 0,
-    "rating": 0,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Hack and slash/Beat 'em up",
-      "Adventure"
-    ]
-  },
-  {
     "id": 325599,
     "name": "Stranger Than Heaven",
     "posters": [
@@ -7019,6 +6993,31 @@
       "Fighting",
       "Puzzle",
       "Role-playing (RPG)",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 331212,
+    "name": "Tides of Annihilation",
+    "posters": [
+      "data/covers/331212.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/8a2d814c49d0f4a6a7b8cc84769944d3.png",
+      "https://cdn2.steamgriddb.com/hero/c3242232f2f02854bfa78c9a65786b76.png",
+      "https://cdn2.steamgriddb.com/hero/9dc4995116b45bc9d97bafbe2a533a14.png",
+      "https://cdn2.steamgriddb.com/hero/6aecc5688439e968309784eb983bad6e.png"
+    ],
+    "releaseYear": 0,
+    "rating": 0,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Hack and slash/Beat 'em up",
       "Adventure"
     ]
   },
