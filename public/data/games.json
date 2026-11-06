@@ -717,34 +717,6 @@
     ]
   },
   {
-    "id": 1802,
-    "name": "Chrono Trigger",
-    "posters": [
-      "data/covers/1802.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/da3c55e3be0a795729261bfd8776a627.png",
-      "https://cdn2.steamgriddb.com/hero/27c2eee02ba24911d6d88b05da1340f2.png",
-      "https://cdn2.steamgriddb.com/hero/976f1ecb676aa1bb3bb86ed84e79cdfa.png",
-      "https://cdn2.steamgriddb.com/hero/40e058330f014c529b23bcb157f7da4a.png",
-      "https://cdn2.steamgriddb.com/hero/7fc7b7979ce9c02bb7a36e5500726053.png",
-      "https://cdn2.steamgriddb.com/hero/5a6ce3e53bbfb06dd5822fe254494010.png",
-      "https://cdn2.steamgriddb.com/hero/58531c85829c056175c3c27c7360e9fd.png",
-      "https://cdn2.steamgriddb.com/hero/d68bb1f0fb85633dd36522959be89149.png"
-    ],
-    "releaseYear": 1995,
-    "rating": 92,
-    "platforms": [
-      "Satellaview",
-      "Super Nintendo Entertainment System",
-      "Wii",
-      "Super Famicom"
-    ],
-    "genres": [
-      "Role-playing (RPG)"
-    ]
-  },
-  {
     "id": 132181,
     "name": "Resident Evil 4",
     "posters": [
@@ -775,6 +747,34 @@
       "Shooter",
       "Puzzle",
       "Adventure"
+    ]
+  },
+  {
+    "id": 1802,
+    "name": "Chrono Trigger",
+    "posters": [
+      "data/covers/1802.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/da3c55e3be0a795729261bfd8776a627.png",
+      "https://cdn2.steamgriddb.com/hero/27c2eee02ba24911d6d88b05da1340f2.png",
+      "https://cdn2.steamgriddb.com/hero/976f1ecb676aa1bb3bb86ed84e79cdfa.png",
+      "https://cdn2.steamgriddb.com/hero/40e058330f014c529b23bcb157f7da4a.png",
+      "https://cdn2.steamgriddb.com/hero/7fc7b7979ce9c02bb7a36e5500726053.png",
+      "https://cdn2.steamgriddb.com/hero/5a6ce3e53bbfb06dd5822fe254494010.png",
+      "https://cdn2.steamgriddb.com/hero/58531c85829c056175c3c27c7360e9fd.png",
+      "https://cdn2.steamgriddb.com/hero/d68bb1f0fb85633dd36522959be89149.png"
+    ],
+    "releaseYear": 1995,
+    "rating": 92,
+    "platforms": [
+      "Satellaview",
+      "Super Nintendo Entertainment System",
+      "Wii",
+      "Super Famicom"
+    ],
+    "genres": [
+      "Role-playing (RPG)"
     ]
   },
   {
@@ -2774,35 +2774,6 @@
     ]
   },
   {
-    "id": 1030,
-    "name": "The Legend of Zelda: Majora's Mask",
-    "posters": [
-      "data/covers/1030.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/25fa2d39a0143f1f30c36eece145a526.png",
-      "https://cdn2.steamgriddb.com/hero/08d98638c6fcd194a4b1e6992063e944.png",
-      "https://cdn2.steamgriddb.com/hero/68a83eeb494a308fe5295da69428a507.png",
-      "https://cdn2.steamgriddb.com/hero/5192a7fcc1feaf3b1583e155b643d206.png",
-      "https://cdn2.steamgriddb.com/hero/a0bfd9e2a5529c21836fd99454a390bb.png",
-      "https://cdn2.steamgriddb.com/hero/6962448d565dc65ce98caf5e51e1dfec.png",
-      "https://cdn2.steamgriddb.com/hero/3925d313c95e874b3e75a4b6d2067d2a.png",
-      "https://cdn2.steamgriddb.com/hero/b37702dda7c58db954b3a56c71412c51.png"
-    ],
-    "releaseYear": 2000,
-    "rating": 88,
-    "platforms": [
-      "Wii",
-      "Nintendo 64",
-      "64DD",
-      "Wii U"
-    ],
-    "genres": [
-      "Puzzle",
-      "Adventure"
-    ]
-  },
-  {
     "id": 17000,
     "name": "Stardew Valley",
     "posters": [
@@ -2983,6 +2954,35 @@
     ],
     "genres": [
       "Shooter",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 1030,
+    "name": "The Legend of Zelda: Majora's Mask",
+    "posters": [
+      "data/covers/1030.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/25fa2d39a0143f1f30c36eece145a526.png",
+      "https://cdn2.steamgriddb.com/hero/08d98638c6fcd194a4b1e6992063e944.png",
+      "https://cdn2.steamgriddb.com/hero/68a83eeb494a308fe5295da69428a507.png",
+      "https://cdn2.steamgriddb.com/hero/5192a7fcc1feaf3b1583e155b643d206.png",
+      "https://cdn2.steamgriddb.com/hero/a0bfd9e2a5529c21836fd99454a390bb.png",
+      "https://cdn2.steamgriddb.com/hero/6962448d565dc65ce98caf5e51e1dfec.png",
+      "https://cdn2.steamgriddb.com/hero/3925d313c95e874b3e75a4b6d2067d2a.png",
+      "https://cdn2.steamgriddb.com/hero/b37702dda7c58db954b3a56c71412c51.png"
+    ],
+    "releaseYear": 2000,
+    "rating": 88,
+    "platforms": [
+      "Wii",
+      "Nintendo 64",
+      "64DD",
+      "Wii U"
+    ],
+    "genres": [
+      "Puzzle",
       "Adventure"
     ]
   },
@@ -3322,29 +3322,6 @@
     ]
   },
   {
-    "id": 620,
-    "name": "Burnout Paradise",
-    "posters": [
-      "data/covers/620.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/1068c6e4c8051cfd4e9ea8072e3189e2.jpg",
-      "https://cdn2.steamgriddb.com/hero/487d2595b01818e7e50ab02cae458182.png",
-      "https://cdn2.steamgriddb.com/hero/d82e8c597f33f54ae2396e3effc34fbd.jpg",
-      "https://cdn2.steamgriddb.com/hero/bd5e1e0597ef620657bdd9f8b6f397a9.jpg"
-    ],
-    "releaseYear": 2008,
-    "rating": 87,
-    "platforms": [
-      "PlayStation 3",
-      "PC (Microsoft Windows)",
-      "Xbox 360"
-    ],
-    "genres": [
-      "Racing"
-    ]
-  },
-  {
     "id": 81085,
     "name": "Dark Souls: Remastered",
     "posters": [
@@ -3371,6 +3348,29 @@
     "genres": [
       "Role-playing (RPG)",
       "Adventure"
+    ]
+  },
+  {
+    "id": 620,
+    "name": "Burnout Paradise",
+    "posters": [
+      "data/covers/620.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/1068c6e4c8051cfd4e9ea8072e3189e2.jpg",
+      "https://cdn2.steamgriddb.com/hero/487d2595b01818e7e50ab02cae458182.png",
+      "https://cdn2.steamgriddb.com/hero/d82e8c597f33f54ae2396e3effc34fbd.jpg",
+      "https://cdn2.steamgriddb.com/hero/bd5e1e0597ef620657bdd9f8b6f397a9.jpg"
+    ],
+    "releaseYear": 2008,
+    "rating": 87,
+    "platforms": [
+      "PlayStation 3",
+      "PC (Microsoft Windows)",
+      "Xbox 360"
+    ],
+    "genres": [
+      "Racing"
     ]
   },
   {
@@ -3953,6 +3953,33 @@
     ]
   },
   {
+    "id": 7351,
+    "name": "Doom",
+    "posters": [
+      "data/covers/7351.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/442465f5282183631234848d916ce365.png",
+      "https://cdn2.steamgriddb.com/hero/4f1730a9b124eea813b992edebc06840.png",
+      "https://cdn2.steamgriddb.com/hero/64c26b2a2dcf068c49894bd07e0e6389.png",
+      "https://cdn2.steamgriddb.com/hero/93dd84d3f9b0cc34957a3d9166d2d75e.png",
+      "https://cdn2.steamgriddb.com/hero/adfb844d79ef55ba2b15584770a1c6f8.png",
+      "https://cdn2.steamgriddb.com/hero/3886c03149f77913ca3142ef7f40f1ce.png",
+      "https://cdn2.steamgriddb.com/hero/a32d7eeaae19821fd9ce317f3ce952a7.jpg",
+      "https://cdn2.steamgriddb.com/hero/08b90c2ebcce5d7f46176eb7c05af0ea.png"
+    ],
+    "releaseYear": 2016,
+    "rating": 86,
+    "platforms": [
+      "PlayStation 4",
+      "PC (Microsoft Windows)",
+      "Xbox One"
+    ],
+    "genres": [
+      "Shooter"
+    ]
+  },
+  {
     "id": 623,
     "name": "Call of Duty 4: Modern Warfare",
     "posters": [
@@ -3979,33 +4006,6 @@
     "genres": [
       "Shooter",
       "Simulator"
-    ]
-  },
-  {
-    "id": 7351,
-    "name": "Doom",
-    "posters": [
-      "data/covers/7351.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/442465f5282183631234848d916ce365.png",
-      "https://cdn2.steamgriddb.com/hero/4f1730a9b124eea813b992edebc06840.png",
-      "https://cdn2.steamgriddb.com/hero/64c26b2a2dcf068c49894bd07e0e6389.png",
-      "https://cdn2.steamgriddb.com/hero/93dd84d3f9b0cc34957a3d9166d2d75e.png",
-      "https://cdn2.steamgriddb.com/hero/adfb844d79ef55ba2b15584770a1c6f8.png",
-      "https://cdn2.steamgriddb.com/hero/3886c03149f77913ca3142ef7f40f1ce.png",
-      "https://cdn2.steamgriddb.com/hero/a32d7eeaae19821fd9ce317f3ce952a7.jpg",
-      "https://cdn2.steamgriddb.com/hero/08b90c2ebcce5d7f46176eb7c05af0ea.png"
-    ],
-    "releaseYear": 2016,
-    "rating": 86,
-    "platforms": [
-      "PlayStation 4",
-      "PC (Microsoft Windows)",
-      "Xbox One"
-    ],
-    "genres": [
-      "Shooter"
     ]
   },
   {
@@ -4541,13 +4541,13 @@
     ],
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/e1d25dd75bd7a2083c12ec1e53f450ce.png",
-      "https://cdn2.steamgriddb.com/hero/a267198d6d211583c9933a68b30d8ac4.png",
       "https://cdn2.steamgriddb.com/hero/6f99be860d58f3411dc03da94a6db955.png",
-      "https://cdn2.steamgriddb.com/hero/e19473609605730c4b284dd913e822f9.png",
       "https://cdn2.steamgriddb.com/hero/0726668c01043629cfa487adad3a449e.png",
+      "https://cdn2.steamgriddb.com/hero/a267198d6d211583c9933a68b30d8ac4.png",
       "https://cdn2.steamgriddb.com/hero/50cad8b124bde64d87002f0df798a23a.png",
       "https://cdn2.steamgriddb.com/hero/e5040d230c0d9d7bad6bd9894ab3e6e3.png",
-      "https://cdn2.steamgriddb.com/hero/e8361595fda147c91357bbd9421d7723.png"
+      "https://cdn2.steamgriddb.com/hero/1ed8749f23aec3ab68c65460459bbeb1.jpg",
+      "https://cdn2.steamgriddb.com/hero/e19473609605730c4b284dd913e822f9.png"
     ],
     "releaseYear": 2023,
     "rating": 91,
@@ -4716,10 +4716,10 @@
       "https://cdn2.steamgriddb.com/hero/8d25153bec94068872e2a5ff021e5ff7.png",
       "https://cdn2.steamgriddb.com/hero/95c6535f9ffd12f95979f18804fc618f.jpg",
       "https://cdn2.steamgriddb.com/hero/aaecbb83e18bf24199bc5b2d3a280054.jpg",
+      "https://cdn2.steamgriddb.com/hero/203ea99c417de21fe653491209fd26d2.jpg",
       "https://cdn2.steamgriddb.com/hero/dd6e198d02d6cc5a4b06a9df0f5f1357.jpg",
       "https://cdn2.steamgriddb.com/hero/c09898488dddade675f309cabeca0c4e.png",
-      "https://cdn2.steamgriddb.com/hero/e29206f8211fcf78b00039a7f40822c5.png",
-      "https://cdn2.steamgriddb.com/hero/4934a090462355883a4fea22b8f4a85e.png"
+      "https://cdn2.steamgriddb.com/hero/b916ec04ba02300be0d6a6714418977f.png"
     ],
     "releaseYear": 2024,
     "rating": 90,
@@ -5465,6 +5465,36 @@
     ]
   },
   {
+    "id": 142415,
+    "name": "Indiana Jones and the Great Circle",
+    "posters": [
+      "data/covers/142415.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/69c465a79781ae900005cebddfb758d8.png",
+      "https://cdn2.steamgriddb.com/hero/516b4673af711400934054d48d63fcdb.png",
+      "https://cdn2.steamgriddb.com/hero/0b4a7b183837c441dbe027acf7fbc1d1.png",
+      "https://cdn2.steamgriddb.com/hero/d2d28361fabf5051fcc29fb17dbbe4ae.png",
+      "https://cdn2.steamgriddb.com/hero/72dbe04264e9414d25bdd9a0d4392eb3.png",
+      "https://cdn2.steamgriddb.com/hero/8563d695f4ad96aea93248344366604d.jpg",
+      "https://cdn2.steamgriddb.com/hero/eee9bf07b136cc4ec40360746f31304d.png",
+      "https://cdn2.steamgriddb.com/hero/6a517f8cc0559a504160465295430293.png"
+    ],
+    "releaseYear": 2024,
+    "rating": 88,
+    "platforms": [
+      "Xbox Series X|S",
+      "Nintendo Switch 2",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Puzzle",
+      "Role-playing (RPG)",
+      "Adventure"
+    ]
+  },
+  {
     "id": 119295,
     "name": "Microsoft Flight Simulator",
     "posters": [
@@ -5516,36 +5546,6 @@
       "Point-and-click",
       "Adventure",
       "Indie"
-    ]
-  },
-  {
-    "id": 142415,
-    "name": "Indiana Jones and the Great Circle",
-    "posters": [
-      "data/covers/142415.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/69c465a79781ae900005cebddfb758d8.png",
-      "https://cdn2.steamgriddb.com/hero/516b4673af711400934054d48d63fcdb.png",
-      "https://cdn2.steamgriddb.com/hero/0b4a7b183837c441dbe027acf7fbc1d1.png",
-      "https://cdn2.steamgriddb.com/hero/d2d28361fabf5051fcc29fb17dbbe4ae.png",
-      "https://cdn2.steamgriddb.com/hero/72dbe04264e9414d25bdd9a0d4392eb3.png",
-      "https://cdn2.steamgriddb.com/hero/8563d695f4ad96aea93248344366604d.jpg",
-      "https://cdn2.steamgriddb.com/hero/eee9bf07b136cc4ec40360746f31304d.png",
-      "https://cdn2.steamgriddb.com/hero/6a517f8cc0559a504160465295430293.png"
-    ],
-    "releaseYear": 2024,
-    "rating": 88,
-    "platforms": [
-      "Xbox Series X|S",
-      "Nintendo Switch 2",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Puzzle",
-      "Role-playing (RPG)",
-      "Adventure"
     ]
   },
   {
@@ -6689,34 +6689,6 @@
     ]
   },
   {
-    "id": 250618,
-    "name": "Phantom Blade Zero",
-    "posters": [
-      "data/covers/250618.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/cd172dd5af50902d4a1c43c4dfc3d6c7.png",
-      "https://cdn2.steamgriddb.com/hero/f4a93b647ca764286d8f7a7e9fa49417.png",
-      "https://cdn2.steamgriddb.com/hero/f9b0ca38d146ee5cab4a82e7dfa4b60c.jpg",
-      "https://cdn2.steamgriddb.com/hero/93d80e2b713d157fabf0cb9f9e0c95d7.jpg",
-      "https://cdn2.steamgriddb.com/hero/570731361c3bda39704a91d95d7f094b.jpg",
-      "https://cdn2.steamgriddb.com/hero/50c02dd0d30f65bb7394a7e842eacd84.jpg",
-      "https://cdn2.steamgriddb.com/hero/b3a02d3042914b0cb3abc0c49660333f.jpg",
-      "https://cdn2.steamgriddb.com/hero/472f7e4d06068c7a8f96020972f94a7c.jpg"
-    ],
-    "releaseYear": 2026,
-    "rating": 0,
-    "platforms": [
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Hack and slash/Beat 'em up",
-      "Adventure"
-    ]
-  },
-  {
     "id": 209643,
     "name": "Soulframe",
     "posters": [
@@ -7050,28 +7022,6 @@
     ]
   },
   {
-    "id": 347869,
-    "name": "The Expanse: Osiris Reborn",
-    "posters": [
-      "data/covers/347869.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/2f2eb9099a6cfbba208113179bce672e.jpg"
-    ],
-    "releaseYear": 2027,
-    "rating": 0,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Shooter",
-      "Role-playing (RPG)",
-      "Adventure"
-    ]
-  },
-  {
     "id": 404673,
     "name": "Resident Evil Veronica",
     "posters": [
@@ -7098,6 +7048,28 @@
     "genres": [
       "Shooter",
       "Puzzle",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 347869,
+    "name": "The Expanse: Osiris Reborn",
+    "posters": [
+      "data/covers/347869.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/2f2eb9099a6cfbba208113179bce672e.jpg"
+    ],
+    "releaseYear": 2027,
+    "rating": 0,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Shooter",
+      "Role-playing (RPG)",
       "Adventure"
     ]
   },
