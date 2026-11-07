@@ -600,35 +600,6 @@
     ]
   },
   {
-    "id": 112875,
-    "name": "God of War Ragnarök",
-    "posters": [
-      "data/covers/112875.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/768e9810f221e93905d462c8d601936e.jpg",
-      "https://cdn2.steamgriddb.com/hero/6c73e29b5c799f2bd212a97678a3a197.jpg",
-      "https://cdn2.steamgriddb.com/hero/41a9bc427ade9d587aa7762c1e9350f6.jpg",
-      "https://cdn2.steamgriddb.com/hero/1dc7b3e7df9feca6fdce1b575b11ae8a.png",
-      "https://cdn2.steamgriddb.com/hero/a1fffd8b6b0fe8cd5bb2b1efb059fbe9.png",
-      "https://cdn2.steamgriddb.com/hero/13c04f6e6956dbd1041dbae015834feb.jpg",
-      "https://cdn2.steamgriddb.com/hero/699310cd936d2b1bd0e773f5f614532a.jpg",
-      "https://cdn2.steamgriddb.com/hero/0141e0ce1502d3c13b4a0e518b6b7a1e.jpg"
-    ],
-    "releaseYear": 2022,
-    "rating": 93,
-    "platforms": [
-      "PlayStation 4",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Hack and slash/Beat 'em up",
-      "Adventure"
-    ]
-  },
-  {
     "id": 1942,
     "name": "The Witcher 3: Wild Hunt",
     "posters": [
@@ -657,6 +628,35 @@
     ],
     "genres": [
       "Role-playing (RPG)",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 112875,
+    "name": "God of War Ragnarök",
+    "posters": [
+      "data/covers/112875.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/768e9810f221e93905d462c8d601936e.jpg",
+      "https://cdn2.steamgriddb.com/hero/6c73e29b5c799f2bd212a97678a3a197.jpg",
+      "https://cdn2.steamgriddb.com/hero/41a9bc427ade9d587aa7762c1e9350f6.jpg",
+      "https://cdn2.steamgriddb.com/hero/1dc7b3e7df9feca6fdce1b575b11ae8a.png",
+      "https://cdn2.steamgriddb.com/hero/a1fffd8b6b0fe8cd5bb2b1efb059fbe9.png",
+      "https://cdn2.steamgriddb.com/hero/13c04f6e6956dbd1041dbae015834feb.jpg",
+      "https://cdn2.steamgriddb.com/hero/699310cd936d2b1bd0e773f5f614532a.jpg",
+      "https://cdn2.steamgriddb.com/hero/0141e0ce1502d3c13b4a0e518b6b7a1e.jpg"
+    ],
+    "releaseYear": 2022,
+    "rating": 93,
+    "platforms": [
+      "PlayStation 4",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Hack and slash/Beat 'em up",
       "Adventure"
     ]
   },
@@ -1629,6 +1629,34 @@
     ]
   },
   {
+    "id": 75235,
+    "name": "Ghost of Tsushima",
+    "posters": [
+      "data/covers/75235.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/97fbc7ee9bcb73fe7c08efe8e5d701f0.png",
+      "https://cdn2.steamgriddb.com/hero/607e79272c337728322fe13f83866c17.png",
+      "https://cdn2.steamgriddb.com/hero/104f7cbe857799ba883067a174bc01c1.jpg",
+      "https://cdn2.steamgriddb.com/hero/c1a7e33ea8abdd49950096fc20f04e86.jpg",
+      "https://cdn2.steamgriddb.com/hero/5807fd4cc86d41ab1ffdbcc9b7d4146c.png",
+      "https://cdn2.steamgriddb.com/hero/1a1d4f57954c3c7f143cbaf3c9996ac4.png",
+      "https://cdn2.steamgriddb.com/hero/8f5d1c52e7545c7072e15113a7d120e2.png",
+      "https://cdn2.steamgriddb.com/hero/5c3507b72dec5e4f097906ccf9df0c88.png"
+    ],
+    "releaseYear": 2020,
+    "rating": 90,
+    "platforms": [
+      "PlayStation 4",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Hack and slash/Beat 'em up",
+      "Adventure"
+    ]
+  },
+  {
     "id": 19686,
     "name": "Resident Evil 2",
     "posters": [
@@ -1658,34 +1686,6 @@
     ],
     "genres": [
       "Shooter",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 75235,
-    "name": "Ghost of Tsushima",
-    "posters": [
-      "data/covers/75235.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/97fbc7ee9bcb73fe7c08efe8e5d701f0.png",
-      "https://cdn2.steamgriddb.com/hero/607e79272c337728322fe13f83866c17.png",
-      "https://cdn2.steamgriddb.com/hero/104f7cbe857799ba883067a174bc01c1.jpg",
-      "https://cdn2.steamgriddb.com/hero/c1a7e33ea8abdd49950096fc20f04e86.jpg",
-      "https://cdn2.steamgriddb.com/hero/5807fd4cc86d41ab1ffdbcc9b7d4146c.png",
-      "https://cdn2.steamgriddb.com/hero/1a1d4f57954c3c7f143cbaf3c9996ac4.png",
-      "https://cdn2.steamgriddb.com/hero/8f5d1c52e7545c7072e15113a7d120e2.png",
-      "https://cdn2.steamgriddb.com/hero/5c3507b72dec5e4f097906ccf9df0c88.png"
-    ],
-    "releaseYear": 2020,
-    "rating": 90,
-    "platforms": [
-      "PlayStation 4",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Hack and slash/Beat 'em up",
       "Adventure"
     ]
   },
@@ -2457,32 +2457,6 @@
     ]
   },
   {
-    "id": 1033,
-    "name": "The Legend of Zelda: The Wind Waker",
-    "posters": [
-      "data/covers/1033.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/9e975c77eedf11c0c99d3e2d6e8b7b49.png",
-      "https://cdn2.steamgriddb.com/hero/955a1584af63a546588caae4d23840b3.png",
-      "https://cdn2.steamgriddb.com/hero/11833d4b4ec685c371ae6d1a65cc341e.png",
-      "https://cdn2.steamgriddb.com/hero/3afa7b5aa70fc9e1f9e1464cc636e5bd.png",
-      "https://cdn2.steamgriddb.com/hero/848ceaa4630331e8384950e09d392365.jpg",
-      "https://cdn2.steamgriddb.com/hero/3e98f1cc021387e579ba94f3f6f5f9f6.png",
-      "https://cdn2.steamgriddb.com/hero/2100a5c370a94a78a1589e0a5cbb4410.png",
-      "https://cdn2.steamgriddb.com/hero/5748a2e0d4f5a1ea875fdd627ec6c94c.png"
-    ],
-    "releaseYear": 2002,
-    "rating": 89,
-    "platforms": [
-      "Nintendo GameCube"
-    ],
-    "genres": [
-      "Puzzle",
-      "Adventure"
-    ]
-  },
-  {
     "id": 2155,
     "name": "Dark Souls",
     "posters": [
@@ -2510,6 +2484,32 @@
     ],
     "genres": [
       "Role-playing (RPG)",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 1033,
+    "name": "The Legend of Zelda: The Wind Waker",
+    "posters": [
+      "data/covers/1033.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/9e975c77eedf11c0c99d3e2d6e8b7b49.png",
+      "https://cdn2.steamgriddb.com/hero/955a1584af63a546588caae4d23840b3.png",
+      "https://cdn2.steamgriddb.com/hero/11833d4b4ec685c371ae6d1a65cc341e.png",
+      "https://cdn2.steamgriddb.com/hero/3afa7b5aa70fc9e1f9e1464cc636e5bd.png",
+      "https://cdn2.steamgriddb.com/hero/848ceaa4630331e8384950e09d392365.jpg",
+      "https://cdn2.steamgriddb.com/hero/3e98f1cc021387e579ba94f3f6f5f9f6.png",
+      "https://cdn2.steamgriddb.com/hero/2100a5c370a94a78a1589e0a5cbb4410.png",
+      "https://cdn2.steamgriddb.com/hero/5748a2e0d4f5a1ea875fdd627ec6c94c.png"
+    ],
+    "releaseYear": 2002,
+    "rating": 89,
+    "platforms": [
+      "Nintendo GameCube"
+    ],
+    "genres": [
+      "Puzzle",
       "Adventure"
     ]
   },
@@ -2774,6 +2774,37 @@
     ]
   },
   {
+    "id": 4438,
+    "name": "Sonic the Hedgehog 2",
+    "posters": [
+      "data/covers/4438.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/ab96c631d50e81c5f961bcbf25e49475.png",
+      "https://cdn2.steamgriddb.com/hero/46c33e6efedb03b3ac749a2e03dc986c.png",
+      "https://cdn2.steamgriddb.com/hero/21ba46f91a682f0441ddd4cf2a13fba1.png",
+      "https://cdn2.steamgriddb.com/hero/76892440bf8ca27a6a96e9efb4c102d2.png",
+      "https://cdn2.steamgriddb.com/hero/bbf8a1300aaf90d72f33a905de90af9d.png",
+      "https://cdn2.steamgriddb.com/hero/ec1705dd1fd2e2aec31a5876e735d6c1.png",
+      "https://cdn2.steamgriddb.com/hero/54c024de9e64af8a959229d3d49b4198.png",
+      "https://cdn2.steamgriddb.com/hero/4e5ead035b1efcaa1260bb6d7dc41bd0.png"
+    ],
+    "releaseYear": 1992,
+    "rating": 88,
+    "platforms": [
+      "PlayStation 3",
+      "Nintendo 3DS",
+      "Wii",
+      "Sega Mega Drive/Genesis",
+      "PC (Microsoft Windows)",
+      "Wii U",
+      "Xbox 360"
+    ],
+    "genres": [
+      "Platform"
+    ]
+  },
+  {
     "id": 17000,
     "name": "Stardew Valley",
     "posters": [
@@ -2872,37 +2903,6 @@
     ]
   },
   {
-    "id": 4438,
-    "name": "Sonic the Hedgehog 2",
-    "posters": [
-      "data/covers/4438.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/ab96c631d50e81c5f961bcbf25e49475.png",
-      "https://cdn2.steamgriddb.com/hero/46c33e6efedb03b3ac749a2e03dc986c.png",
-      "https://cdn2.steamgriddb.com/hero/21ba46f91a682f0441ddd4cf2a13fba1.png",
-      "https://cdn2.steamgriddb.com/hero/76892440bf8ca27a6a96e9efb4c102d2.png",
-      "https://cdn2.steamgriddb.com/hero/bbf8a1300aaf90d72f33a905de90af9d.png",
-      "https://cdn2.steamgriddb.com/hero/ec1705dd1fd2e2aec31a5876e735d6c1.png",
-      "https://cdn2.steamgriddb.com/hero/54c024de9e64af8a959229d3d49b4198.png",
-      "https://cdn2.steamgriddb.com/hero/4e5ead035b1efcaa1260bb6d7dc41bd0.png"
-    ],
-    "releaseYear": 1992,
-    "rating": 88,
-    "platforms": [
-      "PlayStation 3",
-      "Nintendo 3DS",
-      "Wii",
-      "Sega Mega Drive/Genesis",
-      "PC (Microsoft Windows)",
-      "Wii U",
-      "Xbox 360"
-    ],
-    "genres": [
-      "Platform"
-    ]
-  },
-  {
     "id": 133,
     "name": "Warcraft III: The Frozen Throne",
     "posters": [
@@ -2954,35 +2954,6 @@
     ],
     "genres": [
       "Shooter",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 1030,
-    "name": "The Legend of Zelda: Majora's Mask",
-    "posters": [
-      "data/covers/1030.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/25fa2d39a0143f1f30c36eece145a526.png",
-      "https://cdn2.steamgriddb.com/hero/08d98638c6fcd194a4b1e6992063e944.png",
-      "https://cdn2.steamgriddb.com/hero/68a83eeb494a308fe5295da69428a507.png",
-      "https://cdn2.steamgriddb.com/hero/5192a7fcc1feaf3b1583e155b643d206.png",
-      "https://cdn2.steamgriddb.com/hero/a0bfd9e2a5529c21836fd99454a390bb.png",
-      "https://cdn2.steamgriddb.com/hero/6962448d565dc65ce98caf5e51e1dfec.png",
-      "https://cdn2.steamgriddb.com/hero/3925d313c95e874b3e75a4b6d2067d2a.png",
-      "https://cdn2.steamgriddb.com/hero/b37702dda7c58db954b3a56c71412c51.png"
-    ],
-    "releaseYear": 2000,
-    "rating": 88,
-    "platforms": [
-      "Wii",
-      "Nintendo 64",
-      "64DD",
-      "Wii U"
-    ],
-    "genres": [
-      "Puzzle",
       "Adventure"
     ]
   },
@@ -3093,6 +3064,35 @@
       "Shooter",
       "Role-playing (RPG)",
       "Strategy",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 1030,
+    "name": "The Legend of Zelda: Majora's Mask",
+    "posters": [
+      "data/covers/1030.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/25fa2d39a0143f1f30c36eece145a526.png",
+      "https://cdn2.steamgriddb.com/hero/08d98638c6fcd194a4b1e6992063e944.png",
+      "https://cdn2.steamgriddb.com/hero/68a83eeb494a308fe5295da69428a507.png",
+      "https://cdn2.steamgriddb.com/hero/5192a7fcc1feaf3b1583e155b643d206.png",
+      "https://cdn2.steamgriddb.com/hero/a0bfd9e2a5529c21836fd99454a390bb.png",
+      "https://cdn2.steamgriddb.com/hero/6962448d565dc65ce98caf5e51e1dfec.png",
+      "https://cdn2.steamgriddb.com/hero/3925d313c95e874b3e75a4b6d2067d2a.png",
+      "https://cdn2.steamgriddb.com/hero/b37702dda7c58db954b3a56c71412c51.png"
+    ],
+    "releaseYear": 2000,
+    "rating": 88,
+    "platforms": [
+      "Wii",
+      "Nintendo 64",
+      "64DD",
+      "Wii U"
+    ],
+    "genres": [
+      "Puzzle",
       "Adventure"
     ]
   },
@@ -3322,6 +3322,29 @@
     ]
   },
   {
+    "id": 620,
+    "name": "Burnout Paradise",
+    "posters": [
+      "data/covers/620.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/1068c6e4c8051cfd4e9ea8072e3189e2.jpg",
+      "https://cdn2.steamgriddb.com/hero/487d2595b01818e7e50ab02cae458182.png",
+      "https://cdn2.steamgriddb.com/hero/d82e8c597f33f54ae2396e3effc34fbd.jpg",
+      "https://cdn2.steamgriddb.com/hero/bd5e1e0597ef620657bdd9f8b6f397a9.jpg"
+    ],
+    "releaseYear": 2008,
+    "rating": 87,
+    "platforms": [
+      "PlayStation 3",
+      "PC (Microsoft Windows)",
+      "Xbox 360"
+    ],
+    "genres": [
+      "Racing"
+    ]
+  },
+  {
     "id": 81085,
     "name": "Dark Souls: Remastered",
     "posters": [
@@ -3348,29 +3371,6 @@
     "genres": [
       "Role-playing (RPG)",
       "Adventure"
-    ]
-  },
-  {
-    "id": 620,
-    "name": "Burnout Paradise",
-    "posters": [
-      "data/covers/620.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/1068c6e4c8051cfd4e9ea8072e3189e2.jpg",
-      "https://cdn2.steamgriddb.com/hero/487d2595b01818e7e50ab02cae458182.png",
-      "https://cdn2.steamgriddb.com/hero/d82e8c597f33f54ae2396e3effc34fbd.jpg",
-      "https://cdn2.steamgriddb.com/hero/bd5e1e0597ef620657bdd9f8b6f397a9.jpg"
-    ],
-    "releaseYear": 2008,
-    "rating": 87,
-    "platforms": [
-      "PlayStation 3",
-      "PC (Microsoft Windows)",
-      "Xbox 360"
-    ],
-    "genres": [
-      "Racing"
     ]
   },
   {
@@ -3925,34 +3925,6 @@
     ]
   },
   {
-    "id": 17447,
-    "name": "Titanfall 2",
-    "posters": [
-      "data/covers/17447.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/1baff70e2669e8376347efd3a874a341.png",
-      "https://cdn2.steamgriddb.com/hero/204fdcae117b31aa8d74aad10e7e37ce.png",
-      "https://cdn2.steamgriddb.com/hero/90fd26a243f6d14c4b3df082cdc8da66.png",
-      "https://cdn2.steamgriddb.com/hero/1b38cc09ed3fb15e797212489bdb9e48.png",
-      "https://cdn2.steamgriddb.com/hero/97cc775a12dd85b38c4c63bf11e43fef.png",
-      "https://cdn2.steamgriddb.com/hero/89f927c72c9114c5c36b7fdb2d1198a8.jpg",
-      "https://cdn2.steamgriddb.com/hero/3de74f78d82c374f9edd8dc7f3b126ed.png",
-      "https://cdn2.steamgriddb.com/hero/f0e6055aa7c6f509c6385327eb615820.jpg"
-    ],
-    "releaseYear": 2016,
-    "rating": 86,
-    "platforms": [
-      "PlayStation 4",
-      "PC (Microsoft Windows)",
-      "Xbox One"
-    ],
-    "genres": [
-      "Shooter",
-      "Adventure"
-    ]
-  },
-  {
     "id": 7351,
     "name": "Doom",
     "posters": [
@@ -4006,6 +3978,34 @@
     "genres": [
       "Shooter",
       "Simulator"
+    ]
+  },
+  {
+    "id": 17447,
+    "name": "Titanfall 2",
+    "posters": [
+      "data/covers/17447.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/1baff70e2669e8376347efd3a874a341.png",
+      "https://cdn2.steamgriddb.com/hero/204fdcae117b31aa8d74aad10e7e37ce.png",
+      "https://cdn2.steamgriddb.com/hero/90fd26a243f6d14c4b3df082cdc8da66.png",
+      "https://cdn2.steamgriddb.com/hero/1b38cc09ed3fb15e797212489bdb9e48.png",
+      "https://cdn2.steamgriddb.com/hero/97cc775a12dd85b38c4c63bf11e43fef.png",
+      "https://cdn2.steamgriddb.com/hero/89f927c72c9114c5c36b7fdb2d1198a8.jpg",
+      "https://cdn2.steamgriddb.com/hero/3de74f78d82c374f9edd8dc7f3b126ed.png",
+      "https://cdn2.steamgriddb.com/hero/f0e6055aa7c6f509c6385327eb615820.jpg"
+    ],
+    "releaseYear": 2016,
+    "rating": 86,
+    "platforms": [
+      "PlayStation 4",
+      "PC (Microsoft Windows)",
+      "Xbox One"
+    ],
+    "genres": [
+      "Shooter",
+      "Adventure"
     ]
   },
   {
@@ -5642,11 +5642,11 @@
       "https://cdn2.steamgriddb.com/hero/0496f9b544243ec5dff64344d1477858.png",
       "https://cdn2.steamgriddb.com/hero/c2cb5756ab726e065755c4743ef4cb87.png",
       "https://cdn2.steamgriddb.com/hero/7f4c930feecc8cf0591498c3ccfdba1e.png",
+      "https://cdn2.steamgriddb.com/hero/72e10af8fb000d855f020d8d5bdec391.png",
       "https://cdn2.steamgriddb.com/hero/daf3a8509903b9dc5c719d644505bd4e.png",
       "https://cdn2.steamgriddb.com/hero/23ca2bc6358b97b675c4c10d2cc58761.png",
       "https://cdn2.steamgriddb.com/hero/aab6ed1b64428873672ae553aac1efe7.png",
-      "https://cdn2.steamgriddb.com/hero/3778f23c520d750708cec1c8c3118688.png",
-      "https://cdn2.steamgriddb.com/hero/40de84e699744fef58c5e51b1d28b8dc.png"
+      "https://cdn2.steamgriddb.com/hero/3778f23c520d750708cec1c8c3118688.png"
     ],
     "releaseYear": 2024,
     "rating": 88,
@@ -7167,22 +7167,6 @@
     ]
   },
   {
-    "id": 330379,
-    "name": "Fellowship",
-    "posters": [
-      "data/covers/330379.jpg"
-    ],
-    "heroes": [],
-    "releaseYear": 2025,
-    "rating": 0,
-    "platforms": [
-      "PC (Microsoft Windows)"
-    ],
-    "genres": [
-      "Role-playing (RPG)"
-    ]
-  },
-  {
     "id": 262712,
     "name": "Ananta",
     "posters": [
@@ -7202,6 +7186,22 @@
     "genres": [
       "Role-playing (RPG)",
       "Adventure"
+    ]
+  },
+  {
+    "id": 330379,
+    "name": "Fellowship",
+    "posters": [
+      "data/covers/330379.jpg"
+    ],
+    "heroes": [],
+    "releaseYear": 2025,
+    "rating": 0,
+    "platforms": [
+      "PC (Microsoft Windows)"
+    ],
+    "genres": [
+      "Role-playing (RPG)"
     ]
   },
   {
