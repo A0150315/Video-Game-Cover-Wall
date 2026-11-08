@@ -241,12 +241,12 @@
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/a68d46e355456aa6bb0940317bfee570.jpg",
       "https://cdn2.steamgriddb.com/hero/eac419c3f4586033d7f719314a102ea3.jpg",
+      "https://cdn2.steamgriddb.com/hero/e8ffddd620808f7dc21eaffe35c77bcc.png",
       "https://cdn2.steamgriddb.com/hero/ce333101743e542711456068ece36399.jpg",
       "https://cdn2.steamgriddb.com/hero/4bcdf75a7049c15e19797d1e5b559be3.png",
-      "https://cdn2.steamgriddb.com/hero/e8ffddd620808f7dc21eaffe35c77bcc.png",
-      "https://cdn2.steamgriddb.com/hero/a57780d6eb618a327f29684e6bcaf0e5.png",
       "https://cdn2.steamgriddb.com/hero/bc22979eefd93466731822f165718745.png",
-      "https://cdn2.steamgriddb.com/hero/566c07e6b6557b529e6b411d2dc8042c.png"
+      "https://cdn2.steamgriddb.com/hero/566c07e6b6557b529e6b411d2dc8042c.png",
+      "https://cdn2.steamgriddb.com/hero/31e32c4d4557c669262e2204e18d5091.jpg"
     ],
     "releaseYear": 2023,
     "rating": 95,
@@ -2142,6 +2142,32 @@
     ]
   },
   {
+    "id": 1221,
+    "name": "Kingdom Hearts II",
+    "posters": [
+      "data/covers/1221.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/0c9ba160ed8ff8847bac902f9dfd5621.png",
+      "https://cdn2.steamgriddb.com/hero/be1fe5a4cbad9fd763db5aaedf0ec611.png",
+      "https://cdn2.steamgriddb.com/hero/39d352b0395ba768e18f042c6e2a8621.png",
+      "https://cdn2.steamgriddb.com/hero/3fc90b8360ec984bca9ef733dc3cb612.jpg",
+      "https://cdn2.steamgriddb.com/hero/3947375c7b75d02ede31d537d650f45c.png",
+      "https://cdn2.steamgriddb.com/hero/330093c4c80196eaada85031c9d7f6c6.png",
+      "https://cdn2.steamgriddb.com/hero/eb49f4e3e81ec417bf45ee3df7ddf8f9.png",
+      "https://cdn2.steamgriddb.com/hero/79e670a39dee6895d723518816d67495.png"
+    ],
+    "releaseYear": 2005,
+    "rating": 89,
+    "platforms": [
+      "PlayStation 2"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Adventure"
+    ]
+  },
+  {
     "id": 551,
     "name": "God of War II",
     "posters": [
@@ -2165,32 +2191,6 @@
     "genres": [
       "Platform",
       "Hack and slash/Beat 'em up",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 1221,
-    "name": "Kingdom Hearts II",
-    "posters": [
-      "data/covers/1221.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/0c9ba160ed8ff8847bac902f9dfd5621.png",
-      "https://cdn2.steamgriddb.com/hero/be1fe5a4cbad9fd763db5aaedf0ec611.png",
-      "https://cdn2.steamgriddb.com/hero/39d352b0395ba768e18f042c6e2a8621.png",
-      "https://cdn2.steamgriddb.com/hero/3fc90b8360ec984bca9ef733dc3cb612.jpg",
-      "https://cdn2.steamgriddb.com/hero/3947375c7b75d02ede31d537d650f45c.png",
-      "https://cdn2.steamgriddb.com/hero/330093c4c80196eaada85031c9d7f6c6.png",
-      "https://cdn2.steamgriddb.com/hero/eb49f4e3e81ec417bf45ee3df7ddf8f9.png",
-      "https://cdn2.steamgriddb.com/hero/79e670a39dee6895d723518816d67495.png"
-    ],
-    "releaseYear": 2005,
-    "rating": 89,
-    "platforms": [
-      "PlayStation 2"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
       "Adventure"
     ]
   },
@@ -4423,12 +4423,12 @@
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/73338368669a521b1fff24d636c6bf7e.png",
       "https://cdn2.steamgriddb.com/hero/09a824a09b7734ea1cfd2f9a34dedbfd.jpg",
-      "https://cdn2.steamgriddb.com/hero/78ca117852cadc43f9f3d00af3001701.jpg",
       "https://cdn2.steamgriddb.com/hero/2b3aa41ec493d9908c56dcd665d08d22.jpg",
       "https://cdn2.steamgriddb.com/hero/bba64e6137c253f4ae556a97869e31b1.png",
       "https://cdn2.steamgriddb.com/hero/e94e5b12366081b7bf9b371f9b94ebb7.png",
       "https://cdn2.steamgriddb.com/hero/ce78d1da254c0843eb23951ae077ff5f.png",
-      "https://cdn2.steamgriddb.com/hero/1fd38a1c4411dcda2fc2e38ae6ffb79a.jpg"
+      "https://cdn2.steamgriddb.com/hero/1fd38a1c4411dcda2fc2e38ae6ffb79a.jpg",
+      "https://cdn2.steamgriddb.com/hero/fb87582825f9d28a8d42c5e5e5e8b23d.png"
     ],
     "releaseYear": 2023,
     "rating": 92,
@@ -4935,7 +4935,7 @@
       "https://cdn2.steamgriddb.com/hero/48b35669cef82355751604740a9211de.png",
       "https://cdn2.steamgriddb.com/hero/a6efdcdac561cf7cac3eb26913604236.jpg",
       "https://cdn2.steamgriddb.com/hero/024837d0351c168899a8474e4a899114.jpg",
-      "https://cdn2.steamgriddb.com/hero/cf5810dc724a17fc6040a2b1b903bbe6.jpg"
+      "https://cdn2.steamgriddb.com/hero/8996e4e60480419b951f0421f2f51f59.png"
     ],
     "releaseYear": 2024,
     "rating": 90,
@@ -5578,6 +5578,33 @@
     ]
   },
   {
+    "id": 168668,
+    "name": "Uncharted 4: A Thief's End - Remastered",
+    "posters": [
+      "data/covers/168668.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/81ef6cd96ab8d7992d5a291b20897ec4.jpg",
+      "https://cdn2.steamgriddb.com/hero/21a38ed2ee0c2c081c31286d29db2acc.png",
+      "https://cdn2.steamgriddb.com/hero/bbf514d16a56cba73809fd0b7e262436.png",
+      "https://cdn2.steamgriddb.com/hero/eeb7eebbb38d3cd16f18d4a68f065866.png",
+      "https://cdn2.steamgriddb.com/hero/07a81d45ff030b63fe2a0f375b779f09.png",
+      "https://cdn2.steamgriddb.com/hero/df7c2b3c3966426c14e4b3005c931eb1.png",
+      "https://cdn2.steamgriddb.com/hero/baef4802848fb2c2e3026a7f26a53315.png",
+      "https://cdn2.steamgriddb.com/hero/f7b6da9dedde15499538bf7e5e23f0ee.png"
+    ],
+    "releaseYear": 2022,
+    "rating": 88,
+    "platforms": [
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Shooter",
+      "Adventure"
+    ]
+  },
+  {
     "id": 134582,
     "name": "Ratchet & Clank: Rift Apart",
     "posters": [
@@ -5602,33 +5629,6 @@
     "genres": [
       "Shooter",
       "Platform",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 168668,
-    "name": "Uncharted 4: A Thief's End - Remastered",
-    "posters": [
-      "data/covers/168668.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/81ef6cd96ab8d7992d5a291b20897ec4.jpg",
-      "https://cdn2.steamgriddb.com/hero/21a38ed2ee0c2c081c31286d29db2acc.png",
-      "https://cdn2.steamgriddb.com/hero/bbf514d16a56cba73809fd0b7e262436.png",
-      "https://cdn2.steamgriddb.com/hero/eeb7eebbb38d3cd16f18d4a68f065866.png",
-      "https://cdn2.steamgriddb.com/hero/07a81d45ff030b63fe2a0f375b779f09.png",
-      "https://cdn2.steamgriddb.com/hero/df7c2b3c3966426c14e4b3005c931eb1.png",
-      "https://cdn2.steamgriddb.com/hero/baef4802848fb2c2e3026a7f26a53315.png",
-      "https://cdn2.steamgriddb.com/hero/f7b6da9dedde15499538bf7e5e23f0ee.png"
-    ],
-    "releaseYear": 2022,
-    "rating": 88,
-    "platforms": [
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Shooter",
       "Adventure"
     ]
   },
@@ -5834,6 +5834,37 @@
       "Puzzle",
       "Adventure",
       "Indie"
+    ]
+  },
+  {
+    "id": 165247,
+    "name": "Quake",
+    "posters": [
+      "data/covers/165247.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/f3296629e5e4964de099e204626f32fd.png",
+      "https://cdn2.steamgriddb.com/hero/2e4578ce74b772b90dcc91cdc68247ef.png",
+      "https://cdn2.steamgriddb.com/hero/b7f7e86824775accacc073b61ca2e81c.jpg",
+      "https://cdn2.steamgriddb.com/hero/14bf6dce0a0ceb6662449793da991fb8.jpg",
+      "https://cdn2.steamgriddb.com/hero/c7c85b0c46f1f4182514ad2cf7f05a0a.png",
+      "https://cdn2.steamgriddb.com/hero/3408b8d8a758db7c66b435a2c13352e4.png",
+      "https://cdn2.steamgriddb.com/hero/5c22590152f4f53f3c05cf7cc6aa0b6b.png",
+      "https://cdn2.steamgriddb.com/hero/094b7cd1111ed23f5b64a54744cb25b7.png"
+    ],
+    "releaseYear": 2021,
+    "rating": 88,
+    "platforms": [
+      "Xbox Series X|S",
+      "PlayStation 4",
+      "PC (Microsoft Windows)",
+      "PlayStation 5",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Shooter",
+      "Adventure"
     ]
   },
   {
@@ -6184,34 +6215,6 @@
       "Platform",
       "Role-playing (RPG)",
       "Hack and slash/Beat 'em up",
-      "Adventure",
-      "Indie"
-    ]
-  },
-  {
-    "id": 135818,
-    "name": "Pizza Tower",
-    "posters": [
-      "data/covers/135818.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/54a64b2e4c5969a0449a82b1ef1ecf70.png",
-      "https://cdn2.steamgriddb.com/hero/574e04d3b783927e028982e71467bf13.png",
-      "https://cdn2.steamgriddb.com/hero/2ad39eeb55ea4d05c6930ccab04667e9.png",
-      "https://cdn2.steamgriddb.com/hero/a97d5355c6c278e9cec289921a5e3f2a.png",
-      "https://cdn2.steamgriddb.com/hero/0b9092dbc5e3a91d6df24256675003d8.png",
-      "https://cdn2.steamgriddb.com/hero/93ae0d44b350540f196d8bcde3ddeca3.png",
-      "https://cdn2.steamgriddb.com/hero/8523109c9a85dbfc46eb1f46955b5449.png",
-      "https://cdn2.steamgriddb.com/hero/0101604c8ed6c3a97116e52564fca3ff.jpg"
-    ],
-    "releaseYear": 2023,
-    "rating": 87,
-    "platforms": [
-      "PC (Microsoft Windows)",
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Platform",
       "Adventure",
       "Indie"
     ]
@@ -6918,30 +6921,6 @@
     ]
   },
   {
-    "id": 381234,
-    "name": "Tomb Raider: Catalyst",
-    "posters": [
-      "data/covers/381234.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/1318e9f2f201b64c51692ee8c03afda2.jpg",
-      "https://cdn2.steamgriddb.com/hero/da0a717aae40dd08c29ffae111e6ce54.jpg",
-      "https://cdn2.steamgriddb.com/hero/fd89c8d2a3f6525b79aa4996fdab4ba2.png"
-    ],
-    "releaseYear": 2028,
-    "rating": 0,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Platform",
-      "Puzzle",
-      "Adventure"
-    ]
-  },
-  {
     "id": 325599,
     "name": "Stranger Than Heaven",
     "posters": [
@@ -6965,6 +6944,30 @@
       "Fighting",
       "Puzzle",
       "Role-playing (RPG)",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 381234,
+    "name": "Tomb Raider: Catalyst",
+    "posters": [
+      "data/covers/381234.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/1318e9f2f201b64c51692ee8c03afda2.jpg",
+      "https://cdn2.steamgriddb.com/hero/da0a717aae40dd08c29ffae111e6ce54.jpg",
+      "https://cdn2.steamgriddb.com/hero/fd89c8d2a3f6525b79aa4996fdab4ba2.png"
+    ],
+    "releaseYear": 2028,
+    "rating": 0,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Platform",
+      "Puzzle",
       "Adventure"
     ]
   },
