@@ -98,12 +98,12 @@
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/1e0b98ffbf6e647bbcfb5f1032f21ce5.png",
       "https://cdn2.steamgriddb.com/hero/d305281faf947ca7acade9ad5c8c818c.png",
-      "https://cdn2.steamgriddb.com/hero/0bb3498deb34e18fa94d2c9d6a443c07.png",
       "https://cdn2.steamgriddb.com/hero/8e98d81f8217304975ccb23337bb5761.png",
+      "https://cdn2.steamgriddb.com/hero/5c9769f8d0b2de57ecf028dbf078e79f.png",
       "https://cdn2.steamgriddb.com/hero/db3d983b03fb48e7ccb81cd9fa757db5.png",
-      "https://cdn2.steamgriddb.com/hero/124a2096ccf1d52f3d24d7e4ced01b93.png",
       "https://cdn2.steamgriddb.com/hero/0b90a0b15fcbc6b66311f9ef1fed6c89.png",
-      "https://cdn2.steamgriddb.com/hero/5c9769f8d0b2de57ecf028dbf078e79f.png"
+      "https://cdn2.steamgriddb.com/hero/0bb3498deb34e18fa94d2c9d6a443c07.png",
+      "https://cdn2.steamgriddb.com/hero/93ea79057eb31c13632c70bddfc34908.png"
     ],
     "releaseYear": 1990,
     "rating": 96,
@@ -155,10 +155,10 @@
       "https://cdn2.steamgriddb.com/hero/4fc7fd6e1cf252fb1a7403a8b1ce0476.png",
       "https://cdn2.steamgriddb.com/hero/b751142d1db64622c665bf40839bba13.png",
       "https://cdn2.steamgriddb.com/hero/5b359e020d0c4726dd6876f6e6500648.png",
+      "https://cdn2.steamgriddb.com/hero/827d76ca5f79bcdfacf42a965cdf9551.png",
       "https://cdn2.steamgriddb.com/hero/840aa06493f6efae8a912df6bd5ba889.jpg",
       "https://cdn2.steamgriddb.com/hero/fa36ce3924dac70defd1e81ffebfc71c.jpg",
-      "https://cdn2.steamgriddb.com/hero/79daceb948005dea8a61bd189cb4d468.png",
-      "https://cdn2.steamgriddb.com/hero/0c239762d3a80dad4458be9d4540ba95.png"
+      "https://cdn2.steamgriddb.com/hero/79daceb948005dea8a61bd189cb4d468.png"
     ],
     "releaseYear": 2022,
     "rating": 95,
@@ -414,11 +414,11 @@
       "https://cdn2.steamgriddb.com/hero/f66d6e86ad128c934d9f1c3ea9d19155.png",
       "https://cdn2.steamgriddb.com/hero/3574cbb1010b32b07dd7f645153ee35c.png",
       "https://cdn2.steamgriddb.com/hero/8b867815185dd36ff091a2702449feb9.jpg",
-      "https://cdn2.steamgriddb.com/hero/097bb684afbf5050abddf7e0de2c0392.jpg",
       "https://cdn2.steamgriddb.com/hero/80b88f884695e0bb1e9cda1e5d22e0f3.png",
-      "https://cdn2.steamgriddb.com/hero/a55849017dabfbb40c0ee27296cf700a.png",
-      "https://cdn2.steamgriddb.com/hero/62b98ecb2cfaed58b0a9b5e8287537ec.png",
-      "https://cdn2.steamgriddb.com/hero/542b0d236eaa6e41b85fcf4d7421ab70.png"
+      "https://cdn2.steamgriddb.com/hero/097bb684afbf5050abddf7e0de2c0392.jpg",
+      "https://cdn2.steamgriddb.com/hero/542b0d236eaa6e41b85fcf4d7421ab70.png",
+      "https://cdn2.steamgriddb.com/hero/d6cb92c82f82f5234fac99f025937ef4.png",
+      "https://cdn2.steamgriddb.com/hero/a55849017dabfbb40c0ee27296cf700a.png"
     ],
     "releaseYear": 1995,
     "rating": 94,
@@ -669,12 +669,12 @@
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/68f5f3544600e4839d80e3e5be1b9b09.png",
       "https://cdn2.steamgriddb.com/hero/c42443441c156569a17da99a99990e88.png",
-      "https://cdn2.steamgriddb.com/hero/d9d8ddd6f57965794e1368c201c005d8.png",
-      "https://cdn2.steamgriddb.com/hero/d7fd118e6f226a71b5f1ffe10efd0a78.png",
-      "https://cdn2.steamgriddb.com/hero/8ed6f70eea41393320aa4cfebb279a24.png",
       "https://cdn2.steamgriddb.com/hero/2b3df1d118f9bcde5dfd351a32cbe86e.jpg",
-      "https://cdn2.steamgriddb.com/hero/b5141428fc38a8f2a5229286449727f1.png",
-      "https://cdn2.steamgriddb.com/hero/b554896004cfc743ab207db99168892b.png"
+      "https://cdn2.steamgriddb.com/hero/8ed6f70eea41393320aa4cfebb279a24.png",
+      "https://cdn2.steamgriddb.com/hero/d7fd118e6f226a71b5f1ffe10efd0a78.png",
+      "https://cdn2.steamgriddb.com/hero/a983add79a0d3020658571c48938b144.png",
+      "https://cdn2.steamgriddb.com/hero/8be2e455cd42f6a50977c99eee4d4d14.png",
+      "https://cdn2.steamgriddb.com/hero/b5141428fc38a8f2a5229286449727f1.png"
     ],
     "releaseYear": 2010,
     "rating": 93,
@@ -1050,14 +1050,14 @@
       "data/covers/1029.jpg"
     ],
     "heroes": [
-      "https://cdn2.steamgriddb.com/hero/1595af6435015c77a7149e92a551338e.png",
-      "https://cdn2.steamgriddb.com/hero/6597e35504c82e2f89f20837fb631376.png",
       "https://cdn2.steamgriddb.com/hero/f3d0c38aba71c170a70fc61c71db4e6f.png",
-      "https://cdn2.steamgriddb.com/hero/f4655a2b707853f1b118e0dadc52f9ba.png",
-      "https://cdn2.steamgriddb.com/hero/4da04049a062f5adfe81b67dd755cecc.png",
+      "https://cdn2.steamgriddb.com/hero/1595af6435015c77a7149e92a551338e.png",
+      "https://cdn2.steamgriddb.com/hero/dbb795db64c6ab685cc819262a4c36fc.png",
       "https://cdn2.steamgriddb.com/hero/c39082397ba4e81d4c9525ee3c56ffc7.png",
       "https://cdn2.steamgriddb.com/hero/299024cfe2cd92197e0ab02d2421285c.png",
-      "https://cdn2.steamgriddb.com/hero/6e92962008491b24a803ff3b7d61734b.png"
+      "https://cdn2.steamgriddb.com/hero/f4655a2b707853f1b118e0dadc52f9ba.png",
+      "https://cdn2.steamgriddb.com/hero/6597e35504c82e2f89f20837fb631376.png",
+      "https://cdn2.steamgriddb.com/hero/4da04049a062f5adfe81b67dd755cecc.png"
     ],
     "releaseYear": 1998,
     "rating": 92,
@@ -1383,8 +1383,8 @@
     ],
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/e105b88b3e1ac23ec811a708cd7edebf.png",
-      "https://cdn2.steamgriddb.com/hero/8c5a6a748263c05bfaec92982dbd56b5.png",
       "https://cdn2.steamgriddb.com/hero/0edeae2390ca87fef1b15842285817c1.png",
+      "https://cdn2.steamgriddb.com/hero/8c5a6a748263c05bfaec92982dbd56b5.png",
       "https://cdn2.steamgriddb.com/hero/3cb7e8f622724be0f4007bab0102e831.png",
       "https://cdn2.steamgriddb.com/hero/cc9657884708170e160c8372d92f3535.png",
       "https://cdn2.steamgriddb.com/hero/09c039292630f588a0528fb457d63c7e.png",
@@ -3076,12 +3076,12 @@
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/25fa2d39a0143f1f30c36eece145a526.png",
       "https://cdn2.steamgriddb.com/hero/08d98638c6fcd194a4b1e6992063e944.png",
-      "https://cdn2.steamgriddb.com/hero/68a83eeb494a308fe5295da69428a507.png",
-      "https://cdn2.steamgriddb.com/hero/5192a7fcc1feaf3b1583e155b643d206.png",
       "https://cdn2.steamgriddb.com/hero/a0bfd9e2a5529c21836fd99454a390bb.png",
-      "https://cdn2.steamgriddb.com/hero/6962448d565dc65ce98caf5e51e1dfec.png",
+      "https://cdn2.steamgriddb.com/hero/b37702dda7c58db954b3a56c71412c51.png",
       "https://cdn2.steamgriddb.com/hero/3925d313c95e874b3e75a4b6d2067d2a.png",
-      "https://cdn2.steamgriddb.com/hero/b37702dda7c58db954b3a56c71412c51.png"
+      "https://cdn2.steamgriddb.com/hero/68a83eeb494a308fe5295da69428a507.png",
+      "https://cdn2.steamgriddb.com/hero/06e15c26cee86195f9392fe34b91f2c6.png",
+      "https://cdn2.steamgriddb.com/hero/481f0dd7ae83e18513be0b4e400a9535.png"
     ],
     "releaseYear": 2000,
     "rating": 88,
@@ -4109,11 +4109,11 @@
     ],
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/3e04f019562baeb10f41e7b9fb14c6be.png",
-      "https://cdn2.steamgriddb.com/hero/5351b995ac7e0de17861c8f4937d5223.png",
       "https://cdn2.steamgriddb.com/hero/9a60f48f5298395dc0d6e0cf062d8cd7.png",
-      "https://cdn2.steamgriddb.com/hero/13de4c4785c7a5409b6247c133b325bf.png",
       "https://cdn2.steamgriddb.com/hero/e4b0b923a3ec85a83669b734db4318b7.png",
-      "https://cdn2.steamgriddb.com/hero/83decbc20d665926df9335a0a3be7e3b.png",
+      "https://cdn2.steamgriddb.com/hero/5351b995ac7e0de17861c8f4937d5223.png",
+      "https://cdn2.steamgriddb.com/hero/c5def7dc28e57fdcb1c8045e388d41e3.png",
+      "https://cdn2.steamgriddb.com/hero/13de4c4785c7a5409b6247c133b325bf.png",
       "https://cdn2.steamgriddb.com/hero/233509073ed3432027d48b1a83f5fbd2.png",
       "https://cdn2.steamgriddb.com/hero/483cad40bcef17f30ff4139d525b6e81.png"
     ],
@@ -5197,11 +5197,11 @@
       "https://cdn2.steamgriddb.com/hero/4e51b70d7ae3e2a6194d23b399acb43d.png",
       "https://cdn2.steamgriddb.com/hero/fbbd5c9acd74f9a68a2ac5296c8f6677.jpg",
       "https://cdn2.steamgriddb.com/hero/4d88fddcbb854166f3b5ba0d4b50597f.jpg",
+      "https://cdn2.steamgriddb.com/hero/4728551060c2ada982919edf0c8607e2.png",
+      "https://cdn2.steamgriddb.com/hero/0862889923b64c3cfc29ed7b74883be9.png",
       "https://cdn2.steamgriddb.com/hero/30d3ea0723cbfe619edb0201c8efa94b.jpg",
       "https://cdn2.steamgriddb.com/hero/e7240b5a0b10b78241dc426e1e63921c.jpg",
-      "https://cdn2.steamgriddb.com/hero/f6bd2a3672ec73783ad8f4b3dd1d18f4.jpg",
-      "https://cdn2.steamgriddb.com/hero/984a1368247673c9d71851ee0457e788.jpg",
-      "https://cdn2.steamgriddb.com/hero/3d96ef65a9b66538b4d19c16cff3ffd7.jpg"
+      "https://cdn2.steamgriddb.com/hero/f6bd2a3672ec73783ad8f4b3dd1d18f4.jpg"
     ],
     "releaseYear": 2021,
     "rating": 89,
@@ -5642,11 +5642,11 @@
       "https://cdn2.steamgriddb.com/hero/0496f9b544243ec5dff64344d1477858.png",
       "https://cdn2.steamgriddb.com/hero/c2cb5756ab726e065755c4743ef4cb87.png",
       "https://cdn2.steamgriddb.com/hero/7f4c930feecc8cf0591498c3ccfdba1e.png",
+      "https://cdn2.steamgriddb.com/hero/fc449691a99fc1782780ef6b8683f42b.png",
       "https://cdn2.steamgriddb.com/hero/72e10af8fb000d855f020d8d5bdec391.png",
       "https://cdn2.steamgriddb.com/hero/daf3a8509903b9dc5c719d644505bd4e.png",
       "https://cdn2.steamgriddb.com/hero/23ca2bc6358b97b675c4c10d2cc58761.png",
-      "https://cdn2.steamgriddb.com/hero/aab6ed1b64428873672ae553aac1efe7.png",
-      "https://cdn2.steamgriddb.com/hero/3778f23c520d750708cec1c8c3118688.png"
+      "https://cdn2.steamgriddb.com/hero/aab6ed1b64428873672ae553aac1efe7.png"
     ],
     "releaseYear": 2024,
     "rating": 88,
@@ -6254,12 +6254,12 @@
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/2d12729c665a9c1c3bda27ba1273154c.jpg",
       "https://cdn2.steamgriddb.com/hero/c44b034dab0ecc0d163f3c01e388f8aa.png",
+      "https://cdn2.steamgriddb.com/hero/88da0b56a859a561e7fb26bea0c507e8.png",
+      "https://cdn2.steamgriddb.com/hero/dc49b273b8a488c497a94ad115aeae7e.png",
       "https://cdn2.steamgriddb.com/hero/cef2465985311c2d8aa8cc9e89a0b17a.jpg",
       "https://cdn2.steamgriddb.com/hero/05d4d1064a3f35425953bef00657d133.jpg",
       "https://cdn2.steamgriddb.com/hero/3e8bd7e8026b87e3f4b8c92203516000.png",
-      "https://cdn2.steamgriddb.com/hero/a530344ef42250d0dd3371bd31245f27.png",
-      "https://cdn2.steamgriddb.com/hero/38c0bb6153a37c4f42fbe27a45e3b51f.jpg",
-      "https://cdn2.steamgriddb.com/hero/ae0638ba4db0d2b0c0d5c75785034e8c.jpg"
+      "https://cdn2.steamgriddb.com/hero/a530344ef42250d0dd3371bd31245f27.png"
     ],
     "releaseYear": 2024,
     "rating": 87,
@@ -7298,6 +7298,29 @@
     ],
     "genres": [
       "Card & Board Game"
+    ]
+  },
+  {
+    "id": 381219,
+    "name": "Ontos",
+    "posters": [
+      "data/covers/381219.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/00de98e7e5804a48a28624138852f5c5.png",
+      "https://cdn2.steamgriddb.com/hero/c1faf5d40fd152fbb1b1cfb8f36de9d3.png"
+    ],
+    "releaseYear": 2027,
+    "rating": 0,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Puzzle",
+      "Adventure",
+      "Indie"
     ]
   }
 ]
