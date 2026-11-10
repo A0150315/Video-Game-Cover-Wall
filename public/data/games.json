@@ -323,32 +323,6 @@
     ]
   },
   {
-    "id": 119388,
-    "name": "The Legend of Zelda: Tears of the Kingdom",
-    "posters": [
-      "data/covers/119388.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/7048d1540fa99464f489f1d11db688b1.png",
-      "https://cdn2.steamgriddb.com/hero/6d6c5b7c73b3a57198402741c1e92df5.png",
-      "https://cdn2.steamgriddb.com/hero/419133b57ea628b183f73a28c5ad7a8c.png",
-      "https://cdn2.steamgriddb.com/hero/892a01fa3246d61bc3cd6d16f01b9d22.png",
-      "https://cdn2.steamgriddb.com/hero/aa23a647b581371fb0c5803263da1345.png",
-      "https://cdn2.steamgriddb.com/hero/c2780f04a3434b942146ae546828a32c.jpg",
-      "https://cdn2.steamgriddb.com/hero/b61248fcbcb76b463231d88a39b5d4cb.jpg",
-      "https://cdn2.steamgriddb.com/hero/8646c48a45fc958d20550a893b2e835d.jpg"
-    ],
-    "releaseYear": 2023,
-    "rating": 94,
-    "platforms": [
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Puzzle",
-      "Adventure"
-    ]
-  },
-  {
     "id": 19560,
     "name": "God of War",
     "posters": [
@@ -374,6 +348,32 @@
     "genres": [
       "Role-playing (RPG)",
       "Hack and slash/Beat 'em up",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 119388,
+    "name": "The Legend of Zelda: Tears of the Kingdom",
+    "posters": [
+      "data/covers/119388.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/7048d1540fa99464f489f1d11db688b1.png",
+      "https://cdn2.steamgriddb.com/hero/6d6c5b7c73b3a57198402741c1e92df5.png",
+      "https://cdn2.steamgriddb.com/hero/419133b57ea628b183f73a28c5ad7a8c.png",
+      "https://cdn2.steamgriddb.com/hero/892a01fa3246d61bc3cd6d16f01b9d22.png",
+      "https://cdn2.steamgriddb.com/hero/aa23a647b581371fb0c5803263da1345.png",
+      "https://cdn2.steamgriddb.com/hero/c2780f04a3434b942146ae546828a32c.jpg",
+      "https://cdn2.steamgriddb.com/hero/b61248fcbcb76b463231d88a39b5d4cb.jpg",
+      "https://cdn2.steamgriddb.com/hero/8646c48a45fc958d20550a893b2e835d.jpg"
+    ],
+    "releaseYear": 2023,
+    "rating": 94,
+    "platforms": [
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Puzzle",
       "Adventure"
     ]
   },
@@ -778,6 +778,32 @@
     ]
   },
   {
+    "id": 1009,
+    "name": "The Last of Us",
+    "posters": [
+      "data/covers/1009.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/6bea0302f5aaab6a0700a70eaf85605e.png",
+      "https://cdn2.steamgriddb.com/hero/6eda0403281df4b9a24d37790828effb.png",
+      "https://cdn2.steamgriddb.com/hero/7695ea769f021803c508817dd374bb27.png",
+      "https://cdn2.steamgriddb.com/hero/e826eaaf7a8c5f8be22153762a98ebe2.jpg",
+      "https://cdn2.steamgriddb.com/hero/29fe9fa1194f3e4c69f9a5477839526e.jpg",
+      "https://cdn2.steamgriddb.com/hero/5416967f58f1726f626753b88ecefd40.jpg",
+      "https://cdn2.steamgriddb.com/hero/d4c074c60c57087c95fd0a17f986210c.png",
+      "https://cdn2.steamgriddb.com/hero/5d582c50afcf15d63acdfa2df2f088e6.png"
+    ],
+    "releaseYear": 2013,
+    "rating": 92,
+    "platforms": [
+      "PlayStation 3"
+    ],
+    "genres": [
+      "Shooter",
+      "Adventure"
+    ]
+  },
+  {
     "id": 1128,
     "name": "Castlevania: Symphony of the Night",
     "posters": [
@@ -805,32 +831,6 @@
     "genres": [
       "Platform",
       "Role-playing (RPG)",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 1009,
-    "name": "The Last of Us",
-    "posters": [
-      "data/covers/1009.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/6bea0302f5aaab6a0700a70eaf85605e.png",
-      "https://cdn2.steamgriddb.com/hero/6eda0403281df4b9a24d37790828effb.png",
-      "https://cdn2.steamgriddb.com/hero/7695ea769f021803c508817dd374bb27.png",
-      "https://cdn2.steamgriddb.com/hero/e826eaaf7a8c5f8be22153762a98ebe2.jpg",
-      "https://cdn2.steamgriddb.com/hero/29fe9fa1194f3e4c69f9a5477839526e.jpg",
-      "https://cdn2.steamgriddb.com/hero/5416967f58f1726f626753b88ecefd40.jpg",
-      "https://cdn2.steamgriddb.com/hero/d4c074c60c57087c95fd0a17f986210c.png",
-      "https://cdn2.steamgriddb.com/hero/5d582c50afcf15d63acdfa2df2f088e6.png"
-    ],
-    "releaseYear": 2013,
-    "rating": 92,
-    "platforms": [
-      "PlayStation 3"
-    ],
-    "genres": [
-      "Shooter",
       "Adventure"
     ]
   },
@@ -980,6 +980,35 @@
     ]
   },
   {
+    "id": 1029,
+    "name": "The Legend of Zelda: Ocarina of Time",
+    "posters": [
+      "data/covers/1029.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/f3d0c38aba71c170a70fc61c71db4e6f.png",
+      "https://cdn2.steamgriddb.com/hero/1595af6435015c77a7149e92a551338e.png",
+      "https://cdn2.steamgriddb.com/hero/dbb795db64c6ab685cc819262a4c36fc.png",
+      "https://cdn2.steamgriddb.com/hero/c39082397ba4e81d4c9525ee3c56ffc7.png",
+      "https://cdn2.steamgriddb.com/hero/299024cfe2cd92197e0ab02d2421285c.png",
+      "https://cdn2.steamgriddb.com/hero/f4655a2b707853f1b118e0dadc52f9ba.png",
+      "https://cdn2.steamgriddb.com/hero/6597e35504c82e2f89f20837fb631376.png",
+      "https://cdn2.steamgriddb.com/hero/4da04049a062f5adfe81b67dd755cecc.png"
+    ],
+    "releaseYear": 1998,
+    "rating": 92,
+    "platforms": [
+      "Wii",
+      "Nintendo 64",
+      "64DD",
+      "Wii U"
+    ],
+    "genres": [
+      "Puzzle",
+      "Adventure"
+    ]
+  },
+  {
     "id": 1559,
     "name": "Pokémon FireRed Version",
     "posters": [
@@ -1040,35 +1069,6 @@
     "genres": [
       "Shooter",
       "Racing",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 1029,
-    "name": "The Legend of Zelda: Ocarina of Time",
-    "posters": [
-      "data/covers/1029.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/f3d0c38aba71c170a70fc61c71db4e6f.png",
-      "https://cdn2.steamgriddb.com/hero/1595af6435015c77a7149e92a551338e.png",
-      "https://cdn2.steamgriddb.com/hero/dbb795db64c6ab685cc819262a4c36fc.png",
-      "https://cdn2.steamgriddb.com/hero/c39082397ba4e81d4c9525ee3c56ffc7.png",
-      "https://cdn2.steamgriddb.com/hero/299024cfe2cd92197e0ab02d2421285c.png",
-      "https://cdn2.steamgriddb.com/hero/f4655a2b707853f1b118e0dadc52f9ba.png",
-      "https://cdn2.steamgriddb.com/hero/6597e35504c82e2f89f20837fb631376.png",
-      "https://cdn2.steamgriddb.com/hero/4da04049a062f5adfe81b67dd755cecc.png"
-    ],
-    "releaseYear": 1998,
-    "rating": 92,
-    "platforms": [
-      "Wii",
-      "Nintendo 64",
-      "64DD",
-      "Wii U"
-    ],
-    "genres": [
-      "Puzzle",
       "Adventure"
     ]
   },
@@ -2004,8 +2004,8 @@
       "https://cdn2.steamgriddb.com/hero/a0715b3d3eeed8446fc3bf227c1e4b83.png",
       "https://cdn2.steamgriddb.com/hero/388814209b675f2845e8737658701033.png",
       "https://cdn2.steamgriddb.com/hero/14d203158e5c5fd54555ecd1bd9ed8e3.png",
-      "https://cdn2.steamgriddb.com/hero/4cba8b40e26654975d5ed2256eeba2e2.png",
       "https://cdn2.steamgriddb.com/hero/7556224206e7d2a665dc14caa39ee31d.jpg",
+      "https://cdn2.steamgriddb.com/hero/4cba8b40e26654975d5ed2256eeba2e2.png",
       "https://cdn2.steamgriddb.com/hero/1087ef240a4fa531a4cec93d41621ca8.png",
       "https://cdn2.steamgriddb.com/hero/7273e671a40fa9f0d3867d1098d5ac6e.png"
     ],
@@ -2329,7 +2329,7 @@
       "https://cdn2.steamgriddb.com/hero/ea8fcd92d59581717e06eb187f10666d.png",
       "https://cdn2.steamgriddb.com/hero/5c645cc19a53ac1dfb155840d886050c.png",
       "https://cdn2.steamgriddb.com/hero/48dfb0e62ef53dc160c26788433c2d1a.jpg",
-      "https://cdn2.steamgriddb.com/hero/ed1142acd9193e248ee334e2328964d4.png"
+      "https://cdn2.steamgriddb.com/hero/d9788dca1673b499692fc7ab062e283f.jpg"
     ],
     "releaseYear": 2013,
     "rating": 89,
@@ -2360,9 +2360,9 @@
       "https://cdn2.steamgriddb.com/hero/24c301e049a2077855d3e37ba719b09d.png",
       "https://cdn2.steamgriddb.com/hero/f7ba5748e6bc21c3df7d9aa0a40168df.png",
       "https://cdn2.steamgriddb.com/hero/3cfdef4f1447147029268a257d131552.png",
+      "https://cdn2.steamgriddb.com/hero/f3308ae40c29f840f9855c1bb9e3dac3.jpg",
       "https://cdn2.steamgriddb.com/hero/8fe4779ca30f6436a2fb4596e16b38fa.png",
-      "https://cdn2.steamgriddb.com/hero/21cf1e2c7605ae77ececeed18a7e2c96.png",
-      "https://cdn2.steamgriddb.com/hero/fb788d161b3567183b3fa590d8faf84e.png"
+      "https://cdn2.steamgriddb.com/hero/21cf1e2c7605ae77ececeed18a7e2c96.png"
     ],
     "releaseYear": 2005,
     "rating": 89,
@@ -2746,34 +2746,6 @@
     ]
   },
   {
-    "id": 76,
-    "name": "Dragon Age: Origins",
-    "posters": [
-      "data/covers/76.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/ee89223a2b625b5152132ed77abbcc79.png",
-      "https://cdn2.steamgriddb.com/hero/5d2a47cdbbcc3d3af68f7d4003f796b5.png",
-      "https://cdn2.steamgriddb.com/hero/72f67e70f6b7cdc4cc893edaddf0c4c6.jpg",
-      "https://cdn2.steamgriddb.com/hero/fccc64972a9468a11f125cadb090e89e.png",
-      "https://cdn2.steamgriddb.com/hero/1b318124e37af6d74a03501474f44ea1.jpg",
-      "https://cdn2.steamgriddb.com/hero/3847917d67bbb93e39c62d30c288ce37.png",
-      "https://cdn2.steamgriddb.com/hero/02a32ad2669e6fe298e607fe7cc0e1a0.png",
-      "https://cdn2.steamgriddb.com/hero/b1c5390a0134fb5edeb8bef14441045b.png"
-    ],
-    "releaseYear": 2009,
-    "rating": 88,
-    "platforms": [
-      "PlayStation 3",
-      "PC (Microsoft Windows)",
-      "Mac",
-      "Xbox 360"
-    ],
-    "genres": [
-      "Role-playing (RPG)"
-    ]
-  },
-  {
     "id": 4438,
     "name": "Sonic the Hedgehog 2",
     "posters": [
@@ -2802,6 +2774,34 @@
     ],
     "genres": [
       "Platform"
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Dragon Age: Origins",
+    "posters": [
+      "data/covers/76.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/ee89223a2b625b5152132ed77abbcc79.png",
+      "https://cdn2.steamgriddb.com/hero/5d2a47cdbbcc3d3af68f7d4003f796b5.png",
+      "https://cdn2.steamgriddb.com/hero/72f67e70f6b7cdc4cc893edaddf0c4c6.jpg",
+      "https://cdn2.steamgriddb.com/hero/fccc64972a9468a11f125cadb090e89e.png",
+      "https://cdn2.steamgriddb.com/hero/1b318124e37af6d74a03501474f44ea1.jpg",
+      "https://cdn2.steamgriddb.com/hero/3847917d67bbb93e39c62d30c288ce37.png",
+      "https://cdn2.steamgriddb.com/hero/02a32ad2669e6fe298e607fe7cc0e1a0.png",
+      "https://cdn2.steamgriddb.com/hero/b1c5390a0134fb5edeb8bef14441045b.png"
+    ],
+    "releaseYear": 2009,
+    "rating": 88,
+    "platforms": [
+      "PlayStation 3",
+      "PC (Microsoft Windows)",
+      "Mac",
+      "Xbox 360"
+    ],
+    "genres": [
+      "Role-playing (RPG)"
     ]
   },
   {
@@ -3038,6 +3038,35 @@
     ]
   },
   {
+    "id": 1030,
+    "name": "The Legend of Zelda: Majora's Mask",
+    "posters": [
+      "data/covers/1030.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/25fa2d39a0143f1f30c36eece145a526.png",
+      "https://cdn2.steamgriddb.com/hero/08d98638c6fcd194a4b1e6992063e944.png",
+      "https://cdn2.steamgriddb.com/hero/a0bfd9e2a5529c21836fd99454a390bb.png",
+      "https://cdn2.steamgriddb.com/hero/b37702dda7c58db954b3a56c71412c51.png",
+      "https://cdn2.steamgriddb.com/hero/3925d313c95e874b3e75a4b6d2067d2a.png",
+      "https://cdn2.steamgriddb.com/hero/68a83eeb494a308fe5295da69428a507.png",
+      "https://cdn2.steamgriddb.com/hero/06e15c26cee86195f9392fe34b91f2c6.png",
+      "https://cdn2.steamgriddb.com/hero/481f0dd7ae83e18513be0b4e400a9535.png"
+    ],
+    "releaseYear": 2000,
+    "rating": 88,
+    "platforms": [
+      "Wii",
+      "Nintendo 64",
+      "64DD",
+      "Wii U"
+    ],
+    "genres": [
+      "Puzzle",
+      "Adventure"
+    ]
+  },
+  {
     "id": 75,
     "name": "Mass Effect 3",
     "posters": [
@@ -3064,35 +3093,6 @@
       "Shooter",
       "Role-playing (RPG)",
       "Strategy",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 1030,
-    "name": "The Legend of Zelda: Majora's Mask",
-    "posters": [
-      "data/covers/1030.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/25fa2d39a0143f1f30c36eece145a526.png",
-      "https://cdn2.steamgriddb.com/hero/08d98638c6fcd194a4b1e6992063e944.png",
-      "https://cdn2.steamgriddb.com/hero/a0bfd9e2a5529c21836fd99454a390bb.png",
-      "https://cdn2.steamgriddb.com/hero/b37702dda7c58db954b3a56c71412c51.png",
-      "https://cdn2.steamgriddb.com/hero/3925d313c95e874b3e75a4b6d2067d2a.png",
-      "https://cdn2.steamgriddb.com/hero/68a83eeb494a308fe5295da69428a507.png",
-      "https://cdn2.steamgriddb.com/hero/06e15c26cee86195f9392fe34b91f2c6.png",
-      "https://cdn2.steamgriddb.com/hero/481f0dd7ae83e18513be0b4e400a9535.png"
-    ],
-    "releaseYear": 2000,
-    "rating": 88,
-    "platforms": [
-      "Wii",
-      "Nintendo 64",
-      "64DD",
-      "Wii U"
-    ],
-    "genres": [
-      "Puzzle",
       "Adventure"
     ]
   },
@@ -3435,6 +3435,32 @@
     ]
   },
   {
+    "id": 1628,
+    "name": "Super Smash Bros. Brawl",
+    "posters": [
+      "data/covers/1628.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/a019af77fec797e53a29ce057455df30.png",
+      "https://cdn2.steamgriddb.com/hero/076023edc9187cf1ac1f1163470e479a.png",
+      "https://cdn2.steamgriddb.com/hero/ec4c26cb33e170f4c5521d91457fcf50.png",
+      "https://cdn2.steamgriddb.com/hero/6872fbd4d9c2156c2cf1230e206e6578.jpg",
+      "https://cdn2.steamgriddb.com/hero/befaba9f0976b2c30d32ceabe66f6636.png",
+      "https://cdn2.steamgriddb.com/hero/84cdde86a4560c17d00c9c437fc2f0da.png",
+      "https://cdn2.steamgriddb.com/hero/9d15d52edae41f4e3b21f8a5613e42de.png",
+      "https://cdn2.steamgriddb.com/hero/6cfa4a3ada8ca4e5b8a217c892beafcf.png"
+    ],
+    "releaseYear": 2008,
+    "rating": 87,
+    "platforms": [
+      "Wii"
+    ],
+    "genres": [
+      "Fighting",
+      "Platform"
+    ]
+  },
+  {
     "id": 90101,
     "name": "Super Smash Bros. Ultimate",
     "posters": [
@@ -3486,32 +3512,6 @@
     "genres": [
       "Role-playing (RPG)",
       "Adventure"
-    ]
-  },
-  {
-    "id": 1628,
-    "name": "Super Smash Bros. Brawl",
-    "posters": [
-      "data/covers/1628.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/a019af77fec797e53a29ce057455df30.png",
-      "https://cdn2.steamgriddb.com/hero/076023edc9187cf1ac1f1163470e479a.png",
-      "https://cdn2.steamgriddb.com/hero/ec4c26cb33e170f4c5521d91457fcf50.png",
-      "https://cdn2.steamgriddb.com/hero/6872fbd4d9c2156c2cf1230e206e6578.jpg",
-      "https://cdn2.steamgriddb.com/hero/befaba9f0976b2c30d32ceabe66f6636.png",
-      "https://cdn2.steamgriddb.com/hero/84cdde86a4560c17d00c9c437fc2f0da.png",
-      "https://cdn2.steamgriddb.com/hero/9d15d52edae41f4e3b21f8a5613e42de.png",
-      "https://cdn2.steamgriddb.com/hero/6cfa4a3ada8ca4e5b8a217c892beafcf.png"
-    ],
-    "releaseYear": 2008,
-    "rating": 87,
-    "platforms": [
-      "Wii"
-    ],
-    "genres": [
-      "Fighting",
-      "Platform"
     ]
   },
   {
@@ -3844,34 +3844,6 @@
     ]
   },
   {
-    "id": 421,
-    "name": "Final Fantasy IX",
-    "posters": [
-      "data/covers/421.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/6e29a42d687b8cea141df2f46378b007.jpg",
-      "https://cdn2.steamgriddb.com/hero/8a488824cb3388fe033e110b350ef9e9.png",
-      "https://cdn2.steamgriddb.com/hero/d63fbf8c3173730f82b150c5ef38b8ff.png",
-      "https://cdn2.steamgriddb.com/hero/0f96613235062963ccde717b18f97592.png",
-      "https://cdn2.steamgriddb.com/hero/569f41bcad1ac690cf4663f39a853256.png",
-      "https://cdn2.steamgriddb.com/hero/b7892fb3c2f009c65f686f6355c895b5.png",
-      "https://cdn2.steamgriddb.com/hero/53382bd6140b80a0b1a06cf99d71c372.png",
-      "https://cdn2.steamgriddb.com/hero/5951577169c158f8f40a9fed2df41afe.png"
-    ],
-    "releaseYear": 2000,
-    "rating": 86,
-    "platforms": [
-      "PlayStation 3",
-      "PlayStation",
-      "PlayStation Portable"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Adventure"
-    ]
-  },
-  {
     "id": 109462,
     "name": "Animal Crossing: New Horizons",
     "posters": [
@@ -3922,6 +3894,34 @@
     "genres": [
       "Adventure",
       "Indie"
+    ]
+  },
+  {
+    "id": 421,
+    "name": "Final Fantasy IX",
+    "posters": [
+      "data/covers/421.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/6e29a42d687b8cea141df2f46378b007.jpg",
+      "https://cdn2.steamgriddb.com/hero/8a488824cb3388fe033e110b350ef9e9.png",
+      "https://cdn2.steamgriddb.com/hero/d63fbf8c3173730f82b150c5ef38b8ff.png",
+      "https://cdn2.steamgriddb.com/hero/0f96613235062963ccde717b18f97592.png",
+      "https://cdn2.steamgriddb.com/hero/569f41bcad1ac690cf4663f39a853256.png",
+      "https://cdn2.steamgriddb.com/hero/b7892fb3c2f009c65f686f6355c895b5.png",
+      "https://cdn2.steamgriddb.com/hero/53382bd6140b80a0b1a06cf99d71c372.png",
+      "https://cdn2.steamgriddb.com/hero/5951577169c158f8f40a9fed2df41afe.png"
+    ],
+    "releaseYear": 2000,
+    "rating": 86,
+    "platforms": [
+      "PlayStation 3",
+      "PlayStation",
+      "PlayStation Portable"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Adventure"
     ]
   },
   {
@@ -6830,30 +6830,6 @@
     ]
   },
   {
-    "id": 325611,
-    "name": "Intergalactic: The Heretic Prophet",
-    "posters": [
-      "data/covers/325611.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/a1c30ef970be784dc187651529af29e3.png",
-      "https://cdn2.steamgriddb.com/hero/68845343aca4867c6d08cc7022166781.png",
-      "https://cdn2.steamgriddb.com/hero/02a27f35ebd6ad1a81b19063bf8c6993.png",
-      "https://cdn2.steamgriddb.com/hero/09b5bc9e1efb9ca6f999b02c672f04e4.jpg",
-      "https://cdn2.steamgriddb.com/hero/569138f1070394bcde8bb3e35e580d6e.png",
-      "https://cdn2.steamgriddb.com/hero/2a4bba5048cca1b0f95335ccc6b6f225.jpg"
-    ],
-    "releaseYear": 2027,
-    "rating": 0,
-    "platforms": [
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Hack and slash/Beat 'em up",
-      "Adventure"
-    ]
-  },
-  {
     "id": 142520,
     "name": "Ill",
     "posters": [
@@ -6878,6 +6854,30 @@
     ],
     "genres": [
       "Shooter",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 325611,
+    "name": "Intergalactic: The Heretic Prophet",
+    "posters": [
+      "data/covers/325611.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/a1c30ef970be784dc187651529af29e3.png",
+      "https://cdn2.steamgriddb.com/hero/68845343aca4867c6d08cc7022166781.png",
+      "https://cdn2.steamgriddb.com/hero/02a27f35ebd6ad1a81b19063bf8c6993.png",
+      "https://cdn2.steamgriddb.com/hero/09b5bc9e1efb9ca6f999b02c672f04e4.jpg",
+      "https://cdn2.steamgriddb.com/hero/569138f1070394bcde8bb3e35e580d6e.png",
+      "https://cdn2.steamgriddb.com/hero/2a4bba5048cca1b0f95335ccc6b6f225.jpg"
+    ],
+    "releaseYear": 2027,
+    "rating": 0,
+    "platforms": [
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Hack and slash/Beat 'em up",
       "Adventure"
     ]
   },
