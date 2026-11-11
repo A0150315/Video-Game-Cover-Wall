@@ -816,8 +816,8 @@
       "https://cdn2.steamgriddb.com/hero/837e868ffbb3a67451e480e1864e071d.png",
       "https://cdn2.steamgriddb.com/hero/ec5205928d905ea263a69ab15c89e4c6.png",
       "https://cdn2.steamgriddb.com/hero/1ac99dea0436b51962ec492c48c5e0b3.png",
-      "https://cdn2.steamgriddb.com/hero/2c12328aab48072aee9c07cf4442b238.png",
-      "https://cdn2.steamgriddb.com/hero/55b631a083678b1748313493a183a42b.png"
+      "https://cdn2.steamgriddb.com/hero/29f946e09d05ea00fc51d0a3188d6a09.png",
+      "https://cdn2.steamgriddb.com/hero/f306269688e3f58d59edecbc68feba60.png"
     ],
     "releaseYear": 1997,
     "rating": 92,
@@ -4706,37 +4706,6 @@
     ]
   },
   {
-    "id": 26602,
-    "name": "Metaphor: ReFantazio",
-    "posters": [
-      "data/covers/26602.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/49a22bf943448e4fc85bbb125b93acd7.png",
-      "https://cdn2.steamgriddb.com/hero/8d25153bec94068872e2a5ff021e5ff7.png",
-      "https://cdn2.steamgriddb.com/hero/95c6535f9ffd12f95979f18804fc618f.jpg",
-      "https://cdn2.steamgriddb.com/hero/aaecbb83e18bf24199bc5b2d3a280054.jpg",
-      "https://cdn2.steamgriddb.com/hero/203ea99c417de21fe653491209fd26d2.jpg",
-      "https://cdn2.steamgriddb.com/hero/dd6e198d02d6cc5a4b06a9df0f5f1357.jpg",
-      "https://cdn2.steamgriddb.com/hero/c09898488dddade675f309cabeca0c4e.png",
-      "https://cdn2.steamgriddb.com/hero/b916ec04ba02300be0d6a6714418977f.png"
-    ],
-    "releaseYear": 2024,
-    "rating": 90,
-    "platforms": [
-      "Xbox Series X|S",
-      "PlayStation 4",
-      "Nintendo Switch 2",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Turn-based strategy (TBS)",
-      "Adventure"
-    ]
-  },
-  {
     "id": 233571,
     "name": "Hitman World of Assassination",
     "posters": [
@@ -4983,9 +4952,9 @@
     ],
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/2908a94a0c74238e4af35e845b0e28b0.png",
-      "https://cdn2.steamgriddb.com/hero/3ff84500afe8620c3bb534674503e049.jpg",
       "https://cdn2.steamgriddb.com/hero/535d1ec83aa5a4aa7c2bfe6b407e2ad5.jpg",
       "https://cdn2.steamgriddb.com/hero/e2c5a7c8f6dfff70b087d86eaeae1254.jpg",
+      "https://cdn2.steamgriddb.com/hero/3ff84500afe8620c3bb534674503e049.jpg",
       "https://cdn2.steamgriddb.com/hero/adac3ab52816548eaad12812ffe86574.jpg",
       "https://cdn2.steamgriddb.com/hero/dc23640934cc23782aba6c6058d6aca3.png",
       "https://cdn2.steamgriddb.com/hero/1258e7898e0d685adf6b58d762e21ca4.png",
@@ -5002,6 +4971,37 @@
     "genres": [
       "Shooter",
       "Puzzle",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 26602,
+    "name": "Metaphor: ReFantazio",
+    "posters": [
+      "data/covers/26602.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/49a22bf943448e4fc85bbb125b93acd7.png",
+      "https://cdn2.steamgriddb.com/hero/8d25153bec94068872e2a5ff021e5ff7.png",
+      "https://cdn2.steamgriddb.com/hero/95c6535f9ffd12f95979f18804fc618f.jpg",
+      "https://cdn2.steamgriddb.com/hero/aaecbb83e18bf24199bc5b2d3a280054.jpg",
+      "https://cdn2.steamgriddb.com/hero/203ea99c417de21fe653491209fd26d2.jpg",
+      "https://cdn2.steamgriddb.com/hero/dd6e198d02d6cc5a4b06a9df0f5f1357.jpg",
+      "https://cdn2.steamgriddb.com/hero/c09898488dddade675f309cabeca0c4e.png",
+      "https://cdn2.steamgriddb.com/hero/80a4fd2d91312cf533374df75f8d3987.png"
+    ],
+    "releaseYear": 2024,
+    "rating": 90,
+    "platforms": [
+      "Xbox Series X|S",
+      "PlayStation 4",
+      "Nintendo Switch 2",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Turn-based strategy (TBS)",
       "Adventure"
     ]
   },
@@ -5052,10 +5052,10 @@
       "https://cdn2.steamgriddb.com/hero/42e7e1210aed7043d64111e71e0796af.png",
       "https://cdn2.steamgriddb.com/hero/a7bcf3bc23946c7d69a73acb147ca8e8.png",
       "https://cdn2.steamgriddb.com/hero/ffad99a1f556e0e0595aec7b8060662d.png",
+      "https://cdn2.steamgriddb.com/hero/42eec71d2c9d39992c3a4d1da2984826.jpg",
       "https://cdn2.steamgriddb.com/hero/6622392eb0d8dfdacc44c7f7397ce4ab.png",
       "https://cdn2.steamgriddb.com/hero/15fa1fad1fc582dd65403f6f950b1e21.png",
-      "https://cdn2.steamgriddb.com/hero/7183145a2a3e0ce2b68cd3735186b1d5.png",
-      "https://cdn2.steamgriddb.com/hero/628f16b29939d1b060af49f66ae0f7f8.png"
+      "https://cdn2.steamgriddb.com/hero/7183145a2a3e0ce2b68cd3735186b1d5.png"
     ],
     "releaseYear": 2020,
     "rating": 89,
@@ -6972,31 +6972,6 @@
     ]
   },
   {
-    "id": 331212,
-    "name": "Tides of Annihilation",
-    "posters": [
-      "data/covers/331212.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/8a2d814c49d0f4a6a7b8cc84769944d3.png",
-      "https://cdn2.steamgriddb.com/hero/c3242232f2f02854bfa78c9a65786b76.png",
-      "https://cdn2.steamgriddb.com/hero/9dc4995116b45bc9d97bafbe2a533a14.png",
-      "https://cdn2.steamgriddb.com/hero/6aecc5688439e968309784eb983bad6e.png"
-    ],
-    "releaseYear": 0,
-    "rating": 0,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Hack and slash/Beat 'em up",
-      "Adventure"
-    ]
-  },
-  {
     "id": 398225,
     "name": "Metro 2039",
     "posters": [
@@ -7021,6 +6996,31 @@
     ],
     "genres": [
       "Shooter",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 331212,
+    "name": "Tides of Annihilation",
+    "posters": [
+      "data/covers/331212.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/8a2d814c49d0f4a6a7b8cc84769944d3.png",
+      "https://cdn2.steamgriddb.com/hero/c3242232f2f02854bfa78c9a65786b76.png",
+      "https://cdn2.steamgriddb.com/hero/9dc4995116b45bc9d97bafbe2a533a14.png",
+      "https://cdn2.steamgriddb.com/hero/6aecc5688439e968309784eb983bad6e.png"
+    ],
+    "releaseYear": 0,
+    "rating": 0,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Hack and slash/Beat 'em up",
       "Adventure"
     ]
   },
@@ -7141,6 +7141,28 @@
     ]
   },
   {
+    "id": 262712,
+    "name": "Ananta",
+    "posters": [
+      "data/covers/262712.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/75c649d237b5987a08b050cc34c96108.png"
+    ],
+    "releaseYear": 2027,
+    "rating": 0,
+    "platforms": [
+      "Android",
+      "PC (Microsoft Windows)",
+      "iOS",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Adventure"
+    ]
+  },
+  {
     "id": 381205,
     "name": "No Law",
     "posters": [
@@ -7165,28 +7187,6 @@
     ],
     "genres": [
       "Shooter",
-      "Role-playing (RPG)",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 262712,
-    "name": "Ananta",
-    "posters": [
-      "data/covers/262712.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/75c649d237b5987a08b050cc34c96108.png"
-    ],
-    "releaseYear": 2027,
-    "rating": 0,
-    "platforms": [
-      "Android",
-      "PC (Microsoft Windows)",
-      "iOS",
-      "PlayStation 5"
-    ],
-    "genres": [
       "Role-playing (RPG)",
       "Adventure"
     ]
