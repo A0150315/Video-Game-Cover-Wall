@@ -1376,32 +1376,6 @@
     ]
   },
   {
-    "id": 1036,
-    "name": "The Legend of Zelda: Twilight Princess",
-    "posters": [
-      "data/covers/1036.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/e105b88b3e1ac23ec811a708cd7edebf.png",
-      "https://cdn2.steamgriddb.com/hero/0edeae2390ca87fef1b15842285817c1.png",
-      "https://cdn2.steamgriddb.com/hero/8c5a6a748263c05bfaec92982dbd56b5.png",
-      "https://cdn2.steamgriddb.com/hero/3cb7e8f622724be0f4007bab0102e831.png",
-      "https://cdn2.steamgriddb.com/hero/cc9657884708170e160c8372d92f3535.png",
-      "https://cdn2.steamgriddb.com/hero/09c039292630f588a0528fb457d63c7e.png",
-      "https://cdn2.steamgriddb.com/hero/581c81b11afa90b13a0649c5af9ac4bb.jpg",
-      "https://cdn2.steamgriddb.com/hero/60e438426cd42e2ad67ad09ef1fd5bbb.png"
-    ],
-    "releaseYear": 2006,
-    "rating": 91,
-    "platforms": [
-      "Nintendo GameCube"
-    ],
-    "genres": [
-      "Puzzle",
-      "Adventure"
-    ]
-  },
-  {
     "id": 3349,
     "name": "Paper Mario: The Thousand-Year Door",
     "posters": [
@@ -1424,6 +1398,32 @@
     ],
     "genres": [
       "Role-playing (RPG)",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 1036,
+    "name": "The Legend of Zelda: Twilight Princess",
+    "posters": [
+      "data/covers/1036.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/e105b88b3e1ac23ec811a708cd7edebf.png",
+      "https://cdn2.steamgriddb.com/hero/0edeae2390ca87fef1b15842285817c1.png",
+      "https://cdn2.steamgriddb.com/hero/8c5a6a748263c05bfaec92982dbd56b5.png",
+      "https://cdn2.steamgriddb.com/hero/3cb7e8f622724be0f4007bab0102e831.png",
+      "https://cdn2.steamgriddb.com/hero/cc9657884708170e160c8372d92f3535.png",
+      "https://cdn2.steamgriddb.com/hero/09c039292630f588a0528fb457d63c7e.png",
+      "https://cdn2.steamgriddb.com/hero/581c81b11afa90b13a0649c5af9ac4bb.jpg",
+      "https://cdn2.steamgriddb.com/hero/60e438426cd42e2ad67ad09ef1fd5bbb.png"
+    ],
+    "releaseYear": 2006,
+    "rating": 91,
+    "platforms": [
+      "Nintendo GameCube"
+    ],
+    "genres": [
+      "Puzzle",
       "Adventure"
     ]
   },
@@ -2024,37 +2024,6 @@
     ]
   },
   {
-    "id": 1068,
-    "name": "Super Mario Bros. 3",
-    "posters": [
-      "data/covers/1068.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/07e1cd7dca89a1678042477183b7ac3f.png",
-      "https://cdn2.steamgriddb.com/hero/986b701d5b9bb1e34b79d0266dc18c7d.png",
-      "https://cdn2.steamgriddb.com/hero/d15e02b2d502871eba5f71999008e026.jpg",
-      "https://cdn2.steamgriddb.com/hero/54bcdb63fab2b188f3205d909fac27ac.png",
-      "https://cdn2.steamgriddb.com/hero/c8c91941c44ee273af84ef092c01a0b1.jpg",
-      "https://cdn2.steamgriddb.com/hero/a70ef651f1086ff9a0a988e4ed93069a.png",
-      "https://cdn2.steamgriddb.com/hero/ae3957e98c48990c5f6448c1db3a0627.png",
-      "https://cdn2.steamgriddb.com/hero/e21c3b94456b475b40cd245bd090ebc8.png"
-    ],
-    "releaseYear": 1988,
-    "rating": 89,
-    "platforms": [
-      "Arcade",
-      "Nintendo 3DS",
-      "Wii",
-      "Family Computer",
-      "Wii U",
-      "Nintendo Entertainment System"
-    ],
-    "genres": [
-      "Platform",
-      "Adventure"
-    ]
-  },
-  {
     "id": 135243,
     "name": "It Takes Two",
     "posters": [
@@ -2084,6 +2053,37 @@
     "genres": [
       "Platform",
       "Puzzle",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 1068,
+    "name": "Super Mario Bros. 3",
+    "posters": [
+      "data/covers/1068.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/07e1cd7dca89a1678042477183b7ac3f.png",
+      "https://cdn2.steamgriddb.com/hero/986b701d5b9bb1e34b79d0266dc18c7d.png",
+      "https://cdn2.steamgriddb.com/hero/d15e02b2d502871eba5f71999008e026.jpg",
+      "https://cdn2.steamgriddb.com/hero/54bcdb63fab2b188f3205d909fac27ac.png",
+      "https://cdn2.steamgriddb.com/hero/c8c91941c44ee273af84ef092c01a0b1.jpg",
+      "https://cdn2.steamgriddb.com/hero/a70ef651f1086ff9a0a988e4ed93069a.png",
+      "https://cdn2.steamgriddb.com/hero/ae3957e98c48990c5f6448c1db3a0627.png",
+      "https://cdn2.steamgriddb.com/hero/e21c3b94456b475b40cd245bd090ebc8.png"
+    ],
+    "releaseYear": 1988,
+    "rating": 89,
+    "platforms": [
+      "Arcade",
+      "Nintendo 3DS",
+      "Wii",
+      "Family Computer",
+      "Wii U",
+      "Nintendo Entertainment System"
+    ],
+    "genres": [
+      "Platform",
       "Adventure"
     ]
   },
@@ -2431,32 +2431,6 @@
     ]
   },
   {
-    "id": 2350,
-    "name": "Mario Kart 8",
-    "posters": [
-      "data/covers/2350.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/8ccc79e3410e55b4dfaffda2089466a7.png",
-      "https://cdn2.steamgriddb.com/hero/b020aead025b718f389af77c1c5252ea.png",
-      "https://cdn2.steamgriddb.com/hero/6f50a5cb27dcdda93b96f3bfaee56c1c.png",
-      "https://cdn2.steamgriddb.com/hero/d53697441ef12a45422f6660202f9840.png?",
-      "https://cdn2.steamgriddb.com/hero/ce145c98ba2abf75d1b2813329587429.png",
-      "https://cdn2.steamgriddb.com/hero/8f176754401cda515b0c4dc13561ba1f.png",
-      "https://cdn2.steamgriddb.com/hero/7020b2c8a7fcf98937fced7a6028f188.png",
-      "https://cdn2.steamgriddb.com/hero/7ca60ad13acfa1c715953b54b6f50fe0.png"
-    ],
-    "releaseYear": 2014,
-    "rating": 89,
-    "platforms": [
-      "Wii U"
-    ],
-    "genres": [
-      "Racing",
-      "Arcade"
-    ]
-  },
-  {
     "id": 2155,
     "name": "Dark Souls",
     "posters": [
@@ -2511,6 +2485,32 @@
     "genres": [
       "Puzzle",
       "Adventure"
+    ]
+  },
+  {
+    "id": 2350,
+    "name": "Mario Kart 8",
+    "posters": [
+      "data/covers/2350.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/8ccc79e3410e55b4dfaffda2089466a7.png",
+      "https://cdn2.steamgriddb.com/hero/b020aead025b718f389af77c1c5252ea.png",
+      "https://cdn2.steamgriddb.com/hero/6f50a5cb27dcdda93b96f3bfaee56c1c.png",
+      "https://cdn2.steamgriddb.com/hero/d53697441ef12a45422f6660202f9840.png?",
+      "https://cdn2.steamgriddb.com/hero/ce145c98ba2abf75d1b2813329587429.png",
+      "https://cdn2.steamgriddb.com/hero/8f176754401cda515b0c4dc13561ba1f.png",
+      "https://cdn2.steamgriddb.com/hero/7020b2c8a7fcf98937fced7a6028f188.png",
+      "https://cdn2.steamgriddb.com/hero/7ca60ad13acfa1c715953b54b6f50fe0.png"
+    ],
+    "releaseYear": 2014,
+    "rating": 89,
+    "platforms": [
+      "Wii U"
+    ],
+    "genres": [
+      "Racing",
+      "Arcade"
     ]
   },
   {
@@ -2692,35 +2692,6 @@
     ]
   },
   {
-    "id": 5503,
-    "name": "Batman: Arkham Knight",
-    "posters": [
-      "data/covers/5503.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/6c8dba7d0df1c4a79dd07646be9a26c8.jpg",
-      "https://cdn2.steamgriddb.com/hero/479eaa8e93a42b42d12992f086cfa14f.jpg",
-      "https://cdn2.steamgriddb.com/hero/e8257cae02495b31c4e89a4ae812499c.jpg",
-      "https://cdn2.steamgriddb.com/hero/5b5abc705cc52b743cc9d6ad5fffdfa4.png",
-      "https://cdn2.steamgriddb.com/hero/a2802cade04644083dcde1c8c483ed9a.png",
-      "https://cdn2.steamgriddb.com/hero/0fe500898e3183422bebc8325bfc9515.png",
-      "https://cdn2.steamgriddb.com/hero/bc85fc1467a30e358710e800e644fec8.jpg",
-      "https://cdn2.steamgriddb.com/hero/b323c8edba96b335f0761d1dd004b26c.jpg"
-    ],
-    "releaseYear": 2015,
-    "rating": 88,
-    "platforms": [
-      "PlayStation 4",
-      "PC (Microsoft Windows)",
-      "Xbox One",
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Hack and slash/Beat 'em up",
-      "Adventure"
-    ]
-  },
-  {
     "id": 61,
     "name": "Monkey Island 2: LeChuck's Revenge",
     "posters": [
@@ -2774,6 +2745,35 @@
     ],
     "genres": [
       "Platform"
+    ]
+  },
+  {
+    "id": 5503,
+    "name": "Batman: Arkham Knight",
+    "posters": [
+      "data/covers/5503.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/6c8dba7d0df1c4a79dd07646be9a26c8.jpg",
+      "https://cdn2.steamgriddb.com/hero/479eaa8e93a42b42d12992f086cfa14f.jpg",
+      "https://cdn2.steamgriddb.com/hero/e8257cae02495b31c4e89a4ae812499c.jpg",
+      "https://cdn2.steamgriddb.com/hero/5b5abc705cc52b743cc9d6ad5fffdfa4.png",
+      "https://cdn2.steamgriddb.com/hero/a2802cade04644083dcde1c8c483ed9a.png",
+      "https://cdn2.steamgriddb.com/hero/0fe500898e3183422bebc8325bfc9515.png",
+      "https://cdn2.steamgriddb.com/hero/bc85fc1467a30e358710e800e644fec8.jpg",
+      "https://cdn2.steamgriddb.com/hero/b323c8edba96b335f0761d1dd004b26c.jpg"
+    ],
+    "releaseYear": 2015,
+    "rating": 88,
+    "platforms": [
+      "PlayStation 4",
+      "PC (Microsoft Windows)",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Hack and slash/Beat 'em up",
+      "Adventure"
     ]
   },
   {
@@ -3180,7 +3180,7 @@
   },
   {
     "id": 11208,
-    "name": "NieR: Automata",
+    "name": "NieR:Automata",
     "posters": [
       "data/covers/11208.jpg"
     ],
@@ -3648,12 +3648,12 @@
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/4f513f68a7732df8db6b106ba6565073.png",
       "https://cdn2.steamgriddb.com/hero/b92894e4589f652dc3116cb3a8c48c08.png",
+      "https://cdn2.steamgriddb.com/hero/72dfa10de34751253a094e8db24a0567.jpg",
+      "https://cdn2.steamgriddb.com/hero/4a50099e4b1e3d4376fa30b80a5d604f.png",
       "https://cdn2.steamgriddb.com/hero/779ce0602e357694977a3a40c4e50121.png",
       "https://cdn2.steamgriddb.com/hero/d79199b86238c86baa35733a3a1ce4a5.jpg",
-      "https://cdn2.steamgriddb.com/hero/4a50099e4b1e3d4376fa30b80a5d604f.png",
-      "https://cdn2.steamgriddb.com/hero/72dfa10de34751253a094e8db24a0567.jpg",
-      "https://cdn2.steamgriddb.com/hero/89885ff2c83a10305ee08bd507c1049c.png",
-      "https://cdn2.steamgriddb.com/hero/1df58e63816ec9ab895d8f14640a5f47.png"
+      "https://cdn2.steamgriddb.com/hero/2d1ef8f39d2c1590daf9a3737c8a931d.png",
+      "https://cdn2.steamgriddb.com/hero/89885ff2c83a10305ee08bd507c1049c.png"
     ],
     "releaseYear": 2019,
     "rating": 86,
@@ -3952,6 +3952,34 @@
     ]
   },
   {
+    "id": 17447,
+    "name": "Titanfall 2",
+    "posters": [
+      "data/covers/17447.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/1baff70e2669e8376347efd3a874a341.png",
+      "https://cdn2.steamgriddb.com/hero/204fdcae117b31aa8d74aad10e7e37ce.png",
+      "https://cdn2.steamgriddb.com/hero/90fd26a243f6d14c4b3df082cdc8da66.png",
+      "https://cdn2.steamgriddb.com/hero/1b38cc09ed3fb15e797212489bdb9e48.png",
+      "https://cdn2.steamgriddb.com/hero/97cc775a12dd85b38c4c63bf11e43fef.png",
+      "https://cdn2.steamgriddb.com/hero/89f927c72c9114c5c36b7fdb2d1198a8.jpg",
+      "https://cdn2.steamgriddb.com/hero/3de74f78d82c374f9edd8dc7f3b126ed.png",
+      "https://cdn2.steamgriddb.com/hero/f0e6055aa7c6f509c6385327eb615820.jpg"
+    ],
+    "releaseYear": 2016,
+    "rating": 86,
+    "platforms": [
+      "PlayStation 4",
+      "PC (Microsoft Windows)",
+      "Xbox One"
+    ],
+    "genres": [
+      "Shooter",
+      "Adventure"
+    ]
+  },
+  {
     "id": 623,
     "name": "Call of Duty 4: Modern Warfare",
     "posters": [
@@ -3978,34 +4006,6 @@
     "genres": [
       "Shooter",
       "Simulator"
-    ]
-  },
-  {
-    "id": 17447,
-    "name": "Titanfall 2",
-    "posters": [
-      "data/covers/17447.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/1baff70e2669e8376347efd3a874a341.png",
-      "https://cdn2.steamgriddb.com/hero/204fdcae117b31aa8d74aad10e7e37ce.png",
-      "https://cdn2.steamgriddb.com/hero/90fd26a243f6d14c4b3df082cdc8da66.png",
-      "https://cdn2.steamgriddb.com/hero/1b38cc09ed3fb15e797212489bdb9e48.png",
-      "https://cdn2.steamgriddb.com/hero/97cc775a12dd85b38c4c63bf11e43fef.png",
-      "https://cdn2.steamgriddb.com/hero/89f927c72c9114c5c36b7fdb2d1198a8.jpg",
-      "https://cdn2.steamgriddb.com/hero/3de74f78d82c374f9edd8dc7f3b126ed.png",
-      "https://cdn2.steamgriddb.com/hero/f0e6055aa7c6f509c6385327eb615820.jpg"
-    ],
-    "releaseYear": 2016,
-    "rating": 86,
-    "platforms": [
-      "PlayStation 4",
-      "PC (Microsoft Windows)",
-      "Xbox One"
-    ],
-    "genres": [
-      "Shooter",
-      "Adventure"
     ]
   },
   {
