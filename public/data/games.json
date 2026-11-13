@@ -303,9 +303,9 @@
       "https://cdn2.steamgriddb.com/hero/6bfc65ce262b2fbca99b82605d18a52a.png",
       "https://cdn2.steamgriddb.com/hero/28f36aa85fbadc0663c2df15a5af35db.jpg",
       "https://cdn2.steamgriddb.com/hero/919b869daf543abcb52b85bc439d8fa3.png",
-      "https://cdn2.steamgriddb.com/hero/4833619731d4a86772c81c174f427df8.jpg",
       "https://cdn2.steamgriddb.com/hero/6cec40d9f14ccf05af9d76ff696e184d.jpg",
-      "https://cdn2.steamgriddb.com/hero/a248316fb518936eeae7161fd0a823f5.jpg"
+      "https://cdn2.steamgriddb.com/hero/a248316fb518936eeae7161fd0a823f5.jpg",
+      "https://cdn2.steamgriddb.com/hero/59c6a53eb887ec8d82d84ecfc153a803.png"
     ],
     "releaseYear": 2019,
     "rating": 94,
@@ -864,6 +864,33 @@
     ]
   },
   {
+    "id": 565,
+    "name": "Uncharted 2: Among Thieves",
+    "posters": [
+      "data/covers/565.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/0f49d14c2bfc523456225589dc27b6db.png",
+      "https://cdn2.steamgriddb.com/hero/642ad51faa492de9795844a2d0c6142f.png",
+      "https://cdn2.steamgriddb.com/hero/3e0ce87560cc1e32353de7d1eedb58f9.png",
+      "https://cdn2.steamgriddb.com/hero/196ef39dc3c14c0b8aa88d99f31e8710.png",
+      "https://cdn2.steamgriddb.com/hero/dc38dc7e4713858d62bd478ea70b4fe9.png",
+      "https://cdn2.steamgriddb.com/hero/f2013aa6b8488641df6c34959d797e15.png",
+      "https://cdn2.steamgriddb.com/hero/9ab01348be1ccbf4df5cdf8e4133c39f.png",
+      "https://cdn2.steamgriddb.com/hero/a787f02ed34fd886eb6d49e60d9c9120.png"
+    ],
+    "releaseYear": 2009,
+    "rating": 92,
+    "platforms": [
+      "PlayStation 3"
+    ],
+    "genres": [
+      "Shooter",
+      "Platform",
+      "Adventure"
+    ]
+  },
+  {
     "id": 116,
     "name": "Star Wars: Knights of the Old Republic",
     "posters": [
@@ -891,33 +918,6 @@
     ],
     "genres": [
       "Role-playing (RPG)",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 565,
-    "name": "Uncharted 2: Among Thieves",
-    "posters": [
-      "data/covers/565.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/0f49d14c2bfc523456225589dc27b6db.png",
-      "https://cdn2.steamgriddb.com/hero/642ad51faa492de9795844a2d0c6142f.png",
-      "https://cdn2.steamgriddb.com/hero/3e0ce87560cc1e32353de7d1eedb58f9.png",
-      "https://cdn2.steamgriddb.com/hero/196ef39dc3c14c0b8aa88d99f31e8710.png",
-      "https://cdn2.steamgriddb.com/hero/dc38dc7e4713858d62bd478ea70b4fe9.png",
-      "https://cdn2.steamgriddb.com/hero/f2013aa6b8488641df6c34959d797e15.png",
-      "https://cdn2.steamgriddb.com/hero/9ab01348be1ccbf4df5cdf8e4133c39f.png",
-      "https://cdn2.steamgriddb.com/hero/a787f02ed34fd886eb6d49e60d9c9120.png"
-    ],
-    "releaseYear": 2009,
-    "rating": 92,
-    "platforms": [
-      "PlayStation 3"
-    ],
-    "genres": [
-      "Shooter",
-      "Platform",
       "Adventure"
     ]
   },
@@ -1271,10 +1271,10 @@
       "https://cdn2.steamgriddb.com/hero/4682ba60cfd9bdbc779fa633fa3218d5.jpg",
       "https://cdn2.steamgriddb.com/hero/94a6cfcd986195c6d7dedc65b53dd94e.png",
       "https://cdn2.steamgriddb.com/hero/1f376f49e57d4d7787a5b5b4489edd25.jpg",
+      "https://cdn2.steamgriddb.com/hero/e16f63a56f439c9deefbd004e91cdacc.jpg",
+      "https://cdn2.steamgriddb.com/hero/dd0a8ceaa483144b02f8021190c8924b.jpg",
       "https://cdn2.steamgriddb.com/hero/721c04795ba96812802d181d81c81110.png",
-      "https://cdn2.steamgriddb.com/hero/dc90813a647acaa3364382af42d03009.png",
-      "https://cdn2.steamgriddb.com/hero/e8933c950c082b83f8e22b700c0a9015.png",
-      "https://cdn2.steamgriddb.com/hero/1572896563ee3d0d1269c8f7c9fe34cb.jpg"
+      "https://cdn2.steamgriddb.com/hero/dc90813a647acaa3364382af42d03009.png"
     ],
     "releaseYear": 2011,
     "rating": 91,
@@ -1578,8 +1578,8 @@
       "data/covers/1985.jpg"
     ],
     "heroes": [
-      "https://cdn2.steamgriddb.com/hero/f73ff6b435051f83259a5f7b2f542e4b.png",
       "https://cdn2.steamgriddb.com/hero/a47dbfe7e87d38f9ddbf3e5021d44c70.png",
+      "https://cdn2.steamgriddb.com/hero/f73ff6b435051f83259a5f7b2f542e4b.png",
       "https://cdn2.steamgriddb.com/hero/7cc2794f14963ceaedb29d19875c950c.png",
       "https://cdn2.steamgriddb.com/hero/fd00d3474e495e7b6d5f9f575b2d7ec4.png",
       "https://cdn2.steamgriddb.com/hero/07e99f116b916656b3fd4f7dd58a3cbe.png",
@@ -2065,11 +2065,11 @@
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/07e1cd7dca89a1678042477183b7ac3f.png",
       "https://cdn2.steamgriddb.com/hero/986b701d5b9bb1e34b79d0266dc18c7d.png",
-      "https://cdn2.steamgriddb.com/hero/d15e02b2d502871eba5f71999008e026.jpg",
       "https://cdn2.steamgriddb.com/hero/54bcdb63fab2b188f3205d909fac27ac.png",
-      "https://cdn2.steamgriddb.com/hero/c8c91941c44ee273af84ef092c01a0b1.jpg",
-      "https://cdn2.steamgriddb.com/hero/a70ef651f1086ff9a0a988e4ed93069a.png",
       "https://cdn2.steamgriddb.com/hero/ae3957e98c48990c5f6448c1db3a0627.png",
+      "https://cdn2.steamgriddb.com/hero/c8c91941c44ee273af84ef092c01a0b1.jpg",
+      "https://cdn2.steamgriddb.com/hero/d15e02b2d502871eba5f71999008e026.jpg",
+      "https://cdn2.steamgriddb.com/hero/a70ef651f1086ff9a0a988e4ed93069a.png",
       "https://cdn2.steamgriddb.com/hero/e21c3b94456b475b40cd245bd090ebc8.png"
     ],
     "releaseYear": 1988,
@@ -2412,11 +2412,11 @@
       "https://cdn2.steamgriddb.com/hero/2b423dc1a327648b419922ee8980e8dd.jpg",
       "https://cdn2.steamgriddb.com/hero/bbcb0a179f5728cd615974a511d38bd4.png",
       "https://cdn2.steamgriddb.com/hero/66b8d6392a59b5ce703c28340d8b3565.png",
-      "https://cdn2.steamgriddb.com/hero/c6bff625bdb0393992c9d4db0c6bbe45.png",
-      "https://cdn2.steamgriddb.com/hero/8ee7730e97c67473a424ccfeff49ab20.png",
+      "https://cdn2.steamgriddb.com/hero/d07ec5ea07081262d33991cea73c964c.png",
       "https://cdn2.steamgriddb.com/hero/4204dc3a11678c6b1d0be57cfe0a21b0.png",
-      "https://cdn2.steamgriddb.com/hero/59490e21e9c64b7ef8aa6eb5cdfbec82.png",
-      "https://cdn2.steamgriddb.com/hero/91665c93b72f55b2e4f1048fc8289d04.png"
+      "https://cdn2.steamgriddb.com/hero/8ee7730e97c67473a424ccfeff49ab20.png",
+      "https://cdn2.steamgriddb.com/hero/c6bff625bdb0393992c9d4db0c6bbe45.png",
+      "https://cdn2.steamgriddb.com/hero/59490e21e9c64b7ef8aa6eb5cdfbec82.png"
     ],
     "releaseYear": 1996,
     "rating": 89,
@@ -2458,32 +2458,6 @@
     ],
     "genres": [
       "Role-playing (RPG)",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 1033,
-    "name": "The Legend of Zelda: The Wind Waker",
-    "posters": [
-      "data/covers/1033.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/9e975c77eedf11c0c99d3e2d6e8b7b49.png",
-      "https://cdn2.steamgriddb.com/hero/955a1584af63a546588caae4d23840b3.png",
-      "https://cdn2.steamgriddb.com/hero/11833d4b4ec685c371ae6d1a65cc341e.png",
-      "https://cdn2.steamgriddb.com/hero/3afa7b5aa70fc9e1f9e1464cc636e5bd.png",
-      "https://cdn2.steamgriddb.com/hero/848ceaa4630331e8384950e09d392365.jpg",
-      "https://cdn2.steamgriddb.com/hero/3e98f1cc021387e579ba94f3f6f5f9f6.png",
-      "https://cdn2.steamgriddb.com/hero/2100a5c370a94a78a1589e0a5cbb4410.png",
-      "https://cdn2.steamgriddb.com/hero/5748a2e0d4f5a1ea875fdd627ec6c94c.png"
-    ],
-    "releaseYear": 2002,
-    "rating": 89,
-    "platforms": [
-      "Nintendo GameCube"
-    ],
-    "genres": [
-      "Puzzle",
       "Adventure"
     ]
   },
@@ -2568,6 +2542,32 @@
     "genres": [
       "Racing",
       "Arcade"
+    ]
+  },
+  {
+    "id": 1033,
+    "name": "The Legend of Zelda: The Wind Waker",
+    "posters": [
+      "data/covers/1033.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/9e975c77eedf11c0c99d3e2d6e8b7b49.png",
+      "https://cdn2.steamgriddb.com/hero/955a1584af63a546588caae4d23840b3.png",
+      "https://cdn2.steamgriddb.com/hero/11833d4b4ec685c371ae6d1a65cc341e.png",
+      "https://cdn2.steamgriddb.com/hero/3afa7b5aa70fc9e1f9e1464cc636e5bd.png",
+      "https://cdn2.steamgriddb.com/hero/848ceaa4630331e8384950e09d392365.jpg",
+      "https://cdn2.steamgriddb.com/hero/3e98f1cc021387e579ba94f3f6f5f9f6.png",
+      "https://cdn2.steamgriddb.com/hero/2100a5c370a94a78a1589e0a5cbb4410.png",
+      "https://cdn2.steamgriddb.com/hero/5748a2e0d4f5a1ea875fdd627ec6c94c.png"
+    ],
+    "releaseYear": 2002,
+    "rating": 89,
+    "platforms": [
+      "Nintendo GameCube"
+    ],
+    "genres": [
+      "Puzzle",
+      "Adventure"
     ]
   },
   {
@@ -2987,9 +2987,9 @@
       "https://cdn2.steamgriddb.com/hero/1d6f5d0e873ff67e5934494d9f99946e.png",
       "https://cdn2.steamgriddb.com/hero/31d08e66ac5b3a4f66a9f76a340169b8.jpg",
       "https://cdn2.steamgriddb.com/hero/6fd9a99a5abed788d9afc9d52d54e91b.jpg",
-      "https://cdn2.steamgriddb.com/hero/239a08b036996af21be91c28f8b985cb.png",
-      "https://cdn2.steamgriddb.com/hero/719c42e8fb7d391f1f8481ccba539727.png",
       "https://cdn2.steamgriddb.com/hero/59cf35ec5effe5787749804bd77dfb45.png",
+      "https://cdn2.steamgriddb.com/hero/719c42e8fb7d391f1f8481ccba539727.png",
+      "https://cdn2.steamgriddb.com/hero/239a08b036996af21be91c28f8b985cb.png",
       "https://cdn2.steamgriddb.com/hero/5fbfd8e90448df4c7adfd6f16bca0b51.png",
       "https://cdn2.steamgriddb.com/hero/77db8276d9c9286f4c406beb516cb15f.png"
     ],
@@ -4110,9 +4110,9 @@
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/3e04f019562baeb10f41e7b9fb14c6be.png",
       "https://cdn2.steamgriddb.com/hero/9a60f48f5298395dc0d6e0cf062d8cd7.png",
+      "https://cdn2.steamgriddb.com/hero/c5def7dc28e57fdcb1c8045e388d41e3.png",
       "https://cdn2.steamgriddb.com/hero/e4b0b923a3ec85a83669b734db4318b7.png",
       "https://cdn2.steamgriddb.com/hero/5351b995ac7e0de17861c8f4937d5223.png",
-      "https://cdn2.steamgriddb.com/hero/c5def7dc28e57fdcb1c8045e388d41e3.png",
       "https://cdn2.steamgriddb.com/hero/13de4c4785c7a5409b6247c133b325bf.png",
       "https://cdn2.steamgriddb.com/hero/233509073ed3432027d48b1a83f5fbd2.png",
       "https://cdn2.steamgriddb.com/hero/483cad40bcef17f30ff4139d525b6e81.png"
@@ -4706,6 +4706,34 @@
     ]
   },
   {
+    "id": 185246,
+    "name": "Alan Wake II",
+    "posters": [
+      "data/covers/185246.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/e13147c18aa5e4aa4cf75185d01cf826.png",
+      "https://cdn2.steamgriddb.com/hero/d60f2d5d05b4c46d470d5cbd5d1fb252.jpg",
+      "https://cdn2.steamgriddb.com/hero/991e430c00831fcaec1087462d3223fa.png",
+      "https://cdn2.steamgriddb.com/hero/09ea8690a859084c80f1fbbbf38766e8.jpg",
+      "https://cdn2.steamgriddb.com/hero/dd1ea9382335816da0932d10b0503922.jpg",
+      "https://cdn2.steamgriddb.com/hero/d53a683ae5daa34edb84c7607c92d6a1.jpg",
+      "https://cdn2.steamgriddb.com/hero/2b61040f0e5261b463059d8827acf1fa.png",
+      "https://cdn2.steamgriddb.com/hero/2a19cad46feca9eab2214e58bbf3c02e.png"
+    ],
+    "releaseYear": 2023,
+    "rating": 90,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Shooter",
+      "Adventure"
+    ]
+  },
+  {
     "id": 233571,
     "name": "Hitman World of Assassination",
     "posters": [
@@ -4772,34 +4800,6 @@
       "Turn-based strategy (TBS)",
       "Adventure",
       "Indie"
-    ]
-  },
-  {
-    "id": 185246,
-    "name": "Alan Wake II",
-    "posters": [
-      "data/covers/185246.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/e13147c18aa5e4aa4cf75185d01cf826.png",
-      "https://cdn2.steamgriddb.com/hero/d60f2d5d05b4c46d470d5cbd5d1fb252.jpg",
-      "https://cdn2.steamgriddb.com/hero/991e430c00831fcaec1087462d3223fa.png",
-      "https://cdn2.steamgriddb.com/hero/09ea8690a859084c80f1fbbbf38766e8.jpg",
-      "https://cdn2.steamgriddb.com/hero/dd1ea9382335816da0932d10b0503922.jpg",
-      "https://cdn2.steamgriddb.com/hero/d53a683ae5daa34edb84c7607c92d6a1.jpg",
-      "https://cdn2.steamgriddb.com/hero/2b61040f0e5261b463059d8827acf1fa.png",
-      "https://cdn2.steamgriddb.com/hero/2a19cad46feca9eab2214e58bbf3c02e.png"
-    ],
-    "releaseYear": 2023,
-    "rating": 90,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Shooter",
-      "Adventure"
     ]
   },
   {
@@ -5663,32 +5663,6 @@
     ]
   },
   {
-    "id": 317627,
-    "name": "Ghost of Yotei",
-    "posters": [
-      "data/covers/317627.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/2970aa3d325be49e7b01c34fe9b22f81.png",
-      "https://cdn2.steamgriddb.com/hero/377580ab7301d99e3ce5cab6e55190ba.png",
-      "https://cdn2.steamgriddb.com/hero/03a7c983dc2f6588d35a5db0fc93dcdd.png",
-      "https://cdn2.steamgriddb.com/hero/2edad989553573af7807ad0803d6f712.png",
-      "https://cdn2.steamgriddb.com/hero/1572e6df6cc099653c6abcfcd65ba478.png",
-      "https://cdn2.steamgriddb.com/hero/e1a3a6f38219e9a9689dc1d029efa285.png",
-      "https://cdn2.steamgriddb.com/hero/ef484451acd5c10ff84797b4a5e5cb27.png",
-      "https://cdn2.steamgriddb.com/hero/fd1f8b44640c1dfa191c74b7836be8ee.png"
-    ],
-    "releaseYear": 2025,
-    "rating": 88,
-    "platforms": [
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Adventure"
-    ]
-  },
-  {
     "id": 250621,
     "name": "Neva",
     "posters": [
@@ -5771,6 +5745,32 @@
     "rating": 88,
     "platforms": [
       "Nintendo Switch"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 317627,
+    "name": "Ghost of Yotei",
+    "posters": [
+      "data/covers/317627.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/2970aa3d325be49e7b01c34fe9b22f81.png",
+      "https://cdn2.steamgriddb.com/hero/377580ab7301d99e3ce5cab6e55190ba.png",
+      "https://cdn2.steamgriddb.com/hero/03a7c983dc2f6588d35a5db0fc93dcdd.png",
+      "https://cdn2.steamgriddb.com/hero/2edad989553573af7807ad0803d6f712.png",
+      "https://cdn2.steamgriddb.com/hero/1572e6df6cc099653c6abcfcd65ba478.png",
+      "https://cdn2.steamgriddb.com/hero/e1a3a6f38219e9a9689dc1d029efa285.png",
+      "https://cdn2.steamgriddb.com/hero/ef484451acd5c10ff84797b4a5e5cb27.png",
+      "https://cdn2.steamgriddb.com/hero/fd1f8b44640c1dfa191c74b7836be8ee.png"
+    ],
+    "releaseYear": 2025,
+    "rating": 88,
+    "platforms": [
+      "PlayStation 5"
     ],
     "genres": [
       "Role-playing (RPG)",
