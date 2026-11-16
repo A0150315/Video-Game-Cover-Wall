@@ -361,11 +361,11 @@
       "https://cdn2.steamgriddb.com/hero/7048d1540fa99464f489f1d11db688b1.png",
       "https://cdn2.steamgriddb.com/hero/6d6c5b7c73b3a57198402741c1e92df5.png",
       "https://cdn2.steamgriddb.com/hero/419133b57ea628b183f73a28c5ad7a8c.png",
+      "https://cdn2.steamgriddb.com/hero/3ae5ba3e64e635a305fa740a62954d75.png",
       "https://cdn2.steamgriddb.com/hero/892a01fa3246d61bc3cd6d16f01b9d22.png",
       "https://cdn2.steamgriddb.com/hero/aa23a647b581371fb0c5803263da1345.png",
       "https://cdn2.steamgriddb.com/hero/c2780f04a3434b942146ae546828a32c.jpg",
-      "https://cdn2.steamgriddb.com/hero/b61248fcbcb76b463231d88a39b5d4cb.jpg",
-      "https://cdn2.steamgriddb.com/hero/8646c48a45fc958d20550a893b2e835d.jpg"
+      "https://cdn2.steamgriddb.com/hero/b61248fcbcb76b463231d88a39b5d4cb.jpg"
     ],
     "releaseYear": 2023,
     "rating": 94,
@@ -2655,6 +2655,35 @@
     ]
   },
   {
+    "id": 41,
+    "name": "Deus Ex",
+    "posters": [
+      "data/covers/41.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/664dd858db942cad06f24ff25df56716.png",
+      "https://cdn2.steamgriddb.com/hero/e9fd7c2c6623306db59b6aef5c0d5cac.png",
+      "https://cdn2.steamgriddb.com/hero/79b6245ff93841eb8c120cec9bf8be14.png",
+      "https://cdn2.steamgriddb.com/hero/e1c1eb3b8dad44c7af9fd0d19ab4910d.jpg",
+      "https://cdn2.steamgriddb.com/hero/e2909d1b3e9fd103f2e1b26562a7f707.png",
+      "https://cdn2.steamgriddb.com/hero/69d658d0b2859e32cd4dc3b970c8496c.png",
+      "https://cdn2.steamgriddb.com/hero/033801ba26641a37b9664a110777eea1.jpg",
+      "https://cdn2.steamgriddb.com/hero/611d792df518a50ef9859eac9ee42b3b.png"
+    ],
+    "releaseYear": 2000,
+    "rating": 88,
+    "platforms": [
+      "Linux",
+      "PC (Microsoft Windows)",
+      "Mac"
+    ],
+    "genres": [
+      "Shooter",
+      "Role-playing (RPG)",
+      "Adventure"
+    ]
+  },
+  {
     "id": 40477,
     "name": "Slay the Spire",
     "posters": [
@@ -2813,11 +2842,11 @@
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/d44c78dcad9de0aed2f37902ea02cef2.png",
       "https://cdn2.steamgriddb.com/hero/866d051deb3437d40731901ae7fd9092.jpg",
-      "https://cdn2.steamgriddb.com/hero/8ee3c97728fc56a229d2234ce1bd7cec.png",
       "https://cdn2.steamgriddb.com/hero/ccd198800cc50cc84ee327cec2f4336c.jpg",
-      "https://cdn2.steamgriddb.com/hero/a606db731d30029173a3cedca5085ae9.png",
+      "https://cdn2.steamgriddb.com/hero/8ee3c97728fc56a229d2234ce1bd7cec.png",
       "https://cdn2.steamgriddb.com/hero/80f55b1a93513773c713cd4df7db4e44.png",
       "https://cdn2.steamgriddb.com/hero/4a7f8ff99efa3673c1bf7d079e86ff3b.png",
+      "https://cdn2.steamgriddb.com/hero/a606db731d30029173a3cedca5085ae9.png",
       "https://cdn2.steamgriddb.com/hero/e90530107c4166d88ba58e2475e958b2.png"
     ],
     "releaseYear": 2016,
@@ -2841,35 +2870,6 @@
       "Strategy",
       "Adventure",
       "Indie"
-    ]
-  },
-  {
-    "id": 41,
-    "name": "Deus Ex",
-    "posters": [
-      "data/covers/41.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/664dd858db942cad06f24ff25df56716.png",
-      "https://cdn2.steamgriddb.com/hero/e9fd7c2c6623306db59b6aef5c0d5cac.png",
-      "https://cdn2.steamgriddb.com/hero/79b6245ff93841eb8c120cec9bf8be14.png",
-      "https://cdn2.steamgriddb.com/hero/e1c1eb3b8dad44c7af9fd0d19ab4910d.jpg",
-      "https://cdn2.steamgriddb.com/hero/e2909d1b3e9fd103f2e1b26562a7f707.png",
-      "https://cdn2.steamgriddb.com/hero/69d658d0b2859e32cd4dc3b970c8496c.png",
-      "https://cdn2.steamgriddb.com/hero/033801ba26641a37b9664a110777eea1.jpg",
-      "https://cdn2.steamgriddb.com/hero/611d792df518a50ef9859eac9ee42b3b.png"
-    ],
-    "releaseYear": 2000,
-    "rating": 88,
-    "platforms": [
-      "Linux",
-      "PC (Microsoft Windows)",
-      "Mac"
-    ],
-    "genres": [
-      "Shooter",
-      "Role-playing (RPG)",
-      "Adventure"
     ]
   },
   {
@@ -4542,8 +4542,8 @@
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/e1d25dd75bd7a2083c12ec1e53f450ce.png",
       "https://cdn2.steamgriddb.com/hero/6f99be860d58f3411dc03da94a6db955.png",
-      "https://cdn2.steamgriddb.com/hero/0726668c01043629cfa487adad3a449e.png",
       "https://cdn2.steamgriddb.com/hero/a267198d6d211583c9933a68b30d8ac4.png",
+      "https://cdn2.steamgriddb.com/hero/0726668c01043629cfa487adad3a449e.png",
       "https://cdn2.steamgriddb.com/hero/50cad8b124bde64d87002f0df798a23a.png",
       "https://cdn2.steamgriddb.com/hero/e5040d230c0d9d7bad6bd9894ab3e6e3.png",
       "https://cdn2.steamgriddb.com/hero/1ed8749f23aec3ab68c65460459bbeb1.jpg",
@@ -4706,34 +4706,6 @@
     ]
   },
   {
-    "id": 185246,
-    "name": "Alan Wake II",
-    "posters": [
-      "data/covers/185246.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/e13147c18aa5e4aa4cf75185d01cf826.png",
-      "https://cdn2.steamgriddb.com/hero/d60f2d5d05b4c46d470d5cbd5d1fb252.jpg",
-      "https://cdn2.steamgriddb.com/hero/991e430c00831fcaec1087462d3223fa.png",
-      "https://cdn2.steamgriddb.com/hero/09ea8690a859084c80f1fbbbf38766e8.jpg",
-      "https://cdn2.steamgriddb.com/hero/dd1ea9382335816da0932d10b0503922.jpg",
-      "https://cdn2.steamgriddb.com/hero/d53a683ae5daa34edb84c7607c92d6a1.jpg",
-      "https://cdn2.steamgriddb.com/hero/2b61040f0e5261b463059d8827acf1fa.png",
-      "https://cdn2.steamgriddb.com/hero/2a19cad46feca9eab2214e58bbf3c02e.png"
-    ],
-    "releaseYear": 2023,
-    "rating": 90,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Shooter",
-      "Adventure"
-    ]
-  },
-  {
     "id": 233571,
     "name": "Hitman World of Assassination",
     "posters": [
@@ -4766,6 +4738,34 @@
     "genres": [
       "Shooter",
       "Tactical",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 185246,
+    "name": "Alan Wake II",
+    "posters": [
+      "data/covers/185246.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/e13147c18aa5e4aa4cf75185d01cf826.png",
+      "https://cdn2.steamgriddb.com/hero/d60f2d5d05b4c46d470d5cbd5d1fb252.jpg",
+      "https://cdn2.steamgriddb.com/hero/991e430c00831fcaec1087462d3223fa.png",
+      "https://cdn2.steamgriddb.com/hero/09ea8690a859084c80f1fbbbf38766e8.jpg",
+      "https://cdn2.steamgriddb.com/hero/dd1ea9382335816da0932d10b0503922.jpg",
+      "https://cdn2.steamgriddb.com/hero/d53a683ae5daa34edb84c7607c92d6a1.jpg",
+      "https://cdn2.steamgriddb.com/hero/2b61040f0e5261b463059d8827acf1fa.png",
+      "https://cdn2.steamgriddb.com/hero/2a19cad46feca9eab2214e58bbf3c02e.png"
+    ],
+    "releaseYear": 2023,
+    "rating": 90,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Shooter",
       "Adventure"
     ]
   },
@@ -6910,30 +6910,6 @@
     ]
   },
   {
-    "id": 381234,
-    "name": "Tomb Raider: Catalyst",
-    "posters": [
-      "data/covers/381234.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/1318e9f2f201b64c51692ee8c03afda2.jpg",
-      "https://cdn2.steamgriddb.com/hero/da0a717aae40dd08c29ffae111e6ce54.jpg",
-      "https://cdn2.steamgriddb.com/hero/fd89c8d2a3f6525b79aa4996fdab4ba2.png"
-    ],
-    "releaseYear": 2028,
-    "rating": 0,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Platform",
-      "Puzzle",
-      "Adventure"
-    ]
-  },
-  {
     "id": 325599,
     "name": "Stranger Than Heaven",
     "posters": [
@@ -6957,6 +6933,30 @@
       "Fighting",
       "Puzzle",
       "Role-playing (RPG)",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 381234,
+    "name": "Tomb Raider: Catalyst",
+    "posters": [
+      "data/covers/381234.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/1318e9f2f201b64c51692ee8c03afda2.jpg",
+      "https://cdn2.steamgriddb.com/hero/da0a717aae40dd08c29ffae111e6ce54.jpg",
+      "https://cdn2.steamgriddb.com/hero/fd89c8d2a3f6525b79aa4996fdab4ba2.png"
+    ],
+    "releaseYear": 2028,
+    "rating": 0,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Platform",
+      "Puzzle",
       "Adventure"
     ]
   },
