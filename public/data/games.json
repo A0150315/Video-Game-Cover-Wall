@@ -499,12 +499,12 @@
     ],
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/007202387c4274c570d9cb72943fc873.png",
-      "https://cdn2.steamgriddb.com/hero/8fb134f258b1f7865a6ab2d935a897c9.png",
-      "https://cdn2.steamgriddb.com/hero/225cd8f83abe18a58caec371b03dae8d.png",
       "https://cdn2.steamgriddb.com/hero/2a9107054df6d34d8fcfafa19f74dd9d.jpg",
-      "https://cdn2.steamgriddb.com/hero/0b05e2f5a10750f6fc431fe91cd28aa7.png",
-      "https://cdn2.steamgriddb.com/hero/0a90c1fdd4b06c0822b0cbfae4bb0c06.png",
-      "https://cdn2.steamgriddb.com/hero/cbd37fc75cd08ceff5c904ec09374997.png",
+      "https://cdn2.steamgriddb.com/hero/8fb134f258b1f7865a6ab2d935a897c9.png",
+      "https://cdn2.steamgriddb.com/hero/43a1b6e30d834c57456f0f6f727026b8.png",
+      "https://cdn2.steamgriddb.com/hero/132869b213f5a988d51c4b74efc46fd5.png",
+      "https://cdn2.steamgriddb.com/hero/225cd8f83abe18a58caec371b03dae8d.png",
+      "https://cdn2.steamgriddb.com/hero/0d31940f0774a13369f1cae430e85aba.png",
       "https://cdn2.steamgriddb.com/hero/109a0ca3bc27f3e96597370d5c8cf03d.png"
     ],
     "releaseYear": 2002,
@@ -870,14 +870,14 @@
       "data/covers/565.jpg"
     ],
     "heroes": [
+      "https://cdn2.steamgriddb.com/hero/a787f02ed34fd886eb6d49e60d9c9120.png",
+      "https://cdn2.steamgriddb.com/hero/70c02f0ddc56143fc1d648e703db9f88.jpg",
+      "https://cdn2.steamgriddb.com/hero/bf46c8209214d867e9dc38976290f965.png",
+      "https://cdn2.steamgriddb.com/hero/196ef39dc3c14c0b8aa88d99f31e8710.png",
       "https://cdn2.steamgriddb.com/hero/0f49d14c2bfc523456225589dc27b6db.png",
       "https://cdn2.steamgriddb.com/hero/642ad51faa492de9795844a2d0c6142f.png",
-      "https://cdn2.steamgriddb.com/hero/3e0ce87560cc1e32353de7d1eedb58f9.png",
-      "https://cdn2.steamgriddb.com/hero/196ef39dc3c14c0b8aa88d99f31e8710.png",
       "https://cdn2.steamgriddb.com/hero/dc38dc7e4713858d62bd478ea70b4fe9.png",
-      "https://cdn2.steamgriddb.com/hero/f2013aa6b8488641df6c34959d797e15.png",
-      "https://cdn2.steamgriddb.com/hero/9ab01348be1ccbf4df5cdf8e4133c39f.png",
-      "https://cdn2.steamgriddb.com/hero/a787f02ed34fd886eb6d49e60d9c9120.png"
+      "https://cdn2.steamgriddb.com/hero/3e0ce87560cc1e32353de7d1eedb58f9.png"
     ],
     "releaseYear": 2009,
     "rating": 92,
@@ -1578,12 +1578,12 @@
       "data/covers/1985.jpg"
     ],
     "heroes": [
-      "https://cdn2.steamgriddb.com/hero/a47dbfe7e87d38f9ddbf3e5021d44c70.png",
       "https://cdn2.steamgriddb.com/hero/f73ff6b435051f83259a5f7b2f542e4b.png",
-      "https://cdn2.steamgriddb.com/hero/7cc2794f14963ceaedb29d19875c950c.png",
       "https://cdn2.steamgriddb.com/hero/fd00d3474e495e7b6d5f9f575b2d7ec4.png",
-      "https://cdn2.steamgriddb.com/hero/07e99f116b916656b3fd4f7dd58a3cbe.png",
+      "https://cdn2.steamgriddb.com/hero/a47dbfe7e87d38f9ddbf3e5021d44c70.png",
+      "https://cdn2.steamgriddb.com/hero/7cc2794f14963ceaedb29d19875c950c.png",
       "https://cdn2.steamgriddb.com/hero/5328c22dc818e19521b07a7a36ca1620.jpg",
+      "https://cdn2.steamgriddb.com/hero/07e99f116b916656b3fd4f7dd58a3cbe.png",
       "https://cdn2.steamgriddb.com/hero/563f46b363c65f90644e0c38c17fcde2.jpg",
       "https://cdn2.steamgriddb.com/hero/5d7b7c3e1abf09b305816fb62d3b30fd.png"
     ],
@@ -2387,9 +2387,9 @@
       "https://cdn2.steamgriddb.com/hero/e72f04340ba52eeb59aac43d472d1d31.png",
       "https://cdn2.steamgriddb.com/hero/cce08058c7bf76a788543e4ff059b574.png",
       "https://cdn2.steamgriddb.com/hero/c8245970f4b8928346f669bf62dbc288.png",
-      "https://cdn2.steamgriddb.com/hero/ff10bdb362b3ea4aa07fae2dcd78cf79.png",
-      "https://cdn2.steamgriddb.com/hero/6f7ed2665430436edf77b2c6d75740c7.png",
-      "https://cdn2.steamgriddb.com/hero/1fe165377d4907f0ea45a5397520b85c.png"
+      "https://cdn2.steamgriddb.com/hero/1fe165377d4907f0ea45a5397520b85c.png",
+      "https://cdn2.steamgriddb.com/hero/233e90f3f8794e85bc244be259a99724.png",
+      "https://cdn2.steamgriddb.com/hero/875ffa7f896a4da039e296e2d1f54937.png"
     ],
     "releaseYear": 2011,
     "rating": 89,
@@ -2579,8 +2579,8 @@
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/0415740eaa4d9decbc8da001d3fd805f.png",
       "https://cdn2.steamgriddb.com/hero/97275a23ca44226c9964043c8462be96.jpg",
-      "https://cdn2.steamgriddb.com/hero/af523c5d4c1038a5f074c4320af0ce78.png",
       "https://cdn2.steamgriddb.com/hero/cf1c92539a270ed7a08f3eaeb5ad722e.png",
+      "https://cdn2.steamgriddb.com/hero/af523c5d4c1038a5f074c4320af0ce78.png",
       "https://cdn2.steamgriddb.com/hero/dfd7468ac613286cdbb40872c8ef3b06.png",
       "https://cdn2.steamgriddb.com/hero/e651fdc0316d0d16c6af304d2023ca3f.jpg",
       "https://cdn2.steamgriddb.com/hero/3585d4a47883fd0497ef6fe0b9015aee.png",
@@ -6158,9 +6158,9 @@
     ],
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/ffc905126015cdc6758873970fb59828.jpg",
+      "https://cdn2.steamgriddb.com/hero/804470ff5ab9f90642183405e20d9c59.png",
       "https://cdn2.steamgriddb.com/hero/8d386d9b05554015449fb345d3d05206.png",
       "https://cdn2.steamgriddb.com/hero/1787613399fde2b4ba215041e01574d0.png",
-      "https://cdn2.steamgriddb.com/hero/804470ff5ab9f90642183405e20d9c59.png",
       "https://cdn2.steamgriddb.com/hero/6531a4eee52c8f400a4827a748555cd3.jpg",
       "https://cdn2.steamgriddb.com/hero/85ab47123d2138529434bd993f13f3af.jpg",
       "https://cdn2.steamgriddb.com/hero/f558adc9bd6be4efdff8a2010283df68.jpg",
@@ -6569,42 +6569,6 @@
       "Puzzle",
       "Role-playing (RPG)",
       "Adventure"
-    ]
-  },
-  {
-    "id": 131890,
-    "name": "Sea of Stars",
-    "posters": [
-      "data/covers/131890.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/0dc76f2b5c3bada7c8bf8a8cbf02a968.png",
-      "https://cdn2.steamgriddb.com/hero/e5b81416d033fd7e1dbfd8ebd0f354f1.png",
-      "https://cdn2.steamgriddb.com/hero/81a7f320c97037905c1e74ed4fba57b4.png",
-      "https://cdn2.steamgriddb.com/hero/de2326cf69d9b51067dc2253aaf8c883.png",
-      "https://cdn2.steamgriddb.com/hero/28f9fe37e8e1458b1b46f8fd68fce094.jpg",
-      "https://cdn2.steamgriddb.com/hero/585e8d6e108d44ee0303463ba7fb023e.jpg",
-      "https://cdn2.steamgriddb.com/hero/54bf847d6e3908dc5277af42fbf566db.png",
-      "https://cdn2.steamgriddb.com/hero/1ccfd90b5d5a5504eeceea9404433515.jpg"
-    ],
-    "releaseYear": 2023,
-    "rating": 86,
-    "platforms": [
-      "Xbox Series X|S",
-      "PlayStation 4",
-      "Nintendo Switch 2",
-      "Android",
-      "PC (Microsoft Windows)",
-      "iOS",
-      "PlayStation 5",
-      "Xbox One",
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Turn-based strategy (TBS)",
-      "Adventure",
-      "Indie"
     ]
   },
   {
