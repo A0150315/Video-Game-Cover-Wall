@@ -579,14 +579,14 @@
       "data/covers/26758.jpg"
     ],
     "heroes": [
+      "https://cdn2.steamgriddb.com/hero/c4f3d709fb9f0df27c833911dac733eb.png",
       "https://cdn2.steamgriddb.com/hero/c657bb88929c8410c8b3dfb3d7a568e0.png",
       "https://cdn2.steamgriddb.com/hero/e295402f4bc2d05c3daba18c489b2dbb.png",
-      "https://cdn2.steamgriddb.com/hero/c4f3d709fb9f0df27c833911dac733eb.png",
-      "https://cdn2.steamgriddb.com/hero/fbe2afb04be9f62c4c514e2e632ddb43.png?",
+      "https://cdn2.steamgriddb.com/hero/32e3b21bc66430172c1dfab60d110b35.png",
+      "https://cdn2.steamgriddb.com/hero/30fd8d8284df1b99f53ca5d50ceb6fd9.png",
       "https://cdn2.steamgriddb.com/hero/5b526c7339b55f1b30bf08d647cb19ef.png",
       "https://cdn2.steamgriddb.com/hero/53a83d6131f9fdc81d90beb31702932e.png",
-      "https://cdn2.steamgriddb.com/hero/0e7063ba15aca69e0c15be29a4933852.png",
-      "https://cdn2.steamgriddb.com/hero/e1057e379637ce89356077f77a93bbac.png"
+      "https://cdn2.steamgriddb.com/hero/0e7063ba15aca69e0c15be29a4933852.png"
     ],
     "releaseYear": 2017,
     "rating": 93,
@@ -2629,32 +2629,6 @@
     ]
   },
   {
-    "id": 19565,
-    "name": "Marvel's Spider-Man",
-    "posters": [
-      "data/covers/19565.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/729b05a43b36330ad8c0d7d5216247c0.png",
-      "https://cdn2.steamgriddb.com/hero/e72d760a8952d3ae95a15f40cf8f56d3.jpg",
-      "https://cdn2.steamgriddb.com/hero/cc0e1713aa0e2bcba6f5edf1436b81ef.png",
-      "https://cdn2.steamgriddb.com/hero/a7a450dcea5ea8c5782e00d67838c441.png",
-      "https://cdn2.steamgriddb.com/hero/9dd89c0343aeef155fbe39b0b956d64f.jpg",
-      "https://cdn2.steamgriddb.com/hero/6072cd1424d62d9c33c6a7a82cacd40e.png",
-      "https://cdn2.steamgriddb.com/hero/fd512441a1a791770a6fa573d688bff5.png",
-      "https://cdn2.steamgriddb.com/hero/7d6c7d95a1e5e861c54d20002585a809.jpg"
-    ],
-    "releaseYear": 2018,
-    "rating": 88,
-    "platforms": [
-      "PlayStation 4"
-    ],
-    "genres": [
-      "Hack and slash/Beat 'em up",
-      "Adventure"
-    ]
-  },
-  {
     "id": 41,
     "name": "Deus Ex",
     "posters": [
@@ -2680,6 +2654,32 @@
     "genres": [
       "Shooter",
       "Role-playing (RPG)",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 19565,
+    "name": "Marvel's Spider-Man",
+    "posters": [
+      "data/covers/19565.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/729b05a43b36330ad8c0d7d5216247c0.png",
+      "https://cdn2.steamgriddb.com/hero/e72d760a8952d3ae95a15f40cf8f56d3.jpg",
+      "https://cdn2.steamgriddb.com/hero/cc0e1713aa0e2bcba6f5edf1436b81ef.png",
+      "https://cdn2.steamgriddb.com/hero/a7a450dcea5ea8c5782e00d67838c441.png",
+      "https://cdn2.steamgriddb.com/hero/9dd89c0343aeef155fbe39b0b956d64f.jpg",
+      "https://cdn2.steamgriddb.com/hero/6072cd1424d62d9c33c6a7a82cacd40e.png",
+      "https://cdn2.steamgriddb.com/hero/fd512441a1a791770a6fa573d688bff5.png",
+      "https://cdn2.steamgriddb.com/hero/7d6c7d95a1e5e861c54d20002585a809.jpg"
+    ],
+    "releaseYear": 2018,
+    "rating": 88,
+    "platforms": [
+      "PlayStation 4"
+    ],
+    "genres": [
+      "Hack and slash/Beat 'em up",
       "Adventure"
     ]
   },
@@ -2806,34 +2806,6 @@
     ]
   },
   {
-    "id": 76,
-    "name": "Dragon Age: Origins",
-    "posters": [
-      "data/covers/76.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/ee89223a2b625b5152132ed77abbcc79.png",
-      "https://cdn2.steamgriddb.com/hero/5d2a47cdbbcc3d3af68f7d4003f796b5.png",
-      "https://cdn2.steamgriddb.com/hero/72f67e70f6b7cdc4cc893edaddf0c4c6.jpg",
-      "https://cdn2.steamgriddb.com/hero/fccc64972a9468a11f125cadb090e89e.png",
-      "https://cdn2.steamgriddb.com/hero/1b318124e37af6d74a03501474f44ea1.jpg",
-      "https://cdn2.steamgriddb.com/hero/3847917d67bbb93e39c62d30c288ce37.png",
-      "https://cdn2.steamgriddb.com/hero/02a32ad2669e6fe298e607fe7cc0e1a0.png",
-      "https://cdn2.steamgriddb.com/hero/b1c5390a0134fb5edeb8bef14441045b.png"
-    ],
-    "releaseYear": 2009,
-    "rating": 88,
-    "platforms": [
-      "PlayStation 3",
-      "PC (Microsoft Windows)",
-      "Mac",
-      "Xbox 360"
-    ],
-    "genres": [
-      "Role-playing (RPG)"
-    ]
-  },
-  {
     "id": 17000,
     "name": "Stardew Valley",
     "posters": [
@@ -2870,6 +2842,34 @@
       "Strategy",
       "Adventure",
       "Indie"
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Dragon Age: Origins",
+    "posters": [
+      "data/covers/76.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/ee89223a2b625b5152132ed77abbcc79.png",
+      "https://cdn2.steamgriddb.com/hero/5d2a47cdbbcc3d3af68f7d4003f796b5.png",
+      "https://cdn2.steamgriddb.com/hero/72f67e70f6b7cdc4cc893edaddf0c4c6.jpg",
+      "https://cdn2.steamgriddb.com/hero/fccc64972a9468a11f125cadb090e89e.png",
+      "https://cdn2.steamgriddb.com/hero/1b318124e37af6d74a03501474f44ea1.jpg",
+      "https://cdn2.steamgriddb.com/hero/3847917d67bbb93e39c62d30c288ce37.png",
+      "https://cdn2.steamgriddb.com/hero/02a32ad2669e6fe298e607fe7cc0e1a0.png",
+      "https://cdn2.steamgriddb.com/hero/b1c5390a0134fb5edeb8bef14441045b.png"
+    ],
+    "releaseYear": 2009,
+    "rating": 88,
+    "platforms": [
+      "PlayStation 3",
+      "PC (Microsoft Windows)",
+      "Mac",
+      "Xbox 360"
+    ],
+    "genres": [
+      "Role-playing (RPG)"
     ]
   },
   {
@@ -3345,35 +3345,6 @@
     ]
   },
   {
-    "id": 81085,
-    "name": "Dark Souls: Remastered",
-    "posters": [
-      "data/covers/81085.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/395af6444dfab37005c07b8264090296.jpg",
-      "https://cdn2.steamgriddb.com/hero/d645920e395fedad7bbbed0eca3fe2e0.png",
-      "https://cdn2.steamgriddb.com/hero/2f998dda8f0ba06965f745c6b4b39a28.jpg",
-      "https://cdn2.steamgriddb.com/hero/1fdfc94e6fbe9ad0ae591127861939b9.jpg",
-      "https://cdn2.steamgriddb.com/hero/2546ca898e28f10ef2ef41f08b17d2c1.jpg",
-      "https://cdn2.steamgriddb.com/hero/e1b97c787a5677efa5eba575c41e8688.png",
-      "https://cdn2.steamgriddb.com/hero/fd0844cddec522c72993e744add7ed20.png",
-      "https://cdn2.steamgriddb.com/hero/9493b40d57ad7be6c0da24d381015694.png"
-    ],
-    "releaseYear": 2018,
-    "rating": 87,
-    "platforms": [
-      "PlayStation 4",
-      "PC (Microsoft Windows)",
-      "Xbox One",
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Adventure"
-    ]
-  },
-  {
     "id": 11737,
     "name": "Outer Wilds",
     "posters": [
@@ -3404,6 +3375,35 @@
       "Simulator",
       "Adventure",
       "Indie"
+    ]
+  },
+  {
+    "id": 81085,
+    "name": "Dark Souls: Remastered",
+    "posters": [
+      "data/covers/81085.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/395af6444dfab37005c07b8264090296.jpg",
+      "https://cdn2.steamgriddb.com/hero/d645920e395fedad7bbbed0eca3fe2e0.png",
+      "https://cdn2.steamgriddb.com/hero/2f998dda8f0ba06965f745c6b4b39a28.jpg",
+      "https://cdn2.steamgriddb.com/hero/1fdfc94e6fbe9ad0ae591127861939b9.jpg",
+      "https://cdn2.steamgriddb.com/hero/2546ca898e28f10ef2ef41f08b17d2c1.jpg",
+      "https://cdn2.steamgriddb.com/hero/e1b97c787a5677efa5eba575c41e8688.png",
+      "https://cdn2.steamgriddb.com/hero/fd0844cddec522c72993e744add7ed20.png",
+      "https://cdn2.steamgriddb.com/hero/9493b40d57ad7be6c0da24d381015694.png"
+    ],
+    "releaseYear": 2018,
+    "rating": 87,
+    "platforms": [
+      "PlayStation 4",
+      "PC (Microsoft Windows)",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Adventure"
     ]
   },
   {
@@ -4275,6 +4275,34 @@
     ]
   },
   {
+    "id": 52189,
+    "name": "Grand Theft Auto VI",
+    "posters": [
+      "data/covers/52189.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/2d5fb1ecd865bff5dd1b6afd6da8d2a4.png",
+      "https://cdn2.steamgriddb.com/hero/46a428fa75c714ab98a8e9348c85179a.png",
+      "https://cdn2.steamgriddb.com/hero/838c3442d88f204d75d335378e18c5ec.png",
+      "https://cdn2.steamgriddb.com/hero/f8f3e2e64f15fb85c3e630d6c6553e9e.jpg",
+      "https://cdn2.steamgriddb.com/hero/2bb2d7cd82fbb47f72d832d9500a3751.png",
+      "https://cdn2.steamgriddb.com/hero/b80be7960918982fceea91afaf4d5e27.png",
+      "https://cdn2.steamgriddb.com/hero/f2c1f507217a5990b98b91c495c57692.png",
+      "https://cdn2.steamgriddb.com/hero/dd871b5eebb33dc85e4426904f90a863.png"
+    ],
+    "releaseYear": 2026,
+    "rating": 98,
+    "platforms": [
+      "Xbox Series X|S",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Shooter",
+      "Racing",
+      "Adventure"
+    ]
+  },
+  {
     "id": 318395,
     "name": "Animal Company",
     "posters": [
@@ -4975,37 +5003,6 @@
     ]
   },
   {
-    "id": 26602,
-    "name": "Metaphor: ReFantazio",
-    "posters": [
-      "data/covers/26602.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/49a22bf943448e4fc85bbb125b93acd7.png",
-      "https://cdn2.steamgriddb.com/hero/8d25153bec94068872e2a5ff021e5ff7.png",
-      "https://cdn2.steamgriddb.com/hero/95c6535f9ffd12f95979f18804fc618f.jpg",
-      "https://cdn2.steamgriddb.com/hero/aaecbb83e18bf24199bc5b2d3a280054.jpg",
-      "https://cdn2.steamgriddb.com/hero/203ea99c417de21fe653491209fd26d2.jpg",
-      "https://cdn2.steamgriddb.com/hero/dd6e198d02d6cc5a4b06a9df0f5f1357.jpg",
-      "https://cdn2.steamgriddb.com/hero/c09898488dddade675f309cabeca0c4e.png",
-      "https://cdn2.steamgriddb.com/hero/98b6976ca71dafee1febd178bbcec474.jpg"
-    ],
-    "releaseYear": 2024,
-    "rating": 90,
-    "platforms": [
-      "Xbox Series X|S",
-      "PlayStation 4",
-      "Nintendo Switch 2",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Turn-based strategy (TBS)",
-      "Adventure"
-    ]
-  },
-  {
     "id": 135999,
     "name": "Tetris Effect: Connected",
     "posters": [
@@ -5069,6 +5066,37 @@
     ]
   },
   {
+    "id": 26602,
+    "name": "Metaphor: ReFantazio",
+    "posters": [
+      "data/covers/26602.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/49a22bf943448e4fc85bbb125b93acd7.png",
+      "https://cdn2.steamgriddb.com/hero/8d25153bec94068872e2a5ff021e5ff7.png",
+      "https://cdn2.steamgriddb.com/hero/95c6535f9ffd12f95979f18804fc618f.jpg",
+      "https://cdn2.steamgriddb.com/hero/aaecbb83e18bf24199bc5b2d3a280054.jpg",
+      "https://cdn2.steamgriddb.com/hero/203ea99c417de21fe653491209fd26d2.jpg",
+      "https://cdn2.steamgriddb.com/hero/dd6e198d02d6cc5a4b06a9df0f5f1357.jpg",
+      "https://cdn2.steamgriddb.com/hero/c09898488dddade675f309cabeca0c4e.png",
+      "https://cdn2.steamgriddb.com/hero/98b6976ca71dafee1febd178bbcec474.jpg"
+    ],
+    "releaseYear": 2024,
+    "rating": 89,
+    "platforms": [
+      "Xbox Series X|S",
+      "PlayStation 4",
+      "Nintendo Switch 2",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Turn-based strategy (TBS)",
+      "Adventure"
+    ]
+  },
+  {
     "id": 141503,
     "name": "Forza Horizon 5",
     "posters": [
@@ -5107,8 +5135,8 @@
       "https://cdn2.steamgriddb.com/hero/a504fbf343c4f3f5fb41e379352651f0.png",
       "https://cdn2.steamgriddb.com/hero/88e728cf57f3e639e24e6df5f1fb3789.png",
       "https://cdn2.steamgriddb.com/hero/2426af4e20a955e5b25da3ae3d881121.jpg",
-      "https://cdn2.steamgriddb.com/hero/622135f78082662413b50aaecc376f11.jpg",
       "https://cdn2.steamgriddb.com/hero/542a2ef216fcbc3348128461e2913137.jpg",
+      "https://cdn2.steamgriddb.com/hero/622135f78082662413b50aaecc376f11.jpg",
       "https://cdn2.steamgriddb.com/hero/f3f0ada920b52da74bd97f8facc674eb.png",
       "https://cdn2.steamgriddb.com/hero/821a89b05f1cae4aef684684a279e66e.png"
     ],
@@ -5193,12 +5221,7 @@
     "posters": [
       "data/covers/117297.jpg"
     ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/3969214cf75af11c1a013e4386787c54.jpg",
-      "https://cdn2.steamgriddb.com/hero/e6483ae9e85b801c582ca117ecd16eb6.jpg",
-      "https://cdn2.steamgriddb.com/hero/a2db3a7829a3d16e3735781ced544816.jpg",
-      "https://cdn2.steamgriddb.com/hero/1a31856c66090c6d9dce2e1395d690ce.jpg"
-    ],
+    "heroes": [],
     "releaseYear": 2025,
     "rating": 89,
     "platforms": [
@@ -6141,6 +6164,36 @@
     ]
   },
   {
+    "id": 225582,
+    "name": "Control Resonant",
+    "posters": [
+      "data/covers/225582.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/240e23eebf039a0dc1ec15529a3c2ecc.png",
+      "https://cdn2.steamgriddb.com/hero/667d22dfde43bafb3f8fada578c96c25.png",
+      "https://cdn2.steamgriddb.com/hero/bd40e4bd7c3fd394cfe926660335b391.png",
+      "https://cdn2.steamgriddb.com/hero/96681ebcc11afbcc7613b688e37af4b8.png",
+      "https://cdn2.steamgriddb.com/hero/c9e171b812992625c75344234c09e92a.png",
+      "https://cdn2.steamgriddb.com/hero/7a934761e561e88a0ddb7c2611d55ba6.png",
+      "https://cdn2.steamgriddb.com/hero/abb7e54b51ba50dc6954a512d1a132fa.jpg",
+      "https://cdn2.steamgriddb.com/hero/6a480dde4a529565d473063cc43cb551.png"
+    ],
+    "releaseYear": 2026,
+    "rating": 87,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5",
+      "Mac"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Hack and slash/Beat 'em up",
+      "Adventure"
+    ]
+  },
+  {
     "id": 194821,
     "name": "Nine Sols",
     "posters": [
@@ -6501,95 +6554,6 @@
       "Puzzle",
       "Adventure",
       "Indie"
-    ]
-  },
-  {
-    "id": 348330,
-    "name": "Forza Horizon 6",
-    "posters": [
-      "data/covers/348330.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/d6b3a54d189bc6cd921f6581a7d41b17.png",
-      "https://cdn2.steamgriddb.com/hero/35b0b52c6892699f86129ef791ed11c2.png",
-      "https://cdn2.steamgriddb.com/hero/56540abcdb375502c6c871b8f141a40b.jpg",
-      "https://cdn2.steamgriddb.com/hero/07561478adc8ca51c9646960a5508186.png",
-      "https://cdn2.steamgriddb.com/hero/bcb39d95c667faa134415186c0e8fbdf.png",
-      "https://cdn2.steamgriddb.com/hero/2adccb7d8f9e85dfbf1d53f00e96d522.png",
-      "https://cdn2.steamgriddb.com/hero/5fc13b57f3008aa88d051d65f1b0f429.png",
-      "https://cdn2.steamgriddb.com/hero/84c1ccfc8030f684f5de59ae439bf272.png"
-    ],
-    "releaseYear": 2026,
-    "rating": 86,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Racing",
-      "Simulator",
-      "Sport",
-      "Arcade"
-    ]
-  },
-  {
-    "id": 195517,
-    "name": "Return to Monkey Island",
-    "posters": [
-      "data/covers/195517.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/362ecba8def0b49f92307e8f0927ec43.png",
-      "https://cdn2.steamgriddb.com/hero/6201006ca73bfb4966550c5228932da6.jpg",
-      "https://cdn2.steamgriddb.com/hero/095e0c0ae17515306ad9a09cc74aef49.jpg",
-      "https://cdn2.steamgriddb.com/hero/d4cd019bd8c10650e4c1c05beddca082.png",
-      "https://cdn2.steamgriddb.com/hero/a34dfbef5668442567f72da5dfe506a0.png"
-    ],
-    "releaseYear": 2022,
-    "rating": 86,
-    "platforms": [
-      "Xbox Series X|S",
-      "Linux",
-      "Android",
-      "PC (Microsoft Windows)",
-      "iOS",
-      "PlayStation 5",
-      "Mac",
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Point-and-click",
-      "Puzzle",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 52189,
-    "name": "Grand Theft Auto VI",
-    "posters": [
-      "data/covers/52189.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/2d5fb1ecd865bff5dd1b6afd6da8d2a4.png",
-      "https://cdn2.steamgriddb.com/hero/46a428fa75c714ab98a8e9348c85179a.png",
-      "https://cdn2.steamgriddb.com/hero/838c3442d88f204d75d335378e18c5ec.png",
-      "https://cdn2.steamgriddb.com/hero/f8f3e2e64f15fb85c3e630d6c6553e9e.jpg",
-      "https://cdn2.steamgriddb.com/hero/2bb2d7cd82fbb47f72d832d9500a3751.png",
-      "https://cdn2.steamgriddb.com/hero/b80be7960918982fceea91afaf4d5e27.png",
-      "https://cdn2.steamgriddb.com/hero/f2c1f507217a5990b98b91c495c57692.png",
-      "https://cdn2.steamgriddb.com/hero/dd871b5eebb33dc85e4426904f90a863.png"
-    ],
-    "releaseYear": 2026,
-    "rating": 0,
-    "platforms": [
-      "Xbox Series X|S",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Shooter",
-      "Racing",
-      "Adventure"
     ]
   },
   {
