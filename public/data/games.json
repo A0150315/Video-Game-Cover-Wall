@@ -4301,6 +4301,31 @@
     ]
   },
   {
+    "id": 318395,
+    "name": "Animal Company",
+    "posters": [
+      "data/covers/318395.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/6bcf4386aaf3362c6223fcddc675b2e7.jpg",
+      "https://cdn2.steamgriddb.com/hero/2203b4967245554ce6ddec6a8aad1a95.jpg",
+      "https://cdn2.steamgriddb.com/hero/d60e336fe3d02713b230d3aaddd75dd2.jpg",
+      "https://cdn2.steamgriddb.com/hero/406f10c3a49f033cc3c3c56ed53b4107.png",
+      "https://cdn2.steamgriddb.com/hero/b6476659d5abe6385fd54d05702028df.jpg",
+      "https://cdn2.steamgriddb.com/hero/9cbcb2ca41f79fb3439b78cb25296309.jpg",
+      "https://cdn2.steamgriddb.com/hero/19948ae87f3b07d36c2ff3a687e5a1b5.jpg"
+    ],
+    "releaseYear": 2024,
+    "rating": 97,
+    "platforms": [
+      "Meta Quest 2",
+      "SteamVR"
+    ],
+    "genres": [
+      "Adventure"
+    ]
+  },
+  {
     "id": 52189,
     "name": "Grand Theft Auto VI",
     "posters": [
@@ -4325,31 +4350,6 @@
     "genres": [
       "Shooter",
       "Racing",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 318395,
-    "name": "Animal Company",
-    "posters": [
-      "data/covers/318395.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/6bcf4386aaf3362c6223fcddc675b2e7.jpg",
-      "https://cdn2.steamgriddb.com/hero/2203b4967245554ce6ddec6a8aad1a95.jpg",
-      "https://cdn2.steamgriddb.com/hero/d60e336fe3d02713b230d3aaddd75dd2.jpg",
-      "https://cdn2.steamgriddb.com/hero/406f10c3a49f033cc3c3c56ed53b4107.png",
-      "https://cdn2.steamgriddb.com/hero/b6476659d5abe6385fd54d05702028df.jpg",
-      "https://cdn2.steamgriddb.com/hero/9cbcb2ca41f79fb3439b78cb25296309.jpg",
-      "https://cdn2.steamgriddb.com/hero/19948ae87f3b07d36c2ff3a687e5a1b5.jpg"
-    ],
-    "releaseYear": 2024,
-    "rating": 97,
-    "platforms": [
-      "Meta Quest 2",
-      "SteamVR"
-    ],
-    "genres": [
       "Adventure"
     ]
   },
@@ -4626,8 +4626,8 @@
       "https://cdn2.steamgriddb.com/hero/682a64a4fba9f39d954eaf28531e55a0.png",
       "https://cdn2.steamgriddb.com/hero/2b00e20bf615db411d9bac7819b6e003.jpg",
       "https://cdn2.steamgriddb.com/hero/a48ea3f98067cb5bbd6eb863a7b40f38.png",
-      "https://cdn2.steamgriddb.com/hero/08142446d0ba78b8f9091f52df384fcd.png",
-      "https://cdn2.steamgriddb.com/hero/a283f6b30fc942119e90f406e7b75aa6.png"
+      "https://cdn2.steamgriddb.com/hero/bccb55e050d5c2341e12f5af65c8cb68.png",
+      "https://cdn2.steamgriddb.com/hero/08142446d0ba78b8f9091f52df384fcd.png"
     ],
     "releaseYear": 2025,
     "rating": 91,
@@ -5075,11 +5075,11 @@
       "https://cdn2.steamgriddb.com/hero/dbdc69ea6ccbdea0ca2d796e1af24ebf.png",
       "https://cdn2.steamgriddb.com/hero/42e7e1210aed7043d64111e71e0796af.png",
       "https://cdn2.steamgriddb.com/hero/a7bcf3bc23946c7d69a73acb147ca8e8.png",
+      "https://cdn2.steamgriddb.com/hero/7183145a2a3e0ce2b68cd3735186b1d5.png",
       "https://cdn2.steamgriddb.com/hero/ffad99a1f556e0e0595aec7b8060662d.png",
       "https://cdn2.steamgriddb.com/hero/42eec71d2c9d39992c3a4d1da2984826.jpg",
       "https://cdn2.steamgriddb.com/hero/6622392eb0d8dfdacc44c7f7397ce4ab.png",
-      "https://cdn2.steamgriddb.com/hero/15fa1fad1fc582dd65403f6f950b1e21.png",
-      "https://cdn2.steamgriddb.com/hero/7183145a2a3e0ce2b68cd3735186b1d5.png"
+      "https://cdn2.steamgriddb.com/hero/15fa1fad1fc582dd65403f6f950b1e21.png"
     ],
     "releaseYear": 2020,
     "rating": 89,
@@ -5106,7 +5106,7 @@
       "https://cdn2.steamgriddb.com/hero/203ea99c417de21fe653491209fd26d2.jpg",
       "https://cdn2.steamgriddb.com/hero/dd6e198d02d6cc5a4b06a9df0f5f1357.jpg",
       "https://cdn2.steamgriddb.com/hero/c09898488dddade675f309cabeca0c4e.png",
-      "https://cdn2.steamgriddb.com/hero/98b6976ca71dafee1febd178bbcec474.jpg"
+      "https://cdn2.steamgriddb.com/hero/10c0073ac412900598b61e07881b8dc0.png"
     ],
     "releaseYear": 2024,
     "rating": 89,
@@ -6795,6 +6795,28 @@
     ]
   },
   {
+    "id": 343335,
+    "name": "Silver Palace",
+    "posters": [
+      "data/covers/343335.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/ea3a48c74a9efb9a08635fe7990347cc.png"
+    ],
+    "releaseYear": 2026,
+    "rating": 0,
+    "platforms": [
+      "Android",
+      "PC (Microsoft Windows)",
+      "iOS",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Adventure"
+    ]
+  },
+  {
     "id": 325611,
     "name": "Intergalactic: The Heretic Prophet",
     "posters": [
@@ -6815,28 +6837,6 @@
     ],
     "genres": [
       "Hack and slash/Beat 'em up",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 343335,
-    "name": "Silver Palace",
-    "posters": [
-      "data/covers/343335.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/ea3a48c74a9efb9a08635fe7990347cc.png"
-    ],
-    "releaseYear": 2026,
-    "rating": 0,
-    "platforms": [
-      "Android",
-      "PC (Microsoft Windows)",
-      "iOS",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
       "Adventure"
     ]
   },
