@@ -2578,11 +2578,11 @@
     ],
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/0415740eaa4d9decbc8da001d3fd805f.png",
-      "https://cdn2.steamgriddb.com/hero/97275a23ca44226c9964043c8462be96.jpg",
-      "https://cdn2.steamgriddb.com/hero/cf1c92539a270ed7a08f3eaeb5ad722e.png",
       "https://cdn2.steamgriddb.com/hero/af523c5d4c1038a5f074c4320af0ce78.png",
-      "https://cdn2.steamgriddb.com/hero/dfd7468ac613286cdbb40872c8ef3b06.png",
+      "https://cdn2.steamgriddb.com/hero/97275a23ca44226c9964043c8462be96.jpg",
       "https://cdn2.steamgriddb.com/hero/e651fdc0316d0d16c6af304d2023ca3f.jpg",
+      "https://cdn2.steamgriddb.com/hero/cf1c92539a270ed7a08f3eaeb5ad722e.png",
+      "https://cdn2.steamgriddb.com/hero/dfd7468ac613286cdbb40872c8ef3b06.png",
       "https://cdn2.steamgriddb.com/hero/3585d4a47883fd0497ef6fe0b9015aee.png",
       "https://cdn2.steamgriddb.com/hero/09e7bb8e71d5cf0750cf485e9929a50e.png"
     ],
@@ -2626,6 +2626,43 @@
       "Role-playing (RPG)",
       "Hack and slash/Beat 'em up",
       "Adventure"
+    ]
+  },
+  {
+    "id": 40477,
+    "name": "Slay the Spire",
+    "posters": [
+      "data/covers/40477.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/5cfa02f9154d8220d0a911d6ca82ddb5.png",
+      "https://cdn2.steamgriddb.com/hero/c27c5f620909cb0edeeb508e6a83bdf0.png",
+      "https://cdn2.steamgriddb.com/hero/1ab5aada2cb986e11015afe596b6a57a.png",
+      "https://cdn2.steamgriddb.com/hero/91c36e90096e5b5b6d5de85077018406.png",
+      "https://cdn2.steamgriddb.com/hero/086e34bf4e3aebbb142ead2fd4901c0a.png",
+      "https://cdn2.steamgriddb.com/hero/c10e0ec01bfb458ce0ce532fe1f07873.png",
+      "https://cdn2.steamgriddb.com/hero/d632dab0bd82fad268f38b319729e1c3.png",
+      "https://cdn2.steamgriddb.com/hero/94d3f952cdecf25fcd46982fd373990a.png"
+    ],
+    "releaseYear": 2019,
+    "rating": 88,
+    "platforms": [
+      "PlayStation 4",
+      "Linux",
+      "Android",
+      "PC (Microsoft Windows)",
+      "iOS",
+      "Mac",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Strategy",
+      "Turn-based strategy (TBS)",
+      "Adventure",
+      "Indie",
+      "Card & Board Game"
     ]
   },
   {
@@ -2681,43 +2718,6 @@
     "genres": [
       "Hack and slash/Beat 'em up",
       "Adventure"
-    ]
-  },
-  {
-    "id": 40477,
-    "name": "Slay the Spire",
-    "posters": [
-      "data/covers/40477.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/5cfa02f9154d8220d0a911d6ca82ddb5.png",
-      "https://cdn2.steamgriddb.com/hero/c27c5f620909cb0edeeb508e6a83bdf0.png",
-      "https://cdn2.steamgriddb.com/hero/1ab5aada2cb986e11015afe596b6a57a.png",
-      "https://cdn2.steamgriddb.com/hero/91c36e90096e5b5b6d5de85077018406.png",
-      "https://cdn2.steamgriddb.com/hero/086e34bf4e3aebbb142ead2fd4901c0a.png",
-      "https://cdn2.steamgriddb.com/hero/c10e0ec01bfb458ce0ce532fe1f07873.png",
-      "https://cdn2.steamgriddb.com/hero/d632dab0bd82fad268f38b319729e1c3.png",
-      "https://cdn2.steamgriddb.com/hero/94d3f952cdecf25fcd46982fd373990a.png"
-    ],
-    "releaseYear": 2019,
-    "rating": 88,
-    "platforms": [
-      "PlayStation 4",
-      "Linux",
-      "Android",
-      "PC (Microsoft Windows)",
-      "iOS",
-      "Mac",
-      "Xbox One",
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Strategy",
-      "Turn-based strategy (TBS)",
-      "Adventure",
-      "Indie",
-      "Card & Board Game"
     ]
   },
   {
@@ -3473,8 +3473,8 @@
       "https://cdn2.steamgriddb.com/hero/82b8a3434904411a9fdc43ca87cee70c.jpg",
       "https://cdn2.steamgriddb.com/hero/3f98e3391365916c44c062a3f90d3a70.jpg",
       "https://cdn2.steamgriddb.com/hero/157d9f8e3592c76c244fa8f0327a04c0.png",
-      "https://cdn2.steamgriddb.com/hero/93dc3da88ca1fdc08bd44748ce7b1da1.png",
-      "https://cdn2.steamgriddb.com/hero/56440f1f4118e270e5e6cee92ed220c3.png"
+      "https://cdn2.steamgriddb.com/hero/51b51df8a3111f3a0cde084b46acf1b6.png",
+      "https://cdn2.steamgriddb.com/hero/93dc3da88ca1fdc08bd44748ce7b1da1.png"
     ],
     "releaseYear": 2018,
     "rating": 87,
@@ -4342,7 +4342,7 @@
       "https://cdn2.steamgriddb.com/hero/dd871b5eebb33dc85e4426904f90a863.png"
     ],
     "releaseYear": 2026,
-    "rating": 97,
+    "rating": 96,
     "platforms": [
       "Xbox Series X|S",
       "PlayStation 5"
@@ -4528,6 +4528,36 @@
     "genres": [
       "Shooter",
       "Role-playing (RPG)",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 125642,
+    "name": "Path of Exile 2",
+    "posters": [
+      "data/covers/125642.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/0496f9b544243ec5dff64344d1477858.png",
+      "https://cdn2.steamgriddb.com/hero/c2cb5756ab726e065755c4743ef4cb87.png",
+      "https://cdn2.steamgriddb.com/hero/7f4c930feecc8cf0591498c3ccfdba1e.png",
+      "https://cdn2.steamgriddb.com/hero/fc449691a99fc1782780ef6b8683f42b.png",
+      "https://cdn2.steamgriddb.com/hero/72e10af8fb000d855f020d8d5bdec391.png",
+      "https://cdn2.steamgriddb.com/hero/daf3a8509903b9dc5c719d644505bd4e.png",
+      "https://cdn2.steamgriddb.com/hero/23ca2bc6358b97b675c4c10d2cc58761.png",
+      "https://cdn2.steamgriddb.com/hero/aab6ed1b64428873672ae553aac1efe7.png"
+    ],
+    "releaseYear": 2024,
+    "rating": 92,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5",
+      "Mac"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Hack and slash/Beat 'em up",
       "Adventure"
     ]
   },
@@ -5093,6 +5123,34 @@
     ]
   },
   {
+    "id": 141503,
+    "name": "Forza Horizon 5",
+    "posters": [
+      "data/covers/141503.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/894f2c736075c519dbe099240d339277.jpg",
+      "https://cdn2.steamgriddb.com/hero/6092d29b6f8f3047da5ff4543629d5cd.jpg",
+      "https://cdn2.steamgriddb.com/hero/c66e5f7ba8bb65ad35eee35f1b413a87.png",
+      "https://cdn2.steamgriddb.com/hero/edb484b38d130b891ca248fa171b274d.png",
+      "https://cdn2.steamgriddb.com/hero/422c6ac45351468ef3acf63b93faab7d.png",
+      "https://cdn2.steamgriddb.com/hero/0bdeeae875330b10b50054bb6bed6f36.png",
+      "https://cdn2.steamgriddb.com/hero/399fb867d690d0bb82fae38942bc29ae.png",
+      "https://cdn2.steamgriddb.com/hero/68482ad368c7b9779cf50a7164815379.png"
+    ],
+    "releaseYear": 2021,
+    "rating": 89,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5",
+      "Xbox One"
+    ],
+    "genres": [
+      "Racing"
+    ]
+  },
+  {
     "id": 26602,
     "name": "Metaphor: ReFantazio",
     "posters": [
@@ -5121,34 +5179,6 @@
       "Role-playing (RPG)",
       "Turn-based strategy (TBS)",
       "Adventure"
-    ]
-  },
-  {
-    "id": 141503,
-    "name": "Forza Horizon 5",
-    "posters": [
-      "data/covers/141503.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/894f2c736075c519dbe099240d339277.jpg",
-      "https://cdn2.steamgriddb.com/hero/6092d29b6f8f3047da5ff4543629d5cd.jpg",
-      "https://cdn2.steamgriddb.com/hero/c66e5f7ba8bb65ad35eee35f1b413a87.png",
-      "https://cdn2.steamgriddb.com/hero/edb484b38d130b891ca248fa171b274d.png",
-      "https://cdn2.steamgriddb.com/hero/422c6ac45351468ef3acf63b93faab7d.png",
-      "https://cdn2.steamgriddb.com/hero/0bdeeae875330b10b50054bb6bed6f36.png",
-      "https://cdn2.steamgriddb.com/hero/399fb867d690d0bb82fae38942bc29ae.png",
-      "https://cdn2.steamgriddb.com/hero/68482ad368c7b9779cf50a7164815379.png"
-    ],
-    "releaseYear": 2021,
-    "rating": 89,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5",
-      "Xbox One"
-    ],
-    "genres": [
-      "Racing"
     ]
   },
   {
@@ -5243,25 +5273,6 @@
     ]
   },
   {
-    "id": 117297,
-    "name": "Aion 2",
-    "posters": [
-      "data/covers/117297.jpg"
-    ],
-    "heroes": [],
-    "releaseYear": 2025,
-    "rating": 89,
-    "platforms": [
-      "Android",
-      "PC (Microsoft Windows)",
-      "iOS"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Adventure"
-    ]
-  },
-  {
     "id": 153700,
     "name": "Ghost of Tsushima: Director's Cut",
     "posters": [
@@ -5283,6 +5294,25 @@
       "PlayStation 4",
       "PC (Microsoft Windows)",
       "PlayStation 5"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 117297,
+    "name": "Aion 2",
+    "posters": [
+      "data/covers/117297.jpg"
+    ],
+    "heroes": [],
+    "releaseYear": 2025,
+    "rating": 89,
+    "platforms": [
+      "Android",
+      "PC (Microsoft Windows)",
+      "iOS"
     ],
     "genres": [
       "Role-playing (RPG)",
@@ -5415,14 +5445,14 @@
       "data/covers/251833.jpg"
     ],
     "heroes": [
-      "https://cdn2.steamgriddb.com/hero/9665b286a4a05bb2824586886b982bd6.jpg",
-      "https://cdn2.steamgriddb.com/hero/e1905b9f09c4eab1ba6fffef3651c0bb.png",
       "https://cdn2.steamgriddb.com/hero/8ad3fac6c6b3528499d347d924443abb.png",
-      "https://cdn2.steamgriddb.com/hero/357621b91880a03a684b1cd67e22b59b.jpg",
-      "https://cdn2.steamgriddb.com/hero/4437166da63e60a4cd184816b11caf05.png",
+      "https://cdn2.steamgriddb.com/hero/9665b286a4a05bb2824586886b982bd6.jpg",
       "https://cdn2.steamgriddb.com/hero/e25c8f3b6421b1795ba83b623d1d82c0.jpg",
+      "https://cdn2.steamgriddb.com/hero/a0f66defee2e31fafd70f1fda9ad3d11.png",
+      "https://cdn2.steamgriddb.com/hero/7116a4432484824d61dac98bed065069.png",
+      "https://cdn2.steamgriddb.com/hero/e1905b9f09c4eab1ba6fffef3651c0bb.png",
       "https://cdn2.steamgriddb.com/hero/1bd89c2aa2b19b9a1f4c0f5a0aaaab41.jpg",
-      "https://cdn2.steamgriddb.com/hero/1009e23157087d494be8567cc8ba7f8f.jpg"
+      "https://cdn2.steamgriddb.com/hero/327970f6a1a727c1c34c703d00b6c695.png"
     ],
     "releaseYear": 2024,
     "rating": 89,
@@ -5729,36 +5759,6 @@
     "genres": [
       "Shooter",
       "Platform",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 125642,
-    "name": "Path of Exile 2",
-    "posters": [
-      "data/covers/125642.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/0496f9b544243ec5dff64344d1477858.png",
-      "https://cdn2.steamgriddb.com/hero/c2cb5756ab726e065755c4743ef4cb87.png",
-      "https://cdn2.steamgriddb.com/hero/7f4c930feecc8cf0591498c3ccfdba1e.png",
-      "https://cdn2.steamgriddb.com/hero/fc449691a99fc1782780ef6b8683f42b.png",
-      "https://cdn2.steamgriddb.com/hero/72e10af8fb000d855f020d8d5bdec391.png",
-      "https://cdn2.steamgriddb.com/hero/daf3a8509903b9dc5c719d644505bd4e.png",
-      "https://cdn2.steamgriddb.com/hero/23ca2bc6358b97b675c4c10d2cc58761.png",
-      "https://cdn2.steamgriddb.com/hero/aab6ed1b64428873672ae553aac1efe7.png"
-    ],
-    "releaseYear": 2024,
-    "rating": 88,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5",
-      "Mac"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Hack and slash/Beat 'em up",
       "Adventure"
     ]
   },
