@@ -387,11 +387,11 @@
       "https://cdn2.steamgriddb.com/hero/5e9fb672ee46be628a141b594d7c6f3e.png",
       "https://cdn2.steamgriddb.com/hero/26c0cd7b7237b14349971d5de273b014.png",
       "https://cdn2.steamgriddb.com/hero/1079c40a81a6fd09ffd6fc8ce10209d1.png",
+      "https://cdn2.steamgriddb.com/hero/3f8f3ad04447411b79a965e291e63937.png",
       "https://cdn2.steamgriddb.com/hero/e57f559127236039b05810514072a782.png",
       "https://cdn2.steamgriddb.com/hero/158885de844ae92913127bddcebfe2e1.png",
       "https://cdn2.steamgriddb.com/hero/8f1839c8cabff58837844b26f05c7a94.png",
-      "https://cdn2.steamgriddb.com/hero/c6e2e29049c68d2d97145861756c0f94.png",
-      "https://cdn2.steamgriddb.com/hero/6504b92a7cdf1f4f4e1737b9eec965ce.png"
+      "https://cdn2.steamgriddb.com/hero/c6e2e29049c68d2d97145861756c0f94.png"
     ],
     "releaseYear": 2007,
     "rating": 94,
@@ -584,9 +584,9 @@
       "https://cdn2.steamgriddb.com/hero/e295402f4bc2d05c3daba18c489b2dbb.png",
       "https://cdn2.steamgriddb.com/hero/32e3b21bc66430172c1dfab60d110b35.png",
       "https://cdn2.steamgriddb.com/hero/30fd8d8284df1b99f53ca5d50ceb6fd9.png",
+      "https://cdn2.steamgriddb.com/hero/1a47bfa2b4c2c07ebdbf98fea0e07c8a.png",
       "https://cdn2.steamgriddb.com/hero/5b526c7339b55f1b30bf08d647cb19ef.png",
-      "https://cdn2.steamgriddb.com/hero/53a83d6131f9fdc81d90beb31702932e.png",
-      "https://cdn2.steamgriddb.com/hero/0e7063ba15aca69e0c15be29a4933852.png"
+      "https://cdn2.steamgriddb.com/hero/53a83d6131f9fdc81d90beb31702932e.png"
     ],
     "releaseYear": 2017,
     "rating": 93,
@@ -2958,6 +2958,35 @@
     ]
   },
   {
+    "id": 1030,
+    "name": "The Legend of Zelda: Majora's Mask",
+    "posters": [
+      "data/covers/1030.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/25fa2d39a0143f1f30c36eece145a526.png",
+      "https://cdn2.steamgriddb.com/hero/08d98638c6fcd194a4b1e6992063e944.png",
+      "https://cdn2.steamgriddb.com/hero/a0bfd9e2a5529c21836fd99454a390bb.png",
+      "https://cdn2.steamgriddb.com/hero/b37702dda7c58db954b3a56c71412c51.png",
+      "https://cdn2.steamgriddb.com/hero/3925d313c95e874b3e75a4b6d2067d2a.png",
+      "https://cdn2.steamgriddb.com/hero/68a83eeb494a308fe5295da69428a507.png",
+      "https://cdn2.steamgriddb.com/hero/06e15c26cee86195f9392fe34b91f2c6.png",
+      "https://cdn2.steamgriddb.com/hero/481f0dd7ae83e18513be0b4e400a9535.png"
+    ],
+    "releaseYear": 2000,
+    "rating": 88,
+    "platforms": [
+      "Wii",
+      "Nintendo 64",
+      "64DD",
+      "Wii U"
+    ],
+    "genres": [
+      "Puzzle",
+      "Adventure"
+    ]
+  },
+  {
     "id": 239,
     "name": "StarCraft II: Wings of Liberty",
     "posters": [
@@ -3034,35 +3063,6 @@
     "genres": [
       "Shooter",
       "Role-playing (RPG)",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 1030,
-    "name": "The Legend of Zelda: Majora's Mask",
-    "posters": [
-      "data/covers/1030.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/25fa2d39a0143f1f30c36eece145a526.png",
-      "https://cdn2.steamgriddb.com/hero/08d98638c6fcd194a4b1e6992063e944.png",
-      "https://cdn2.steamgriddb.com/hero/a0bfd9e2a5529c21836fd99454a390bb.png",
-      "https://cdn2.steamgriddb.com/hero/b37702dda7c58db954b3a56c71412c51.png",
-      "https://cdn2.steamgriddb.com/hero/3925d313c95e874b3e75a4b6d2067d2a.png",
-      "https://cdn2.steamgriddb.com/hero/68a83eeb494a308fe5295da69428a507.png",
-      "https://cdn2.steamgriddb.com/hero/06e15c26cee86195f9392fe34b91f2c6.png",
-      "https://cdn2.steamgriddb.com/hero/481f0dd7ae83e18513be0b4e400a9535.png"
-    ],
-    "releaseYear": 2000,
-    "rating": 88,
-    "platforms": [
-      "Wii",
-      "Nintendo 64",
-      "64DD",
-      "Wii U"
-    ],
-    "genres": [
-      "Puzzle",
       "Adventure"
     ]
   },
@@ -6191,36 +6191,6 @@
     ]
   },
   {
-    "id": 225582,
-    "name": "Control Resonant",
-    "posters": [
-      "data/covers/225582.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/240e23eebf039a0dc1ec15529a3c2ecc.png",
-      "https://cdn2.steamgriddb.com/hero/667d22dfde43bafb3f8fada578c96c25.png",
-      "https://cdn2.steamgriddb.com/hero/bd40e4bd7c3fd394cfe926660335b391.png",
-      "https://cdn2.steamgriddb.com/hero/96681ebcc11afbcc7613b688e37af4b8.png",
-      "https://cdn2.steamgriddb.com/hero/c9e171b812992625c75344234c09e92a.png",
-      "https://cdn2.steamgriddb.com/hero/7a934761e561e88a0ddb7c2611d55ba6.png",
-      "https://cdn2.steamgriddb.com/hero/abb7e54b51ba50dc6954a512d1a132fa.jpg",
-      "https://cdn2.steamgriddb.com/hero/6a480dde4a529565d473063cc43cb551.png"
-    ],
-    "releaseYear": 2026,
-    "rating": 87,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5",
-      "Mac"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Hack and slash/Beat 'em up",
-      "Adventure"
-    ]
-  },
-  {
     "id": 194821,
     "name": "Nine Sols",
     "posters": [
@@ -6373,6 +6343,36 @@
       "Point-and-click",
       "Simulator",
       "Indie"
+    ]
+  },
+  {
+    "id": 225582,
+    "name": "Control Resonant",
+    "posters": [
+      "data/covers/225582.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/240e23eebf039a0dc1ec15529a3c2ecc.png",
+      "https://cdn2.steamgriddb.com/hero/667d22dfde43bafb3f8fada578c96c25.png",
+      "https://cdn2.steamgriddb.com/hero/bd40e4bd7c3fd394cfe926660335b391.png",
+      "https://cdn2.steamgriddb.com/hero/96681ebcc11afbcc7613b688e37af4b8.png",
+      "https://cdn2.steamgriddb.com/hero/c9e171b812992625c75344234c09e92a.png",
+      "https://cdn2.steamgriddb.com/hero/7a934761e561e88a0ddb7c2611d55ba6.png",
+      "https://cdn2.steamgriddb.com/hero/abb7e54b51ba50dc6954a512d1a132fa.jpg",
+      "https://cdn2.steamgriddb.com/hero/6a480dde4a529565d473063cc43cb551.png"
+    ],
+    "releaseYear": 2026,
+    "rating": 87,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5",
+      "Mac"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Hack and slash/Beat 'em up",
+      "Adventure"
     ]
   },
   {
@@ -6693,25 +6693,6 @@
     ]
   },
   {
-    "id": 279621,
-    "name": "Exodus",
-    "posters": [
-      "data/covers/279621.jpg"
-    ],
-    "heroes": [],
-    "releaseYear": 2027,
-    "rating": 0,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Adventure"
-    ]
-  },
-  {
     "id": 381235,
     "name": "Tomb Raider: Legacy of Atlantis",
     "posters": [
@@ -6738,6 +6719,25 @@
     "genres": [
       "Platform",
       "Puzzle",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 279621,
+    "name": "Exodus",
+    "posters": [
+      "data/covers/279621.jpg"
+    ],
+    "heroes": [],
+    "releaseYear": 2027,
+    "rating": 0,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
       "Adventure"
     ]
   },
