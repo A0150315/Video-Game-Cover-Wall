@@ -1118,9 +1118,9 @@
       "https://cdn2.steamgriddb.com/hero/56bbc93a8425b95e4ab7c789751475bf.png",
       "https://cdn2.steamgriddb.com/hero/1a23efcb39da8db7ca95ea8085d096a1.png",
       "https://cdn2.steamgriddb.com/hero/67eb5e92661b494826add1d403863257.png",
+      "https://cdn2.steamgriddb.com/hero/800ca5c1483432d248c8104d60a0db71.png",
       "https://cdn2.steamgriddb.com/hero/45402d4ff8981a182dcfc4813600961f.png",
       "https://cdn2.steamgriddb.com/hero/d9ac1fc532da6646901e9b30ba8964dd.png",
-      "https://cdn2.steamgriddb.com/hero/800ca5c1483432d248c8104d60a0db71.png",
       "https://cdn2.steamgriddb.com/hero/3b20413fc76c5f432ede85b03e8af0a1.png",
       "https://cdn2.steamgriddb.com/hero/cf9dfba593148297d8d8b0abd1c42612.png"
     ],
@@ -2240,6 +2240,7 @@
     "rating": 89,
     "platforms": [
       "PlayStation 4",
+      "Android",
       "PC (Microsoft Windows)",
       "iOS",
       "Mac",
@@ -2612,8 +2613,8 @@
       "https://cdn2.steamgriddb.com/hero/44228097f45b64cf24f6a533803743e1.png",
       "https://cdn2.steamgriddb.com/hero/f26e9d8b1065c3dc872995dda5a9ea6c.png",
       "https://cdn2.steamgriddb.com/hero/4fd2055007a6c4e3ddcf335738d972b6.png",
-      "https://cdn2.steamgriddb.com/hero/2ebcdae9bbf2c2dbc0228d7bccc805a4.jpg",
-      "https://cdn2.steamgriddb.com/hero/169557952c3a937230c3c8880146f494.jpg"
+      "https://cdn2.steamgriddb.com/hero/169557952c3a937230c3c8880146f494.jpg",
+      "https://cdn2.steamgriddb.com/hero/2ebcdae9bbf2c2dbc0228d7bccc805a4.jpg"
     ],
     "releaseYear": 2018,
     "rating": 88,
@@ -6841,23 +6842,6 @@
     ]
   },
   {
-    "id": 25905,
-    "name": "Winds of Revenge",
-    "posters": [
-      "data/covers/25905.jpg"
-    ],
-    "heroes": [],
-    "releaseYear": 2016,
-    "rating": 0,
-    "platforms": [
-      "PC (Microsoft Windows)"
-    ],
-    "genres": [
-      "Puzzle",
-      "Arcade"
-    ]
-  },
-  {
     "id": 381234,
     "name": "Tomb Raider: Catalyst",
     "posters": [
@@ -6882,6 +6866,23 @@
     ]
   },
   {
+    "id": 25905,
+    "name": "Winds of Revenge",
+    "posters": [
+      "data/covers/25905.jpg"
+    ],
+    "heroes": [],
+    "releaseYear": 2016,
+    "rating": 0,
+    "platforms": [
+      "PC (Microsoft Windows)"
+    ],
+    "genres": [
+      "Puzzle",
+      "Arcade"
+    ]
+  },
+  {
     "id": 325599,
     "name": "Stranger Than Heaven",
     "posters": [
@@ -6890,6 +6891,8 @@
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/aa63cb5db66c1e8ef5028857ff1de37a.png",
       "https://cdn2.steamgriddb.com/hero/07d87a49fed03cc7d85a6f919f781c24.jpg",
+      "https://cdn2.steamgriddb.com/hero/f06d05041bc0e147609eabdb70a68e37.png",
+      "https://cdn2.steamgriddb.com/hero/31c9d89fb29581af24f3ae4934efba58.jpg",
       "https://cdn2.steamgriddb.com/hero/f1cab1954b1fc4ff1914fc819d30f3c1.jpg",
       "https://cdn2.steamgriddb.com/hero/cd09fe0d3b309221c157a07513d8eceb.jpg",
       "https://cdn2.steamgriddb.com/hero/e971c298d7fba28722b4c69b3fad1129.jpg"
