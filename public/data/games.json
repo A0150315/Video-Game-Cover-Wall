@@ -302,10 +302,10 @@
       "https://cdn2.steamgriddb.com/hero/a13338b336ac58abe821c72b19b08159.jpg",
       "https://cdn2.steamgriddb.com/hero/6bfc65ce262b2fbca99b82605d18a52a.png",
       "https://cdn2.steamgriddb.com/hero/28f36aa85fbadc0663c2df15a5af35db.jpg",
-      "https://cdn2.steamgriddb.com/hero/919b869daf543abcb52b85bc439d8fa3.png",
       "https://cdn2.steamgriddb.com/hero/6cec40d9f14ccf05af9d76ff696e184d.jpg",
       "https://cdn2.steamgriddb.com/hero/a248316fb518936eeae7161fd0a823f5.jpg",
-      "https://cdn2.steamgriddb.com/hero/59c6a53eb887ec8d82d84ecfc153a803.png"
+      "https://cdn2.steamgriddb.com/hero/59c6a53eb887ec8d82d84ecfc153a803.png",
+      "https://cdn2.steamgriddb.com/hero/4833619731d4a86772c81c174f427df8.jpg"
     ],
     "releaseYear": 2019,
     "rating": 94,
@@ -1468,7 +1468,7 @@
       "https://cdn2.steamgriddb.com/hero/54d77f5dc6f98d0d68a23cf792c49e57.jpg",
       "https://cdn2.steamgriddb.com/hero/1a07bcc79f21590b3ed2622d5807bdd0.jpg",
       "https://cdn2.steamgriddb.com/hero/10678b97635e173b084e8f3c681527cb.jpg",
-      "https://cdn2.steamgriddb.com/hero/6ebb69ffbebe9fd95d160ffc29e0fe5d.jpg"
+      "https://cdn2.steamgriddb.com/hero/3757bba1dcf9023ee926786164b5e15a.png"
     ],
     "releaseYear": 2002,
     "rating": 91,
@@ -1792,8 +1792,8 @@
       "https://cdn2.steamgriddb.com/hero/1f12491d99a85c8ea8cd2109b292f47e.png",
       "https://cdn2.steamgriddb.com/hero/00b76fddeaaa7d8c2c43d504b2babd8a.png",
       "https://cdn2.steamgriddb.com/hero/f7ac67a9aa8d255282de7d11391e1b69.png",
-      "https://cdn2.steamgriddb.com/hero/82df15728970ad490703dc812123423b.png",
       "https://cdn2.steamgriddb.com/hero/d2cdf047a6674cef251d56544a3cf029.png",
+      "https://cdn2.steamgriddb.com/hero/82df15728970ad490703dc812123423b.png",
       "https://cdn2.steamgriddb.com/hero/e5b07d83f6cdd1971f8e5dfffdd49e89.png",
       "https://cdn2.steamgriddb.com/hero/4206ab9565b9eabee1af9d9bf573693a.jpg",
       "https://cdn2.steamgriddb.com/hero/fa0b77ceb5f375388fba9a76d7d6d953.png"
@@ -1813,37 +1813,6 @@
       "Shooter",
       "Racing",
       "Simulator",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 20,
-    "name": "BioShock",
-    "posters": [
-      "data/covers/20.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/95814964b0c42ce64d51e38d917d7fd3.png",
-      "https://cdn2.steamgriddb.com/hero/1145a30ff80745b56fb0cecf65305017.png",
-      "https://cdn2.steamgriddb.com/hero/a540033cae33272f44875ca0a0921ed4.png",
-      "https://cdn2.steamgriddb.com/hero/f64b80080d773c653f03c03d50e2282c.jpg",
-      "https://cdn2.steamgriddb.com/hero/696e8c935c8ce98badc28242fad73dfb.png",
-      "https://cdn2.steamgriddb.com/hero/5059216b9ce4e76eed1e909d6c7fbc52.png",
-      "https://cdn2.steamgriddb.com/hero/e67eecf0ca844bd510ca62420eb53769.png",
-      "https://cdn2.steamgriddb.com/hero/a57b3c26174f2ec2c5e8c83044073c1c.png"
-    ],
-    "releaseYear": 2007,
-    "rating": 90,
-    "platforms": [
-      "PlayStation 3",
-      "PC (Microsoft Windows)",
-      "Mac",
-      "Xbox 360"
-    ],
-    "genres": [
-      "Shooter",
-      "Puzzle",
-      "Role-playing (RPG)",
       "Adventure"
     ]
   },
@@ -1875,6 +1844,37 @@
       "Platform",
       "Adventure",
       "Indie"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "BioShock",
+    "posters": [
+      "data/covers/20.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/95814964b0c42ce64d51e38d917d7fd3.png",
+      "https://cdn2.steamgriddb.com/hero/1145a30ff80745b56fb0cecf65305017.png",
+      "https://cdn2.steamgriddb.com/hero/a540033cae33272f44875ca0a0921ed4.png",
+      "https://cdn2.steamgriddb.com/hero/f64b80080d773c653f03c03d50e2282c.jpg",
+      "https://cdn2.steamgriddb.com/hero/696e8c935c8ce98badc28242fad73dfb.png",
+      "https://cdn2.steamgriddb.com/hero/5059216b9ce4e76eed1e909d6c7fbc52.png",
+      "https://cdn2.steamgriddb.com/hero/e67eecf0ca844bd510ca62420eb53769.png",
+      "https://cdn2.steamgriddb.com/hero/a57b3c26174f2ec2c5e8c83044073c1c.png"
+    ],
+    "releaseYear": 2007,
+    "rating": 90,
+    "platforms": [
+      "PlayStation 3",
+      "PC (Microsoft Windows)",
+      "Mac",
+      "Xbox 360"
+    ],
+    "genres": [
+      "Shooter",
+      "Puzzle",
+      "Role-playing (RPG)",
+      "Adventure"
     ]
   },
   {
@@ -2601,35 +2601,6 @@
     ]
   },
   {
-    "id": 36926,
-    "name": "Monster Hunter: World",
-    "posters": [
-      "data/covers/36926.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/daa28096f9e8879ab3a02b90aa0e2f83.png",
-      "https://cdn2.steamgriddb.com/hero/9da3bbc7c90afeae7fe153b1ff238c35.png",
-      "https://cdn2.steamgriddb.com/hero/de2126a9b990548c1c93f5de4f8bc640.png",
-      "https://cdn2.steamgriddb.com/hero/44228097f45b64cf24f6a533803743e1.png",
-      "https://cdn2.steamgriddb.com/hero/f26e9d8b1065c3dc872995dda5a9ea6c.png",
-      "https://cdn2.steamgriddb.com/hero/4fd2055007a6c4e3ddcf335738d972b6.png",
-      "https://cdn2.steamgriddb.com/hero/169557952c3a937230c3c8880146f494.jpg",
-      "https://cdn2.steamgriddb.com/hero/2ebcdae9bbf2c2dbc0228d7bccc805a4.jpg"
-    ],
-    "releaseYear": 2018,
-    "rating": 88,
-    "platforms": [
-      "PlayStation 4",
-      "PC (Microsoft Windows)",
-      "Xbox One"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Hack and slash/Beat 'em up",
-      "Adventure"
-    ]
-  },
-  {
     "id": 40477,
     "name": "Slay the Spire",
     "posters": [
@@ -2664,6 +2635,35 @@
       "Adventure",
       "Indie",
       "Card & Board Game"
+    ]
+  },
+  {
+    "id": 36926,
+    "name": "Monster Hunter: World",
+    "posters": [
+      "data/covers/36926.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/daa28096f9e8879ab3a02b90aa0e2f83.png",
+      "https://cdn2.steamgriddb.com/hero/9da3bbc7c90afeae7fe153b1ff238c35.png",
+      "https://cdn2.steamgriddb.com/hero/de2126a9b990548c1c93f5de4f8bc640.png",
+      "https://cdn2.steamgriddb.com/hero/44228097f45b64cf24f6a533803743e1.png",
+      "https://cdn2.steamgriddb.com/hero/f26e9d8b1065c3dc872995dda5a9ea6c.png",
+      "https://cdn2.steamgriddb.com/hero/4fd2055007a6c4e3ddcf335738d972b6.png",
+      "https://cdn2.steamgriddb.com/hero/169557952c3a937230c3c8880146f494.jpg",
+      "https://cdn2.steamgriddb.com/hero/2ebcdae9bbf2c2dbc0228d7bccc805a4.jpg"
+    ],
+    "releaseYear": 2018,
+    "rating": 88,
+    "platforms": [
+      "PlayStation 4",
+      "PC (Microsoft Windows)",
+      "Xbox One"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Hack and slash/Beat 'em up",
+      "Adventure"
     ]
   },
   {
@@ -3953,34 +3953,6 @@
     ]
   },
   {
-    "id": 17447,
-    "name": "Titanfall 2",
-    "posters": [
-      "data/covers/17447.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/1baff70e2669e8376347efd3a874a341.png",
-      "https://cdn2.steamgriddb.com/hero/204fdcae117b31aa8d74aad10e7e37ce.png",
-      "https://cdn2.steamgriddb.com/hero/90fd26a243f6d14c4b3df082cdc8da66.png",
-      "https://cdn2.steamgriddb.com/hero/1b38cc09ed3fb15e797212489bdb9e48.png",
-      "https://cdn2.steamgriddb.com/hero/97cc775a12dd85b38c4c63bf11e43fef.png",
-      "https://cdn2.steamgriddb.com/hero/89f927c72c9114c5c36b7fdb2d1198a8.jpg",
-      "https://cdn2.steamgriddb.com/hero/3de74f78d82c374f9edd8dc7f3b126ed.png",
-      "https://cdn2.steamgriddb.com/hero/f0e6055aa7c6f509c6385327eb615820.jpg"
-    ],
-    "releaseYear": 2016,
-    "rating": 86,
-    "platforms": [
-      "PlayStation 4",
-      "PC (Microsoft Windows)",
-      "Xbox One"
-    ],
-    "genres": [
-      "Shooter",
-      "Adventure"
-    ]
-  },
-  {
     "id": 623,
     "name": "Call of Duty 4: Modern Warfare",
     "posters": [
@@ -4007,6 +3979,34 @@
     "genres": [
       "Shooter",
       "Simulator"
+    ]
+  },
+  {
+    "id": 17447,
+    "name": "Titanfall 2",
+    "posters": [
+      "data/covers/17447.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/1baff70e2669e8376347efd3a874a341.png",
+      "https://cdn2.steamgriddb.com/hero/204fdcae117b31aa8d74aad10e7e37ce.png",
+      "https://cdn2.steamgriddb.com/hero/90fd26a243f6d14c4b3df082cdc8da66.png",
+      "https://cdn2.steamgriddb.com/hero/1b38cc09ed3fb15e797212489bdb9e48.png",
+      "https://cdn2.steamgriddb.com/hero/97cc775a12dd85b38c4c63bf11e43fef.png",
+      "https://cdn2.steamgriddb.com/hero/89f927c72c9114c5c36b7fdb2d1198a8.jpg",
+      "https://cdn2.steamgriddb.com/hero/3de74f78d82c374f9edd8dc7f3b126ed.png",
+      "https://cdn2.steamgriddb.com/hero/f0e6055aa7c6f509c6385327eb615820.jpg"
+    ],
+    "releaseYear": 2016,
+    "rating": 86,
+    "platforms": [
+      "PlayStation 4",
+      "PC (Microsoft Windows)",
+      "Xbox One"
+    ],
+    "genres": [
+      "Shooter",
+      "Adventure"
     ]
   },
   {
@@ -4343,7 +4343,7 @@
       "https://cdn2.steamgriddb.com/hero/b6d47af3f16e74c77a68d734daeba91d.png"
     ],
     "releaseYear": 2026,
-    "rating": 95,
+    "rating": 96,
     "platforms": [
       "Xbox Series X|S",
       "PlayStation 5"
@@ -4684,8 +4684,8 @@
       "https://cdn2.steamgriddb.com/hero/3a9edbf6448b7c62148262926a1ea93c.jpg",
       "https://cdn2.steamgriddb.com/hero/9394b999c2330f04b64b53ed3ebb8d45.png",
       "https://cdn2.steamgriddb.com/hero/e131fa896265671584c9b01cb0ed51cd.jpg",
-      "https://cdn2.steamgriddb.com/hero/cc431092ede6714a0abf158731fb43e3.jpg",
-      "https://cdn2.steamgriddb.com/hero/9293de6d2bac7320d458421cb691244d.png"
+      "https://cdn2.steamgriddb.com/hero/9293de6d2bac7320d458421cb691244d.png",
+      "https://cdn2.steamgriddb.com/hero/cc431092ede6714a0abf158731fb43e3.jpg"
     ],
     "releaseYear": 2025,
     "rating": 91,
@@ -4828,34 +4828,6 @@
     ]
   },
   {
-    "id": 185246,
-    "name": "Alan Wake II",
-    "posters": [
-      "data/covers/185246.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/09ea8690a859084c80f1fbbbf38766e8.jpg",
-      "https://cdn2.steamgriddb.com/hero/e13147c18aa5e4aa4cf75185d01cf826.png",
-      "https://cdn2.steamgriddb.com/hero/d60f2d5d05b4c46d470d5cbd5d1fb252.jpg",
-      "https://cdn2.steamgriddb.com/hero/991e430c00831fcaec1087462d3223fa.png",
-      "https://cdn2.steamgriddb.com/hero/2b61040f0e5261b463059d8827acf1fa.png",
-      "https://cdn2.steamgriddb.com/hero/dd1ea9382335816da0932d10b0503922.jpg",
-      "https://cdn2.steamgriddb.com/hero/d53a683ae5daa34edb84c7607c92d6a1.jpg",
-      "https://cdn2.steamgriddb.com/hero/2a19cad46feca9eab2214e58bbf3c02e.png"
-    ],
-    "releaseYear": 2023,
-    "rating": 90,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Shooter",
-      "Adventure"
-    ]
-  },
-  {
     "id": 170777,
     "name": "Deltarune: Chapter 2",
     "posters": [
@@ -4915,6 +4887,34 @@
     "genres": [
       "Platform",
       "Puzzle",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 185246,
+    "name": "Alan Wake II",
+    "posters": [
+      "data/covers/185246.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/09ea8690a859084c80f1fbbbf38766e8.jpg",
+      "https://cdn2.steamgriddb.com/hero/e13147c18aa5e4aa4cf75185d01cf826.png",
+      "https://cdn2.steamgriddb.com/hero/d60f2d5d05b4c46d470d5cbd5d1fb252.jpg",
+      "https://cdn2.steamgriddb.com/hero/991e430c00831fcaec1087462d3223fa.png",
+      "https://cdn2.steamgriddb.com/hero/2b61040f0e5261b463059d8827acf1fa.png",
+      "https://cdn2.steamgriddb.com/hero/dd1ea9382335816da0932d10b0503922.jpg",
+      "https://cdn2.steamgriddb.com/hero/d53a683ae5daa34edb84c7607c92d6a1.jpg",
+      "https://cdn2.steamgriddb.com/hero/2a19cad46feca9eab2214e58bbf3c02e.png"
+    ],
+    "releaseYear": 2023,
+    "rating": 90,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Shooter",
       "Adventure"
     ]
   },
@@ -4989,8 +4989,8 @@
       "https://cdn2.steamgriddb.com/hero/adfe876ae8618aa5df77dd6946ba37c6.jpg",
       "https://cdn2.steamgriddb.com/hero/a6efdcdac561cf7cac3eb26913604236.jpg",
       "https://cdn2.steamgriddb.com/hero/024837d0351c168899a8474e4a899114.jpg",
-      "https://cdn2.steamgriddb.com/hero/8996e4e60480419b951f0421f2f51f59.png",
-      "https://cdn2.steamgriddb.com/hero/cf5810dc724a17fc6040a2b1b903bbe6.jpg"
+      "https://cdn2.steamgriddb.com/hero/cf5810dc724a17fc6040a2b1b903bbe6.jpg",
+      "https://cdn2.steamgriddb.com/hero/3248de86531b86b0c34ca89a7c461b7f.jpg"
     ],
     "releaseYear": 2024,
     "rating": 90,
@@ -5440,43 +5440,6 @@
     ]
   },
   {
-    "id": 251833,
-    "name": "Balatro",
-    "posters": [
-      "data/covers/251833.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/8ad3fac6c6b3528499d347d924443abb.png",
-      "https://cdn2.steamgriddb.com/hero/9665b286a4a05bb2824586886b982bd6.jpg",
-      "https://cdn2.steamgriddb.com/hero/e25c8f3b6421b1795ba83b623d1d82c0.jpg",
-      "https://cdn2.steamgriddb.com/hero/a0f66defee2e31fafd70f1fda9ad3d11.png",
-      "https://cdn2.steamgriddb.com/hero/7116a4432484824d61dac98bed065069.png",
-      "https://cdn2.steamgriddb.com/hero/e1905b9f09c4eab1ba6fffef3651c0bb.png",
-      "https://cdn2.steamgriddb.com/hero/1bd89c2aa2b19b9a1f4c0f5a0aaaab41.jpg",
-      "https://cdn2.steamgriddb.com/hero/327970f6a1a727c1c34c703d00b6c695.png"
-    ],
-    "releaseYear": 2024,
-    "rating": 89,
-    "platforms": [
-      "Xbox Series X|S",
-      "PlayStation 4",
-      "Nintendo Switch 2",
-      "Android",
-      "PC (Microsoft Windows)",
-      "iOS",
-      "PlayStation 5",
-      "Mac",
-      "Xbox One",
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Strategy",
-      "Turn-based strategy (TBS)",
-      "Indie",
-      "Card & Board Game"
-    ]
-  },
-  {
     "id": 112874,
     "name": "Horizon Forbidden West",
     "posters": [
@@ -5562,6 +5525,43 @@
     "genres": [
       "Puzzle",
       "Adventure"
+    ]
+  },
+  {
+    "id": 251833,
+    "name": "Balatro",
+    "posters": [
+      "data/covers/251833.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/8ad3fac6c6b3528499d347d924443abb.png",
+      "https://cdn2.steamgriddb.com/hero/9665b286a4a05bb2824586886b982bd6.jpg",
+      "https://cdn2.steamgriddb.com/hero/e25c8f3b6421b1795ba83b623d1d82c0.jpg",
+      "https://cdn2.steamgriddb.com/hero/a0f66defee2e31fafd70f1fda9ad3d11.png",
+      "https://cdn2.steamgriddb.com/hero/7116a4432484824d61dac98bed065069.png",
+      "https://cdn2.steamgriddb.com/hero/e1905b9f09c4eab1ba6fffef3651c0bb.png",
+      "https://cdn2.steamgriddb.com/hero/1bd89c2aa2b19b9a1f4c0f5a0aaaab41.jpg",
+      "https://cdn2.steamgriddb.com/hero/327970f6a1a727c1c34c703d00b6c695.png"
+    ],
+    "releaseYear": 2024,
+    "rating": 89,
+    "platforms": [
+      "Xbox Series X|S",
+      "PlayStation 4",
+      "Nintendo Switch 2",
+      "Android",
+      "PC (Microsoft Windows)",
+      "iOS",
+      "PlayStation 5",
+      "Mac",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Strategy",
+      "Turn-based strategy (TBS)",
+      "Indie",
+      "Card & Board Game"
     ]
   },
   {
@@ -6768,6 +6768,28 @@
     ]
   },
   {
+    "id": 343335,
+    "name": "Silver Palace",
+    "posters": [
+      "data/covers/343335.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/ea3a48c74a9efb9a08635fe7990347cc.png"
+    ],
+    "releaseYear": 2026,
+    "rating": 0,
+    "platforms": [
+      "Android",
+      "PC (Microsoft Windows)",
+      "iOS",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Adventure"
+    ]
+  },
+  {
     "id": 142520,
     "name": "Ill",
     "posters": [
@@ -6792,28 +6814,6 @@
     ],
     "genres": [
       "Shooter",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 343335,
-    "name": "Silver Palace",
-    "posters": [
-      "data/covers/343335.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/ea3a48c74a9efb9a08635fe7990347cc.png"
-    ],
-    "releaseYear": 2026,
-    "rating": 0,
-    "platforms": [
-      "Android",
-      "PC (Microsoft Windows)",
-      "iOS",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
       "Adventure"
     ]
   },
@@ -6940,31 +6940,6 @@
     ]
   },
   {
-    "id": 331212,
-    "name": "Tides of Annihilation",
-    "posters": [
-      "data/covers/331212.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/8a2d814c49d0f4a6a7b8cc84769944d3.png",
-      "https://cdn2.steamgriddb.com/hero/c3242232f2f02854bfa78c9a65786b76.png",
-      "https://cdn2.steamgriddb.com/hero/9dc4995116b45bc9d97bafbe2a533a14.png",
-      "https://cdn2.steamgriddb.com/hero/6aecc5688439e968309784eb983bad6e.png"
-    ],
-    "releaseYear": 0,
-    "rating": 0,
-    "platforms": [
-      "Xbox Series X|S",
-      "PC (Microsoft Windows)",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Hack and slash/Beat 'em up",
-      "Adventure"
-    ]
-  },
-  {
     "id": 404673,
     "name": "Resident Evil Veronica",
     "posters": [
@@ -6991,6 +6966,31 @@
     "genres": [
       "Shooter",
       "Puzzle",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 331212,
+    "name": "Tides of Annihilation",
+    "posters": [
+      "data/covers/331212.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/8a2d814c49d0f4a6a7b8cc84769944d3.png",
+      "https://cdn2.steamgriddb.com/hero/c3242232f2f02854bfa78c9a65786b76.png",
+      "https://cdn2.steamgriddb.com/hero/9dc4995116b45bc9d97bafbe2a533a14.png",
+      "https://cdn2.steamgriddb.com/hero/6aecc5688439e968309784eb983bad6e.png"
+    ],
+    "releaseYear": 0,
+    "rating": 0,
+    "platforms": [
+      "Xbox Series X|S",
+      "PC (Microsoft Windows)",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Hack and slash/Beat 'em up",
       "Adventure"
     ]
   },
@@ -7055,6 +7055,28 @@
     ]
   },
   {
+    "id": 262712,
+    "name": "Ananta",
+    "posters": [
+      "data/covers/262712.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/75c649d237b5987a08b050cc34c96108.png"
+    ],
+    "releaseYear": 2027,
+    "rating": 0,
+    "platforms": [
+      "Android",
+      "PC (Microsoft Windows)",
+      "iOS",
+      "PlayStation 5"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Adventure"
+    ]
+  },
+  {
     "id": 317124,
     "name": "Fate Trigger",
     "posters": [
@@ -7078,28 +7100,6 @@
       "Tactical",
       "Adventure",
       "MOBA"
-    ]
-  },
-  {
-    "id": 262712,
-    "name": "Ananta",
-    "posters": [
-      "data/covers/262712.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/75c649d237b5987a08b050cc34c96108.png"
-    ],
-    "releaseYear": 2027,
-    "rating": 0,
-    "platforms": [
-      "Android",
-      "PC (Microsoft Windows)",
-      "iOS",
-      "PlayStation 5"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Adventure"
     ]
   },
   {
