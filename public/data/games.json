@@ -203,36 +203,6 @@
     ]
   },
   {
-    "id": 426,
-    "name": "Final Fantasy III",
-    "posters": [
-      "data/covers/426.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/51f965826acd17d8dbed32e2b2112828.png",
-      "https://cdn2.steamgriddb.com/hero/dd3c26a2e2456a94c51cbd4704a52626.png",
-      "https://cdn2.steamgriddb.com/hero/be61a669772d4f02117fa9c9ddc2a11a.jpg",
-      "https://cdn2.steamgriddb.com/hero/443ecbd48bc81e881b05d044e4376b6f.jpg",
-      "https://cdn2.steamgriddb.com/hero/c1d6eb5a43d6092a1df9fc6bb5c2ce54.png",
-      "https://cdn2.steamgriddb.com/hero/6b8c71e1b130af4964bddf35f158a495.png",
-      "https://cdn2.steamgriddb.com/hero/2eb1fff6d0517ffcdb3ef30a7878577e.png",
-      "https://cdn2.steamgriddb.com/hero/1f00e37d4309d3b61b38186081e54e14.png"
-    ],
-    "releaseYear": 1994,
-    "rating": 95,
-    "platforms": [
-      "Super Nintendo Entertainment System",
-      "Wii",
-      "Wii U",
-      "New Nintendo 3DS",
-      "Super Famicom"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Adventure"
-    ]
-  },
-  {
     "id": 119171,
     "name": "Baldur's Gate III",
     "posters": [
@@ -262,6 +232,36 @@
       "Role-playing (RPG)",
       "Strategy",
       "Turn-based strategy (TBS)",
+      "Adventure"
+    ]
+  },
+  {
+    "id": 426,
+    "name": "Final Fantasy III",
+    "posters": [
+      "data/covers/426.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/51f965826acd17d8dbed32e2b2112828.png",
+      "https://cdn2.steamgriddb.com/hero/dd3c26a2e2456a94c51cbd4704a52626.png",
+      "https://cdn2.steamgriddb.com/hero/be61a669772d4f02117fa9c9ddc2a11a.jpg",
+      "https://cdn2.steamgriddb.com/hero/443ecbd48bc81e881b05d044e4376b6f.jpg",
+      "https://cdn2.steamgriddb.com/hero/c1d6eb5a43d6092a1df9fc6bb5c2ce54.png",
+      "https://cdn2.steamgriddb.com/hero/6b8c71e1b130af4964bddf35f158a495.png",
+      "https://cdn2.steamgriddb.com/hero/2eb1fff6d0517ffcdb3ef30a7878577e.png",
+      "https://cdn2.steamgriddb.com/hero/1f00e37d4309d3b61b38186081e54e14.png"
+    ],
+    "releaseYear": 1994,
+    "rating": 95,
+    "platforms": [
+      "Super Nintendo Entertainment System",
+      "Wii",
+      "Wii U",
+      "New Nintendo 3DS",
+      "Super Famicom"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
       "Adventure"
     ]
   },
@@ -989,11 +989,11 @@
       "https://cdn2.steamgriddb.com/hero/f3d0c38aba71c170a70fc61c71db4e6f.png",
       "https://cdn2.steamgriddb.com/hero/1595af6435015c77a7149e92a551338e.png",
       "https://cdn2.steamgriddb.com/hero/dbb795db64c6ab685cc819262a4c36fc.png",
+      "https://cdn2.steamgriddb.com/hero/6e92962008491b24a803ff3b7d61734b.png",
       "https://cdn2.steamgriddb.com/hero/c39082397ba4e81d4c9525ee3c56ffc7.png",
       "https://cdn2.steamgriddb.com/hero/299024cfe2cd92197e0ab02d2421285c.png",
       "https://cdn2.steamgriddb.com/hero/f4655a2b707853f1b118e0dadc52f9ba.png",
-      "https://cdn2.steamgriddb.com/hero/6597e35504c82e2f89f20837fb631376.png",
-      "https://cdn2.steamgriddb.com/hero/4da04049a062f5adfe81b67dd755cecc.png"
+      "https://cdn2.steamgriddb.com/hero/6597e35504c82e2f89f20837fb631376.png"
     ],
     "releaseYear": 1998,
     "rating": 92,
@@ -2070,7 +2070,7 @@
       "https://cdn2.steamgriddb.com/hero/c8c91941c44ee273af84ef092c01a0b1.jpg",
       "https://cdn2.steamgriddb.com/hero/d15e02b2d502871eba5f71999008e026.jpg",
       "https://cdn2.steamgriddb.com/hero/a70ef651f1086ff9a0a988e4ed93069a.png",
-      "https://cdn2.steamgriddb.com/hero/de72e0c69673e137a2f84bbf59c626a5.png"
+      "https://cdn2.steamgriddb.com/hero/e21c3b94456b475b40cd245bd090ebc8.png"
     ],
     "releaseYear": 1988,
     "rating": 89,
@@ -2324,8 +2324,8 @@
     ],
     "heroes": [
       "https://cdn2.steamgriddb.com/hero/48a0fbc23cf60d3a99d3e4e233243fa0.png",
-      "https://cdn2.steamgriddb.com/hero/e6293d6df91c1f64f6ce1d86c8be87e4.png",
       "https://cdn2.steamgriddb.com/hero/28621a1d674452b494c68902224f1dcd.png",
+      "https://cdn2.steamgriddb.com/hero/e6293d6df91c1f64f6ce1d86c8be87e4.png",
       "https://cdn2.steamgriddb.com/hero/da90fdf234654eb69d7d14654641134f.png",
       "https://cdn2.steamgriddb.com/hero/ea8fcd92d59581717e06eb187f10666d.png",
       "https://cdn2.steamgriddb.com/hero/5c645cc19a53ac1dfb155840d886050c.png",
@@ -4285,11 +4285,11 @@
       "https://cdn2.steamgriddb.com/hero/f3d0c38aba71c170a70fc61c71db4e6f.png",
       "https://cdn2.steamgriddb.com/hero/1595af6435015c77a7149e92a551338e.png",
       "https://cdn2.steamgriddb.com/hero/dbb795db64c6ab685cc819262a4c36fc.png",
+      "https://cdn2.steamgriddb.com/hero/6e92962008491b24a803ff3b7d61734b.png",
       "https://cdn2.steamgriddb.com/hero/c39082397ba4e81d4c9525ee3c56ffc7.png",
       "https://cdn2.steamgriddb.com/hero/299024cfe2cd92197e0ab02d2421285c.png",
       "https://cdn2.steamgriddb.com/hero/f4655a2b707853f1b118e0dadc52f9ba.png",
-      "https://cdn2.steamgriddb.com/hero/6597e35504c82e2f89f20837fb631376.png",
-      "https://cdn2.steamgriddb.com/hero/4da04049a062f5adfe81b67dd755cecc.png"
+      "https://cdn2.steamgriddb.com/hero/6597e35504c82e2f89f20837fb631376.png"
     ],
     "releaseYear": 2026,
     "rating": 99,
@@ -5274,6 +5274,25 @@
     ]
   },
   {
+    "id": 117297,
+    "name": "Aion 2",
+    "posters": [
+      "data/covers/117297.jpg"
+    ],
+    "heroes": [],
+    "releaseYear": 2025,
+    "rating": 89,
+    "platforms": [
+      "Android",
+      "PC (Microsoft Windows)",
+      "iOS"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Adventure"
+    ]
+  },
+  {
     "id": 153700,
     "name": "Ghost of Tsushima: Director's Cut",
     "posters": [
@@ -5295,25 +5314,6 @@
       "PlayStation 4",
       "PC (Microsoft Windows)",
       "PlayStation 5"
-    ],
-    "genres": [
-      "Role-playing (RPG)",
-      "Adventure"
-    ]
-  },
-  {
-    "id": 117297,
-    "name": "Aion 2",
-    "posters": [
-      "data/covers/117297.jpg"
-    ],
-    "heroes": [],
-    "releaseYear": 2025,
-    "rating": 89,
-    "platforms": [
-      "Android",
-      "PC (Microsoft Windows)",
-      "iOS"
     ],
     "genres": [
       "Role-playing (RPG)",
@@ -6058,6 +6058,40 @@
     ]
   },
   {
+    "id": 127254,
+    "name": "Pathfinder: Wrath of the Righteous",
+    "posters": [
+      "data/covers/127254.jpg"
+    ],
+    "heroes": [
+      "https://cdn2.steamgriddb.com/hero/bea6f48261d29b0dba555367e277f670.jpg",
+      "https://cdn2.steamgriddb.com/hero/eadb6cf675b06c7caefa299b485c6a6a.png",
+      "https://cdn2.steamgriddb.com/hero/e7b52ca13b8bbcfa6e67bcf09d617398.png",
+      "https://cdn2.steamgriddb.com/hero/f621b7296bbf623d87327b52f12307a9.png",
+      "https://cdn2.steamgriddb.com/hero/6a7385573f4916df503a45dcbd289845.png",
+      "https://cdn2.steamgriddb.com/hero/7216fbeed52c416a070d900a7c17f89f.jpg",
+      "https://cdn2.steamgriddb.com/hero/b13cef7da7957bff98239a2521d24a34.png",
+      "https://cdn2.steamgriddb.com/hero/7b85277ad0a91a4b738f853380f9f6f2.jpg"
+    ],
+    "releaseYear": 2021,
+    "rating": 87,
+    "platforms": [
+      "PlayStation 4",
+      "PC (Microsoft Windows)",
+      "PlayStation 5",
+      "Mac",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "genres": [
+      "Role-playing (RPG)",
+      "Strategy",
+      "Tactical",
+      "Adventure",
+      "Indie"
+    ]
+  },
+  {
     "id": 23733,
     "name": "Tunic",
     "posters": [
@@ -6554,37 +6588,6 @@
     ]
   },
   {
-    "id": 204627,
-    "name": "Cocoon",
-    "posters": [
-      "data/covers/204627.jpg"
-    ],
-    "heroes": [
-      "https://cdn2.steamgriddb.com/hero/c6b5447597e82209184ac3202de17b2d.jpg",
-      "https://cdn2.steamgriddb.com/hero/f6865660406ac68ce2cf3aee624ab2a6.png",
-      "https://cdn2.steamgriddb.com/hero/87d93f94d5ff7211456d9742e970d861.png",
-      "https://cdn2.steamgriddb.com/hero/85870c6bd84c86a1eb59bc1d770c23a9.png",
-      "https://cdn2.steamgriddb.com/hero/f3ff6f500449961c12d5471fcf821cda.png",
-      "https://cdn2.steamgriddb.com/hero/d4e08acc73d2038cc88df1a8a1c8a822.png",
-      "https://cdn2.steamgriddb.com/hero/70ed2f2d61a4e79a4079049d01d42989.jpg"
-    ],
-    "releaseYear": 2023,
-    "rating": 86,
-    "platforms": [
-      "Xbox Series X|S",
-      "PlayStation 4",
-      "PC (Microsoft Windows)",
-      "PlayStation 5",
-      "Xbox One",
-      "Nintendo Switch"
-    ],
-    "genres": [
-      "Puzzle",
-      "Adventure",
-      "Indie"
-    ]
-  },
-  {
     "id": 92550,
     "name": "Fable",
     "posters": [
@@ -6639,11 +6642,11 @@
       "https://cdn2.steamgriddb.com/hero/c8cf45ef0e1df7726ba2d9720c103e1d.png",
       "https://cdn2.steamgriddb.com/hero/0aa677b54ecce3ebda8fe19ad7d5d42d.png",
       "https://cdn2.steamgriddb.com/hero/f722b1c4734b352eeb442f7e2a5a5fb5.png",
-      "https://cdn2.steamgriddb.com/hero/f27b3ee60238ad4b65213b6afc766714.png",
-      "https://cdn2.steamgriddb.com/hero/57624440a52d3653f73c5e69716333e2.png",
       "https://cdn2.steamgriddb.com/hero/d77ed90780ebcc60e8f0528602f212dc.png",
+      "https://cdn2.steamgriddb.com/hero/7e15ac9c8adf041001b2478845d0edd4.png",
       "https://cdn2.steamgriddb.com/hero/d9e23c52a8ba983da4af9236096293f0.jpg",
-      "https://cdn2.steamgriddb.com/hero/114c85fa9659c98dbd1117611014e970.png"
+      "https://cdn2.steamgriddb.com/hero/114c85fa9659c98dbd1117611014e970.png",
+      "https://cdn2.steamgriddb.com/hero/24153f49dc82d60ca2c2681a4ed32d02.png"
     ],
     "releaseYear": 0,
     "rating": 0,
@@ -6842,6 +6845,23 @@
     ]
   },
   {
+    "id": 25905,
+    "name": "Winds of Revenge",
+    "posters": [
+      "data/covers/25905.jpg"
+    ],
+    "heroes": [],
+    "releaseYear": 2016,
+    "rating": 0,
+    "platforms": [
+      "PC (Microsoft Windows)"
+    ],
+    "genres": [
+      "Puzzle",
+      "Arcade"
+    ]
+  },
+  {
     "id": 381234,
     "name": "Tomb Raider: Catalyst",
     "posters": [
@@ -6863,23 +6883,6 @@
       "Platform",
       "Puzzle",
       "Adventure"
-    ]
-  },
-  {
-    "id": 25905,
-    "name": "Winds of Revenge",
-    "posters": [
-      "data/covers/25905.jpg"
-    ],
-    "heroes": [],
-    "releaseYear": 2016,
-    "rating": 0,
-    "platforms": [
-      "PC (Microsoft Windows)"
-    ],
-    "genres": [
-      "Puzzle",
-      "Arcade"
     ]
   },
   {
